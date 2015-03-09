@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>Problem F: Horn-Blowing</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+</head>
+<body>
+
+<h2>Problem F: Horn-Blowing</h2>
+<img src="horn.jpg" height=226 width=300 align="right" alt="horn" />
+<p>
+It's said that the shortest period of time is the measurement between when the
+traffic light turns green and the New York cab driver behind you blows his
+horn. Not so for Yraglac -- he's a little more reasonable and only does so when
+the cars ahead of him exceed a reasonable time bound before they start moving.
+</p>
+
+<p>
+However, Yraglac's horn is only capable of blowing three times before he has to
+replace it (he's a little cheap and refuses to upgrade to the four-use horn),
+so he's trying to be more patient with his fellow drivers. One technique that
+he tries to distract himself with is estimating the probability that he'll be
+able to begin moving within <b>T</b> seconds of the light turning green.
+</p>
+
+<p>
+Unfortunately, Yraglac has no way of verifying if his answers are correct, so
+the exercise seems pointless. Yraglac would like you to write a program that
+calculates the probability that he can begin moving within <b>T</b> seconds,
+given information about when the vehicles in front of him are likely to start
+moving.
+</p>
+
+<p>You may assume that the counter for when a vehicle begins moving begins
+immediately after the vehicle in front of it begins moving (or when the light
+turns green, whichever is applicable).</p>
+
+<h3>Input Format</h3>
+<p>
+Each input file contains multiple test cases. Each test case begins with a
+number 0 &lt; <b>N</b> &lt; 1000, the number of vehicles in front of Yraglac.
+There follow <b>N</b> lines of the form <b>k</b> <b>p</b><sub>1</sub>
+<b>p</b><sub>2</sub> ... <b>p</b><sub><b>k</b></sub>, where 0 &lt; <b>k</b>
+&lt; 10, and 0 ≤ <b>p</b><sub><b>i</b></sub> ≤ 1 is the probability that the
+vehicle begins <b>i</b> seconds after the vehicle before it begins moving;
+note that the <b>p</b><sub>i</sub> sum to one. After this is a single line
+containing the integer <b>T</b>.
+</p>
+
+<p>The input ends with a number zero.</p>
+
+<h3>Output Format</h3>
+<p>
+For each test case, output the probability that Yraglac can move within
+<b>T</b> seconds, truncated to two decimal places.
+</p>
+
+<h3>Sample Input</h3>
+<pre>
+1
+1 1
+1
+1
+2 .5 .5
+1
+2
+2 .5 .5
+2 .25 .75
+2
+0
+</pre>
+
+<h3>Sample Output</h3>
+<pre>
+1.00
+0.50
+0.12
+</pre>
+
+<hr />
+<em>Kent Williams-King<br>
+<b>CCPC 2014</b></em>
+
+</body>
+</html>

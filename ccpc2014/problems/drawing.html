@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>Problem A: Artful Drawing</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+</head>
+<body>
+
+<h2>Problem A: Drawing</h2>
+
+<img src="drawing.jpg" height="261" width="306" align="right" alt="Drawing Hands" />
+
+<p>
+One day, the Artful Coder saw an interesting shape. He immediately started
+wondering if it would be possible to draw it on a piece of paper using a
+pencil via one continuous line. After trying for several minutes, he eventually
+gave up and started writing a program to automate the procedure.
+</p>
+
+<p>
+Now, despite his name, the Artful Coder really isn't that good a programmer. He
+doesn't know if his own program produces correct output, so he's looking for a
+second opinion. Given a description of a shape, determine if it can be drawn in
+one continuous motion of a pencil, without backtracking over any already-drawn
+line segments. The shape will be given as a collection of straight line
+segments, in no particular order, that can only touch at their endpoints.
+</p>
+
+<h3>Input Format</h3>
+<p>
+The input consists of multiple shapes.  Each shape begins with a single number
+0 &lt; <b>N</b> &lt; 1000, which is the number of line segments in the shape.
+There are then <b>N</b> lines following, each with four integers <b>a</b>,
+<b>b</b>, <b>c</b>, and <b>d</b>, describing a line from <b>(a, b)</b> to
+<b>(c, d)</b>.  You may assume that at most one of <b>a = c</b> or <b>b = d</b>
+will be true, and that -1000 &lt; <b>a</b>,<b>b</b>,<b>c</b>,<b>d</b> &lt;
+1000.</p>
+
+<p>
+The input will be terminated with a shape that has <b>N = 0</b>, which should
+not be processed.
+</p>
+
+<h3>Output Format</h3>
+<p>
+Output one line for each input shape, containing either "Impossible" or
+"Possible" (without quotes).
+</p>
+
+<h3>Sample Input</h3>
+<pre>
+1
+0 0 1 1
+2
+0 0 1 0
+1 1 1 0
+2
+0 0 1 0
+2 2 2 3
+9
+0 0 1 0
+0 0 0 1
+1 0 1 1
+0 1 1 1
+0 0 1 1
+0 0 -5 -5
+-5 -5 5 -5
+5 -5 5 5
+5 5 1 1
+0
+</pre>
+
+<h3>Sample Output</h3>
+<pre>
+Possible
+Possible
+Impossible
+Possible
+</pre>
+
+<hr />
+<em>Kent Williams-King<br>
+<b>CCPC 2014</b></em>
+
+</body>
+</html>

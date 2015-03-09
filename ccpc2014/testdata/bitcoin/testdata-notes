@@ -1,0 +1,3 @@
+- use counter for obvious incorrect greedy algorithm
+- generate a bunch of random cases
+- test integer overflow (1e6 * 1e6 > 2**32)

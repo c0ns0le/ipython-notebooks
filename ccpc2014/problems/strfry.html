@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>Problem E: Strfry</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+</head>
+<body>
+
+<h2>Problem E: Strfry</h2>
+
+<img src="strfry.png" height="200" width="200" align="right" alt="strfry" />
+
+<p>
+In the C programming language, strings are not a native data type. In fact,
+they are just an array of characters, with a sentinel NULL value used to denote
+the end of the string. Since working with strings is a very important thing to
+do in programming languages, the C standard library has several very useful
+functions for string manipulation: among them are <b>strcpy</b>, <b>strcmp</b>,
+<b>strtol</b>, <b>strtok</b>, <b>strlen</b>, and <b>strcat</b>.</p>
+
+<p>
+However, there is one function that not many know about, and even fewer use it:
+the <b>strfry</b> function. <b>strfry</b> takes an input string and randomly
+swaps a random number of characters.
+</p>
+
+<p>
+Given two strings, determine if it is possible that the second string is the
+first string, strfried.
+</p>
+
+<h3>Input Format</h3>
+<p>
+The input begins with a number 0 &lt; <b>N</b> &lt; 1001, the number of test
+cases.
+</p>
+
+<p>
+Each test case consists of a single line containing two strings of lowercase
+English characters, separated by a single space; these are the two strings in
+question. Each string is at most 1000 characters long.
+</p>
+
+<h3>Output Format</h3>
+<p>
+Output one line for each test case, containing either "Impossible" or
+"Possible" (without quotes).</p>
+
+<h3>Sample Input</h3>
+<pre>
+4
+a a
+ab ba
+ring gnir
+newt twan
+</pre>
+
+<h3>Sample Output</h3>
+<pre>
+Possible
+Possible
+Possible
+Impossible
+</pre>
+
+<hr />
+<em>Kent Williams-King<br>
+<b>CCPC 2014</b></em>
+
+</body>
+</html>
