@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>Problem H: Bitcoin Profits</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+</head>
+<body>
+
+<h2>Problem H: Bitcoin Profits</h2>
+
+<img src="bitcoin.jpg" height=225 width=300 align="right" alt="bitcoin" />
+
+<p>Bitcoin mining was all the rage in 2013, when the cryptocurrency's
+conversion value spiked to over $1000 USD per Bitcoin. Bitcoins are "mined"
+through a process that involves calculating a one-way pseudo-random function
+that outputs a large integer. A global "difficulty" is set, and a "block"
+represents a claim that bitcoins have been generated, and will only be accepted
+by others on the network if the pseudo-random function outputs a value that
+satisfies the difficulty requirement.</p>
+
+<p>However, with the advent of dedicated mining hardware that is cheaper,
+faster, and more power-efficient, it quickly became infeasible to find a block
+with general-purpose computers. Mining "pools" quickly cropped up, where a
+number of people donate processing power to the pool in return for a
+proportional fraction of the reward of finding a block.</p>
+
+<!--
+<p>
+Bitcoin mining involves finding "blocks" through expenditure of large amounts
+of computational power. However, as more people have begun mining, this has
+become difficult to do on one's own - bigger pool, same-sized fish, so to
+speak. Hence miners participate in mining pools, where they only need to do
+(say) 1/1024th the computing power necessary to find a whole block. Of course,
+this involves only 1/1024th of the reward.
+</p>
+
+<p>
+Miners can participate in harder arenas such as trying to find 1/512th of a
+block. The risk is greater, since a competing miner may finish this portion
+first; but the reward also scales linearly, so that a miner may expect twice
+the reward for doing 1/512th of the work as compared with doing 1/1024th of the
+work.
+</p>
+
+<p>
+Yraglac has become interested in Bitcoin mining recently, and has been trying
+to determine if he can cheat the system by dynamically adjusting which arena
+he's competing in based on the shares 
+</p>
+-->
+
+<p>
+To calculate the proportion, miners participate in a reduced-difficulty
+arena, for example, at 1,048,576<sup>th</sup> the real difficulty, for pool
+"shares". However, if a share is found that surpasses the difficulty
+requirements, it will be assigned a "share difficulty" based on the ratio.
+</p>
+
+<p>
+To save on network bandwidth, pool members can request a higher base level
+of share difficulty (for example, at 524,288<sup>th</sup> the real difficulty).
+To even the higher computational requirements out, the reward is increased
+linearly: if a share is <b>k</b> times as hard to find, then <b>k</b> times the
+proportional value is given. Any share found with a difficulty less than
+<b>k</b> is discarded. However, a miner must request a difficulty for all
+shares, and cannot select the optimal difficulty for each share found.</p>
+
+<p>
+Now, given a list of earned share difficulties (as multiples of the base pool
+difficulty), can you calculate the requested difficulty that would have
+maximized the earned number of shares?
+</p>
+
+<h3>Input Format</h3>
+<p>
+Each input contains multiple test cases. Each test case begins with an integer
+0 &lt; <b>N</b> &lt; 1000000, the number of shares accepted. Following is a
+line containing the numbers 0 &lt; <b>d</b><sub>1</sub>, ... ,
+<b>d</b><sub><b>N</b></sub> &lt; 10<sup>6</sup>, the difficulty of each
+accepted share.</p>
+
+<p>
+The input file ends with a line containing zero.
+</p>
+
+<h3>Output Format</h3>
+<p>
+For each test case, output the difficulty multiplier that gives the greatest
+rewards. If more than one exists, output the lowest such value.
+</p>
+<h3>Sample Input</h3>
+<pre>
+5
+1 1 1 1 1
+2
+1 2
+3
+1 2 3
+5
+25 1 1 1 1
+0
+</pre>
+<h3>Sample Output</h3>
+<pre>
+1
+1
+2
+25
+</pre>
+
+<hr />
+<em>Kent Williams-King<br>
+<b>CCPC 2014</b></em>
+
+</body>
+</html>

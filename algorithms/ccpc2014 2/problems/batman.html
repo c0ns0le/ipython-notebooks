@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>Problem B: Batman Begins</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+</head>
+<body>
+
+<h2>Problem B: Batman Begins</h2>
+
+<img src="batman.jpg" height="248" width="310" align="right" alt="batman" />
+
+<p>
+Ra's Al Ghul, head of the centuries-old League of Shadows, is an international
+terrorist and assassin whose ultimate goal is a world in perfect environmental
+balance. He believes that the best way to achieve this balance is to eliminate
+most of humanity.</p>
+
+<p>As the corruption increased in Gotham city, Ra’s Al Ghul
+decided to destroy the city using a biological weapon. You, Batman, and your
+friend James Gordon decided to stop him. Ra's Al Ghul wants to use the train to
+get a powerful microwave emitter to the main water hub of Gotham City in order
+to unleash a genetically-engineered virus. In order to stop him, James Gordon
+wants to reach the main water hub before the train using the Batmobile.
+</p>
+
+<p>Since you are the best programmer in Gotham city, Gordon asks you to write a
+program that would calculate the minimum time required to reach the water hub.
+</p>
+
+The following information is known about Gotham City:
+<ol>
+    <li>Gotham City has roads that run from East to West (i.e. Horizontally) and North to South (i.e. Vertically)</li>
+    <li>Some intersections are closed at the moment</li>
+    <li>The distance between two adjacent intersections is constant (D ≤ 1000)</li>
+    <li>It is guaranteed that Gordon can reach the Water hub</li>
+    <li>Gotham City is surrounded by water from all sides (i.e. you can’t go outside the city)</li>
+</ol>
+
+The Batmobile has the following constraints:
+<ol>
+    <li>It has the capability to accelerate and decelerate with a constant acceleration (a ≤ 1000)</li>
+    <li>There is an absolute maximum speed that the Batmobile can’t exceed. It is well-known that the Batmobile can reach this speed in 5 seconds.</li>
+    <li>The Batmobile has to drop its speed to zero when turning right or left. </li>
+    <li>Gordon should reach the Water hub with speed equal to zero.</li>
+</ol>
+
+Hint: the equations of linear motion with constant acceleration are
+<center>
+    <b>v</b><sub>f</sub> = <b>v</b><sub>i</sub> + <b>at</b> <br />
+    <b>v</b><sub>f</sub><sup>2</sup> = <b>v</b><sub>i</sub><sup>2</sup> + 2<b>a</b>(<b>x</b><sub>f</sub> - <b>x</b><sub>i</sub>) <br />
+    <b>x</b><sub>f</sub> = <b>x</b><sub>i</sub> + <b>v</b><sub>i</sub><b>t</b> + 1/2 <b>a</b><b>t</b><sup>2</sup>
+</center>
+
+<h3>Input Format</h3>
+
+<p>
+The input will start with an integer (1 ≤ <b>T</b> ≤ 100) representing the number of test cases. For each test case, four integers will be given. The first two integers (1 ≤ <b>H</b>, <b>V</b> ≤ 500) represent the number of horizontal roads and the number of vertical roads in Gotham City. The third integer (<b>D</b> ≤ 1000) represents the distance (in meters) between two intersections. The fourth integer (<b>a</b> ≤ 1000) represents the acceleration (in m/s<sup>2</sup>) of the Batmobile. Following <b>H</b> rows contain <b>V</b> characters each. A character of ‘<i>#</i>’ represents a closed intersection. A ‘<i>G</i>’ character represents Gordon's starting position, and a ‘<i>W</i>’ represents the Water hub intersection; finally, ‘.’ represents an open intersection.
+</p>
+
+<h3>Output Format</h3>
+<p>
+For each test case output one number representing the minimum time (in seconds) required to reach the water hub. The output should be rounded to exactly two decimal points.
+</p>
+
+<h3>Sample Input</h3>
+<pre>
+3
+1 5 1 1
+G...W
+1 5 10 1
+G...W
+6 5 10 1
+G....
+####.
+...#.
+.#W#.
+.###.
+.....
+</pre>
+
+<h3>Sample Output</h3>
+<pre>
+4.00
+13.00
+67.27
+</pre>
+
+<hr />
+<em>Hichem Zakaria Aichour<br>
+<b>CCPC 2014</b></em>
+
+</body>
+</html>

@@ -1,0 +1,2 @@
+- include circular looped implications (make BFS infinite-loop)
+- include vacuously true cases (i.e. impossible premises)

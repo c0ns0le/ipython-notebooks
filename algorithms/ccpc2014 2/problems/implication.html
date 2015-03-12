@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>Problem G: Implication</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+</head>
+<body>
+
+<h2>Problem G: Implication</h2>
+
+<img src="implication.jpg" height=280 width=300 align="right" alt="implication" />
+
+<p>
+Yraglac is currently enrolled in an introductory course on formal logic. One of
+the assignments for his class is to: given a list of logical formulae,
+determine which are always true and which are false (contingently or
+otherwise), given that one may assume the truth of a list of other formulae.
+</p>
+
+<p>
+Now, Yraglac is a good student, but he's not confident that his answers are
+correct. He'd like you to write a program that does the work for him --- sorry,
+that generates the answers so he can confirm that his own are correct.
+</p>
+
+<p>
+Since this is just an introductory course, the only logical connectives that
+have been covered are implication and negation. Yraglac always forgets the
+cases in which an implication is false, so he keeps the truth table on hand at
+all times:
+</p>
+
+<center><table border="1px">
+    <tr>
+        <td><b>A</b></td>
+        <td><b>B</b></td>
+        <td><b>A -&gt; B</b></td>
+    </tr>
+    <tr>
+        <td>False</td>
+        <td>False</td>
+        <td>True</td>
+    </tr>
+    <tr>
+        <td>False</td>
+        <td>True</td>
+        <td>True</td>
+    </tr>
+    <tr>
+        <td>True</td>
+        <td>False</td>
+        <td>False</td>
+    </tr>
+    <tr>
+        <td>True</td>
+        <td>True</td>
+        <td>True</td>
+    </tr>
+</table></center>
+
+
+<h3>Input Format</h3>
+
+<p>The input will contain multiple test cases. Each test case begins with an
+integer 0 &lt; <b>N</b> &lt; 500, which is the number of logical statements
+that follow. Each of the following <b>N</b> lines contains a logical statement,
+which are given in accordance with the following grammar:
+</p>
+
+<pre>
+Statement:   Variable | Negation | (Implication)
+Variable:    a,b,c,d,...,t
+Implication: Statement-&gt;Statement
+Negation:    ~(Statement)
+</pre>
+
+<p>
+You are to use the above statements as assumptions; that is to say, you may
+assume that all of these <b>N</b> statements are true.
+</p>
+
+<p>
+The next line contains an integer 0 &lt; <b>M</b> &lt; 500, followed by
+<b>M</b> more lines containing the test formulae.
+</p>
+
+<p>
+The input file ends with a line containing zero.
+</p>
+
+<h3>Output Format</h3>
+
+For each test case, output a header of "====" before any further output. Then,
+for each of the <b>M</b> statements, output either "True" or "False" (without
+quotes) as appropriate.
+
+<h3>Sample Input</h3>
+<pre>
+2
+(a-&gt;~(a))
+(b-&gt;a)
+5
+a
+~(a)
+b
+~(b)
+c
+0
+</pre>
+
+<h3>Sample Output</h3>
+<pre>
+====
+False
+True
+False
+True
+False
+</pre>
+
+<hr />
+<em>Kent Williams-King<br>
+<b>CCPC 2014</b></em>
+
+</body>
+</html>

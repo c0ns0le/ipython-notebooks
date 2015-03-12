@@ -1,0 +1,19 @@
+18
+You have signed up for the annual Calgary Collegiate Programming Contest
+Unlike previous years
+participants are not choosing their own team members
+but are assigned to teams as follows
+Consider we list all participants in alphabetic order
+Then Team A consists of the first three participants in this order
+Team B consists of the next three participants in this order
+Assume that the number N of participants is divisible by three so that every team has exactly
+three team members
+Assume that every participant has exactly one first
+name and exactly one last name the name is spelled
+over the lower case characters of the English alphabet
+and that no two participants carry the exact same name
+The alphabetic order we choose is to first sort in lexicographically
+ascending order with respect to last names and then when necessary with respect to first names
+So john smith is alphabetized after carla smith
+but before bob taylor
+Given the name of a participant output the names of the two team mates

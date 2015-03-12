@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>Problem C: Coverity Crossword</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+</head>
+<body>
+
+<h2>Problem C: Coverity Crossword</h2>
+
+<img src="crossword.png" height="300" width="300" align="right" alt="crossword" />
+
+<p>
+What is your crossword telling you today? Can you scan your code for patterns,
+in the time it takes to get a cup of coffee? You have just landed a job at
+Coverity, and your first challenge is to demonstrate your searching and testing
+abilities. Can you find and analyze code that looks like random strings? Up to
+ten secret messages are hidden in a crossword of size 8x8, and your task is to
+determine if they are all present in the code or not. 
+</p>
+
+<p>
+Secrets are hidden horizontally, from left to right, vertically, from top to
+bottom, and diagonally, from top-left to bottom-right. 
+</p>
+
+
+<h3>Input Format</h3>
+<p>
+The first line of the input contains an integer <b>T</b> (1 ≤ <b>T</b> ≤ 100),
+the number of test cases. Then follow <b>T</b> test cases. Each case starts
+with an integer <b>N</b> on a line (1 ≤ <b>N</b> ≤ 10), the number of words we
+are searching for. Each of the next <b>N</b> lines contains a non-empty string
+of length at most 8 characters over the alphabet [A-Z], the words we are
+searching for. Then follows 8 lines, each containing a string of exactly 8
+characters over the alphabet [A-Z], the <b>i</b>'th horizontal line in the
+crossword, from left to right, starting from the topmost line down to the
+bottommost line.
+</p>
+
+
+<h3>Output Format</h3>
+<p>
+For each test case print on a separate line either "Yes" or "No", the answer to
+the question "Is it the case that all <b>N</b> messages are present in the
+crossword?" 
+</p>
+
+<h3>Sample Input</h3>
+<pre>
+2
+8
+BLAST
+COVERITY
+CPSC
+PRIZES
+PROBLEMS
+PSC
+SOLVING
+TESTING
+SPRIZESS
+SROSNPSP
+COVERITY
+ABLASTIG
+NLSVINGC
+TESTINGP
+EMSPONYS
+PSYNPSGC
+2
+COOL
+LOL
+OCCOOOCL
+OCCLCLOO
+OLOOCLOL
+LLOOCOOC
+LOCCCOLL
+COCCOLLO
+OLOLOCOL
+LLOOCCOO
+</pre>
+
+<h3>Sample Output</h3>
+<pre>
+Yes
+No
+</pre>
+
+<hr />
+<em>Peter H&oslash;yer<br>
+<b>CCPC 2014</b></em>
+
+</body>
+</html>
