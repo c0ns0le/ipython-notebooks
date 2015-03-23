@@ -1,0 +1,3360 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<title>ASF JIRA</title>
+<style type="text/css">
+table {
+    mso-displayed-decimal-separator:"\.";
+    mso-displayed-thousand-separator:"\,";
+}
+body
+{
+    margin: 0px;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    color:black;
+}
+
+</style>
+<META HTTP-EQUIV="Content-Type" Content="application/vnd.ms-excel; charset=utf-8">
+<!-- JRA-7598 - ensure fields (e.g. description) occupy only one cell - even fields containing newlines. -->
+<!--
+Vertical align all cells to the top, in order to align all issue rows of issuetable to the top,
+since Excel does not use or save the css files it is hardcoded here.
+-->
+<style>
+@page
+{
+mso-page-orientation:landscape;
+margin:.25in .25in .5in .25in;
+mso-header-margin:.5in;
+mso-footer-margin:.25in;
+mso-footer-data:"&R&P of &N";
+mso-horizontal-page-align:center;
+mso-vertical-page-align:center;
+}
+
+td.issuekey,
+td.issuetype,
+td.status {
+    mso-style-parent: "";
+    mso-number-format: \@;
+    text-align: left;
+}
+br
+{
+    mso-data-placement:same-cell;
+}
+
+td
+{
+    vertical-align: top;
+}
+</style>
+
+<!--[if gte mso 9]><xml>
+<x:ExcelWorkbook>
+<x:ExcelWorksheets>
+<x:ExcelWorksheet>
+<x:Name>general_report</x:Name>
+<x:WorksheetOptions>
+<x:Print>
+<x:ValidPrinterInfo/>
+</x:Print>
+</x:WorksheetOptions>
+</x:ExcelWorksheet>
+</x:ExcelWorksheets>
+</x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+<body>
+
+<table border="1">
+    <tr bgcolor="#ffffff" height="47">
+        <td colspan="12">
+            <img src="https://issues.apache.org/jira/jira-logo-scaled.png" width="505" height="47" border="0" alt="ASF JIRA">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="12">
+            <a href="https://issues.apache.org/jira/secure/IssueNavigator.jspa?reset=true&jqlQuery=project+%3D+DBCP+AND+status+in+%28Open%2C+%22In+Progress%22%2C+Reopened%2C+Resolved%2C+Closed%29+ORDER+BY+key+DESC">ASF JIRA</a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="12">
+            Displaying <strong>100</strong> issues at <strong>20/Mar/15 15:53</strong>.
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        <table id="issuetable"  border="1" cellpadding="3" cellspacing="1" width="100%">
+                        <thead>
+        <tr class="rowHeader">
+            
+                                                            <th class="colHeaderLink headerrow-issuetype" data-id="issuetype">
+                            Issue Type
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-customfield_12310041" data-id="customfield_12310041">
+                            Patch Info
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-issuekey" data-id="issuekey">
+                            Key
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-summary" data-id="summary">
+                            Summary
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-assignee" data-id="assignee">
+                            Assignee
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-reporter" data-id="reporter">
+                            Reporter
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-priority" data-id="priority">
+                            Priority
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-status" data-id="status">
+                            Status
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-resolution" data-id="resolution">
+                            Resolution
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-created" data-id="created">
+                            Created
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-updated" data-id="updated">
+                            Updated
+                                                    </th>
+                                                
+                                                            <th class="colHeaderLink headerrow-duedate" data-id="duedate">
+                            Due Date
+                                                    </th>
+                                                                    </tr>
+    </thead>
+    <tbody>
+                    
+
+                <tr id="issuerow12774893" rel="12774893" data-issuekey="DBCP-435" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-435" href="https://issues.apache.org/jira/browse/DBCP-435">DBCP-435</a>
+</td>
+                                            <td class="summary"><p>
+                [PATCH] Friendly BasicDataSourceFactory
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            denixx baykin
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 13/Feb/15 13:40 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12773430" rel="12773430" data-issuekey="DBCP-434" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-434" href="https://issues.apache.org/jira/browse/DBCP-434">DBCP-434</a>
+</td>
+                                            <td class="summary"><p>
+                Disable JMX for Statement Pool
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Thomas Thieringer
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 09/Feb/15 11:11 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12772372" rel="12772372" data-issuekey="DBCP-433" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-433" href="https://issues.apache.org/jira/browse/DBCP-433">DBCP-433</a>
+</td>
+                                            <td class="summary"><p>
+                Connection leak when SQLException is thrown while enlisting in XA transaction
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Vladimir Konkov
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 04/Feb/15 14:01 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12771547" rel="12771547" data-issuekey="DBCP-432" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-432" href="https://issues.apache.org/jira/browse/DBCP-432">DBCP-432</a>
+</td>
+                                            <td class="summary"><p>
+                BasicDataSource createDataSource can return partially initialized DataSource
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Phil Steitz
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 31/Jan/15 19:40 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12770298" rel="12770298" data-issuekey="DBCP-431" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-431" href="https://issues.apache.org/jira/browse/DBCP-431">DBCP-431</a>
+</td>
+                                            <td class="summary"><p>
+                SQLException: Error preloading the connection pool after upgrade to commons-dbcp2
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Sergio Cuenca
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not a Problem
+</td>
+                                            <td class="created"> 27/Jan/15 08:56 </td>
+                                            <td class="updated"> 30/Jan/15 13:27 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12751430" rel="12751430" data-issuekey="DBCP-429" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-429" href="https://issues.apache.org/jira/browse/DBCP-429">DBCP-429</a>
+</td>
+                                            <td class="summary"><p>
+                socket randomly timeout while getting connection 
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            cissy zhang
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> 29/Oct/14 17:07 </td>
+                                            <td class="updated"> 29/Oct/14 19:38 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12746058" rel="12746058" data-issuekey="DBCP-428" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-428" href="https://issues.apache.org/jira/browse/DBCP-428">DBCP-428</a>
+</td>
+                                            <td class="summary"><p>
+                Unsuccessful Connection enlistment in XA Transaction ignored by TransactionContext
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Vladimir Konkov
+    </td>
+                                            <td class="priority">   Critical
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 06/Oct/14 09:18 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12745907" rel="12745907" data-issuekey="DBCP-427" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-427" href="https://issues.apache.org/jira/browse/DBCP-427">DBCP-427</a>
+</td>
+                                            <td class="summary"><p>
+                Examines &#39;SQLException&#39;s thrown by underlying connections or statements for fatal (disconnection) errors
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Vladimir Konkov
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 04/Oct/14 12:08 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12744772" rel="12744772" data-issuekey="DBCP-426" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-426" href="https://issues.apache.org/jira/browse/DBCP-426">DBCP-426</a>
+</td>
+                                            <td class="summary"><p>
+                DBCP should allow clients to mark connections as invalid
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Phil Steitz
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 29/Sep/14 20:59 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12734374" rel="12734374" data-issuekey="DBCP-425" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-425" href="https://issues.apache.org/jira/browse/DBCP-425">DBCP-425</a>
+</td>
+                                            <td class="summary"><p>
+                Example code for pooling driver should be fixed.
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Sebastian Hinckel
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 15/Aug/14 10:28 </td>
+                                            <td class="updated"> 15/Aug/14 16:22 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12731440" rel="12731440" data-issuekey="DBCP-424" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-424" href="https://issues.apache.org/jira/browse/DBCP-424">DBCP-424</a>
+</td>
+                                            <td class="summary"><p>
+                validateLifetime causes needless warnings about swallowed exceptions to be logged
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Eric Fialkowski
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 01/Aug/14 23:24 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12728195" rel="12728195" data-issuekey="DBCP-423" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-423" href="https://issues.apache.org/jira/browse/DBCP-423">DBCP-423</a>
+</td>
+                                            <td class="summary"><p>
+                PoolingDataSource should implement Closeable
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Christian Schneider
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 18/Jul/14 13:42 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12726977" rel="12726977" data-issuekey="DBCP-422" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-422" href="https://issues.apache.org/jira/browse/DBCP-422">DBCP-422</a>
+</td>
+                                            <td class="summary"><p>
+                Update Apache Commons Logging to 1.2 from 1.1.3
+    </p>
+</td>
+                                            <td class="assignee">            Gary Gregory
+    </td>
+                                            <td class="reporter">            Gary Gregory
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 13/Jul/14 02:54 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12718352" rel="12718352" data-issuekey="DBCP-421" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-421" href="https://issues.apache.org/jira/browse/DBCP-421">DBCP-421</a>
+</td>
+                                            <td class="summary"><p>
+                java.sql.SQLException: Closed Connection
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Nick Pavlov
+    </td>
+                                            <td class="priority">   Critical
+</td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> 04/Jun/14 10:59 </td>
+                                            <td class="updated"> 27/Dec/14 22:33 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12716054" rel="12716054" data-issuekey="DBCP-420" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-420" href="https://issues.apache.org/jira/browse/DBCP-420">DBCP-420</a>
+</td>
+                                            <td class="summary"><p>
+                InstanceKeyDataSource discards native SQLException when given password does not match password used to create the connection
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Bjorn Vidar Remme
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 22/May/14 13:08 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12713589" rel="12713589" data-issuekey="DBCP-419" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-419" href="https://issues.apache.org/jira/browse/DBCP-419">DBCP-419</a>
+</td>
+                                            <td class="summary"><p>
+                Thread got locked while getting connection for MSSQLServer 2008DB
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Santhosh Daida
+    </td>
+                                            <td class="priority">   Blocker
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> 12/May/14 10:54 </td>
+                                            <td class="updated"> 12/May/14 19:45 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12712383" rel="12712383" data-issuekey="DBCP-418" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-418" href="https://issues.apache.org/jira/browse/DBCP-418">DBCP-418</a>
+</td>
+                                            <td class="summary"><p>
+                Cannot Disable JMX
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            William R. Speirs
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 05/May/14 19:52 </td>
+                                            <td class="updated"> 03/Jan/15 19:30 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12708905" rel="12708905" data-issuekey="DBCP-417" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-417" href="https://issues.apache.org/jira/browse/DBCP-417">DBCP-417</a>
+</td>
+                                            <td class="summary"><p>
+                BasicManagedDataSource does not free connection after transaction is commited
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Balazs Zsoldos
+    </td>
+                                            <td class="priority">   Blocker
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 16/Apr/14 21:41 </td>
+                                            <td class="updated"> 31/May/14 05:00 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12708163" rel="12708163" data-issuekey="DBCP-416" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-416" href="https://issues.apache.org/jira/browse/DBCP-416">DBCP-416</a>
+</td>
+                                            <td class="summary"><p>
+                TestConnectionPool.testThreaded() sometimes fails
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Sebb
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> 13/Apr/14 23:00 </td>
+                                            <td class="updated"> 13/Apr/14 23:04 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12708122" rel="12708122" data-issuekey="DBCP-415" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-415" href="https://issues.apache.org/jira/browse/DBCP-415">DBCP-415</a>
+</td>
+                                            <td class="summary"><p>
+                Pooled PreparedStatements may be closed when accessed
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Phil Steitz
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> 13/Apr/14 07:09 </td>
+                                            <td class="updated"> 15/Apr/14 21:45 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12707932" rel="12707932" data-issuekey="DBCP-414" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-414" href="https://issues.apache.org/jira/browse/DBCP-414">DBCP-414</a>
+</td>
+                                            <td class="summary"><p>
+                PoolablePreparedStatement can get closed while it&#39;s being used
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Pasi Eronen
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 11/Apr/14 13:54 </td>
+                                            <td class="updated"> 03/Jan/15 19:30 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12707541" rel="12707541" data-issuekey="DBCP-413" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-413" href="https://issues.apache.org/jira/browse/DBCP-413">DBCP-413</a>
+</td>
+                                            <td class="summary"><p>
+                Closing a Connection does not close Statement objects created on that connection, by way of the close() method.
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Mark W
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> 09/Apr/14 21:06 </td>
+                                            <td class="updated"> 12/May/14 22:16 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12706393" rel="12706393" data-issuekey="DBCP-412" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-412" href="https://issues.apache.org/jira/browse/DBCP-412">DBCP-412</a>
+</td>
+                                            <td class="summary"><p>
+                dbcp2.PoolableConnection.close raises NullPointerException
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Davide Caroselli
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 03/Apr/14 11:10 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12697251" rel="12697251" data-issuekey="DBCP-411" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-411" href="https://issues.apache.org/jira/browse/DBCP-411">DBCP-411</a>
+</td>
+                                            <td class="summary"><p>
+                BasicManagedDataSource - unregister from JMX on close()
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Sebb
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 25/Feb/14 23:25 </td>
+                                            <td class="updated"> 03/Jan/15 19:31 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12694152" rel="12694152" data-issuekey="DBCP-410" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-410" href="https://issues.apache.org/jira/browse/DBCP-410">DBCP-410</a>
+</td>
+                                            <td class="summary"><p>
+                build.xml: wrong path for javadoc.overview
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Andreas Sturmlechner
+    </td>
+                                            <td class="priority">   Trivial
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 09/Feb/14 13:00 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12686270" rel="12686270" data-issuekey="DBCP-409" class="issuerow">
+                                            <td class="issuetype"> New Feature</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-409" href="https://issues.apache.org/jira/browse/DBCP-409">DBCP-409</a>
+</td>
+                                            <td class="summary"><p>
+                How to create DBCP Connection Pooling for memcache server?
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            sekhar m
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> 24/Dec/13 10:04 </td>
+                                            <td class="updated"> 03/Jan/15 19:31 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12682885" rel="12682885" data-issuekey="DBCP-408" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-408" href="https://issues.apache.org/jira/browse/DBCP-408">DBCP-408</a>
+</td>
+                                            <td class="summary"><p>
+                dbcp samples need revising
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            john eipe
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> 05/Dec/13 12:12 </td>
+                                            <td class="updated"> 03/Jan/15 19:32 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12682395" rel="12682395" data-issuekey="DBCP-407" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-407" href="https://issues.apache.org/jira/browse/DBCP-407">DBCP-407</a>
+</td>
+                                            <td class="summary"><p>
+                PoolablePreparedStatement invalidated because of non cleared batch
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Steeve Beroard
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> 03/Dec/13 14:29 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12682383" rel="12682383" data-issuekey="DBCP-406" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-406" href="https://issues.apache.org/jira/browse/DBCP-406">DBCP-406</a>
+</td>
+                                            <td class="summary"><p>
+                Support for caching statements with autogenerated keys
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Steeve Beroard
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 03/Dec/13 13:29 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12677563" rel="12677563" data-issuekey="DBCP-405" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-405" href="https://issues.apache.org/jira/browse/DBCP-405">DBCP-405</a>
+</td>
+                                            <td class="summary"><p>
+                getAutoCommit in PoolableConnectionFactory
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Steeve Beroard
+    </td>
+                                            <td class="priority">   Trivial
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 05/Nov/13 12:53 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12676950" rel="12676950" data-issuekey="DBCP-404" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-404" href="https://issues.apache.org/jira/browse/DBCP-404">DBCP-404</a>
+</td>
+                                            <td class="summary"><p>
+                Mutable fields should be private
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Sebb
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 31/Oct/13 20:11 </td>
+                                            <td class="updated"> 31/May/14 05:07 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12676925" rel="12676925" data-issuekey="DBCP-403" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-403" href="https://issues.apache.org/jira/browse/DBCP-403">DBCP-403</a>
+</td>
+                                            <td class="summary"><p>
+                DelegatingStatement.close() fails with NPE if statement is null
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Sebb
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 31/Oct/13 18:28 </td>
+                                            <td class="updated"> 03/Jan/15 19:32 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12674312" rel="12674312" data-issuekey="DBCP-402" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-402" href="https://issues.apache.org/jira/browse/DBCP-402">DBCP-402</a>
+</td>
+                                            <td class="summary"><p>
+                Add a way to set an instance of java.sql.Driver directly on org.apache.commons.dbcp2.BasicDataSource
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Ben Hale
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 17/Oct/13 14:34 </td>
+                                            <td class="updated"> 31/May/14 05:07 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12674054" rel="12674054" data-issuekey="DBCP-401" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-401" href="https://issues.apache.org/jira/browse/DBCP-401">DBCP-401</a>
+</td>
+                                            <td class="summary"><p>
+                PoolableConnectionFactory.validateConnection() doesn&#39;t test connection.isValid()
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Paulo Costa
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> 16/Oct/13 04:33 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12660059" rel="12660059" data-issuekey="DBCP-400" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-400" href="https://issues.apache.org/jira/browse/DBCP-400">DBCP-400</a>
+</td>
+                                            <td class="summary"><p>
+                The documentation of maxOpenPreparedStatements parameter seems to be wrong
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Gábor Lipták
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 26/Jul/13 14:50 </td>
+                                            <td class="updated"> 31/May/14 05:06 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12657991" rel="12657991" data-issuekey="DBCP-399" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-399" href="https://issues.apache.org/jira/browse/DBCP-399">DBCP-399</a>
+</td>
+                                            <td class="summary"><p>
+                Rollback on PoolableConnectionFactory.passivateObject() has to be configuration controlled.
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Girish Adat
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 16/Jul/13 13:52 </td>
+                                            <td class="updated"> 31/May/14 05:07 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12648699" rel="12648699" data-issuekey="DBCP-398" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-398" href="https://issues.apache.org/jira/browse/DBCP-398">DBCP-398</a>
+</td>
+                                            <td class="summary"><p>
+                DBCP hangs on common pool borrowObject when PoolableConnection is used and the underlying connection closed unexpectedly (connection resets/timouts)
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Sarvesh Sakalanaga
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 21/May/13 20:59 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12638779" rel="12638779" data-issuekey="DBCP-397" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-397" href="https://issues.apache.org/jira/browse/DBCP-397">DBCP-397</a>
+</td>
+                                            <td class="summary"><p>
+                Exception ORA-01000 [Number of open cursors exceeds the limit] is faced when prepared statement pooling is enabled in DBCP 1.3
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Peeyush Joshi
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> 25/Mar/13 05:25 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12636320" rel="12636320" data-issuekey="DBCP-396" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-396" href="https://issues.apache.org/jira/browse/DBCP-396">DBCP-396</a>
+</td>
+                                            <td class="summary"><p>
+                AbandonedConfig.setLogWriter() never used
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Seweryn Hejnowicz
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 11/Mar/13 09:08 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12628671" rel="12628671" data-issuekey="DBCP-395" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-395" href="https://issues.apache.org/jira/browse/DBCP-395">DBCP-395</a>
+</td>
+                                            <td class="summary"><p>
+                Please help.. Oracle connection problems.. Is it over connected or stucked?
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Jungryong Lee
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> 22/Jan/13 07:49 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12618514" rel="12618514" data-issuekey="DBCP-394" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-394" href="https://issues.apache.org/jira/browse/DBCP-394">DBCP-394</a>
+</td>
+                                            <td class="summary"><p>
+                BasicDataSource doesn&#39;t work correct when using two objects with different connection URLs
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Mladen Adamovic
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> 02/Dec/12 22:11 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12610060" rel="12610060" data-issuekey="DBCP-393" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-393" href="https://issues.apache.org/jira/browse/DBCP-393">DBCP-393</a>
+</td>
+                                            <td class="summary"><p>
+                DBCP to support database connection failover
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Campbell
+    </td>
+                                            <td class="priority">   Critical
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> 03/Oct/12 11:29 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12607510" rel="12607510" data-issuekey="DBCP-392" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-392" href="https://issues.apache.org/jira/browse/DBCP-392">DBCP-392</a>
+</td>
+                                            <td class="summary"><p>
+                Remove Occurrences of Multiple Statements on One Line
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            James Carman
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 13/Sep/12 21:03 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12606261" rel="12606261" data-issuekey="DBCP-391" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-391" href="https://issues.apache.org/jira/browse/DBCP-391">DBCP-391</a>
+</td>
+                                            <td class="summary"><p>
+                Close on invalid connections throws unexpected exception
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Markus Stier
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 05/Sep/12 16:48 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12601592" rel="12601592" data-issuekey="DBCP-390" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-390" href="https://issues.apache.org/jira/browse/DBCP-390">DBCP-390</a>
+</td>
+                                            <td class="summary"><p>
+                calling invalidObject(badConnection) damage the counting of the objects in the pool. 
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            neng xu
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> 06/Aug/12 19:01 </td>
+                                            <td class="updated"> 31/May/14 05:10 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12601313" rel="12601313" data-issuekey="DBCP-389" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-389" href="https://issues.apache.org/jira/browse/DBCP-389">DBCP-389</a>
+</td>
+                                            <td class="summary"><p>
+                Provide a configurable implementation of OSGi 4.2 DataSourceFactory
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Matt Bishop
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> 03/Aug/12 08:05 </td>
+                                            <td class="updated"> 31/May/14 05:10 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12595974" rel="12595974" data-issuekey="DBCP-388" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-388" href="https://issues.apache.org/jira/browse/DBCP-388">DBCP-388</a>
+</td>
+                                            <td class="summary"><p>
+                Support AbandonedConfig in SharedPoolDataSource
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Michael Kerr
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Open
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> 26/Jun/12 20:46 </td>
+                                            <td class="updated"> 29/Dec/14 03:01 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12595951" rel="12595951" data-issuekey="DBCP-387" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-387" href="https://issues.apache.org/jira/browse/DBCP-387">DBCP-387</a>
+</td>
+                                            <td class="summary"><p>
+                Have abandoned connection call cancel and rollback so it doesn&#39;t have to wait before closing
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Michael Kerr
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> 26/Jun/12 19:21 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12594954" rel="12594954" data-issuekey="DBCP-386" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-386" href="https://issues.apache.org/jira/browse/DBCP-386">DBCP-386</a>
+</td>
+                                            <td class="summary"><p>
+                Osgi imports and classpath for Class.forName
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Edstrom Johan
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> 18/Jun/12 16:53 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12559544" rel="12559544" data-issuekey="DBCP-385" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-385" href="https://issues.apache.org/jira/browse/DBCP-385">DBCP-385</a>
+</td>
+                                            <td class="summary"><p>
+                Please update to support Java 7 and JDBC 4.1
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            James Page
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 06/Jun/12 15:49 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12553059" rel="12553059" data-issuekey="DBCP-384" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-384" href="https://issues.apache.org/jira/browse/DBCP-384">DBCP-384</a>
+</td>
+                                            <td class="summary"><p>
+                PoolingDriver.accessToUnderlyingConnectionAllowed is thread-hostile
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Sebb
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 26/Apr/12 23:58 </td>
+                                            <td class="updated"> 31/May/14 05:04 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12552812" rel="12552812" data-issuekey="DBCP-383" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-383" href="https://issues.apache.org/jira/browse/DBCP-383">DBCP-383</a>
+</td>
+                                            <td class="summary"><p>
+                NPE during XA commit (possibly doing startup recovery)
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Martin Lichtin
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 26/Apr/12 09:44 </td>
+                                            <td class="updated"> 31/May/14 05:06 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12551439" rel="12551439" data-issuekey="DBCP-382" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-382" href="https://issues.apache.org/jira/browse/DBCP-382">DBCP-382</a>
+</td>
+                                            <td class="summary"><p>
+                Could not set flag &quot;accessToUnderlyingConnectionAllowed&quot; in &quot;context.xml&quot; for DriverAdapterCPDS/PerUserPoolDataSource
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Stefan Rempfer
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 18/Apr/12 11:41 </td>
+                                            <td class="updated"> 31/May/14 05:08 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12550788" rel="12550788" data-issuekey="DBCP-381" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-381" href="https://issues.apache.org/jira/browse/DBCP-381">DBCP-381</a>
+</td>
+                                            <td class="summary"><p>
+                Threads BLOCKED on stress tests
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Carlos Martinez
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> 13/Apr/12 08:39 </td>
+                                            <td class="updated"> 31/May/14 05:08 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12550662" rel="12550662" data-issuekey="DBCP-380" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-380" href="https://issues.apache.org/jira/browse/DBCP-380">DBCP-380</a>
+</td>
+                                            <td class="summary"><p>
+                DelegatingConnection isWrapperFor dies on older JDBC drivers
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Balazs Zsoldos
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 12/Apr/12 12:14 </td>
+                                            <td class="updated"> 31/May/14 05:09 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12380526" rel="12380526" data-issuekey="DBCP-379" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-379" href="https://issues.apache.org/jira/browse/DBCP-379">DBCP-379</a>
+</td>
+                                            <td class="summary"><p>
+                number of connections created has crossed more than maxActive 
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Bhaskar NA
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> 16/Oct/07 13:06 </td>
+                                            <td class="updated"> 31/May/14 05:13 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12548504" rel="12548504" data-issuekey="DBCP-378" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-378" href="https://issues.apache.org/jira/browse/DBCP-378">DBCP-378</a>
+</td>
+                                            <td class="summary"><p>
+                ManagedDataSource returns uses the same underlying DB connection across JTA tx
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Ortwin Glück
+    </td>
+                                            <td class="priority">   Critical
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> 28/Mar/12 15:54 </td>
+                                            <td class="updated"> 31/May/14 05:02 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12545180" rel="12545180" data-issuekey="DBCP-377" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-377" href="https://issues.apache.org/jira/browse/DBCP-377">DBCP-377</a>
+</td>
+                                            <td class="summary"><p>
+                Dbcp Idle Check Mechanism Doesn&#39;t Work
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            yixin he
+    </td>
+                                            <td class="priority">   Critical
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> 05/Mar/12 14:02 </td>
+                                            <td class="updated"> 31/May/14 05:02 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12539371" rel="12539371" data-issuekey="DBCP-376" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-376" href="https://issues.apache.org/jira/browse/DBCP-376">DBCP-376</a>
+</td>
+                                            <td class="summary"><p>
+                Thread safety issue
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Dave Oxley
+    </td>
+                                            <td class="priority">   Critical
+</td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 23/Jan/12 01:04 </td>
+                                            <td class="updated"> 25/Feb/15 00:27 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12538125" rel="12538125" data-issuekey="DBCP-375" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-375" href="https://issues.apache.org/jira/browse/DBCP-375">DBCP-375</a>
+</td>
+                                            <td class="summary"><p>
+                initialSize &lt; minIdle =&gt; non-performing query plans are chosen
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Patrick Hammer
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> 11/Jan/12 22:49 </td>
+                                            <td class="updated"> 31/May/14 05:09 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12536015" rel="12536015" data-issuekey="DBCP-374" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-374" href="https://issues.apache.org/jira/browse/DBCP-374">DBCP-374</a>
+</td>
+                                            <td class="summary"><p>
+                commons-dbcp-1.4-src compile fail with apache-ant-1.8.2 and jdk1.7.0_02 and jdk1.6.0_29
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Stephen Owens
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> 21/Dec/11 14:02 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12534644" rel="12534644" data-issuekey="DBCP-373" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-373" href="https://issues.apache.org/jira/browse/DBCP-373">DBCP-373</a>
+</td>
+                                            <td class="summary"><p>
+                Ability to configure upper bound on total number of connections managed by pooled data sources across all keys (user/password).
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Scott Cameron
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 11/Dec/11 07:20 </td>
+                                            <td class="updated"> 31/May/14 05:08 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12533878" rel="12533878" data-issuekey="DBCP-372" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-372" href="https://issues.apache.org/jira/browse/DBCP-372">DBCP-372</a>
+</td>
+                                            <td class="summary"><p>
+                Statement Leak occurs when batch update is used.
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Naozumi Taromaru
+    </td>
+                                            <td class="priority">   Critical
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 05/Dec/11 13:10 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12533406" rel="12533406" data-issuekey="DBCP-371" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-371" href="https://issues.apache.org/jira/browse/DBCP-371">DBCP-371</a>
+</td>
+                                            <td class="summary"><p>
+                DelegatingDatabaseMetaData
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Fredrik Bertilsson
+    </td>
+                                            <td class="priority">   Critical
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> 01/Dec/11 06:37 </td>
+                                            <td class="updated"> 01/Dec/11 09:57 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12531223" rel="12531223" data-issuekey="DBCP-370" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-370" href="https://issues.apache.org/jira/browse/DBCP-370">DBCP-370</a>
+</td>
+                                            <td class="summary"><p>
+                Please Release Commons Dbcp 1.4.1
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Yudhi Widyatama
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> 12/Nov/11 08:47 </td>
+                                            <td class="updated"> 13/Nov/11 16:53 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12526807" rel="12526807" data-issuekey="DBCP-369" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-369" href="https://issues.apache.org/jira/browse/DBCP-369">DBCP-369</a>
+</td>
+                                            <td class="summary"><p>
+                Exception when using SharedPoolDataSource concurrently
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Michael Pradel
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 12/Oct/11 08:34 </td>
+                                            <td class="updated"> 31/May/14 05:09 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12526527" rel="12526527" data-issuekey="DBCP-368" class="issuerow">
+                                            <td class="issuetype"> New Feature</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-368" href="https://issues.apache.org/jira/browse/DBCP-368">DBCP-368</a>
+</td>
+                                            <td class="summary"><p>
+                determine which connections to hold in pool by relative value
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Philip Williams
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 10/Oct/11 23:46 </td>
+                                            <td class="updated"> 31/May/14 05:11 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12525283" rel="12525283" data-issuekey="DBCP-367" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-367" href="https://issues.apache.org/jira/browse/DBCP-367">DBCP-367</a>
+</td>
+                                            <td class="summary"><p>
+                minIdle&#39;s document is not correct
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Ken Tatsushita
+    </td>
+                                            <td class="priority">   Trivial
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 30/Sep/11 10:11 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12524515" rel="12524515" data-issuekey="DBCP-366" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-366" href="https://issues.apache.org/jira/browse/DBCP-366">DBCP-366</a>
+</td>
+                                            <td class="summary"><p>
+                Getting Exception when trying to get the PrepareStatement from Connection From DBCP Pool
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            saroj kumar balusu
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> 24/Sep/11 17:33 </td>
+                                            <td class="updated"> 31/May/14 05:11 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12523354" rel="12523354" data-issuekey="DBCP-365" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-365" href="https://issues.apache.org/jira/browse/DBCP-365">DBCP-365</a>
+</td>
+                                            <td class="summary"><p>
+                StackOverflowError SharedPoolDataSource.getPooledConnectionAndInfo() Postgresql
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Axl
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> 16/Sep/11 17:24 </td>
+                                            <td class="updated"> 31/May/14 05:11 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12520023" rel="12520023" data-issuekey="DBCP-364" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-364" href="https://issues.apache.org/jira/browse/DBCP-364">DBCP-364</a>
+</td>
+                                            <td class="summary"><p>
+                BasicDataSourceFactory#createDataSource return signature should be BasicDataSourceFactory so that caller can invoke methods not declared in DataSource (e.g., close())
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            ori
+    </td>
+                                            <td class="priority">   Trivial
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 24/Aug/11 22:21 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12509747" rel="12509747" data-issuekey="DBCP-363" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-363" href="https://issues.apache.org/jira/browse/DBCP-363">DBCP-363</a>
+</td>
+                                            <td class="summary"><p>
+                dbcp bundle should use DynamicImport
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Felix Mayerhuber
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> 09/Jun/11 19:41 </td>
+                                            <td class="updated"> 31/May/14 05:10 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12507854" rel="12507854" data-issuekey="DBCP-362" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-362" href="https://issues.apache.org/jira/browse/DBCP-362">DBCP-362</a>
+</td>
+                                            <td class="summary"><p>
+                Cannot create PoolableConnectionFactory when system proxy is defined.
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Karol Krzyzak
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not a Problem
+</td>
+                                            <td class="created"> 20/May/11 10:12 </td>
+                                            <td class="updated"> 30/May/11 11:37 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12507423" rel="12507423" data-issuekey="DBCP-361" class="issuerow">
+                                            <td class="issuetype"> New Feature</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-361" href="https://issues.apache.org/jira/browse/DBCP-361">DBCP-361</a>
+</td>
+                                            <td class="summary"><p>
+                BasicManagedDataSource optional transaction enlistment
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Aaron Hamid
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Won&#39;t Fix
+</td>
+                                            <td class="created"> 16/May/11 23:02 </td>
+                                            <td class="updated"> 31/May/14 05:10 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12507417" rel="12507417" data-issuekey="DBCP-360" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-360" href="https://issues.apache.org/jira/browse/DBCP-360">DBCP-360</a>
+</td>
+                                            <td class="summary"><p>
+                BasicManagedDataSource fails with OracleXADataSource
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Aaron Hamid
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> 16/May/11 22:39 </td>
+                                            <td class="updated"> 16/May/11 22:55 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12505998" rel="12505998" data-issuekey="DBCP-359" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-359" href="https://issues.apache.org/jira/browse/DBCP-359">DBCP-359</a>
+</td>
+                                            <td class="summary"><p>
+                DelegatingConnection.equals fails if both delegates are null
+    </p>
+</td>
+                                            <td class="assignee">            Joerg Schaible
+    </td>
+                                            <td class="reporter">            Joerg Schaible
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 03/May/11 01:38 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12505732" rel="12505732" data-issuekey="DBCP-358" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-358" href="https://issues.apache.org/jira/browse/DBCP-358">DBCP-358</a>
+</td>
+                                            <td class="summary"><p>
+                Equals implementations in DelegatingXxx classes are not symmetric
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Phil Steitz
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 28/Apr/11 23:14 </td>
+                                            <td class="updated"> 31/May/14 05:13 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12505412" rel="12505412" data-issuekey="DBCP-357" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-357" href="https://issues.apache.org/jira/browse/DBCP-357">DBCP-357</a>
+</td>
+                                            <td class="summary"><p>
+                Connection validationQuery mechanism should be replaced by new method connection#isValid()
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Philippe Mouawad
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 28/Apr/11 13:08 </td>
+                                            <td class="updated"> 31/May/14 05:12 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12502264" rel="12502264" data-issuekey="DBCP-356" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-356" href="https://issues.apache.org/jira/browse/DBCP-356">DBCP-356</a>
+</td>
+                                            <td class="summary"><p>
+                ManagedDataSource doesn&#39;t work with an active transaction in progress on IBM JDK 6+
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            an envy guest
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> 24/Mar/11 08:36 </td>
+                                            <td class="updated"> 31/May/14 05:12 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12502250" rel="12502250" data-issuekey="DBCP-355" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-355" href="https://issues.apache.org/jira/browse/DBCP-355">DBCP-355</a>
+</td>
+                                            <td class="summary"><p>
+                DataSourceXAConnectionFactory does not store the XAConnection
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Clement Pang
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 24/Mar/11 03:03 </td>
+                                            <td class="updated"> 31/May/14 05:12 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12500943" rel="12500943" data-issuekey="DBCP-354" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-354" href="https://issues.apache.org/jira/browse/DBCP-354">DBCP-354</a>
+</td>
+                                            <td class="summary"><p>
+                released dbcp 1.0 pom is broken
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Jeff Hodges
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 09/Mar/11 21:00 </td>
+                                            <td class="updated"> 31/May/14 05:12 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12498194" rel="12498194" data-issuekey="DBCP-353" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-353" href="https://issues.apache.org/jira/browse/DBCP-353">DBCP-353</a>
+</td>
+                                            <td class="summary"><p>
+                When DB Restarts(Bounce) the number ESTABLISHED DB connections exceeds its maximum configured limit.
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Radhika Zawar
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> 10/Feb/11 05:58 </td>
+                                            <td class="updated"> 31/May/14 05:12 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12497342" rel="12497342" data-issuekey="DBCP-352" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-352" href="https://issues.apache.org/jira/browse/DBCP-352">DBCP-352</a>
+</td>
+                                            <td class="summary"><p>
+                Repeated calls to getMetadata in a transaction leads to performance degredation
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Derek Hulley
+    </td>
+                                            <td class="priority">   Critical
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 01/Feb/11 14:45 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12497329" rel="12497329" data-issuekey="DBCP-351" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-351" href="https://issues.apache.org/jira/browse/DBCP-351">DBCP-351</a>
+</td>
+                                            <td class="summary"><p>
+                setAutoCommit called too many times
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            OD
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 01/Feb/11 12:47 </td>
+                                            <td class="updated"> 31/May/14 05:11 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12492162" rel="12492162" data-issuekey="DBCP-350" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-350" href="https://issues.apache.org/jira/browse/DBCP-350">DBCP-350</a>
+</td>
+                                            <td class="summary"><p>
+                Problem with DBCP 1.3 /jdk 6 and oracle spatial
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Nils Hildebrand
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Not a Problem
+</td>
+                                            <td class="created"> 06/Dec/10 14:47 </td>
+                                            <td class="updated"> 31/May/14 05:11 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12491993" rel="12491993" data-issuekey="DBCP-349" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-349" href="https://issues.apache.org/jira/browse/DBCP-349">DBCP-349</a>
+</td>
+                                            <td class="summary"><p>
+                Insert clob or blob with oracle connection crashes software 
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            alina joshi
+    </td>
+                                            <td class="priority">   Critical
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> 03/Dec/10 15:41 </td>
+                                            <td class="updated"> 31/May/14 05:03 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12480892" rel="12480892" data-issuekey="DBCP-348" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-348" href="https://issues.apache.org/jira/browse/DBCP-348">DBCP-348</a>
+</td>
+                                            <td class="summary"><p>
+                connectionInitSqls doesn&#39;t work correctly. 
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Eiji Takahashi
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 25/Nov/10 07:35 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12478441" rel="12478441" data-issuekey="DBCP-347" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-347" href="https://issues.apache.org/jira/browse/DBCP-347">DBCP-347</a>
+</td>
+                                            <td class="summary"><p>
+                DelegatingStatement class has incomplete isWrapperFor method
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Robert Poskrobek
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 27/Oct/10 12:33 </td>
+                                            <td class="updated"> 31/May/14 05:15 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12478213" rel="12478213" data-issuekey="DBCP-346" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-346" href="https://issues.apache.org/jira/browse/DBCP-346">DBCP-346</a>
+</td>
+                                            <td class="summary"><p>
+                DBCP cannot set GenericObjectPool.lifo
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Ken Tatsushita
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 25/Oct/10 09:48 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12475852" rel="12475852" data-issuekey="DBCP-345" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-345" href="https://issues.apache.org/jira/browse/DBCP-345">DBCP-345</a>
+</td>
+                                            <td class="summary"><p>
+                NumActive is off-by-one at instantiation and causes premature exhaustion
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Kevin Ross
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> 05/Oct/10 15:19 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12475624" rel="12475624" data-issuekey="DBCP-344" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-344" href="https://issues.apache.org/jira/browse/DBCP-344">DBCP-344</a>
+</td>
+                                            <td class="summary"><p>
+                Maven configuration updated with configuration for transitive dependency conflict.
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Jeremy Whiting
+    </td>
+                                            <td class="priority">   Trivial
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 01/Oct/10 15:37 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12473766" rel="12473766" data-issuekey="DBCP-343" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-343" href="https://issues.apache.org/jira/browse/DBCP-343">DBCP-343</a>
+</td>
+                                            <td class="summary"><p>
+                RemoveAbandoned setting closes the active connection.
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Singaravelu Suburayan
+    </td>
+                                            <td class="priority">   Blocker
+</td>
+                                            <td class="status">
+                Reopened
+    </td>
+                                            <td class="resolution">    <em>Unresolved</em>
+</td>
+                                            <td class="created"> 10/Sep/10 06:43 </td>
+                                            <td class="updated"> 25/Feb/15 00:25 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12473220" rel="12473220" data-issuekey="DBCP-342" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-342" href="https://issues.apache.org/jira/browse/DBCP-342">DBCP-342</a>
+</td>
+                                            <td class="summary"><p>
+                Not cleaned up commons pool&#39;s evictor task when SQLException occurs after the GenericObjectPool is initialized in createDataSource.
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            byungchol.kim
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Resolved
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 03/Sep/10 09:48 </td>
+                                            <td class="updated"> 25/Feb/15 00:21 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12473149" rel="12473149" data-issuekey="DBCP-341" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-341" href="https://issues.apache.org/jira/browse/DBCP-341">DBCP-341</a>
+</td>
+                                            <td class="summary"><p>
+                LocalXAConnectionFactory does not properly check if Xid is equal to currentXid when resuming
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Ioannis Canellos
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 02/Sep/10 16:29 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12470059" rel="12470059" data-issuekey="DBCP-340" class="issuerow">
+                                            <td class="issuetype"> Improvement</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-340" href="https://issues.apache.org/jira/browse/DBCP-340">DBCP-340</a>
+</td>
+                                            <td class="summary"><p>
+                setQueryTimeout(int)  should be set through property.
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Minhaj Mehmood
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 24/Jul/10 00:14 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12468832" rel="12468832" data-issuekey="DBCP-339" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-339" href="https://issues.apache.org/jira/browse/DBCP-339">DBCP-339</a>
+</td>
+                                            <td class="summary"><p>
+                orphaned connectionPools created on Exception within createDataSource method
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Mike Bartlett
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Duplicate
+</td>
+                                            <td class="created"> 08/Jul/10 17:42 </td>
+                                            <td class="updated"> 25/Apr/11 17:27 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12466851" rel="12466851" data-issuekey="DBCP-338" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-338" href="https://issues.apache.org/jira/browse/DBCP-338">DBCP-338</a>
+</td>
+                                            <td class="summary"><p>
+                ORA-01453 on connections with previous errors
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Phil Steitz
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> 13/Jun/10 19:06 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12466690" rel="12466690" data-issuekey="DBCP-337" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-337" href="https://issues.apache.org/jira/browse/DBCP-337">DBCP-337</a>
+</td>
+                                            <td class="summary"><p>
+                equals in DelegatingXXX is not reflexive and could be faster
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Rob Gansevles
+    </td>
+                                            <td class="priority">   Minor
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Fixed
+</td>
+                                            <td class="created"> 10/Jun/10 21:49 </td>
+                                            <td class="updated"> 24/Feb/15 03:23 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12466350" rel="12466350" data-issuekey="DBCP-336" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-336" href="https://issues.apache.org/jira/browse/DBCP-336">DBCP-336</a>
+</td>
+                                            <td class="summary"><p>
+                Incorect data from data base if connection pool size is minimum (say 1 to 3 )
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Rony M Sunny
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Invalid
+</td>
+                                            <td class="created"> 07/Jun/10 14:53 </td>
+                                            <td class="updated"> 21/Oct/10 01:33 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+
+
+                <tr id="issuerow12465331" rel="12465331" data-issuekey="DBCP-335" class="issuerow">
+                                            <td class="issuetype"> Bug</td>
+                                            <td class="customfield_12310041">
+
+
+</td>
+                                            <td class="issuekey">
+
+    <a class="issue-link" data-issue-key="DBCP-335" href="https://issues.apache.org/jira/browse/DBCP-335">DBCP-335</a>
+</td>
+                                            <td class="summary"><p>
+                NPE with MySQL PreparedStatement
+    </p>
+</td>
+                                            <td class="assignee">    <em>Unassigned</em>
+</td>
+                                            <td class="reporter">            Marcus Better
+    </td>
+                                            <td class="priority">   Major
+</td>
+                                            <td class="status">
+                Closed
+    </td>
+                                            <td class="resolution">    Cannot Reproduce
+</td>
+                                            <td class="created"> 25/May/10 05:06 </td>
+                                            <td class="updated"> 30/Apr/11 18:49 </td>
+                                            <td class="duedate">    &nbsp;
+</td>
+                    </tr>
+                </tbody>
+    </table>
+    <div class="end-of-stable-message"></div>
+            <table border="1" >
+<tr>
+    <td bgcolor="#dddddd" colspan="12"><font size="1">
+        Generated at Fri Mar 20 15:53:40 UTC 2015 using JIRA 6.3.4#6332-sha1:51bc225ef474afe3128b2f66878477f322397b16.
+    </font></td>
+</tr>
+</table>
+
+</body>
+</html>
