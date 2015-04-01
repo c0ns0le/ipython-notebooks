@@ -1,3292 +1,4639 @@
-127328. [Java constants in JSP](http://stackoverflow.com/questions/127328) (13 upvotes)  
-133710. [Ant and the available task - what if something is not available?](http://stackoverflow.com/questions/133710) (5 upvotes)  
-136419. [Get integer value of the current year in Java](http://stackoverflow.com/questions/136419) (74 upvotes)  
-152205. [How to handle functions deprecation in library?](http://stackoverflow.com/questions/152205) (6 upvotes)  
-213506. [java.net.URLEncoder.encode(String) is deprecated, what should I use instead?](http://stackoverflow.com/questions/213506) (101 upvotes)  
-226910. [How to sanity check a date in java](http://stackoverflow.com/questions/226910) (27 upvotes)  
-233593. [Can Eclipse Be Used To Find All Deprecated Method Calls?](http://stackoverflow.com/questions/233593) (9 upvotes)  
-233628. [Should Java raw types be deprecated?](http://stackoverflow.com/questions/233628) (5 upvotes)  
-244115. [How do I tokenize input using Java's Scanner class and regular expressions?](http://stackoverflow.com/questions/244115) (5 upvotes)  
-247455. [Stopping a Thread in Java?](http://stackoverflow.com/questions/247455) (9 upvotes)  
-248938. [Alternative to deprecated javax.servlet.http.HttpUtils.parseQueryString?](http://stackoverflow.com/questions/248938) (5 upvotes)  
-281342. [Which Java GUI framework to choose now?](http://stackoverflow.com/questions/281342) (17 upvotes)  
-306732. [How to check if a variable exists in a FreeMarker template?](http://stackoverflow.com/questions/306732) (66 upvotes)  
-314540. [When are API methods marked "deprecated" actually going to go away?](http://stackoverflow.com/questions/314540) (19 upvotes)  
-341005. [What's the best way to handle coexistence of the "int enum" pattern with java enums as an API evolves?](http://stackoverflow.com/questions/341005) (5 upvotes)  
-432154. [Do you use design marker interfaces to document your Java code?](http://stackoverflow.com/questions/432154) (7 upvotes)  
-442322. [Should Java break backwards compatibility in future versions for the benefit of a cleaner language?](http://stackoverflow.com/questions/442322) (5 upvotes)  
-453684. [Use Hashtable, Vector or HashMap or ArrayList in Java](http://stackoverflow.com/questions/453684) (10 upvotes)  
-460423. [Why was "new Date(int year, int month, int day)" deprecated?](http://stackoverflow.com/questions/460423) (48 upvotes)  
-477842. [Java: calculating duration](http://stackoverflow.com/questions/477842) (1 upvotes)  
-489169. [Errors forming a JAXP Schema (javax.xml.validation.Schema)](http://stackoverflow.com/questions/489169) (0 upvotes)  
-512436. [Java: Playing WAV sounds](http://stackoverflow.com/questions/512436) (3 upvotes)  
-520168. [Doubt in build.xml file in Apache-Ant1.6.5](http://stackoverflow.com/questions/520168) (0 upvotes)  
-533573. [Analyzing XML schemas using org.eclipse.xsd and Maven2](http://stackoverflow.com/questions/533573) (1 upvotes)  
-544732. [Which HTML tag is the proper one to use for Java applets (APPLET, EMBED, OBJECT)?](http://stackoverflow.com/questions/544732) (3 upvotes)  
-568616. [Reading Strings and Binary from the same FileInputStream](http://stackoverflow.com/questions/568616) (5 upvotes)  
-573543. [Is Java due for a reboot?](http://stackoverflow.com/questions/573543) (4 upvotes)  
-624604. [Case-insensitive equals using Hibernate Criteria](http://stackoverflow.com/questions/624604) (26 upvotes)  
-629557. [How to retrieve a list of deprecated methods from a class](http://stackoverflow.com/questions/629557) (0 upvotes)  
-632884. [System.currentTimeMillis() for a given date?](http://stackoverflow.com/questions/632884) (2 upvotes)  
-635860. [Replacement for JAXMServlet?](http://stackoverflow.com/questions/635860) (1 upvotes)  
-636550. [Java Component.show() / hide() are deprecated ... why?](http://stackoverflow.com/questions/636550) (9 upvotes)  
-644262. [F2 focus in Eclipse for deprecated members](http://stackoverflow.com/questions/644262) (4 upvotes)  
-657962. [A non-deprecated exact equivalent of Date(String s) in Java?](http://stackoverflow.com/questions/657962) (8 upvotes)  
-665563. [Find unused classes in a Java Eclipse project](http://stackoverflow.com/questions/665563) (41 upvotes)  
-674137. [JDBC Thin Driver: Invalid Packet Lenght [sic]](http://stackoverflow.com/questions/674137) (0 upvotes)  
-678894. [Java API for XML](http://stackoverflow.com/questions/678894) (0 upvotes)  
-689354. [Regex for matching javadoc fragments](http://stackoverflow.com/questions/689354) (6 upvotes)  
-748788. [Logic (if any) behind Google App Engine excluding standard JDK 1.6 APIs](http://stackoverflow.com/questions/748788) (2 upvotes)  
-750390. [Java XML APIs](http://stackoverflow.com/questions/750390) (13 upvotes)  
-751402. [flex compiler error (warning) message in flex ant task](http://stackoverflow.com/questions/751402) (1 upvotes)  
-766576. [Are annotations mainly about documenting code or are they enforced by the compiler?](http://stackoverflow.com/questions/766576) (2 upvotes)  
-777423. [Java: File.toURL() deprecated?](http://stackoverflow.com/questions/777423) (3 upvotes)  
-786840. [Annotation support in Struts 2](http://stackoverflow.com/questions/786840) (2 upvotes)  
-805989. [Can one validate marshalled XML with JAXB 2.0?](http://stackoverflow.com/questions/805989) (16 upvotes)  
-818759. [What codepage/charset should be used to interpret data coming from an MVS system into a Java Environment?](http://stackoverflow.com/questions/818759) (3 upvotes)  
-829510. [Getting today's date in java - I've tried the regular ways](http://stackoverflow.com/questions/829510) (13 upvotes)  
-873875. [Most effective way to process a string containing XML, in JAVA](http://stackoverflow.com/questions/873875) (2 upvotes)  
-874073. [Crystal Report DB authentication in java](http://stackoverflow.com/questions/874073) (2 upvotes)  
-876840. [Ant loadproperties failed (bcel error?)](http://stackoverflow.com/questions/876840) (5 upvotes)  
-879349. [Adding a MouseOverHandler to an Element?](http://stackoverflow.com/questions/879349) (9 upvotes)  
-887653. [JDBC Dates Deprecated in Java (java.sql package)](http://stackoverflow.com/questions/887653) (2 upvotes)  
-893337. [Why struts2 FilterDispatcher deprecated?](http://stackoverflow.com/questions/893337) (0 upvotes)  
-905126. [Java Exceptions Loops and Deprecation (or is it a URLEncoding thing?)](http://stackoverflow.com/questions/905126) (0 upvotes)  
-907170. [Java: getMinutes and getHours](http://stackoverflow.com/questions/907170) (37 upvotes)  
-910740. [Cancelling a long running regex match?](http://stackoverflow.com/questions/910740) (11 upvotes)  
-920850. [What Happened to BufferedImage class in Java ME 6?](http://stackoverflow.com/questions/920850) (0 upvotes)  
-949353. [Java: Altering UI fonts (Nimbus) doesn't work!](http://stackoverflow.com/questions/949353) (5 upvotes)  
-957187. [Is there a ICEfaces Maven archetype for NetBeans or Eclipse?](http://stackoverflow.com/questions/957187) (2 upvotes)  
-979917. [What's going on with Java's Date class? Is this a known bug?](http://stackoverflow.com/questions/979917) (5 upvotes)  
-983964. [Why does JPasswordField.getPassword() create a String with the password in it?](http://stackoverflow.com/questions/983964) (17 upvotes)  
-1000171. [Java: De-deprecated-ing Tools](http://stackoverflow.com/questions/1000171) (4 upvotes)  
-1056722. [Why is the Bigdecimal(double d) construction still around?](http://stackoverflow.com/questions/1056722) (7 upvotes)  
-1059640. [Facebook offline access step-by-step](http://stackoverflow.com/questions/1059640) (56 upvotes)  
-1100869. [How to properly send an HTTP message to the client](http://stackoverflow.com/questions/1100869) (21 upvotes)  
-1102094. [Killing thread instantly in Java](http://stackoverflow.com/questions/1102094) (1 upvotes)  
-1111130. [Basic File upload in GWT](http://stackoverflow.com/questions/1111130) (37 upvotes)  
-1116123. [How do I calculate someone's age in Java?](http://stackoverflow.com/questions/1116123) (51 upvotes)  
-1127704. [Getting maven to start jetty (Tapestry Tutorial)](http://stackoverflow.com/questions/1127704) (3 upvotes)  
-1153221. [In Java, how do I ensure a dummy class is never used?](http://stackoverflow.com/questions/1153221) (2 upvotes)  
-1200774. [Constructing graphs from documentation tags](http://stackoverflow.com/questions/1200774) (0 upvotes)  
-1213362. [Java: How to avoid deprecated warning in derived interfaces which override deprecated members?](http://stackoverflow.com/questions/1213362) (4 upvotes)  
-1218790. [How to isolate your program from calls to a "bad" API?](http://stackoverflow.com/questions/1218790) (11 upvotes)  
-1219681. [Migrate old J++ project to Eclipse?](http://stackoverflow.com/questions/1219681) (0 upvotes)  
-1251339. [How to obtain an HttpSession Object from SessionID?](http://stackoverflow.com/questions/1251339) (4 upvotes)  
-1267845. [What are benefits of using the @Deprecated notation on the interface only?](http://stackoverflow.com/questions/1267845) (4 upvotes)  
-1283328. [Are Thread.stop and friends ever safe in Java?](http://stackoverflow.com/questions/1283328) (38 upvotes)  
-1290112. [Is there a bounded non-blocking Collection in Java?](http://stackoverflow.com/questions/1290112) (8 upvotes)  
-1326737. [Will struts 1.2.4 work with Java5?](http://stackoverflow.com/questions/1326737) (0 upvotes)  
-1335473. [ant deploy problem](http://stackoverflow.com/questions/1335473) (1 upvotes)  
-1370192. [Can I use thread.stop () in Java if I really need it?](http://stackoverflow.com/questions/1370192) (4 upvotes)  
-1386275. [Why is Java Vector class considered obsolete or deprecated?](http://stackoverflow.com/questions/1386275) (362 upvotes)  
-1388441. [How to make Ant prefer classes from a linked JAR over JDK classes?](http://stackoverflow.com/questions/1388441) (3 upvotes)  
-1411015. [javac command under mac terminal output garbled](http://stackoverflow.com/questions/1411015) (0 upvotes)  
-1477455. [@ForeignKey in Hibernate 3.5-beta1](http://stackoverflow.com/questions/1477455) (2 upvotes)  
-1512754. [Help with Java Calendar -- it is giving some strange output](http://stackoverflow.com/questions/1512754) (2 upvotes)  
-1513534. [Java date function which is not deprecated](http://stackoverflow.com/questions/1513534) (1 upvotes)  
-1534289. [Maven include JavaDoc Jar in Assembly](http://stackoverflow.com/questions/1534289) (3 upvotes)  
-1553678. [Creating your own Validators in JSF 1.2 with Facelets 1.1.12](http://stackoverflow.com/questions/1553678) (1 upvotes)  
-1554538. [How can I suppress javac warnings about deprecated api?](http://stackoverflow.com/questions/1554538) (21 upvotes)  
-1557080. [Why is java.util.Date's setTime() method not deprecated?](http://stackoverflow.com/questions/1557080) (3 upvotes)  
-1560422. [How to validate against schema in JAXB 2.0 without marshalling?](http://stackoverflow.com/questions/1560422) (24 upvotes)  
-1575289. [Practical usage of the T3 File Service](http://stackoverflow.com/questions/1575289) (2 upvotes)  
-1618700. [Why the RetentionPolicy for @deprecated is RUNTIME?](http://stackoverflow.com/questions/1618700) (8 upvotes)  
-1649133. [What is the benefit of ThreadGroup in java over creating separate threads?](http://stackoverflow.com/questions/1649133) (11 upvotes)  
-1654923. [In the 13 years that Java has been around, are there any specific examples of backward incompatibilities?](http://stackoverflow.com/questions/1654923) (43 upvotes)  
-1664823. [Detecting API changes/evolution](http://stackoverflow.com/questions/1664823) (7 upvotes)  
-1666736. [Android: TextView automatically truncate and replace last 3 char of String](http://stackoverflow.com/questions/1666736) (47 upvotes)  
-1681266. [How to Check References of Annotated Methods](http://stackoverflow.com/questions/1681266) (1 upvotes)  
-1685442. [How to copy the directory using Ant](http://stackoverflow.com/questions/1685442) (46 upvotes)  
-1693744. [Initializing program with files passed as main arguments (system.getProperty())](http://stackoverflow.com/questions/1693744) (1 upvotes)  
-1703951. [Interoperate between C# and Java using web services without a Java EE application server?](http://stackoverflow.com/questions/1703951) (2 upvotes)  
-1752607. [How to intentionally cause a custom java compiler warning message?](http://stackoverflow.com/questions/1752607) (38 upvotes)  
-1790957. [Deprecate in Java 1.6](http://stackoverflow.com/questions/1790957) (3 upvotes)  
-1842959. [How can I get Maven to generate a jnlp for my project?](http://stackoverflow.com/questions/1842959) (2 upvotes)  
-1858021. [Suppress deprecated import warning in Java](http://stackoverflow.com/questions/1858021) (24 upvotes)  
-1874298. [new Date(2009, 12, 9) is deprecated](http://stackoverflow.com/questions/1874298) (24 upvotes)  
-1886489. [Does removing an interface break code calling methods on the object?](http://stackoverflow.com/questions/1886489) (2 upvotes)  
-1895142. [Alternative options for displaying video in Java?](http://stackoverflow.com/questions/1895142) (0 upvotes)  
-1899006. [Problem with Undeploy Task in Tomcat 6](http://stackoverflow.com/questions/1899006) (4 upvotes)  
-1906673. [import com.sun.image.codec.jpeg.*](http://stackoverflow.com/questions/1906673) (19 upvotes)  
-1948317. [Forceful termination of a thread stuck on an API call of some method](http://stackoverflow.com/questions/1948317) (2 upvotes)  
-1954878. [How do I use the ADF propertyListener tag?](http://stackoverflow.com/questions/1954878) (0 upvotes)  
-1995411. [How to get structure of a Google Protobuf message without the definition](http://stackoverflow.com/questions/1995411) (3 upvotes)  
-1998281. [Tomcat not shutting down within Eclipse](http://stackoverflow.com/questions/1998281) (8 upvotes)  
-1999766. [The constructor Date(...) is deprecated. What does it mean? (Java)](http://stackoverflow.com/questions/1999766) (18 upvotes)  
-2013092. [Detecting struckout text in a cell using JExcelApi](http://stackoverflow.com/questions/2013092) (0 upvotes)  
-2013443. [On zoom event for google maps on android](http://stackoverflow.com/questions/2013443) (28 upvotes)  
-2036174. [How to think about Java Threads? aka Thread.stop](http://stackoverflow.com/questions/2036174) (3 upvotes)  
-2048626. [What tools are out there to audit changes to Java interfaces?](http://stackoverflow.com/questions/2048626) (10 upvotes)  
-2059781. [Byte.decode("10") and Byte.valueOf("10") - what is a difference?](http://stackoverflow.com/questions/2059781) (2 upvotes)  
-2063472. [How can I tell at runtime that a Java 1.4 type or member is deprecated?](http://stackoverflow.com/questions/2063472) (1 upvotes)  
-2082693. [How to display Java dialog using alternate event queue?](http://stackoverflow.com/questions/2082693) (4 upvotes)  
-2085797. [Seam outjections will be removed?](http://stackoverflow.com/questions/2085797) (5 upvotes)  
-2088528. [How to exclude deprecated public methods from Javadoc?](http://stackoverflow.com/questions/2088528) (2 upvotes)  
-2092474. [PostMethod setRequestBody(String) deprecated - why?](http://stackoverflow.com/questions/2092474) (25 upvotes)  
-2092834. [How to use Javadoc options (such as -notdeprecated) in eclipse?](http://stackoverflow.com/questions/2092834) (3 upvotes)  
-2093378. [The -nodeprecated option in javadoc doesn't seem to work. What can I do?](http://stackoverflow.com/questions/2093378) (3 upvotes)  
-2102336. [How do I wire up my Java UI to a JPL Prolog application?](http://stackoverflow.com/questions/2102336) (4 upvotes)  
-2115292. [Run Hadoop job without using JobConf](http://stackoverflow.com/questions/2115292) (20 upvotes)  
-2158009. [Deprecated richfaces javax.faces.el.MethodBinding replacement use](http://stackoverflow.com/questions/2158009) (4 upvotes)  
-2158627. [Non-Deprecated StringBufferInputStream equivalent](http://stackoverflow.com/questions/2158627) (6 upvotes)  
-2159089. [returning a4j:included content using bean-generated rich:dropDownMenu](http://stackoverflow.com/questions/2159089) (2 upvotes)  
-2178532. [JPype - Issue importing & calling methods!](http://stackoverflow.com/questions/2178532) (1 upvotes)  
-2180966. [Bug Running Android Tutorial HelloTabWidget under SDK 1.5: "setCurrentTag(getIntent())"](http://stackoverflow.com/questions/2180966) (3 upvotes)  
-2190500. [WebSockets served by a Servlet Container](http://stackoverflow.com/questions/2190500) (12 upvotes)  
-2213109. [java.util.Timer: Is it deprecated?](http://stackoverflow.com/questions/2213109) (14 upvotes)  
-2218349. [Java socket server, C# socket client, communication problems?](http://stackoverflow.com/questions/2218349) (1 upvotes)  
-2227965. [facebook java api: what is the replacement for all the feed_* methods?](http://stackoverflow.com/questions/2227965) (0 upvotes)  
-2232077. [Problem Working with Neo](http://stackoverflow.com/questions/2232077) (1 upvotes)  
-2264430. [problem loading J connector](http://stackoverflow.com/questions/2264430) (0 upvotes)  
-2289243. [What class should I inherit to create a database integration test in case of Spring?](http://stackoverflow.com/questions/2289243) (1 upvotes)  
-2300227. [Are java app servers able to destroy threads? If yes, how?](http://stackoverflow.com/questions/2300227) (6 upvotes)  
-2301207. [How can I Resolve this Runtime Error that Seems to be Related to Dialog Boxes?](http://stackoverflow.com/questions/2301207) (0 upvotes)  
-2311775. [Java version migration deprecated date methods](http://stackoverflow.com/questions/2311775) (6 upvotes)  
-2347206. [GWT: Referencing deprecated class SerializableException](http://stackoverflow.com/questions/2347206) (3 upvotes)  
-2354255. [What happened to the Spring Modules project?](http://stackoverflow.com/questions/2354255) (3 upvotes)  
-2358651. [Are Java Properties effectively deprecated?](http://stackoverflow.com/questions/2358651) (11 upvotes)  
-2380837. [How can I automatically log use of any @Deprecated annoted method in Java?](http://stackoverflow.com/questions/2380837) (5 upvotes)  
-2405954. [How to handle major framework/dependency upgrades?](http://stackoverflow.com/questions/2405954) (6 upvotes)  
-2411343. [request scoped beans in spring testing](http://stackoverflow.com/questions/2411343) (12 upvotes)  
-2434555. [How to replace the deprecated csc ant task](http://stackoverflow.com/questions/2434555) (2 upvotes)  
-2514499. [Spring 3 replacement for isDisabledInThisEnvironment](http://stackoverflow.com/questions/2514499) (1 upvotes)  
-2551999. [Why is (javax.servlet.)SingleThreadModel deprecated?](http://stackoverflow.com/questions/2551999) (9 upvotes)  
-2569060. [What's the correct way to read an inputStream into a node property in JCR 2?](http://stackoverflow.com/questions/2569060) (3 upvotes)  
-2580601. [Inter Widget Communication for iGoogle like portals](http://stackoverflow.com/questions/2580601) (0 upvotes)  
-2583138. [How do i detect the deprecated methods in a program?](http://stackoverflow.com/questions/2583138) (3 upvotes)  
-2599993. [How can I close a JFrame by click on a button?](http://stackoverflow.com/questions/2599993) (3 upvotes)  
-2619691. [extract day from Date](http://stackoverflow.com/questions/2619691) (9 upvotes)  
-2622804. [How to indefinitely pause a thread in Java and later resume it?](http://stackoverflow.com/questions/2622804) (18 upvotes)  
-2646965. [What to use instead validator in jaxb 2.0](http://stackoverflow.com/questions/2646965) (2 upvotes)  
-2654529. [Are all of the core J2EE patterns still good in context of Java EE?](http://stackoverflow.com/questions/2654529) (10 upvotes)  
-2703511. [Best Java library(ies) for forgiving command interpreter](http://stackoverflow.com/questions/2703511) (1 upvotes)  
-2708229. [Is this a safe way to release resources in Java?](http://stackoverflow.com/questions/2708229) (0 upvotes)  
-2720689. [Stopping looping thread in Java](http://stackoverflow.com/questions/2720689) (4 upvotes)  
-2725940. [Should we use the Date Object in java?](http://stackoverflow.com/questions/2725940) (3 upvotes)  
-2727698. [Date object to Calendar [Java]](http://stackoverflow.com/questions/2727698) (26 upvotes)  
-2770321. [What is a raw type and why shouldn't we use it?](http://stackoverflow.com/questions/2770321) (145 upvotes)  
-2778313. [Any techniques to interrupt, kill, or otherwise unwind (releasing synchronization locks) a single deadlocked Java thread allowing other threads to continue?](http://stackoverflow.com/questions/2778313) (1 upvotes)  
-2781286. [Thread Suicide on Shutdown? stopping java.util.Timer instance](http://stackoverflow.com/questions/2781286) (4 upvotes)  
-2782763. [@ContextConfiguration in Spring 3.0 give me No default constructor found](http://stackoverflow.com/questions/2782763) (0 upvotes)  
-2789241. [Generate URL for File](http://stackoverflow.com/questions/2789241) (5 upvotes)  
-2800799. [Java's Swing seems to be changing the layout from Card Layout](http://stackoverflow.com/questions/2800799) (0 upvotes)  
-2801327. [How to use a int2 database-field as a boolean in Java using JPA/Hibernate](http://stackoverflow.com/questions/2801327) (1 upvotes)  
-2867747. [Create java sandbox based on security policies](http://stackoverflow.com/questions/2867747) (9 upvotes)  
-2868396. [force warning in java](http://stackoverflow.com/questions/2868396) (8 upvotes)  
-2873254. [Difference between a deprecated and a legacy API?](http://stackoverflow.com/questions/2873254) (20 upvotes)  
-2876962. [Overriding a deprecated JComponent method](http://stackoverflow.com/questions/2876962) (0 upvotes)  
-2901262. [Why were most java.util.Date methods deprecated?](http://stackoverflow.com/questions/2901262) (29 upvotes)  
-2936155. [Java: file write on finalize method](http://stackoverflow.com/questions/2936155) (3 upvotes)  
-2941900. [Is it wrong to use Deprecated methods or classes in Java?](http://stackoverflow.com/questions/2941900) (80 upvotes)  
-2951729. [DataTable with dynamic columns](http://stackoverflow.com/questions/2951729) (11 upvotes)  
-2956141. [Digest authentication with Jersey Client](http://stackoverflow.com/questions/2956141) (8 upvotes)  
-2997488. [java heap allocation](http://stackoverflow.com/questions/2997488) (2 upvotes)  
-3008390. [Error building java project](http://stackoverflow.com/questions/3008390) (0 upvotes)  
-3010855. [RESTlet startup initialization deprecated?](http://stackoverflow.com/questions/3010855) (0 upvotes)  
-3018775. [what happens to running/blocked runnables when executorservice is shutdown()](http://stackoverflow.com/questions/3018775) (2 upvotes)  
-3064835. [Best way to identify and dispose locked thread in java](http://stackoverflow.com/questions/3064835) (1 upvotes)  
-3068817. [Hibernate triggering constraint violations using orphanRemoval](http://stackoverflow.com/questions/3068817) (8 upvotes)  
-3080888. [Lucene 3: Where is StandardAnalyzer?](http://stackoverflow.com/questions/3080888) (4 upvotes)  
-3145968. [How can I exclude sources in a javac task in ant?](http://stackoverflow.com/questions/3145968) (8 upvotes)  
-3189308. [Convert .csv to .xls in Java](http://stackoverflow.com/questions/3189308) (5 upvotes)  
-3197370. [SiteMesh - still active? v2 vs v3?](http://stackoverflow.com/questions/3197370) (11 upvotes)  
-3200462. [How to create reusable components in Spring MVC 3.0](http://stackoverflow.com/questions/3200462) (1 upvotes)  
-3203903. [javax.mail blocking while trying to connect](http://stackoverflow.com/questions/3203903) (1 upvotes)  
-3208782. [If you could substantially alter Java's classpath libraries, whichdifferent decisions would you make?](http://stackoverflow.com/questions/3208782) (1 upvotes)  
-3209409. [Tomcat intermittently servicing requests](http://stackoverflow.com/questions/3209409) (2 upvotes)  
-3210117. [Is there a way, in Eclipse, to remove deprecated warnings, pre Java 1.5](http://stackoverflow.com/questions/3210117) (7 upvotes)  
-3222078. [Running project in command prompt](http://stackoverflow.com/questions/3222078) (2 upvotes)  
-3226916. [Migrate from Spring 2.5 to 3 within an existing Axis 1.4 webservice](http://stackoverflow.com/questions/3226916) (4 upvotes)  
-3260294. [Weblogic 10.3 managed server shared memory object(s)](http://stackoverflow.com/questions/3260294) (1 upvotes)  
-3273825. [Java - Deprecated API - DataInputStream.readLine](http://stackoverflow.com/questions/3273825) (-3 upvotes)  
-3306498. [Is Hibernate deprecated?](http://stackoverflow.com/questions/3306498) (12 upvotes)  
-3364991. [Deprecated Date methods in Java?](http://stackoverflow.com/questions/3364991) (6 upvotes)  
-3375943. [In GWT, how can I override DisclosurePanel's CSS using <ui:style> or ClientBundle](http://stackoverflow.com/questions/3375943) (2 upvotes)  
-3401595. [Ant build fails with no visible errors](http://stackoverflow.com/questions/3401595) (2 upvotes)  
-3402895. [Java ThreadPool usage](http://stackoverflow.com/questions/3402895) (6 upvotes)  
-3404516. [Stop a Java thread which calls an Oracle procedure](http://stackoverflow.com/questions/3404516) (1 upvotes)  
-3435667. [What problems arise if you use deprecated methods/functions in Java?](http://stackoverflow.com/questions/3435667) (6 upvotes)  
-3450164. [Understanding SOAPAction in http header (Java somewhat involved)](http://stackoverflow.com/questions/3450164) (0 upvotes)  
-3450356. [Java Deprecated Class using a Deprecated Class -- Can I turn off the compiler warning?](http://stackoverflow.com/questions/3450356) (2 upvotes)  
-3488045. [Importing java classes](http://stackoverflow.com/questions/3488045) (0 upvotes)  
-3515095. [Why can't jdk 1.5 load a jar created with maven? (Bad version number)](http://stackoverflow.com/questions/3515095) (0 upvotes)  
-3515209. [How to retrieve active sessions in a tomcat instance?](http://stackoverflow.com/questions/3515209) (0 upvotes)  
-3526556. [session.connection() deprecated on Hibernate?](http://stackoverflow.com/questions/3526556) (28 upvotes)  
-3528012. [Another simple problem with integrating Junit and Ant](http://stackoverflow.com/questions/3528012) (0 upvotes)  
-3537173. [Help with Stopping a thread](http://stackoverflow.com/questions/3537173) (0 upvotes)  
-3564603. [Why javac task does not creates classes](http://stackoverflow.com/questions/3564603) (0 upvotes)  
-3578743. [Has Oracle removed Sun net.ftp classes?](http://stackoverflow.com/questions/3578743) (1 upvotes)  
-3589946. [Retrofitting void methods to return its argument to facilitate fluency: breaking change?](http://stackoverflow.com/questions/3589946) (7 upvotes)  
-3604154. [Replacement for Spring's AbstractCommandController](http://stackoverflow.com/questions/3604154) (0 upvotes)  
-3638248. [Any known discusson of why string identifiers are used to access resource data](http://stackoverflow.com/questions/3638248) (7 upvotes)  
-3639198. [How to read PGM images in Java?](http://stackoverflow.com/questions/3639198) (2 upvotes)  
-3649577. [JPype compile problems](http://stackoverflow.com/questions/3649577) (1 upvotes)  
-3654588. [Annoyance - Warning when using Mina 2.x with Spring 3.x](http://stackoverflow.com/questions/3654588) (3 upvotes)  
-3677380. [proper hibernate annotation for byte[]](http://stackoverflow.com/questions/3677380) (51 upvotes)  
-3698171. [Java : naming convention for accessors](http://stackoverflow.com/questions/3698171) (5 upvotes)  
-3698604. [Spring web application can't start due to previous error](http://stackoverflow.com/questions/3698604) (1 upvotes)  
-3728901. [lucene delete record, deprecated?](http://stackoverflow.com/questions/3728901) (1 upvotes)  
-3735571. [jtable columns too small](http://stackoverflow.com/questions/3735571) (1 upvotes)  
-3767364. [Why does Hudson ignore my profiles.xml file?](http://stackoverflow.com/questions/3767364) (2 upvotes)  
-3788839. [Good way to generate simple javadoc](http://stackoverflow.com/questions/3788839) (0 upvotes)  
-3832155. [How to implement both right-click and left-click with ClickHandler on a FlexTable (with GWTs "new" event-handling-model)](http://stackoverflow.com/questions/3832155) (2 upvotes)  
-3850079. [Shouldn't a method that receives java.lang.Object as input also receive javax.servlet.jsp.JspWriter as input?](http://stackoverflow.com/questions/3850079) (1 upvotes)  
-3866935. [Tokenizing source code in Java](http://stackoverflow.com/questions/3866935) (3 upvotes)  
-3870894. [getting rid of Hbase configuration deprecated warning](http://stackoverflow.com/questions/3870894) (2 upvotes)  
-3885725. [Setting both error message and body from servlet](http://stackoverflow.com/questions/3885725) (4 upvotes)  
-3897185. [Dynamic Command Class in Annotated Controller](http://stackoverflow.com/questions/3897185) (4 upvotes)  
-3947866. [I want to get the real path of a file in java by using the request method getRealPath()but it is deprecated now i want an alternate to it](http://stackoverflow.com/questions/3947866) (0 upvotes)  
-3950002. [Is there a dbunit-like framework that doesn't suck for java/scala?](http://stackoverflow.com/questions/3950002) (36 upvotes)  
-3963274. [What does my Servlet have that my JSP is missing?](http://stackoverflow.com/questions/3963274) (0 upvotes)  
-3971301. [Blackberry @Override notation error](http://stackoverflow.com/questions/3971301) (0 upvotes)  
-3972568. [Java Date getDate() deprecated, refactored to use calendar but looks ugly](http://stackoverflow.com/questions/3972568) (5 upvotes)  
-3991824. [Will the Mac App Store allow apps to use a non-Apple Java runtime?](http://stackoverflow.com/questions/3991824) (1 upvotes)  
-3991992. [Apple deprecating Java. Will Apple-specific customizations still work with other JREs/JVMs?](http://stackoverflow.com/questions/3991992) (2 upvotes)  
-4007252. [Need guidance on alternative JVMs for Apple OS X](http://stackoverflow.com/questions/4007252) (11 upvotes)  
-4009900. [JTable cell not reflecting changes, though editable](http://stackoverflow.com/questions/4009900) (0 upvotes)  
-4009956. [Now that Apple's deprecating Java, what language should I focus on?](http://stackoverflow.com/questions/4009956) (4 upvotes)  
-4017223. [Java on Mac OS X Server: game over?](http://stackoverflow.com/questions/4017223) (3 upvotes)  
-4021058. [Apple deprecates Java, what are our technical options as programmers?](http://stackoverflow.com/questions/4021058) (6 upvotes)  
-4033457. [Is there an unsupported operation annotation in Java?](http://stackoverflow.com/questions/4033457) (8 upvotes)  
-4044107. [Migrating from Java Calendar to Joda Date Time](http://stackoverflow.com/questions/4044107) (9 upvotes)  
-4091423. [Why is Logger.isInfoEnabled deprecated for org.jboss.logging.Logger?](http://stackoverflow.com/questions/4091423) (4 upvotes)  
-4114543. [Proper method to find user's My Documents folder on Windows with Java?](http://stackoverflow.com/questions/4114543) (13 upvotes)  
-4136112. [NetBeans Platform - 6.8 app no longer works in 6.9](http://stackoverflow.com/questions/4136112) (0 upvotes)  
-4139709. [Deployment strategies for Web Services](http://stackoverflow.com/questions/4139709) (3 upvotes)  
-4142322. [Is using deprecated methods in java bad programming?](http://stackoverflow.com/questions/4142322) (1 upvotes)  
-4166230. [What alternative is there to the recycle method in Java's HttpMethod?](http://stackoverflow.com/questions/4166230) (2 upvotes)  
-4186330. [stop a thread in java after a given time - doesn't work](http://stackoverflow.com/questions/4186330) (1 upvotes)  
-4188406. [Base64 encoding in Java / Groovy](http://stackoverflow.com/questions/4188406) (8 upvotes)  
-4197693. [Attempting to inline Java into Perl via the Inline::Java module](http://stackoverflow.com/questions/4197693) (1 upvotes)  
-4198916. [Java - ArrayList - Get a value from an Array of array](http://stackoverflow.com/questions/4198916) (0 upvotes)  
-4200142. [Why do I get a ClassNotFoundException when using Class.forName(...)?](http://stackoverflow.com/questions/4200142) (2 upvotes)  
-4205300. [Has Sun deprecated Java DTD URLs?](http://stackoverflow.com/questions/4205300) (0 upvotes)  
-4215578. [simulating job checkpointing java](http://stackoverflow.com/questions/4215578) (0 upvotes)  
-4256252. [Tool that lists all deprecated classes/methods that are no longer used anywhere?](http://stackoverflow.com/questions/4256252) (3 upvotes)  
-4260531. [When making an MDI should I use JDesktopPane or JFrame](http://stackoverflow.com/questions/4260531) (0 upvotes)  
-4275502. [Why was hibernate's ClassMetadata.getIdentifier(Object, EntityMode) deprecated](http://stackoverflow.com/questions/4275502) (2 upvotes)  
-4277819. [Java enum : Refactoring switch statements 'constant expression required' compile error?](http://stackoverflow.com/questions/4277819) (3 upvotes)  
-4296343. [Java GoogleMaps](http://stackoverflow.com/questions/4296343) (0 upvotes)  
-4296747. [how to convert uri string to complex object type in spring](http://stackoverflow.com/questions/4296747) (1 upvotes)  
-4315246. [MAC osx, change datadir mysql, still not working](http://stackoverflow.com/questions/4315246) (0 upvotes)  
-4321221. [problem with incremental update in lucene](http://stackoverflow.com/questions/4321221) (3 upvotes)  
-4332586. [why is org.hibernate.cache.Cache deprecated?](http://stackoverflow.com/questions/4332586) (5 upvotes)  
-4338216. [What is the "best practice" to remove support for a feature?](http://stackoverflow.com/questions/4338216) (7 upvotes)  
-4351483. [Which Hibernate FetchMode will cause collections to be lazy-loaded?](http://stackoverflow.com/questions/4351483) (2 upvotes)  
-4385079. [GlassFish: Deploy w/ --force](http://stackoverflow.com/questions/4385079) (2 upvotes)  
-4387622. [OOoBeans dead? - What are my alternatives?](http://stackoverflow.com/questions/4387622) (6 upvotes)  
-4415365. [How to implement `range()`](http://stackoverflow.com/questions/4415365) (2 upvotes)  
-4423561. [Java: How might one go about generating custom compiler warnings for method usages?](http://stackoverflow.com/questions/4423561) (3 upvotes)  
-4444670. [JAXB substitution group marshals but will not unmarshal correctly](http://stackoverflow.com/questions/4444670) (2 upvotes)  
-4451466. [apache.commons.fileupload throws MalformedStreamException](http://stackoverflow.com/questions/4451466) (2 upvotes)  
-4455694. [Adding raw bytes to post parameters using Apache HttpClient](http://stackoverflow.com/questions/4455694) (3 upvotes)  
-4466577. [What is the TabLayoutPanel equivalent of TabPanel.getTabBar().setTabEnabled()](http://stackoverflow.com/questions/4466577) (1 upvotes)  
-4525684. [Should Vector be deprecated?](http://stackoverflow.com/questions/4525684) (8 upvotes)  
-4527934. [Ant build failure due to non-loading dependent Task class](http://stackoverflow.com/questions/4527934) (0 upvotes)  
-4532719. [StringBufferInputStream Question in Java](http://stackoverflow.com/questions/4532719) (0 upvotes)  
-4544128. [How can I make external methods interruptable?](http://stackoverflow.com/questions/4544128) (28 upvotes)  
-4545624. [Is posible to know if a certain Thread is alive?](http://stackoverflow.com/questions/4545624) (0 upvotes)  
-4556401. [How to stop uninterruptible threads in Java](http://stackoverflow.com/questions/4556401) (2 upvotes)  
-4561702. [Compiling PrimeFaces 1.1](http://stackoverflow.com/questions/4561702) (0 upvotes)  
-4570768. [Create table class as a singleton](http://stackoverflow.com/questions/4570768) (2 upvotes)  
-4621141. [Getting errors when building C3p0 from source](http://stackoverflow.com/questions/4621141) (4 upvotes)  
-4623667. [AbstractWizardFormController using Annotated @Controllers](http://stackoverflow.com/questions/4623667) (17 upvotes)  
-4648765. [Removing deprecated functionality from a library](http://stackoverflow.com/questions/4648765) (2 upvotes)  
-4665923. [deprecated error in LUWIT](http://stackoverflow.com/questions/4665923) (1 upvotes)  
-4697193. [Where is apache-cassandra-x.x.x.jar in lib?](http://stackoverflow.com/questions/4697193) (0 upvotes)  
-4705709. [Various way to stop a thread - which is the correct way](http://stackoverflow.com/questions/4705709) (4 upvotes)  
-4722873. [unable to build new java spring project](http://stackoverflow.com/questions/4722873) (0 upvotes)  
-4734259. [Spring SimpleFormController in 3.0](http://stackoverflow.com/questions/4734259) (14 upvotes)  
-4744391. [Eclipse doesn't strike out deprecated classes?](http://stackoverflow.com/questions/4744391) (2 upvotes)  
-4762842. [Kill a stuck thread on a running VM (JBoss Instance) in Java?](http://stackoverflow.com/questions/4762842) (6 upvotes)  
-4783063. [Configuring Spring Security 3.x to have multiple entry points](http://stackoverflow.com/questions/4783063) (37 upvotes)  
-4784987. [Calling System.gc( ) explicitly?](http://stackoverflow.com/questions/4784987) (13 upvotes)  
-4786982. [Depth in SVNClient (JavaHL)](http://stackoverflow.com/questions/4786982) (0 upvotes)  
-4799754. [Why are Vector and HashTable widely believed to be due for deprecation?](http://stackoverflow.com/questions/4799754) (1 upvotes)  
-4803700. [Xuggle and red5 without red5 adapter](http://stackoverflow.com/questions/4803700) (0 upvotes)  
-4845032. [Where's the official JSP tutorial](http://stackoverflow.com/questions/4845032) (50 upvotes)  
-4874507. [Secure Java Web Services](http://stackoverflow.com/questions/4874507) (4 upvotes)  
-4912441. [JSF view calculations](http://stackoverflow.com/questions/4912441) (1 upvotes)  
-4930934. [Hibernate CompositeUserType for immutable object](http://stackoverflow.com/questions/4930934) (6 upvotes)  
-4956209. [problem in ant build invalid target release](http://stackoverflow.com/questions/4956209) (10 upvotes)  
-4972973. [Calling a Java class function from Cocoa with JNI](http://stackoverflow.com/questions/4972973) (2 upvotes)  
-4996350. [Deprecate class inheritance only](http://stackoverflow.com/questions/4996350) (7 upvotes)  
-4997072. [How to place view anywhere on screen?](http://stackoverflow.com/questions/4997072) (0 upvotes)  
-5009425. [Desperately need help with Glassfish 3.1 deployment and issues running in Maven](http://stackoverflow.com/questions/5009425) (2 upvotes)  
-5011964. [Ant script execution fails](http://stackoverflow.com/questions/5011964) (0 upvotes)  
-5012436. [Spring, Tomcat 6, and ANT Build Scripts: java.lang.ClassNotFoundException: org.springframework.web.context.ContextLoaderListener](http://stackoverflow.com/questions/5012436) (1 upvotes)  
-5034311. [Multiple readers for InputStream in Java](http://stackoverflow.com/questions/5034311) (3 upvotes)  
-5039723. [Should I use JavaDoc deprecation or the annotation in Java?](http://stackoverflow.com/questions/5039723) (46 upvotes)  
-5046771. [How to get today's Date?](http://stackoverflow.com/questions/5046771) (5 upvotes)  
-5065199. [Should you use Entity Beans for Domain Model](http://stackoverflow.com/questions/5065199) (3 upvotes)  
-5074454. [What is the clearest way to deprecate a package in Java?](http://stackoverflow.com/questions/5074454) (12 upvotes)  
-5086236. [How do you make javac recompile source files when their dependencies change?](http://stackoverflow.com/questions/5086236) (4 upvotes)  
-5094598. [SeleneseTestCase is deprecated - how to call verify* methods?](http://stackoverflow.com/questions/5094598) (2 upvotes)  
-5109146. [Does the method parameters with different generics make the methods have different signature?](http://stackoverflow.com/questions/5109146) (1 upvotes)  
-5123227. [Do Java Threads need any cleanup?](http://stackoverflow.com/questions/5123227) (9 upvotes)  
-5130074. [What's the alternative to using the now deprecated com.apple.eawt.ApplicationAdapter in Java Swing apps on the Mac?](http://stackoverflow.com/questions/5130074) (3 upvotes)  
-5139937. [Why is the Hashtable class deprecated?](http://stackoverflow.com/questions/5139937) (12 upvotes)  
-5144169. [Recieving 'null' values from a jsp page into Struts2 Action](http://stackoverflow.com/questions/5144169) (3 upvotes)  
-5173932. [How to exclude cyclic deprecated dependencies in maven without killing the dependencies completely?](http://stackoverflow.com/questions/5173932) (1 upvotes)  
-5216689. [Mark as deprecated third party class](http://stackoverflow.com/questions/5216689) (1 upvotes)  
-5218969. [Why is Thread.stop() so dangerous](http://stackoverflow.com/questions/5218969) (2 upvotes)  
-5220651. [Jetty SslConnector's deprecated methods](http://stackoverflow.com/questions/5220651) (3 upvotes)  
-5231325. [MySQL 5.5.9 and Hibernate table creation error on TYPE](http://stackoverflow.com/questions/5231325) (14 upvotes)  
-5231371. [Springs XmlBeanFactory is deprecated](http://stackoverflow.com/questions/5231371) (19 upvotes)  
-5233445. [How to get a Java component ID](http://stackoverflow.com/questions/5233445) (2 upvotes)  
-5244312. [Why doesn't Thread.stop work in situations where Thread.interrupt doesn't work?](http://stackoverflow.com/questions/5244312) (2 upvotes)  
-5284139. [How do I find the process ID (pid) of a process started in java?](http://stackoverflow.com/questions/5284139) (14 upvotes)  
-5313806. [Why isn't google api client library built on top of Apache's Abdera framework?](http://stackoverflow.com/questions/5313806) (5 upvotes)  
-5314738. [Javadoc: Annotations from third party libraries](http://stackoverflow.com/questions/5314738) (2 upvotes)  
-5317329. [XMPP with Java Asmack library supporting X-FACEBOOK-PLATFORM](http://stackoverflow.com/questions/5317329) (10 upvotes)  
-5338888. [JackRabbit persistence managers clarification](http://stackoverflow.com/questions/5338888) (3 upvotes)  
-5355786. [MultipleOutputFormat support for with 'Job'](http://stackoverflow.com/questions/5355786) (0 upvotes)  
-5362455. [auto boxing and boxing of wrapper classes](http://stackoverflow.com/questions/5362455) (3 upvotes)  
-5369246. [Upgrading to springframework.scheduling.concurrent?](http://stackoverflow.com/questions/5369246) (3 upvotes)  
-5465935. [Loading a Cursor in Android with info from the MediaStore.Audio provider](http://stackoverflow.com/questions/5465935) (0 upvotes)  
-5468244. [how to mark all implemented methods deprecated](http://stackoverflow.com/questions/5468244) (0 upvotes)  
-5493136. [WebSphere: Alternative to deprecated method WSJdbcUtil.getNativeConnection](http://stackoverflow.com/questions/5493136) (0 upvotes)  
-5509704. [Invalid value 0 for Month field. while converting util.date to XMLgregoriandate?](http://stackoverflow.com/questions/5509704) (1 upvotes)  
-5541316. [how to build jar file from my project?](http://stackoverflow.com/questions/5541316) (2 upvotes)  
-5546979. [[Java]Double buffering failing to double buffer](http://stackoverflow.com/questions/5546979) (0 upvotes)  
-5555551. [Application migration from Java EE/PHP to Rails 3 - Models](http://stackoverflow.com/questions/5555551) (0 upvotes)  
-5569226. [How to stop ServerSocket Thread correctly?  Close Socket failed](http://stackoverflow.com/questions/5569226) (0 upvotes)  
-5586633. [NoSuchFieldError but the field is there](http://stackoverflow.com/questions/5586633) (0 upvotes)  
-5611387. [DataInputStream deprecated readLine() method](http://stackoverflow.com/questions/5611387) (10 upvotes)  
-5616242. [Did someone use ClickAndHoldAction, MoveMouseAction and ButtonReleaseAction methods as a replacement for drag and drop in Selenium?](http://stackoverflow.com/questions/5616242) (0 upvotes)  
-5616444. [Can I kill a thread that is waiting for TCP connection to come in?](http://stackoverflow.com/questions/5616444) (4 upvotes)  
-5616645. [Is it possible to do Server -> Facebook authentication?](http://stackoverflow.com/questions/5616645) (0 upvotes)  
-5619345. [What does InetAddress.isSiteLocalAddress() actually mean?](http://stackoverflow.com/questions/5619345) (3 upvotes)  
-5633424. [Is it an eclipse or maven-compiler-plugin bug, the generics Class cast issue?](http://stackoverflow.com/questions/5633424) (2 upvotes)  
-5676245. [Java API Design: NumberFormatException for Method that Parses a Semi-Numeric String?](http://stackoverflow.com/questions/5676245) (11 upvotes)  
-5677260. [Blackberry: change sorting of a KeywordFilterField](http://stackoverflow.com/questions/5677260) (3 upvotes)  
-5677470. [Java: Why is Date deprecated, and what do I use instead?](http://stackoverflow.com/questions/5677470) (61 upvotes)  
-5682411. [Is the Java API deprecated in Neo4j 1.3?](http://stackoverflow.com/questions/5682411) (1 upvotes)  
-5686755. [Meaning of epsilon argument of assertEquals for double values](http://stackoverflow.com/questions/5686755) (67 upvotes)  
-5699038. [Understanding Annotation Processing in Java](http://stackoverflow.com/questions/5699038) (1 upvotes)  
-5724068. [How to have the user choose an audio file and play it in Java](http://stackoverflow.com/questions/5724068) (1 upvotes)  
-5727448. [How to instantiate AsyncTask](http://stackoverflow.com/questions/5727448) (1 upvotes)  
-5737129. [Trying to distort audio in Java](http://stackoverflow.com/questions/5737129) (0 upvotes)  
-5746540. [Maven exec plugin main class missing](http://stackoverflow.com/questions/5746540) (4 upvotes)  
-5753705. [ant and jdk 1.6 but compile with 1.5](http://stackoverflow.com/questions/5753705) (1 upvotes)  
-5769717. [How can I get an http response body as a string in Java?](http://stackoverflow.com/questions/5769717) (32 upvotes)  
-5783991. [EclipseLink 2: ANT Task Error](http://stackoverflow.com/questions/5783991) (0 upvotes)  
-5785306. [Access Widget Attribute Through AttributeSet - Android](http://stackoverflow.com/questions/5785306) (0 upvotes)  
-5802111. [Migration to Spring WS 2.0 failed due to lack of bean endpoint mapping?](http://stackoverflow.com/questions/5802111) (11 upvotes)  
-5822259. [Creating a Java date from YMD HMS values without using deprecated code](http://stackoverflow.com/questions/5822259) (1 upvotes)  
-5822656. [Row in JTable problem](http://stackoverflow.com/questions/5822656) (0 upvotes)  
-5826113. [The type is deprecated](http://stackoverflow.com/questions/5826113) (4 upvotes)  
-5828625. [If Swing is deprecated, what is the alternative?](http://stackoverflow.com/questions/5828625) (12 upvotes)  
-5834694. [Java PostMethod with xml](http://stackoverflow.com/questions/5834694) (1 upvotes)  
-5837895. [Android InstallException: EOF Google MapsView "Hello Maps"](http://stackoverflow.com/questions/5837895) (2 upvotes)  
-5842504. [Facebook OAuth on Android](http://stackoverflow.com/questions/5842504) (1 upvotes)  
-5845137. [Good open source web app using Servlets/JSP?](http://stackoverflow.com/questions/5845137) (2 upvotes)  
-5855387. [Stopping a clip from playing in the run](http://stackoverflow.com/questions/5855387) (1 upvotes)  
-5862560. [java.awt.HeadlessException in Spring 3.0.5](http://stackoverflow.com/questions/5862560) (1 upvotes)  
-5864261. [How do I get persistence with AKKA for MySQL using the Java API?](http://stackoverflow.com/questions/5864261) (0 upvotes)  
-5871190. [Why are JSR/RET deprecated Java bytecode?](http://stackoverflow.com/questions/5871190) (6 upvotes)  
-5884933. [java issue with date](http://stackoverflow.com/questions/5884933) (1 upvotes)  
-5903191. [Struts2 validation when using divs loaded from ajax](http://stackoverflow.com/questions/5903191) (1 upvotes)  
-5915621. [get jButton position "deprecated" function](http://stackoverflow.com/questions/5915621) (1 upvotes)  
-5917697. [use system classpath for ant javac task](http://stackoverflow.com/questions/5917697) (4 upvotes)  
-5921781. [Java Date.parse or new Date(String) replacement?](http://stackoverflow.com/questions/5921781) (1 upvotes)  
-5929439. [replace StringTokenizer by String.split(..)](http://stackoverflow.com/questions/5929439) (2 upvotes)  
-5939788. [JUnit assertEquals(double expected, double actual, double epsilon)](http://stackoverflow.com/questions/5939788) (5 upvotes)  
-5950806. [Merge java.util.date with java.sql.Time](http://stackoverflow.com/questions/5950806) (2 upvotes)  
-5976407. [Hibernate storing maps using @MapKey annotation](http://stackoverflow.com/questions/5976407) (0 upvotes)  
-5995365. [Can't Build NetBeans/Ant Project](http://stackoverflow.com/questions/5995365) (3 upvotes)  
-6003129. [AccountManager seems to return wrong authToken](http://stackoverflow.com/questions/6003129) (2 upvotes)  
-6009261. [Problems with cascading deletion in Hibernate](http://stackoverflow.com/questions/6009261) (5 upvotes)  
-6026491. [How do I combine multiple form inputs into a single object with SimpleFormController in Spring?](http://stackoverflow.com/questions/6026491) (1 upvotes)  
-6034203. [MapReduce programming](http://stackoverflow.com/questions/6034203) (1 upvotes)  
-6043959. [Replacement for deprecated items in java](http://stackoverflow.com/questions/6043959) (0 upvotes)  
-6046143. [Generating Spring WS Client from RPC/encoded WSDL with ease?](http://stackoverflow.com/questions/6046143) (4 upvotes)  
-6057070. [Is there any JavaFX gui builder?](http://stackoverflow.com/questions/6057070) (0 upvotes)  
-6074940. [facebook chat authentication using the X-FACEBOOK-PLATFORM SASL authentication](http://stackoverflow.com/questions/6074940) (1 upvotes)  
-6084475. [How to check if a path points to an existing file with Java 7's new File API?](http://stackoverflow.com/questions/6084475) (8 upvotes)  
-6106033. [Where can I find the deprecated item's replacement in java?](http://stackoverflow.com/questions/6106033) (0 upvotes)  
-6111248. [Iterate twice on values](http://stackoverflow.com/questions/6111248) (12 upvotes)  
-6117788. [How do I write a Hadoop map reduce job without using deprecated classes?](http://stackoverflow.com/questions/6117788) (2 upvotes)  
-6139140. [How to encrypt Paypal button in Java](http://stackoverflow.com/questions/6139140) (1 upvotes)  
-6164497. [looking up for loaded modules/services in jxta](http://stackoverflow.com/questions/6164497) (1 upvotes)  
-6201197. [run a Java program in specific time](http://stackoverflow.com/questions/6201197) (0 upvotes)  
-6236473. [Problem using App Engine on Mac Java JRE](http://stackoverflow.com/questions/6236473) (0 upvotes)  
-6280465. [Am I closing this Oracle pooled connection correctly?](http://stackoverflow.com/questions/6280465) (2 upvotes)  
-6293410. [Compiling issue in NetBeans](http://stackoverflow.com/questions/6293410) (1 upvotes)  
-6293925. [Spring WS 2.0.2 : Using StAX with @Endpoint](http://stackoverflow.com/questions/6293925) (2 upvotes)  
-6310138. [Compiling but crashing android app. something to do with intent? help](http://stackoverflow.com/questions/6310138) (0 upvotes)  
-6327968. [Incompatible magic value error](http://stackoverflow.com/questions/6327968) (0 upvotes)  
-6328547. [XPath or CSS in Selenium RC with Java is not working](http://stackoverflow.com/questions/6328547) (1 upvotes)  
-6328778. [How to create an empty multi module Maven project?](http://stackoverflow.com/questions/6328778) (18 upvotes)  
-6343594. [android sms null pointer exception](http://stackoverflow.com/questions/6343594) (0 upvotes)  
-6349165. [Missing JAR for starting Selenium server from Java](http://stackoverflow.com/questions/6349165) (0 upvotes)  
-6359123. [Java code for paypal button encryption using BouncyCastle deprecated methods - how to fix?](http://stackoverflow.com/questions/6359123) (3 upvotes)  
-6363801. [InvalidKeyException : Illegal Key Size - Java code throwing exception for encryption class - how to fix?](http://stackoverflow.com/questions/6363801) (11 upvotes)  
-6367690. [Unit Test in Play! Framework Application that does not require a test Play Server](http://stackoverflow.com/questions/6367690) (3 upvotes)  
-6369102. [spring-ws: getting an EchoEndpoint to work, not return 404](http://stackoverflow.com/questions/6369102) (2 upvotes)  
-6373887. [check at compile time if string parameter passed to method has @deprecated annotation](http://stackoverflow.com/questions/6373887) (4 upvotes)  
-6374646. [Java serialization question with backward compatibility](http://stackoverflow.com/questions/6374646) (11 upvotes)  
-6385137. [in java, equivalent to date(String) method?](http://stackoverflow.com/questions/6385137) (0 upvotes)  
-6391539. [Why wasn't java.io.Serializable deprecated in Java 5?](http://stackoverflow.com/questions/6391539) (17 upvotes)  
-6398403. [Blackberry API / MenuItems](http://stackoverflow.com/questions/6398403) (0 upvotes)  
-6403891. [Annotations are deprecated in Hibernate problem](http://stackoverflow.com/questions/6403891) (0 upvotes)  
-6421867. [websphere port conflict preventing app server from starting](http://stackoverflow.com/questions/6421867) (1 upvotes)  
-6437257. [What's the right way to create a date in Java?](http://stackoverflow.com/questions/6437257) (33 upvotes)  
-6456347. [Uploading an image with JSP in Tomcat](http://stackoverflow.com/questions/6456347) (0 upvotes)  
-6467353. [Eclipse / Selenium unable to locate correct library for verifyText, isElementPresent etc](http://stackoverflow.com/questions/6467353) (0 upvotes)  
-6477962. [java android error Writing exception to parcel](http://stackoverflow.com/questions/6477962) (0 upvotes)  
-6497638. [Why thread.stop deprecated and timer.cancel is not?](http://stackoverflow.com/questions/6497638) (4 upvotes)  
-6505573. [Setting the java.library.path using a BAT file on windows 7](http://stackoverflow.com/questions/6505573) (0 upvotes)  
-6519746. [URL Decode in Java 6](http://stackoverflow.com/questions/6519746) (13 upvotes)  
-6544991. [Getting rid of java.util.Iterator](http://stackoverflow.com/questions/6544991) (1 upvotes)  
-6555668. [android threads: stopping a thread with heavy computation](http://stackoverflow.com/questions/6555668) (2 upvotes)  
-6558592. [Android Emulator is Force Closing](http://stackoverflow.com/questions/6558592) (-2 upvotes)  
-6573023. [hibernate mapping for oracle long raw](http://stackoverflow.com/questions/6573023) (2 upvotes)  
-6590661. [DBCP: removeAbandoned VS eviction](http://stackoverflow.com/questions/6590661) (6 upvotes)  
-6596017. [Selenium WebDriver Firefox Java - can´t select option](http://stackoverflow.com/questions/6596017) (0 upvotes)  
-6603064. [Question about Clob object in Hibernate](http://stackoverflow.com/questions/6603064) (3 upvotes)  
-6635099. [Problem when compiling using javac](http://stackoverflow.com/questions/6635099) (0 upvotes)  
-6650239. [Java Continue Label is Deprecated?](http://stackoverflow.com/questions/6650239) (2 upvotes)  
-6653821. [Developing a simple utility class( like a Date class )in java](http://stackoverflow.com/questions/6653821) (-2 upvotes)  
-6659840. [why iterator still exists in java](http://stackoverflow.com/questions/6659840) (1 upvotes)  
-6663397. [OSGi : Is there a 'best way' to handle service and registers?](http://stackoverflow.com/questions/6663397) (1 upvotes)  
-6692299. [how to disable lwuit vkb?](http://stackoverflow.com/questions/6692299) (2 upvotes)  
-6692604. ["411 Length required"-response from Google Docs Api using Android API 10 and below](http://stackoverflow.com/questions/6692604) (1 upvotes)  
-6725341. [Stopping Hostile Threads in JVM](http://stackoverflow.com/questions/6725341) (0 upvotes)  
-6728763. [php to java connector , where to find good one](http://stackoverflow.com/questions/6728763) (-1 upvotes)  
-6745466. [How do I send an email or message to facebook friends through code](http://stackoverflow.com/questions/6745466) (0 upvotes)  
-6752548. [Set line width and file type in output XML](http://stackoverflow.com/questions/6752548) (1 upvotes)  
-6759989. [Dialog in separate thread](http://stackoverflow.com/questions/6759989) (0 upvotes)  
-6769978. [How to pass a variable number of arguments to ant exec](http://stackoverflow.com/questions/6769978) (3 upvotes)  
-6772270. [jsf ValueBinding is deprecated](http://stackoverflow.com/questions/6772270) (2 upvotes)  
-6777568. [guava: best practices with ImmutableList.of(E[])](http://stackoverflow.com/questions/6777568) (5 upvotes)  
-6791072. ["command" modelName magic value in spring MVC 3](http://stackoverflow.com/questions/6791072) (1 upvotes)  
-6829264. [Date operations in Java?](http://stackoverflow.com/questions/6829264) (0 upvotes)  
-6861494. [Calendar .YEAR, .MONTH, DAY_OF_MONTH different than date.getDay() etc?](http://stackoverflow.com/questions/6861494) (4 upvotes)  
-6876155. [Java - Date constructor accepts a Date String, But deprecated. Tried alternatives, but no luck](http://stackoverflow.com/questions/6876155) (4 upvotes)  
-6876400. [Spring WS AbstractJDomPayloadEndpoint deprecated warning](http://stackoverflow.com/questions/6876400) (1 upvotes)  
-6889659. [Generate compiler warning with user defined annotation](http://stackoverflow.com/questions/6889659) (6 upvotes)  
-6890963. [Use google-api-java-client for non-Google API purposes](http://stackoverflow.com/questions/6890963) (0 upvotes)  
-6893753. [How to make something happen at fixed intervals of time in a java program?](http://stackoverflow.com/questions/6893753) (1 upvotes)  
-6903335. [Java 7: Path vs File](http://stackoverflow.com/questions/6903335) (52 upvotes)  
-6929157. [How does this work? Java Date, Calendar and Richface question](http://stackoverflow.com/questions/6929157) (0 upvotes)  
-6929349. [Unable to understand this method (How does it try to match the frame rate ?)](http://stackoverflow.com/questions/6929349) (2 upvotes)  
-6942169. [App crashes when switching to a new Activity/app page](http://stackoverflow.com/questions/6942169) (1 upvotes)  
-6960568. [Having trouble with maven-javadoc-plugin aggregation](http://stackoverflow.com/questions/6960568) (2 upvotes)  
-6983302. [What's the best way to handle/format Javadoc and annotations in code?](http://stackoverflow.com/questions/6983302) (4 upvotes)  
-6983856. [Why is StringTokenizer deprecated?](http://stackoverflow.com/questions/6983856) (31 upvotes)  
-6990781. [How do I execute ant.java properly from gradle?](http://stackoverflow.com/questions/6990781) (5 upvotes)  
-7003962. [Avoid VerifyError overriding a method in older APIs](http://stackoverflow.com/questions/7003962) (1 upvotes)  
-7021696. [JavaDoc Reusable Parameter Values](http://stackoverflow.com/questions/7021696) (2 upvotes)  
-7022504. [How to install and deploy zip as a maven artifact to the right repository?](http://stackoverflow.com/questions/7022504) (0 upvotes)  
-7050321. [Java, Spring, Ant deploys two war files](http://stackoverflow.com/questions/7050321) (1 upvotes)  
-7051074. [Getting NullPointerException in Java](http://stackoverflow.com/questions/7051074) (1 upvotes)  
-7057421. [What is the reason that Policy.getPolicy() is considered as it will retain a static reference to the context and can cause memory leak](http://stackoverflow.com/questions/7057421) (2 upvotes)  
-7087872. [What is annotation indexing?](http://stackoverflow.com/questions/7087872) (1 upvotes)  
-7116030. [C++ to java, language equivalency questions](http://stackoverflow.com/questions/7116030) (2 upvotes)  
-7116467. [Why is Ant returning a 403 on deploy?](http://stackoverflow.com/questions/7116467) (6 upvotes)  
-7135783. [How to import a Jython file into Groovy?](http://stackoverflow.com/questions/7135783) (1 upvotes)  
-7139066. [Why is it so hard to stop a thread in Java?](http://stackoverflow.com/questions/7139066) (2 upvotes)  
-7152555. [Using GWT-RPC vs RequestFactory for passing large arrays](http://stackoverflow.com/questions/7152555) (0 upvotes)  
-7160172. [Cardlayout addLayoutComponent() API](http://stackoverflow.com/questions/7160172) (3 upvotes)  
-7160668. [Android multiple Adviews in a layout](http://stackoverflow.com/questions/7160668) (1 upvotes)  
-7160938. [Using yGuard to obfuscate library in Eclipse](http://stackoverflow.com/questions/7160938) (5 upvotes)  
-7170541. [Problem in creating and publishing Web Service in Mustang(Java 1.6 sdk)](http://stackoverflow.com/questions/7170541) (0 upvotes)  
-7171925. [How can I make my J2EE web application work offline?](http://stackoverflow.com/questions/7171925) (4 upvotes)  
-7231312. [Is it too risky to call Thread.stop on a runaway GroovyShell server thread?](http://stackoverflow.com/questions/7231312) (5 upvotes)  
-7251098. [Ant, Tomcat Build Error: java.lang.NoClassDefFoundError: org/apache/tomcat/util/buf/B2CConverter](http://stackoverflow.com/questions/7251098) (27 upvotes)  
-7261478. [Spring-MVC form validation with MultiActionController](http://stackoverflow.com/questions/7261478) (1 upvotes)  
-7261698. [How should I be declaring and exporting modules?](http://stackoverflow.com/questions/7261698) (5 upvotes)  
-7262774. [Java, lucene, searcher indexer problem how to do it?](http://stackoverflow.com/questions/7262774) (0 upvotes)  
-7267914. [Java Ant, error getting Ivy from repo](http://stackoverflow.com/questions/7267914) (0 upvotes)  
-7282042. [issue with Google translation API](http://stackoverflow.com/questions/7282042) (0 upvotes)  
-7286346. [Java 7: Thread reuse? (disconnect - reconnect)](http://stackoverflow.com/questions/7286346) (5 upvotes)  
-7313227. [How do I suspend java threads on demand?](http://stackoverflow.com/questions/7313227) (1 upvotes)  
-7325426. [Spring classes not found](http://stackoverflow.com/questions/7325426) (1 upvotes)  
-7345674. [Best way to design the problem](http://stackoverflow.com/questions/7345674) (0 upvotes)  
-7355416. [I need help figuring out why Ant is giving me this error messages(setting up Java Pet Store)?](http://stackoverflow.com/questions/7355416) (0 upvotes)  
-7358775. [Java GUI frameworks. What to choose? Swing, SWT, AWT, SwingX, JGoodies, JavaFX, Apache Pivot?](http://stackoverflow.com/questions/7358775) (230 upvotes)  
-7375742. [Setting button states in LWUIT](http://stackoverflow.com/questions/7375742) (2 upvotes)  
-7383428. [Questions on Upgrading Lucene from 2.2 to 2.9 to 3.1](http://stackoverflow.com/questions/7383428) (14 upvotes)  
-7392230. [Is it possible to deprecate some of the values of a java enum and if so, how?](http://stackoverflow.com/questions/7392230) (13 upvotes)  
-7393699. [Java EE Application Server and Perl scripts](http://stackoverflow.com/questions/7393699) (1 upvotes)  
-7434084. [Why does the Boolean object have a public constructor in Java?](http://stackoverflow.com/questions/7434084) (24 upvotes)  
-7438850. [java annotations - library or language feature?](http://stackoverflow.com/questions/7438850) (2 upvotes)  
-7453652. [error while including external JARs in ant script](http://stackoverflow.com/questions/7453652) (2 upvotes)  
-7461940. [Java - Deprecated method, need help?](http://stackoverflow.com/questions/7461940) (3 upvotes)  
-7463414. [What’s the best way to load a JSONObject from a json text file?](http://stackoverflow.com/questions/7463414) (2 upvotes)  
-7470677. [Some input files use or override a deprecated API](http://stackoverflow.com/questions/7470677) (2 upvotes)  
-7471696. [What is the workflow for using Selenium in Java?](http://stackoverflow.com/questions/7471696) (3 upvotes)  
-7491142. [page import="javax.event.*" "The import javax.event cannot be resolved" error](http://stackoverflow.com/questions/7491142) (0 upvotes)  
-7504830. [super-keyword in Java giving compile-error](http://stackoverflow.com/questions/7504830) (2 upvotes)  
-7523373. [how to make makefile for java with external jar file](http://stackoverflow.com/questions/7523373) (0 upvotes)  
-7541916. [Invoke Java from C++](http://stackoverflow.com/questions/7541916) (15 upvotes)  
-7554213. [Glazed Lists EventTableModel class stroked in NetBeans](http://stackoverflow.com/questions/7554213) (1 upvotes)  
-7554831. [Faster random generator in Tomcat 7](http://stackoverflow.com/questions/7554831) (7 upvotes)  
-7555231. [Java Webapp and KeyStore](http://stackoverflow.com/questions/7555231) (2 upvotes)  
-7561160. [Reading Geolocation from Quicktime Movies with Java (Xuggler)?](http://stackoverflow.com/questions/7561160) (3 upvotes)  
-7563851. [Spring persistence layer for dynamic queries](http://stackoverflow.com/questions/7563851) (0 upvotes)  
-7603820. [NullPointerException in Thread's run method](http://stackoverflow.com/questions/7603820) (0 upvotes)  
-7615961. [Can CacheBuilder replace MapMaker in my case?](http://stackoverflow.com/questions/7615961) (0 upvotes)  
-7617131. [How to use a value inside a method outside of that method (location)](http://stackoverflow.com/questions/7617131) (0 upvotes)  
-7618129. [Why is softKeys() deprecated in Guava 10?](http://stackoverflow.com/questions/7618129) (8 upvotes)  
-7623897. [Java Swing Components - why deprecated HTML markup?](http://stackoverflow.com/questions/7623897) (1 upvotes)  
-7626077. [MapReduceBase and Mapper deprecated](http://stackoverflow.com/questions/7626077) (9 upvotes)  
-7630061. [How to override default styles in GWT 2.3?](http://stackoverflow.com/questions/7630061) (2 upvotes)  
-7634226. [JBoss6 with RestEasy client](http://stackoverflow.com/questions/7634226) (1 upvotes)  
-7644405. [Invalid reference to login page -- Selenium](http://stackoverflow.com/questions/7644405) (0 upvotes)  
-7644926. [Ignore JUnit test](http://stackoverflow.com/questions/7644926) (4 upvotes)  
-7649934. [Applying styles to fields with errors in Struts 1](http://stackoverflow.com/questions/7649934) (0 upvotes)  
-7675402. [Check if Twitter, Facebook, LinkedIn username(email) already exists](http://stackoverflow.com/questions/7675402) (1 upvotes)  
-7682150. [Use Xlint:deprecation with android](http://stackoverflow.com/questions/7682150) (9 upvotes)  
-7742397. [How to capture images using LWUIt VIdeoComponent](http://stackoverflow.com/questions/7742397) (4 upvotes)  
-7743716. [Modify build.xml for another path for tomcat](http://stackoverflow.com/questions/7743716) (1 upvotes)  
-7768376. [ANT Javac and special characters](http://stackoverflow.com/questions/7768376) (0 upvotes)  
-7769319. [Is it possible for the same javac compiler to compile the same set of source files but produce class files of different checksums?](http://stackoverflow.com/questions/7769319) (2 upvotes)  
-7777618. [javac show error without warnings](http://stackoverflow.com/questions/7777618) (2 upvotes)  
-7786037. [ERROR java.sql.SQLException: near "-": syntax error](http://stackoverflow.com/questions/7786037) (0 upvotes)  
-7790527. [XMPP with Java Asmack library and X-FACEBOOK-PLATFORM](http://stackoverflow.com/questions/7790527) (1 upvotes)  
-7796558. [JavaFX 2.0+ WebView /WebEngine render web page to an image](http://stackoverflow.com/questions/7796558) (8 upvotes)  
-7810504. [How to get JOGL on Ubuntu 11.10 to work](http://stackoverflow.com/questions/7810504) (2 upvotes)  
-7814602. [When did mail.smtp.password become non-functional?](http://stackoverflow.com/questions/7814602) (3 upvotes)  
-7825553. [Java: Using defineClass to Dynamically Create Class from Bytes](http://stackoverflow.com/questions/7825553) (1 upvotes)  
-7859271. [Kill the Thread in android](http://stackoverflow.com/questions/7859271) (3 upvotes)  
-7872411. [Maven Ant Task tries to open pom as zip and fails](http://stackoverflow.com/questions/7872411) (1 upvotes)  
-7874586. [SetPage() not working reliably in JEditorPane](http://stackoverflow.com/questions/7874586) (0 upvotes)  
-7921454. [Type API variable-resolver is deprecated after JSF 1.1. Use el-resolver instead](http://stackoverflow.com/questions/7921454) (5 upvotes)  
-7927865. [How to stop an infinite thread in an application server](http://stackoverflow.com/questions/7927865) (1 upvotes)  
-7928785. [Why can't i compare java.util.Date to mysql dates?](http://stackoverflow.com/questions/7928785) (3 upvotes)  
-7930451. [BlazeDS channel serialization options?](http://stackoverflow.com/questions/7930451) (1 upvotes)  
-7931469. [How to implement a custom ViewProcessor<T> (jax-rs)?](http://stackoverflow.com/questions/7931469) (1 upvotes)  
-7933432. [ANT build throwing errors in WSDL generated file](http://stackoverflow.com/questions/7933432) (1 upvotes)  
-7937199. [TilesConfigurer is deprecated ?? How I use tile2.2 in spring MVC 3.1?](http://stackoverflow.com/questions/7937199) (0 upvotes)  
-7950594. [Can a Java Thread be safely stopped by return-ing inside the run() method?](http://stackoverflow.com/questions/7950594) (1 upvotes)  
-7959019. [SizeLimitExceededException in LDAP request returning large number of objects](http://stackoverflow.com/questions/7959019) (0 upvotes)  
-7968076. [Position datapoint labels in jfreechart](http://stackoverflow.com/questions/7968076) (2 upvotes)  
-7970132. [Why does the Date class in Java display a year after subtracting 1900 from it?](http://stackoverflow.com/questions/7970132) (0 upvotes)  
-7985970. [org.hibernate.annotations.Entity deprecated in Hibernate 4?](http://stackoverflow.com/questions/7985970) (13 upvotes)  
-8011789. [Hadoop: implement interfaces from o.a.h.mapred, or extend classes from o.a.h.mapreduce?](http://stackoverflow.com/questions/8011789) (1 upvotes)  
-8015291. [How to replace com.sun.image.codec.jpeg.JPEGImageEncoder in this code?](http://stackoverflow.com/questions/8015291) (22 upvotes)  
-8023977. [how to use expireAfterAccess with CacheBuilder in guava](http://stackoverflow.com/questions/8023977) (1 upvotes)  
-8024434. [java.lang.UnsupportedOperationException when my splash screen starts](http://stackoverflow.com/questions/8024434) (1 upvotes)  
-8028094. [Java : DataInputStream replacement for endianness](http://stackoverflow.com/questions/8028094) (6 upvotes)  
-8037129. [What happens to this thread runnable at the end once it is completed?](http://stackoverflow.com/questions/8037129) (6 upvotes)  
-8044764. [AsyncTask with screen rotation - onRetainNonConfigurationInstance deprecated](http://stackoverflow.com/questions/8044764) (6 upvotes)  
-8056838. [Dealing with deprecated android.text.ClipboardManager](http://stackoverflow.com/questions/8056838) (6 upvotes)  
-8064667. [android how to stop or destroy a thread?](http://stackoverflow.com/questions/8064667) (0 upvotes)  
-8074477. [Will JVM issue warning during runtime for using @deprecated codes?](http://stackoverflow.com/questions/8074477) (2 upvotes)  
-8080220. [Use Google Maps API on desktop Application](http://stackoverflow.com/questions/8080220) (4 upvotes)  
-8084665. [Java - how to interrupt a busy thread](http://stackoverflow.com/questions/8084665) (0 upvotes)  
-8090449. [connection to https with httpclient 4.1.2 gives org.apache.http.client.ClientProtocolException](http://stackoverflow.com/questions/8090449) (3 upvotes)  
-8095300. [Message not sure what it is](http://stackoverflow.com/questions/8095300) (0 upvotes)  
-8098551. [In hibernate 3.6.8, what do I use instead of nullSafeSet and nullSafeGet since the docs say they are deprecated](http://stackoverflow.com/questions/8098551) (1 upvotes)  
-8099789. [Java ScrollPane/JPanel](http://stackoverflow.com/questions/8099789) (1 upvotes)  
-8100816. [suppress a singleton constructor in java with powermock](http://stackoverflow.com/questions/8100816) (3 upvotes)  
-8116936. [A call to JRuby brings up java options menu](http://stackoverflow.com/questions/8116936) (1 upvotes)  
-8120509. [JUnit Test Suite and Ant Build "ClassNotFoundException"](http://stackoverflow.com/questions/8120509) (1 upvotes)  
-8133725. [Jackson TypeFactory Static Methods Deprecetad What to Use?](http://stackoverflow.com/questions/8133725) (5 upvotes)  
-8143878. [Play framework test mode error](http://stackoverflow.com/questions/8143878) (2 upvotes)  
-8150155. [Java getHours(), getMinutes() and getSeconds()](http://stackoverflow.com/questions/8150155) (18 upvotes)  
-8152972. [How i can convert a date object into a calender object](http://stackoverflow.com/questions/8152972) (-2 upvotes)  
-8155343. [Best way to compare Time in Java](http://stackoverflow.com/questions/8155343) (2 upvotes)  
-8156316. [Hadoop job scheduling alongside jobs with slow mappers in 0.20.203](http://stackoverflow.com/questions/8156316) (1 upvotes)  
-8163374. [Deprecated Items In Java](http://stackoverflow.com/questions/8163374) (6 upvotes)  
-8178103. [Is there (still) any good reason to use java Date/Time Calender API?](http://stackoverflow.com/questions/8178103) (-3 upvotes)  
-8190649. [Using Eclipse compiler instead of javac results in javadoc crash](http://stackoverflow.com/questions/8190649) (10 upvotes)  
-8190971. [Why does the default deprecated java.net.URLEncoder.encode work but not when I specify a charset?](http://stackoverflow.com/questions/8190971) (2 upvotes)  
-8191282. [Why can't my VM Argument's path not be found when I try to run my project in Eclipse?](http://stackoverflow.com/questions/8191282) (1 upvotes)  
-8193156. [Too many connections in Hibernate](http://stackoverflow.com/questions/8193156) (2 upvotes)  
-8215429. [Does anyone have the restlet samples from the "RESTful Web Services" book by Leonard Richardson and Sam Ruby updated to restlet 2.0?](http://stackoverflow.com/questions/8215429) (2 upvotes)  
-8215582. [Searching blogs, forums, news sites programmatically](http://stackoverflow.com/questions/8215582) (3 upvotes)  
-8233272. [How to obtain affected rows of an update called through execSQL() or rawQuery() SQLite?](http://stackoverflow.com/questions/8233272) (0 upvotes)  
-8253938. [What's the correct and working way to broadcast an UDP packet in Java?](http://stackoverflow.com/questions/8253938) (6 upvotes)  
-8276150. [Single Variable Polynomial (from text file)](http://stackoverflow.com/questions/8276150) (1 upvotes)  
-8276515. [Getting a HTTP POST binary payload to a byte array in Scala](http://stackoverflow.com/questions/8276515) (2 upvotes)  
-8311739. [Date methods marked deprecated, but recommended Calendar equivalents don't do what I want](http://stackoverflow.com/questions/8311739) (0 upvotes)  
-8320296. [I have written a CAD program in JOGL that works great until I put in a glu quadric, then the lighting is off](http://stackoverflow.com/questions/8320296) (0 upvotes)  
-8320376. [Why is Files.deleteDirectoryContents() deprecated in Guava?](http://stackoverflow.com/questions/8320376) (5 upvotes)  
-8322987. [Jasperreport Excel file creation exception](http://stackoverflow.com/questions/8322987) (1 upvotes)  
-8330295. [difference between java.rmi.Naming and java.rmi.registry.LocateRegistry](http://stackoverflow.com/questions/8330295) (6 upvotes)  
-8359429. [Deprecated Embedded Jetty 7.6 using SSL](http://stackoverflow.com/questions/8359429) (0 upvotes)  
-8361527. [Hibernate 3.6.8 + Annotated POJOs + Configuration](http://stackoverflow.com/questions/8361527) (1 upvotes)  
-8413938. [Error when compiling a java projec](http://stackoverflow.com/questions/8413938) (0 upvotes)  
-8417440. [Can proguard leave out the unused classes of the libraries?](http://stackoverflow.com/questions/8417440) (1 upvotes)  
-8426275. [Java JDBC Log in Form](http://stackoverflow.com/questions/8426275) (2 upvotes)  
-8430708. [iphone: integrate java code with xcode project](http://stackoverflow.com/questions/8430708) (3 upvotes)  
-8431380. [Cross linking java doc between seperate projects](http://stackoverflow.com/questions/8431380) (2 upvotes)  
-8435228. [Google Calendar API OAuth2 Troubles on Android Honeycomb](http://stackoverflow.com/questions/8435228) (6 upvotes)  
-8438748. [How to make a makefile that will compile C, C++, and Java files all at once](http://stackoverflow.com/questions/8438748) (3 upvotes)  
-8456617. [Querying jar entries in an Eclipse plugin](http://stackoverflow.com/questions/8456617) (1 upvotes)  
-8476147. [How to convert Formatted Date (yyyy-MM-dd) to Unix time in Java?](http://stackoverflow.com/questions/8476147) (0 upvotes)  
-8477475. [Ignore Deprecated Type Warnings on import Statement](http://stackoverflow.com/questions/8477475) (8 upvotes)  
-8493233. [Is it possible to get maven-jaxb-schemagen-plugin working with Java 7?](http://stackoverflow.com/questions/8493233) (5 upvotes)  
-8505166. [How to set wallpaper for all api's without stretching](http://stackoverflow.com/questions/8505166) (1 upvotes)  
-8511430. [Java Dates - What's the correct class to use?](http://stackoverflow.com/questions/8511430) (14 upvotes)  
-8515208. [How to create obfuscated package in Sun Java Wireless Toolkit 2.5.2?](http://stackoverflow.com/questions/8515208) (0 upvotes)  
-8515564. [Bouncycastle HTTPS, ignoring certificate validation issues](http://stackoverflow.com/questions/8515564) (2 upvotes)  
-8521425. [receive sms containing certain code or text and send web request](http://stackoverflow.com/questions/8521425) (0 upvotes)  
-8536586. [When caching images and data should you use Internal or External Storage?](http://stackoverflow.com/questions/8536586) (7 upvotes)  
-8538288. [Eclipse plugin development: How to avoid deprecated ActionSet?](http://stackoverflow.com/questions/8538288) (2 upvotes)  
-8548483. [Java, how to stop threads](http://stackoverflow.com/questions/8548483) (1 upvotes)  
-8578586. [Is this an example of double-checked locking?](http://stackoverflow.com/questions/8578586) (4 upvotes)  
-8589538. [How to make tomcat host both jenkins and sonar without crashing with OutOfMemoryException?](http://stackoverflow.com/questions/8589538) (0 upvotes)  
-8589578. [What is the correct way to create a timestamp in Java?](http://stackoverflow.com/questions/8589578) (1 upvotes)  
-8590302. [GWT Element setAttribute vs setPropertyString](http://stackoverflow.com/questions/8590302) (6 upvotes)  
-8592556. [to wrap or not to wrap an opensource framework?](http://stackoverflow.com/questions/8592556) (1 upvotes)  
-8594069. [How do I fade out one image and fade in another (Java)?](http://stackoverflow.com/questions/8594069) (3 upvotes)  
-8595246. [Java nio Path versus the regular java File API](http://stackoverflow.com/questions/8595246) (2 upvotes)  
-8600326. [What little clock means on the green bullet of method in Eclipse?](http://stackoverflow.com/questions/8600326) (4 upvotes)  
-8618426. [Android ICS build fails with error 41](http://stackoverflow.com/questions/8618426) (1 upvotes)  
-8621906. [Is buildSessionFactory() deprecated in hibernate 4?](http://stackoverflow.com/questions/8621906) (116 upvotes)  
-8623284. [Using a Java library in an Objective-C Mac app, and putting that app on the Mac App Store](http://stackoverflow.com/questions/8623284) (5 upvotes)  
-8630269. [Disabling warnings generated by java ant](http://stackoverflow.com/questions/8630269) (2 upvotes)  
-8640209. [Overriding instantiateItem(...) won't compile](http://stackoverflow.com/questions/8640209) (0 upvotes)  
-8652914. [Blackberry MenuItem Deprecated](http://stackoverflow.com/questions/8652914) (0 upvotes)  
-8655401. [Using passwordField to connect to mySQL](http://stackoverflow.com/questions/8655401) (0 upvotes)  
-8655861. [Stopping and Restarting a Thread](http://stackoverflow.com/questions/8655861) (0 upvotes)  
-8668005. [Spring MVC 3.1.0 bug? After upgrade controllers are no more autodetected](http://stackoverflow.com/questions/8668005) (2 upvotes)  
-8676206. [How can I get the username from a failed login using spring security?](http://stackoverflow.com/questions/8676206) (9 upvotes)  
-8691769. [Why can I use a Java lib from the Scala REPL but not from a script?](http://stackoverflow.com/questions/8691769) (5 upvotes)  
-8694185. [How to load large applet](http://stackoverflow.com/questions/8694185) (2 upvotes)  
-8698740. [how to check hibernate session connection is in read-only mode in Java](http://stackoverflow.com/questions/8698740) (0 upvotes)  
-8700518. [Play framework doesnt start on os x mac](http://stackoverflow.com/questions/8700518) (1 upvotes)  
-8703652. [Deprecation warning message with import android.hardware.SensorListener library](http://stackoverflow.com/questions/8703652) (3 upvotes)  
-8732937. [how to destroy thread in Java without using destroy() method?](http://stackoverflow.com/questions/8732937) (-1 upvotes)  
-8737340. [Deprecated code when using avro-maven-plugin version 1.6.1](http://stackoverflow.com/questions/8737340) (0 upvotes)  
-8742736. [Java applet trouble, really simple](http://stackoverflow.com/questions/8742736) (2 upvotes)  
-8757266. [What are the security reasons for JPasswordField.getPassword()?](http://stackoverflow.com/questions/8757266) (4 upvotes)  
-8764405. [Is it safe to reinsert the entry from Guava RemovalListener?](http://stackoverflow.com/questions/8764405) (10 upvotes)  
-8789324. [Preferred way of marking a Java constructor/method as not for client use?](http://stackoverflow.com/questions/8789324) (1 upvotes)  
-8802637. [SSL Connection with webclient.getpage from Java client error 403](http://stackoverflow.com/questions/8802637) (1 upvotes)  
-8819988. [How do I stop a process controlled by a thread?](http://stackoverflow.com/questions/8819988) (1 upvotes)  
-8832219. [Validate invalid attribute in XML against the XSD](http://stackoverflow.com/questions/8832219) (0 upvotes)  
-8853133. [Configuring JDO in Spring 3.1?](http://stackoverflow.com/questions/8853133) (6 upvotes)  
-8857431. [Java - Mac JDK 7 Beta - Apple Application Listener no longer works](http://stackoverflow.com/questions/8857431) (1 upvotes)  
-8872274. [Where is ClassValidator in Hibernate Validator?](http://stackoverflow.com/questions/8872274) (1 upvotes)  
-8877814. [Installation of j2sdk 1.4.2_09 on redhat machine](http://stackoverflow.com/questions/8877814) (0 upvotes)  
-8886405. [Java - How do I get a all the selected values from a JList?](http://stackoverflow.com/questions/8886405) (6 upvotes)  
-8897869. [How do I do a multi-level properties query in JCR 2.0 SQL2?](http://stackoverflow.com/questions/8897869) (0 upvotes)  
-8899497. [How to transition from managedQuery to LoaderManager/CursorLoader?](http://stackoverflow.com/questions/8899497) (15 upvotes)  
-8907348. [Execute a sql statement when a connection is created](http://stackoverflow.com/questions/8907348) (0 upvotes)  
-8923880. [Quartz force a message driven job to be non concurrent](http://stackoverflow.com/questions/8923880) (0 upvotes)  
-8932740. [Java: Implementing a new thread, now my code executes twice](http://stackoverflow.com/questions/8932740) (2 upvotes)  
-8934852. [asmack - receiving custom XML messages ||](http://stackoverflow.com/questions/8934852) (7 upvotes)  
-8947726. [Which GWT EventBus should I use?](http://stackoverflow.com/questions/8947726) (18 upvotes)  
-8963203. [It works on Debian 5.0 but it cause segmentation fault on ubuntu 11.10](http://stackoverflow.com/questions/8963203) (0 upvotes)  
-8964717. [How to create a Test Suite in Eclipse under org.junit](http://stackoverflow.com/questions/8964717) (1 upvotes)  
-8965048. [Using java.sql.Date Constructor with a long value](http://stackoverflow.com/questions/8965048) (1 upvotes)  
-8979270. [Why is Serializable declared with fully qualified name in JDK classes?](http://stackoverflow.com/questions/8979270) (4 upvotes)  
-8984490. [GWT AutoBean: annotation @PropertyName doesn't work anymore](http://stackoverflow.com/questions/8984490) (1 upvotes)  
-8990916. [Spring Security 3.1 and Unsecured HTTP Channel](http://stackoverflow.com/questions/8990916) (1 upvotes)  
-9020131. [Fast uploading setting in web environment](http://stackoverflow.com/questions/9020131) (0 upvotes)  
-9031832. [How to declare or mark a Java method as deprecated?](http://stackoverflow.com/questions/9031832) (61 upvotes)  
-9047032. [Do I need both JRE 1.6 and JRE 1.7?](http://stackoverflow.com/questions/9047032) (2 upvotes)  
-9047430. [Spring Social and Facebook API Changes](http://stackoverflow.com/questions/9047430) (3 upvotes)  
-9048812. [RestTemplate with Basic Auth in Spring 3.1](http://stackoverflow.com/questions/9048812) (9 upvotes)  
-9065732. [GWT:adding clickHandler on HyperLink](http://stackoverflow.com/questions/9065732) (0 upvotes)  
-9073492. [Getting nanos into a java.sql.Timestamp](http://stackoverflow.com/questions/9073492) (2 upvotes)  
-9079431. [AppEngine BlobStore cant upload blobs since update to 1.6.1 from 1.5.5 | getUploads(req) and getUploadedBlobs(req) both fail](http://stackoverflow.com/questions/9079431) (2 upvotes)  
-9108067. [Sitemesh spring:message not recognized in template](http://stackoverflow.com/questions/9108067) (0 upvotes)  
-9115897. [How do I convert a java.sql.Date object into a GregorianCalendar?](http://stackoverflow.com/questions/9115897) (9 upvotes)  
-9117458. [Swing component setSize()/setBounds() issue](http://stackoverflow.com/questions/9117458) (4 upvotes)  
-9126864. [Hibernate EntityManager does not assign auto generated primary key value](http://stackoverflow.com/questions/9126864) (0 upvotes)  
-9147576. [How to kill a thread nice in java?](http://stackoverflow.com/questions/9147576) (3 upvotes)  
-9160464. [Java FX 2 CSS Pseudo Classes](http://stackoverflow.com/questions/9160464) (2 upvotes)  
-9165370. [Need help for installing hadoop](http://stackoverflow.com/questions/9165370) (1 upvotes)  
-9170737. [android sdk set imageview x y coordinates](http://stackoverflow.com/questions/9170737) (0 upvotes)  
-9173191. [how to retrieve info from datastore using google app engine and display it in a list view on an android app using java?](http://stackoverflow.com/questions/9173191) (0 upvotes)  
-9192406. [Play swf inside Java app on Mac possible?](http://stackoverflow.com/questions/9192406) (0 upvotes)  
-9193965. [How to "disable" comments detection when parsing a file with CSVParser / CSVStrategy (Apache Commons)](http://stackoverflow.com/questions/9193965) (0 upvotes)  
-9198663. [Hibernate 4 TransactionManagerLookup in Jetty](http://stackoverflow.com/questions/9198663) (0 upvotes)  
-9208214. [how to process a query result so as to display it as a listview in android?](http://stackoverflow.com/questions/9208214) (0 upvotes)  
-9211922. [swt library - link to eclipse javadoc](http://stackoverflow.com/questions/9211922) (0 upvotes)  
-9239287. [What is the alrternative for deprecated com.apple.eawt.ApplicationListener](http://stackoverflow.com/questions/9239287) (1 upvotes)  
-9243071. [Cause of nullpointer](http://stackoverflow.com/questions/9243071) (2 upvotes)  
-9245098. [Pausing a Thread on Java](http://stackoverflow.com/questions/9245098) (1 upvotes)  
-9247093. [Alternative for the deprecated People class in Android](http://stackoverflow.com/questions/9247093) (0 upvotes)  
-9250160. [mapView deprecated method getZoomControls?](http://stackoverflow.com/questions/9250160) (2 upvotes)  
-9255738. [Deprecated annotations in FindBugs 2.0](http://stackoverflow.com/questions/9255738) (7 upvotes)  
-9258005. [Java program uses or overrides a deprecated API?](http://stackoverflow.com/questions/9258005) (2 upvotes)  
-9267403. [Trouble with EventBus and Gin in Gwt 2.4](http://stackoverflow.com/questions/9267403) (4 upvotes)  
-9270971. [Hadoop cache file for all map tasks](http://stackoverflow.com/questions/9270971) (1 upvotes)  
-9289974. [Using not-default compilier for maven project](http://stackoverflow.com/questions/9289974) (0 upvotes)  
-9290848. [How to set a java compiler in Netbeans](http://stackoverflow.com/questions/9290848) (8 upvotes)  
-9290888. [Supporting Multiple Screens (phone and tablet)](http://stackoverflow.com/questions/9290888) (0 upvotes)  
-9315480. [Change the com.sun.org.apache.xml.internal.serialize.XMLSerializer & com.sun.org.apache.xml.internal.serialize.OutputFormat](http://stackoverflow.com/questions/9315480) (3 upvotes)  
-9319714. [JAVA - Best way for raising event](http://stackoverflow.com/questions/9319714) (0 upvotes)  
-9327408. [Changing SOAP interfaces and deprecating web methods in java](http://stackoverflow.com/questions/9327408) (1 upvotes)  
-9327479. [How do I use a java.util.Set with UIData in JSF. Specifically h:datatable?](http://stackoverflow.com/questions/9327479) (3 upvotes)  
-9341769. [Deprecated Thread methods are not supported without stop() method](http://stackoverflow.com/questions/9341769) (0 upvotes)  
-9346372. [Error: "The method show() from the type Window is deprecated" ](http://stackoverflow.com/questions/9346372) (3 upvotes)  
-9366200. [A strange Maven error message while build is successful](http://stackoverflow.com/questions/9366200) (1 upvotes)  
-9401612. [Java: obtaining private member's annotations](http://stackoverflow.com/questions/9401612) (2 upvotes)  
-9428847. [Tab Host ActivityGroups on rotation android](http://stackoverflow.com/questions/9428847) (0 upvotes)  
-9430441. [Looking for a safe Sandbox API for JVM plugins](http://stackoverflow.com/questions/9430441) (4 upvotes)  
-9459827. [LuaJ is not working when packaged as single Jar file](http://stackoverflow.com/questions/9459827) (0 upvotes)  
-9466206. [servlet not working in GWT](http://stackoverflow.com/questions/9466206) (0 upvotes)  
-9474121. [I want to get Year,Month, Day etc from Java Date to compare with Gregorian Calendar date in Java. Is this possible?](http://stackoverflow.com/questions/9474121) (41 upvotes)  
-9480363. [How to set the Tab Order in Swing Java?](http://stackoverflow.com/questions/9480363) (6 upvotes)  
-9481510. [deploying EJB over JBoss 7.1](http://stackoverflow.com/questions/9481510) (5 upvotes)  
-9482731. [How to get jdbc connection from hibernate session?](http://stackoverflow.com/questions/9482731) (17 upvotes)  
-9482821. [LZO compression for Hbase](http://stackoverflow.com/questions/9482821) (2 upvotes)  
-9488803. [Java - JList.getSelectedValuesList() not working in jar file](http://stackoverflow.com/questions/9488803) (2 upvotes)  
-9506186. [Hadoop: Chaining jobs in 0.20.203](http://stackoverflow.com/questions/9506186) (1 upvotes)  
-9540574. [GregorianCalendar : can't get the local time hours](http://stackoverflow.com/questions/9540574) (1 upvotes)  
-9548455. [No ConnectionProviderFactory in Hibernate 4](http://stackoverflow.com/questions/9548455) (0 upvotes)  
-9548612. [JavaBridge PHP-Java How to call a java class from a php file](http://stackoverflow.com/questions/9548612) (1 upvotes)  
-9552806. [setText causing a crash](http://stackoverflow.com/questions/9552806) (1 upvotes)  
-9613857. [Cannot stop ant from generating compiler warnings](http://stackoverflow.com/questions/9613857) (6 upvotes)  
-9621690. [Java: explain : this class is deprecate](http://stackoverflow.com/questions/9621690) (-2 upvotes)  
-9636953. [reflect.Field.annotations always null](http://stackoverflow.com/questions/9636953) (2 upvotes)  
-9646847. [Compile error with JOGL](http://stackoverflow.com/questions/9646847) (0 upvotes)  
-9659379. [Entities not being created in the Database](http://stackoverflow.com/questions/9659379) (1 upvotes)  
-9716398. [Searching in yahoo using java](http://stackoverflow.com/questions/9716398) (-8 upvotes)  
-9721725. [launching java applet](http://stackoverflow.com/questions/9721725) (4 upvotes)  
-9757067. [Spring and preInstantiateSingletons](http://stackoverflow.com/questions/9757067) (0 upvotes)  
-9758001. [Why is MapMaker.softKeys() deprecated?](http://stackoverflow.com/questions/9758001) (0 upvotes)  
-9762194. [Simulating OS processes in java / preemptive thread stop / classloader + thread process simulation](http://stackoverflow.com/questions/9762194) (1 upvotes)  
-9762829. [Ambiguous result date java](http://stackoverflow.com/questions/9762829) (1 upvotes)  
-9783818. [In-process communication between wars in the same container](http://stackoverflow.com/questions/9783818) (7 upvotes)  
-9793682. [Is there a way to use more than 1 Validator with a Spring 3 annotated Controller?](http://stackoverflow.com/questions/9793682) (3 upvotes)  
-9825310. [How to access the fields of a test class with in an Rule in JUnit](http://stackoverflow.com/questions/9825310) (3 upvotes)  
-9838734. [JPA fetch vs joins. Are joins deprecated?](http://stackoverflow.com/questions/9838734) (2 upvotes)  
-9842119. [Update existing notification](http://stackoverflow.com/questions/9842119) (3 upvotes)  
-9849441. [controller in spring for form handling](http://stackoverflow.com/questions/9849441) (0 upvotes)  
-9852974. [How to best get the name of a subclass after passing it into a new class?](http://stackoverflow.com/questions/9852974) (0 upvotes)  
-9862037. [Trouble compiling any java code in Eclipse](http://stackoverflow.com/questions/9862037) (2 upvotes)  
-9876456. [Hadoop MultipleOutputs.addNamedOutput throws "cannot find symbol"](http://stackoverflow.com/questions/9876456) (0 upvotes)  
-9878067. [Android canvas update issues](http://stackoverflow.com/questions/9878067) (0 upvotes)  
-9879987. [Android: TabActivity Deprecation](http://stackoverflow.com/questions/9879987) (0 upvotes)  
-9884280. [clean and build failed in netbeans](http://stackoverflow.com/questions/9884280) (0 upvotes)  
-9889793. [Java loading and unloading .java files dynamically, garbage collection?](http://stackoverflow.com/questions/9889793) (12 upvotes)  
-9894087. [Selenium 2 chrome driver preferences java equivalent to RubyBindings](http://stackoverflow.com/questions/9894087) (5 upvotes)  
-9895463. [java assembled binary varies depending of the order of the source files](http://stackoverflow.com/questions/9895463) (3 upvotes)  
-9913883. [Search doesn't work in ListActivity](http://stackoverflow.com/questions/9913883) (0 upvotes)  
-9936497. [OSX Lion and Java DB](http://stackoverflow.com/questions/9936497) (0 upvotes)  
-9937812. [How to use google ClientLogin with the 1.7 version of the Google Client API](http://stackoverflow.com/questions/9937812) (1 upvotes)  
-9949367. [Robotium_constructor deprecated message at NotepadTest method for super](http://stackoverflow.com/questions/9949367) (3 upvotes)  
-9952636. [How to immediately pause another Thread](http://stackoverflow.com/questions/9952636) (1 upvotes)  
-9953468. [Java read excel](http://stackoverflow.com/questions/9953468) (0 upvotes)  
-9961992. [Eclipse- How do you enable this class option from the File menu?](http://stackoverflow.com/questions/9961992) (1 upvotes)  
-9966384. [How to get release notes programmatically from jira plugin](http://stackoverflow.com/questions/9966384) (2 upvotes)  
-9989672. [How to create 2 action bars in one app?](http://stackoverflow.com/questions/9989672) (3 upvotes)  
-9992566. [Hadoop map-reduce operation is failing on writing output](http://stackoverflow.com/questions/9992566) (2 upvotes)  
-10007169. [lucene 3.5.0 stack overflow error on indexing](http://stackoverflow.com/questions/10007169) (0 upvotes)  
-10017628. [My Android-App crashes when it's coming to read a XML File](http://stackoverflow.com/questions/10017628) (0 upvotes)  
-10026491. [Android ProGuard "java.lang.nosuchfielderror: Toast"  exception](http://stackoverflow.com/questions/10026491) (9 upvotes)  
-10039314. [OpenGl ES 2D Android redraw](http://stackoverflow.com/questions/10039314) (0 upvotes)  
-10048502. [Post XML in Java and Get the response code](http://stackoverflow.com/questions/10048502) (0 upvotes)  
-10054958. [displaying Blob (image) in jsp page using struts 2 and hibernate](http://stackoverflow.com/questions/10054958) (1 upvotes)  
-10064804. [Java LWJGL Slick UnicodeFont acting up](http://stackoverflow.com/questions/10064804) (4 upvotes)  
-10076104. [Java Swing - On a Mac, listening for Quit event](http://stackoverflow.com/questions/10076104) (0 upvotes)  
-10076200. [<applet> vs <object>](http://stackoverflow.com/questions/10076200) (2 upvotes)  
-10080878. [What to pass to UserType, BlobType.setPreparedStatement session parameter](http://stackoverflow.com/questions/10080878) (0 upvotes)  
-10086053. [Comparing hours in java](http://stackoverflow.com/questions/10086053) (1 upvotes)  
-10090358. [Ant classes not picked up within mavn ant run plugin execution of javac](http://stackoverflow.com/questions/10090358) (0 upvotes)  
-10095388. [Accurate (azimuth) compass direction Android 3.2 tablet](http://stackoverflow.com/questions/10095388) (0 upvotes)  
-10099495. [Dynamically fetch images online based on a keyword (specifically a city or country)](http://stackoverflow.com/questions/10099495) (2 upvotes)  
-10105144. [What is the replacement for SslSocketConnector setPort() in jetty http client?](http://stackoverflow.com/questions/10105144) (0 upvotes)  
-10110248. [Spring 3.1, Aspect, Tomcat - circularity error](http://stackoverflow.com/questions/10110248) (4 upvotes)  
-10114912. [Restarting Prolog engine from Java using JPL](http://stackoverflow.com/questions/10114912) (1 upvotes)  
-10115225. [Android developer references "method deprecated" labels in error for older APIs?](http://stackoverflow.com/questions/10115225) (2 upvotes)  
-10136775. [Why saveOrUpdateAll is deprecated in spring HibernateOperations](http://stackoverflow.com/questions/10136775) (2 upvotes)  
-10160367. [Android error with login password authintication php?](http://stackoverflow.com/questions/10160367) (0 upvotes)  
-10173809. [optimize heap size on android](http://stackoverflow.com/questions/10173809) (-1 upvotes)  
-10180010. [Compile legacy Java code with java1.6 JDK](http://stackoverflow.com/questions/10180010) (0 upvotes)  
-10186986. [Draw custom tab bar for Android app](http://stackoverflow.com/questions/10186986) (0 upvotes)  
-10189289. [How to Suspend and Resume Threads in android?](http://stackoverflow.com/questions/10189289) (5 upvotes)  
-10191267. [Keeping compatibility after refactoring without modifying older versions](http://stackoverflow.com/questions/10191267) (2 upvotes)  
-10207626. [Killing a thread in java android](http://stackoverflow.com/questions/10207626) (2 upvotes)  
-10209959. [gson.toJson() throws StackOverflowError](http://stackoverflow.com/questions/10209959) (12 upvotes)  
-10213407. [EasyMock and File in Java](http://stackoverflow.com/questions/10213407) (0 upvotes)  
-10225091. [Compile Groovy file with ant task](http://stackoverflow.com/questions/10225091) (1 upvotes)  
-10228477. [Paypal SetExpressCheckout prefill address does not work java](http://stackoverflow.com/questions/10228477) (0 upvotes)  
-10238330. [Creating a runnable jar. Various problems](http://stackoverflow.com/questions/10238330) (5 upvotes)  
-10249254. [Tapestry 5.3: PlasticClass.getMethods doesn't include introduced methods](http://stackoverflow.com/questions/10249254) (1 upvotes)  
-10249450. [Android - Cursor is deprecated](http://stackoverflow.com/questions/10249450) (0 upvotes)  
-10253335. [Implementing handlers in an Eclipse Plugin](http://stackoverflow.com/questions/10253335) (1 upvotes)  
-10263033. [How to get the dependency tree in a Maven 3 plugin?](http://stackoverflow.com/questions/10263033) (5 upvotes)  
-10265643. [Getting error while trying to creeate HttpsURLConnection through proxy](http://stackoverflow.com/questions/10265643) (1 upvotes)  
-10280128. [Warning WEB9052: Unable to load class com.organizer.ejb.ContactsBean, reason: java.lang.ClassNotFoundException](http://stackoverflow.com/questions/10280128) (1 upvotes)  
-10280957. [Java-Junit / AssertionFailedError: No test in XXX](http://stackoverflow.com/questions/10280957) (0 upvotes)  
-10301907. [Why do I get "non-static variable this cannot be referenced from a static context"?](http://stackoverflow.com/questions/10301907) (5 upvotes)  
-10322631. [Java and Windows Regional Settings](http://stackoverflow.com/questions/10322631) (0 upvotes)  
-10331519. [css hover with selenium 2.20+](http://stackoverflow.com/questions/10331519) (4 upvotes)  
-10356315. [Netbeans can build and run the java executable; but when executing application outside of Netbeans it doesn't run](http://stackoverflow.com/questions/10356315) (1 upvotes)  
-10372855. [Add a document to multiple folders (collections)](http://stackoverflow.com/questions/10372855) (0 upvotes)  
-10373077. [Tomcat 7 "SEVERE: A child container failed during start"](http://stackoverflow.com/questions/10373077) (6 upvotes)  
-10388083. [Image Gallery tutorial is deprecated](http://stackoverflow.com/questions/10388083) (1 upvotes)  
-10399880. [Spring - Maven | Jasper dependency](http://stackoverflow.com/questions/10399880) (1 upvotes)  
-10405650. [How to make the amazing Hibernate framework provide a connection object from its session?](http://stackoverflow.com/questions/10405650) (0 upvotes)  
-10421764. [Why isn't my frame disposed?](http://stackoverflow.com/questions/10421764) (1 upvotes)  
-10443308. [Why getText() in JPasswordField was deprecated?](http://stackoverflow.com/questions/10443308) (8 upvotes)  
-10444129. [Java Class chartobyteconverter Type deprecated](http://stackoverflow.com/questions/10444129) (0 upvotes)  
-10445967. [javadoc doclet libs : Illegal package name or ClassCastException when running it](http://stackoverflow.com/questions/10445967) (0 upvotes)  
-10450957. [Why can't I call UIComponent.setValueExpression()?](http://stackoverflow.com/questions/10450957) (0 upvotes)  
-10463397. [UnsatifiedLinkError](http://stackoverflow.com/questions/10463397) (0 upvotes)  
-10466630. [Java equivalent of C# `StringSplitOptions.RemoveEmptyEntries` and Java `StringTokenizer(input2, "{},() \t")`](http://stackoverflow.com/questions/10466630) (0 upvotes)  
-10474967. [Strange OGNL behaviour when using #this in s:select](http://stackoverflow.com/questions/10474967) (3 upvotes)  
-10475827. [SessionFactory - I can't use buildSessionFactory function](http://stackoverflow.com/questions/10475827) (0 upvotes)  
-10486064. [Why was Date.getTimezoneOffset deprecated?](http://stackoverflow.com/questions/10486064) (4 upvotes)  
-10509138. [Run ant script from command,error happened:Class not found: org.eclipse.jdt.core.JDTCompilerAdapter](http://stackoverflow.com/questions/10509138) (1 upvotes)  
-10516633. [export jcomponent to pdf with itext](http://stackoverflow.com/questions/10516633) (1 upvotes)  
-10526797. [passing information from a activity to a service](http://stackoverflow.com/questions/10526797) (0 upvotes)  
-10527234. [native_takePicture() error when pressing button to take picture](http://stackoverflow.com/questions/10527234) (0 upvotes)  
-10537520. [How do you install JOGL on windows 7 64bit for use with Eclipse?](http://stackoverflow.com/questions/10537520) (6 upvotes)  
-10549478. [Hibernate Criteria: adding additional restriction to Restrictions.isEmpty](http://stackoverflow.com/questions/10549478) (2 upvotes)  
-10571573. [Pausing and resuming a method](http://stackoverflow.com/questions/10571573) (3 upvotes)  
-10576371. [Extension functions and classpaths](http://stackoverflow.com/questions/10576371) (0 upvotes)  
-10598663. [How to disable hierarchical dotted lines in SWT Tree on Windows?](http://stackoverflow.com/questions/10598663) (1 upvotes)  
-10607126. [Facebook for desktop apps](http://stackoverflow.com/questions/10607126) (-1 upvotes)  
-10615800. [Strange Connection refuse from HBase](http://stackoverflow.com/questions/10615800) (1 upvotes)  
-10624716. [Old java program not compiling properly?](http://stackoverflow.com/questions/10624716) (0 upvotes)  
-10631540. [How to manually kill a specific HttpSession by ID](http://stackoverflow.com/questions/10631540) (1 upvotes)  
-10649581. [Tokenization, and indexing with Lucene, how to handle external tokenize and part-of-speech?](http://stackoverflow.com/questions/10649581) (6 upvotes)  
-10659014. [How can I send a message to a device using C2DM from a server that has been authenticated with OAuth2?](http://stackoverflow.com/questions/10659014) (5 upvotes)  
-10676907. [Deleting Documents with Lucene 3.6.0](http://stackoverflow.com/questions/10676907) (0 upvotes)  
-10691486. [Spring source suite spring3 + Hibernate4 + maven 3 + MySQL 5](http://stackoverflow.com/questions/10691486) (7 upvotes)  
-10719262. [authentication Oauth 2.0 Google Calendar](http://stackoverflow.com/questions/10719262) (1 upvotes)  
-10739619. [ClassFormatException with JSNI Overlay Types in GWT 2.4](http://stackoverflow.com/questions/10739619) (4 upvotes)  
-10747427. [How do you set and pass a parameter to a BIRT report created by the BIRT Report Designer through the BIRT API?](http://stackoverflow.com/questions/10747427) (4 upvotes)  
-10764719. [Error while using .remove method](http://stackoverflow.com/questions/10764719) (0 upvotes)  
-10774871. [Best way to compare dates in Android](http://stackoverflow.com/questions/10774871) (4 upvotes)  
-10789143. [Maven, GWT and Eclipse project](http://stackoverflow.com/questions/10789143) (1 upvotes)  
-10792275. [Sync object with values in GUI using Metawidget](http://stackoverflow.com/questions/10792275) (0 upvotes)  
-10813144. [Java Google Plus Access via oAuth 2.0](http://stackoverflow.com/questions/10813144) (0 upvotes)  
-10815779. [Local Human task service jBPM](http://stackoverflow.com/questions/10815779) (2 upvotes)  
-10823382. [How to show different cards in a CardLayout?](http://stackoverflow.com/questions/10823382) (3 upvotes)  
-10837540. [Application runs (F5) but not builds (F6)](http://stackoverflow.com/questions/10837540) (0 upvotes)  
-10837713. [Commons Pooling: How to instantiate a concrete pool?](http://stackoverflow.com/questions/10837713) (1 upvotes)  
-10853469. [can't find java applet html converter](http://stackoverflow.com/questions/10853469) (1 upvotes)  
-10872220. [Java EE EJB deployment error : container is already registered](http://stackoverflow.com/questions/10872220) (0 upvotes)  
-10872257. [Exporting CSV really strange formatted](http://stackoverflow.com/questions/10872257) (0 upvotes)  
-10883092. [NucleusUserException when creating Google Calendar Request](http://stackoverflow.com/questions/10883092) (0 upvotes)  
-10886138. [Upgrade to Hibernate4 and @ElementCollection results in inability to lookup existing data](http://stackoverflow.com/questions/10886138) (2 upvotes)  
-10913363. [How can I check two Object-Arrays for Equality in JUnit?](http://stackoverflow.com/questions/10913363) (1 upvotes)  
-10932288. [Java generics and overloading with Groovy](http://stackoverflow.com/questions/10932288) (4 upvotes)  
-10947487. [How do I configure jetty to run via maven when using spring?](http://stackoverflow.com/questions/10947487) (1 upvotes)  
-10951977. [android xlarge layout for 7'' tablet](http://stackoverflow.com/questions/10951977) (2 upvotes)  
-10961714. [How to properly stop the Thread in Java](http://stackoverflow.com/questions/10961714) (60 upvotes)  
-10970068. [How to use an AndroidAnnotations SharedPref with a PreferenceActivity?](http://stackoverflow.com/questions/10970068) (1 upvotes)  
-10977315. [Guava CacheBuilder or MapMaker with Weak/Soft usage](http://stackoverflow.com/questions/10977315) (3 upvotes)  
-10977595. [Android - MediaPlayer exception in Android4.0](http://stackoverflow.com/questions/10977595) (2 upvotes)  
-10980826. [dom4j-java- how to change the value of an attribute](http://stackoverflow.com/questions/10980826) (1 upvotes)  
-10981203. [Java convert date to EST timezone respecting DST](http://stackoverflow.com/questions/10981203) (0 upvotes)  
-10986578. [How to avoid deprecation warnings for GWT HorizontalSplitPanel in NetBeans Java project?](http://stackoverflow.com/questions/10986578) (0 upvotes)  
-10988155. [External configuration of non controller or taglib classes](http://stackoverflow.com/questions/10988155) (2 upvotes)  
-10993632. [Php Encode - Java Decode (URL parts)](http://stackoverflow.com/questions/10993632) (0 upvotes)  
-11003206. [Java: JPanel doesn't pick up keyboard bindings](http://stackoverflow.com/questions/11003206) (1 upvotes)  
-11019276. [Proguard not obfuscating methods getId() and getSerialNumber()](http://stackoverflow.com/questions/11019276) (0 upvotes)  
-11020005. [how to suspend thread using thread's id?](http://stackoverflow.com/questions/11020005) (0 upvotes)  
-11028147. [how to create custom annotations with logics inside in JAVA](http://stackoverflow.com/questions/11028147) (-2 upvotes)  
-11042103. [grails -xlint error prevents running a project](http://stackoverflow.com/questions/11042103) (0 upvotes)  
-11044888. [Using PKCS 7 Cryptography](http://stackoverflow.com/questions/11044888) (0 upvotes)  
-11046787. [I have a JFrame GUI (using the GUI builder) with a List [JList] from the swing controls but can't call setListData(Object[]) without an error](http://stackoverflow.com/questions/11046787) (1 upvotes)  
-11048016. [How to remove clickHandler which already added to Label?](http://stackoverflow.com/questions/11048016) (1 upvotes)  
-11063093. [Using BouncyCastle to perform PKCS#7 encryption?](http://stackoverflow.com/questions/11063093) (0 upvotes)  
-11077915. [what is alternative solution for Removing display=wap Dialogs in Dialog Parameters of Facebook authentication?](http://stackoverflow.com/questions/11077915) (5 upvotes)  
-11078939. [Integrating Wicket and Enunciate](http://stackoverflow.com/questions/11078939) (0 upvotes)  
-11086343. [Howto get rid of [WARNING] Deprecated API called in maven site](http://stackoverflow.com/questions/11086343) (2 upvotes)  
-11092055. [Robotium not running all tests](http://stackoverflow.com/questions/11092055) (2 upvotes)  
-11092407. [Robotium Assertion Failing](http://stackoverflow.com/questions/11092407) (1 upvotes)  
-11093818. [Exception : "No adapter for handler. Does your handler implement a supported interface like controller?"](http://stackoverflow.com/questions/11093818) (5 upvotes)  
-11109450. [How do I remove a compnent from a JPanel? and then redisplay the frame?](http://stackoverflow.com/questions/11109450) (0 upvotes)  
-11111796. [Android-Show Custom Dialog](http://stackoverflow.com/questions/11111796) (1 upvotes)  
-11128662. [What is the non-deprecated replacement for @scr.property nameRef?](http://stackoverflow.com/questions/11128662) (0 upvotes)  
-11134028. [Deprecated method, what to use instead?](http://stackoverflow.com/questions/11134028) (-3 upvotes)  
-11135273. [How to perform arithmetic on java.sql.Time objects?](http://stackoverflow.com/questions/11135273) (0 upvotes)  
-11139831. [How to add an extension to my project ie. so it would save newly added 'records' as well as the old ones](http://stackoverflow.com/questions/11139831) (0 upvotes)  
-11150329. [Spring project getting exceptions](http://stackoverflow.com/questions/11150329) (0 upvotes)  
-11160880. [how to extract URLs from google search results using Java](http://stackoverflow.com/questions/11160880) (-1 upvotes)  
-11186105. [capturing video from ip camera](http://stackoverflow.com/questions/11186105) (2 upvotes)  
-11192719. [Iterator is fail-fast and Enumeration is not. Are there additional differences between the two other than the points given by Javadoc?](http://stackoverflow.com/questions/11192719) (0 upvotes)  
-11198953. [Working with public assets throws compilation error](http://stackoverflow.com/questions/11198953) (1 upvotes)  
-11228462. [Post video on YouTube from Google App Engine site on behalf of that site, not the user](http://stackoverflow.com/questions/11228462) (1 upvotes)  
-11230692. [Building openjdk7 for Itanium64 on Suse Enterprise Linux Server](http://stackoverflow.com/questions/11230692) (1 upvotes)  
-11235486. [How do I deal with server-side authentication now that offline_access is being deprecated?](http://stackoverflow.com/questions/11235486) (0 upvotes)  
-11237946. [Is DTO pattern deprecated or not?](http://stackoverflow.com/questions/11237946) (4 upvotes)  
-11238155. [Java class major version](http://stackoverflow.com/questions/11238155) (0 upvotes)  
-11242224. [Junit difference between assertEquals(Double, Double) and assertEquals(double, double, delta)](http://stackoverflow.com/questions/11242224) (5 upvotes)  
-11247459. [What is design principle behind Servlets being Singleton](http://stackoverflow.com/questions/11247459) (1 upvotes)  
-11247844. [Preventing API users from using some methods](http://stackoverflow.com/questions/11247844) (0 upvotes)  
-11254693. [Parsing a directory of logs in Hadoop 0.20.2](http://stackoverflow.com/questions/11254693) (1 upvotes)  
-11258039. [Error when trying to use Guava FluentIterable with GWT](http://stackoverflow.com/questions/11258039) (1 upvotes)  
-11258752. [java: Stop the Singleton thread](http://stackoverflow.com/questions/11258752) (0 upvotes)  
-11268093. [How to display error messages when any validation rule is violated using HibernateValidator?](http://stackoverflow.com/questions/11268093) (0 upvotes)  
-11272839. [Non Deprecated findPreference() Method? - Android](http://stackoverflow.com/questions/11272839) (19 upvotes)  
-11276760. [Validating a form in JSP](http://stackoverflow.com/questions/11276760) (0 upvotes)  
-11278813. [Error messages are not displayed in showForm() while using the Validator interface](http://stackoverflow.com/questions/11278813) (0 upvotes)  
-11280531. [How to put JSON lOutput (latitude and longitude) on the map](http://stackoverflow.com/questions/11280531) (0 upvotes)  
-11297025. [How to determine deprecated permissions?](http://stackoverflow.com/questions/11297025) (4 upvotes)  
-11302870. [Secondary Namenode not starting](http://stackoverflow.com/questions/11302870) (3 upvotes)  
-11307649. [Can it be acceptable in Java to use Thread#stop() to kill a thread that is running wild?](http://stackoverflow.com/questions/11307649) (5 upvotes)  
-11318641. [Spring class not found](http://stackoverflow.com/questions/11318641) (1 upvotes)  
-11328805. [How adjust image in java that open by default taking the computer resolution automatically](http://stackoverflow.com/questions/11328805) (2 upvotes)  
-11331744. [Is there a class that exposes an unbuffered readLine method in Java?](http://stackoverflow.com/questions/11331744) (5 upvotes)  
-11348840. [Use Maven to pre-process source code that is going to be built with Maven](http://stackoverflow.com/questions/11348840) (0 upvotes)  
-11355971. [Maven Dependencies in SpringSource Tool Suite](http://stackoverflow.com/questions/11355971) (2 upvotes)  
-11375392. [Vector vs. ArrayList which is better?](http://stackoverflow.com/questions/11375392) (18 upvotes)  
-11383898. [how to create X509 certificate in java?](http://stackoverflow.com/questions/11383898) (1 upvotes)  
-11394412. [Compile application using Jython](http://stackoverflow.com/questions/11394412) (1 upvotes)  
-11428410. [Hibernate 4.0.0Final where is the SessionFactory.openSession(Interceptor interceptor)](http://stackoverflow.com/questions/11428410) (1 upvotes)  
-11428538. [HibernateException](http://stackoverflow.com/questions/11428538) (0 upvotes)  
-11441299. [JAXB to JSON using JACKSON](http://stackoverflow.com/questions/11441299) (1 upvotes)  
-11463271. [Java Function Annotation Help, use @Deprecated?](http://stackoverflow.com/questions/11463271) (4 upvotes)  
-11469211. [How to use <sec:authorize access="hasRole('ROLES)"> for checking multiple Roles?](http://stackoverflow.com/questions/11469211) (4 upvotes)  
-11470188. [Bouncy castle 1.47 and standard JCE](http://stackoverflow.com/questions/11470188) (0 upvotes)  
-11503039. [Taking webpages snapshot using selenium server in java](http://stackoverflow.com/questions/11503039) (0 upvotes)  
-11515533. [OpenGL slick-util missing class: UnicodeFont not included in .jar](http://stackoverflow.com/questions/11515533) (0 upvotes)  
-11520010. [Is Logback mature enough to replace log4j?](http://stackoverflow.com/questions/11520010) (5 upvotes)  
-11547908. [Exception thrown when using Java Generic SOAPClient (SAAJ)?](http://stackoverflow.com/questions/11547908) (2 upvotes)  
-11552838. [Reading JPEGs in Java](http://stackoverflow.com/questions/11552838) (3 upvotes)  
-11564281. [Dates in Java, how to manipulate the year?](http://stackoverflow.com/questions/11564281) (0 upvotes)  
-11564870. [How to fix websockets which are giving a NetworkError: 400 Unsupported draft specification: 13](http://stackoverflow.com/questions/11564870) (1 upvotes)  
-11581997. [Log4j Logger garbage collection?](http://stackoverflow.com/questions/11581997) (0 upvotes)  
-11582220. [Customize Java editor in Eclipse](http://stackoverflow.com/questions/11582220) (6 upvotes)  
-11586199. [JAVA3D- First program- error](http://stackoverflow.com/questions/11586199) (0 upvotes)  
-11592269. [Added main class to applet, methods no don't work](http://stackoverflow.com/questions/11592269) (0 upvotes)  
-11598708. [unable to compile samples obtained from Restlet.org](http://stackoverflow.com/questions/11598708) (0 upvotes)  
-11599604. [Eclipse @deprecated not working, but @Deprecated work](http://stackoverflow.com/questions/11599604) (2 upvotes)  
-11649889. [Managing transaction (non-xa or say local) in Mysql + JDBC + Tomcat](http://stackoverflow.com/questions/11649889) (0 upvotes)  
-11651705. [Android Application Development - Problems with camera application](http://stackoverflow.com/questions/11651705) (0 upvotes)  
-11653918. [NullPointerException in android app on sharedpreferences declaration?](http://stackoverflow.com/questions/11653918) (0 upvotes)  
-11654737. [How to create a bigram/trigrams index in Lucene 3.4.0?](http://stackoverflow.com/questions/11654737) (2 upvotes)  
-11654984. [Compilation failed for ejb](http://stackoverflow.com/questions/11654984) (0 upvotes)  
-11668970. [Javac doesn't work in ant build](http://stackoverflow.com/questions/11668970) (1 upvotes)  
-11684656. [Google Play license check doCheck() method causes nullPointerException and force closes](http://stackoverflow.com/questions/11684656) (0 upvotes)  
-11697937. [Google Web Search API limitation](http://stackoverflow.com/questions/11697937) (0 upvotes)  
-11742025. [java.lang.UnsupportedOperationException error on splashscreen.java](http://stackoverflow.com/questions/11742025) (0 upvotes)  
-11758068. [Android NullPointerException Error at Runtime](http://stackoverflow.com/questions/11758068) (0 upvotes)  
-11776302. [How to indicate that member fields are @Nonnull by default?](http://stackoverflow.com/questions/11776302) (9 upvotes)  
-11808849. [How to assert two doubles in JUnit using assertEquals with Epsilon?](http://stackoverflow.com/questions/11808849) (2 upvotes)  
-11812475. [JSF2 MetaRule and MethodBinding](http://stackoverflow.com/questions/11812475) (0 upvotes)  
-11828762. [Java: simple way of displaying some SQL data in browser & interact](http://stackoverflow.com/questions/11828762) (1 upvotes)  
-11842029. [How to do duck typing with Jackson?](http://stackoverflow.com/questions/11842029) (0 upvotes)  
-11856287. [How to stop and resume thread safely in Java?](http://stackoverflow.com/questions/11856287) (1 upvotes)  
-11861245. [What to use instead of SimpleJdbcTestUtils?](http://stackoverflow.com/questions/11861245) (2 upvotes)  
-11876972. [Show two Points A and B on Canvas](http://stackoverflow.com/questions/11876972) (1 upvotes)  
-11888654. [Java annotations for code style with semantics like @Deprecated](http://stackoverflow.com/questions/11888654) (1 upvotes)  
-11891194. [Enabling javac debugging for Apache ANT](http://stackoverflow.com/questions/11891194) (7 upvotes)  
-11893727. [Android ListView with SimpleCursorAdapter - Crashes onResume](http://stackoverflow.com/questions/11893727) (0 upvotes)  
-11895205. [Hibernate 4 Annotation Configuration](http://stackoverflow.com/questions/11895205) (5 upvotes)  
-11909363. [Android ListView with SimpleCursorAdapter - CursorIndexOutOfBoundsException error](http://stackoverflow.com/questions/11909363) (0 upvotes)  
-11928860. [JSF and Spring integration error at Service creation](http://stackoverflow.com/questions/11928860) (0 upvotes)  
-11935299. [HTTP API deprected warnings UTF_8, Scheme, ThreadSafeClientConnManager](http://stackoverflow.com/questions/11935299) (4 upvotes)  
-11940194. [SpringMVC using annotations and xml configurations](http://stackoverflow.com/questions/11940194) (1 upvotes)  
-11945728. [How to use TermVector Lucene 4.0](http://stackoverflow.com/questions/11945728) (4 upvotes)  
-11966434. [addPreferencesFromResource deprecated - any other solution?](http://stackoverflow.com/questions/11966434) (1 upvotes)  
-11966822. [Set the year of a java date](http://stackoverflow.com/questions/11966822) (0 upvotes)  
-11984610. [Generating digital certificates using Bouncycastle](http://stackoverflow.com/questions/11984610) (1 upvotes)  
-12011447. [JCreator IDE: Program will compile but not run, works in command prompt](http://stackoverflow.com/questions/12011447) (0 upvotes)  
-12013438. [Java storing sensitive 'key' as String or char[]?](http://stackoverflow.com/questions/12013438) (3 upvotes)  
-12019649. [java html to xml saxbuilder jdom2](http://stackoverflow.com/questions/12019649) (0 upvotes)  
-12028635. [What is the meaning of "per route basis" in PoolingClientConnectionManager?](http://stackoverflow.com/questions/12028635) (6 upvotes)  
-12029826. [Creating custom text editing component with JavaFX](http://stackoverflow.com/questions/12029826) (1 upvotes)  
-12030331. [Synchronize the PoolingClientConnectionManager or not](http://stackoverflow.com/questions/12030331) (4 upvotes)  
-12031637. [Java Swing deprecated in favor of JavaFx 2.0](http://stackoverflow.com/questions/12031637) (4 upvotes)  
-12042352. [Retrieve Month, Day and Year values from a String using Java](http://stackoverflow.com/questions/12042352) (2 upvotes)  
-12044206. [Exception while creating custom object using Salesforce CRUD Metadata API](http://stackoverflow.com/questions/12044206) (0 upvotes)  
-12048610. [Why is iText's PdfWriter printing JTextFields black when exported as a runnable jar?](http://stackoverflow.com/questions/12048610) (2 upvotes)  
-12058823. [Launch android Play Store app from PreferenceActivity?](http://stackoverflow.com/questions/12058823) (-1 upvotes)  
-12071454. [How to stop thread in java, when it is hanged?](http://stackoverflow.com/questions/12071454) (0 upvotes)  
-12091957. [ChannelPipelineCoverage is deprectated. Is there a drop-in replacement?](http://stackoverflow.com/questions/12091957) (0 upvotes)  
-12095054. [does anybody know how to find up-to-date javadocs for google-api-java-client](http://stackoverflow.com/questions/12095054) (1 upvotes)  
-12102004. [Pause/Resume arbitrary computation in thread](http://stackoverflow.com/questions/12102004) (1 upvotes)  
-12114612. [Which annotations are baked in to Java?](http://stackoverflow.com/questions/12114612) (-3 upvotes)  
-12124924. [Contact Picker not returning result](http://stackoverflow.com/questions/12124924) (0 upvotes)  
-12137400. [How do I set a system variable for use in a maven failsafe test?](http://stackoverflow.com/questions/12137400) (0 upvotes)  
-12141542. [How do I access a string from a class](http://stackoverflow.com/questions/12141542) (1 upvotes)  
-12174440. [sslsocket session mecanism for high latency connexion](http://stackoverflow.com/questions/12174440) (4 upvotes)  
-12179248. [How to add alternative font to Button text in Android?](http://stackoverflow.com/questions/12179248) (2 upvotes)  
-12179302. [VBO with textures, without deprecated functions](http://stackoverflow.com/questions/12179302) (3 upvotes)  
-12190202. [Sending a PoisonPill to an Actor in Java](http://stackoverflow.com/questions/12190202) (7 upvotes)  
-12194090. [setRetainInstance in Activity and Not Fragments](http://stackoverflow.com/questions/12194090) (1 upvotes)  
-12202510. [Synchronizing access to one file from two or more Servlets](http://stackoverflow.com/questions/12202510) (1 upvotes)  
-12236519. [Browse, read, and remove a message from a queue using IBM MQ classes](http://stackoverflow.com/questions/12236519) (3 upvotes)  
-12259670. [Java API for creating Google Maps or Earth](http://stackoverflow.com/questions/12259670) (0 upvotes)  
-12261899. [Failed to load ApplicationContext with @ContextConfiguration(classes={ ... })](http://stackoverflow.com/questions/12261899) (1 upvotes)  
-12279723. [Selenium_Webdriver: Proxy setting](http://stackoverflow.com/questions/12279723) (0 upvotes)  
-12293593. [Finance API for Android](http://stackoverflow.com/questions/12293593) (2 upvotes)  
-12305191. [Compile java project without using gradle's java plugin?](http://stackoverflow.com/questions/12305191) (0 upvotes)  
-12311717. [Spring Security UserMap is deprecated, how to use plain map?](http://stackoverflow.com/questions/12311717) (0 upvotes)  
-12315149. [Interrupt/stop thread with I/O blocking operation](http://stackoverflow.com/questions/12315149) (0 upvotes)  
-12318629. [How to implement tabs now that TabActivity is deprecated](http://stackoverflow.com/questions/12318629) (5 upvotes)  
-12320829. [Creating new SOAP web service with JAVA](http://stackoverflow.com/questions/12320829) (-1 upvotes)  
-12350889. [Ant Build giving error when using the itext jars](http://stackoverflow.com/questions/12350889) (1 upvotes)  
-12352355. [What is a good (free) library to make a contour plot close as possible to this?](http://stackoverflow.com/questions/12352355) (4 upvotes)  
-12369594. [GCM receiver package not found](http://stackoverflow.com/questions/12369594) (2 upvotes)  
-12382304. [How to access classes and its relevant method of JAR into MacOsX application (Objective-C)](http://stackoverflow.com/questions/12382304) (0 upvotes)  
-12387564. [ActionForm class in struts](http://stackoverflow.com/questions/12387564) (0 upvotes)  
-12392563. [playOrm using Eclipse](http://stackoverflow.com/questions/12392563) (1 upvotes)  
-12392750. ["Uses or overrides a deprecated API" compiler warning](http://stackoverflow.com/questions/12392750) (0 upvotes)  
-12396305. [Jcreator Error when running a file](http://stackoverflow.com/questions/12396305) (0 upvotes)  
-12410247. [Since when does if/else require braces?](http://stackoverflow.com/questions/12410247) (5 upvotes)  
-12415997. [Sending a TCP command with android phone but no data is sent](http://stackoverflow.com/questions/12415997) (2 upvotes)  
-12419163. [java - about Google Calendar API v3](http://stackoverflow.com/questions/12419163) (2 upvotes)  
-12426808. [Can't get Maven working with Nexus OSS](http://stackoverflow.com/questions/12426808) (1 upvotes)  
-12434994. [Connection refused: when connecting a java client to an Android server(Emulator)](http://stackoverflow.com/questions/12434994) (0 upvotes)  
-12449642. [Return a text string as the response struts2](http://stackoverflow.com/questions/12449642) (2 upvotes)  
-12449769. [Portable application on java to work with web camera](http://stackoverflow.com/questions/12449769) (2 upvotes)  
-12473384. [Adding two TokenStream streams together (an ASCIIFoldingFilter case)](http://stackoverflow.com/questions/12473384) (1 upvotes)  
-12478041. [Maven dependencies are not copied to WEB-INF/lib in eclipse](http://stackoverflow.com/questions/12478041) (0 upvotes)  
-12481336. [jfreechart mutiple datasets to svg image](http://stackoverflow.com/questions/12481336) (0 upvotes)  
-12499675. [Authorize a Google Drive Service java with Client Login?](http://stackoverflow.com/questions/12499675) (3 upvotes)  
-12503437. [Google Drive service account returns 403 usageLimits](http://stackoverflow.com/questions/12503437) (4 upvotes)  
-12503527. [How do I convert the date from one format to another date object in another format without using any deprecated classes?](http://stackoverflow.com/questions/12503527) (9 upvotes)  
-12515599. [rotation in latest OpenGL](http://stackoverflow.com/questions/12515599) (3 upvotes)  
-12538445. [How to change an interface in Java and its consequences?](http://stackoverflow.com/questions/12538445) (3 upvotes)  
-12539955. [Not sure where to put my Java library needed for my class assignments](http://stackoverflow.com/questions/12539955) (1 upvotes)  
-12558231. [Recompile with -Xlint:deprecation for details](http://stackoverflow.com/questions/12558231) (1 upvotes)  
-12569150. [issue with ant build](http://stackoverflow.com/questions/12569150) (0 upvotes)  
-12591580. [Read utf-8 url to string java](http://stackoverflow.com/questions/12591580) (1 upvotes)  
-12593490. [Getter and Setters not working?](http://stackoverflow.com/questions/12593490) (1 upvotes)  
-12606196. [What is the alternative to using the Deprecated Hamcrest method is()?](http://stackoverflow.com/questions/12606196) (10 upvotes)  
-12607952. [Analog of setShapesVisible](http://stackoverflow.com/questions/12607952) (0 upvotes)  
-12617618. [Ant : Compile failed; see the compiler error output for details](http://stackoverflow.com/questions/12617618) (3 upvotes)  
-12642355. [deploying/Running dukesbank sample application of java ee with glassfish](http://stackoverflow.com/questions/12642355) (0 upvotes)  
-12658852. [Video doesn't work when program is run from a JAR file](http://stackoverflow.com/questions/12658852) (0 upvotes)  
-12664107. [spring annotation not working](http://stackoverflow.com/questions/12664107) (0 upvotes)  
-12667200. [Why Red5 close after few seconds of inactivity?](http://stackoverflow.com/questions/12667200) (0 upvotes)  
-12674801. [oAuth for Google+](http://stackoverflow.com/questions/12674801) (0 upvotes)  
-12684305. [Classes that don't inherit Object class](http://stackoverflow.com/questions/12684305) (3 upvotes)  
-12693822. [How can I generate live video stream and stream via servlet?](http://stackoverflow.com/questions/12693822) (4 upvotes)  
-12694048. [Java Mac how to create an about window like finder's](http://stackoverflow.com/questions/12694048) (1 upvotes)  
-12714337. [How do I reference java Calendar types in an HQL select statement?](http://stackoverflow.com/questions/12714337) (0 upvotes)  
-12714701. [Deprecated ManagedQuery() issue](http://stackoverflow.com/questions/12714701) (30 upvotes)  
-12715216. [SimpleDateFormat ignoring DST offset in Android](http://stackoverflow.com/questions/12715216) (1 upvotes)  
-12716416. [If jstat is deprecated, what should I use instead?](http://stackoverflow.com/questions/12716416) (1 upvotes)  
-12718804. [http 401 for Spring Tutorial when running "ant list"](http://stackoverflow.com/questions/12718804) (1 upvotes)  
-12723037. [No stored conversation in JBoss 7.1.1, Seam 2.3.0](http://stackoverflow.com/questions/12723037) (0 upvotes)  
-12725219. [Cancel SwingWorker clearly with session](http://stackoverflow.com/questions/12725219) (-1 upvotes)  
-12729733. [Sametime Java Toolkit loginByPassword deprecated](http://stackoverflow.com/questions/12729733) (1 upvotes)  
-12731283. [Using SecureRandom with SHA-256](http://stackoverflow.com/questions/12731283) (3 upvotes)  
-12731291. [How to load a Java applet class from a subfolder with the embed tag?](http://stackoverflow.com/questions/12731291) (1 upvotes)  
-12732752. [Same app for different android versions](http://stackoverflow.com/questions/12732752) (0 upvotes)  
-12756434. [using double buffering kinda ruin my applet. and it has java uses or overrides a deprecated API](http://stackoverflow.com/questions/12756434) (0 upvotes)  
-12766085. [ANT create the jar file giving problems with getResource + encoding](http://stackoverflow.com/questions/12766085) (0 upvotes)  
-12769696. [Google Analytics API error :: NoSuchMethodError for JsonHttpParser](http://stackoverflow.com/questions/12769696) (0 upvotes)  
-12806613. [Cannot get Spring MVC to parse date time using DateTimeFormat annotation](http://stackoverflow.com/questions/12806613) (2 upvotes)  
-12812105. [Android notification keeps launching app (even when I don't tap the notification)?](http://stackoverflow.com/questions/12812105) (0 upvotes)  
-12826897. [Stopping a Windows service that isn't running causes build to fail](http://stackoverflow.com/questions/12826897) (3 upvotes)  
-12831957. [How to determine if my application was launched through click on application or click on a document?](http://stackoverflow.com/questions/12831957) (1 upvotes)  
-12841855. [session.connection( ) deprecated](http://stackoverflow.com/questions/12841855) (0 upvotes)  
-12849913. [How to set character encode in workbook, sheet and cells of HSSF Classes in Apache POI beyond 3.7 version?](http://stackoverflow.com/questions/12849913) (0 upvotes)  
-12850033. [Trying to build a simple notification in android](http://stackoverflow.com/questions/12850033) (3 upvotes)  
-12853434. [share a status on twitter in android through twitter api?](http://stackoverflow.com/questions/12853434) (0 upvotes)  
-12855158. [How to compile the annotation processor with Ant?](http://stackoverflow.com/questions/12855158) (7 upvotes)  
-12886191. [Determining whether library class is used from GWT app or regular Java](http://stackoverflow.com/questions/12886191) (0 upvotes)  
-12887461. [Java project template on Mac?](http://stackoverflow.com/questions/12887461) (1 upvotes)  
-12895753. [Java IVR Example](http://stackoverflow.com/questions/12895753) (0 upvotes)  
-12897083. [converting java Date to day](http://stackoverflow.com/questions/12897083) (1 upvotes)  
-12905512. [Android PreferenceActivity without XML](http://stackoverflow.com/questions/12905512) (2 upvotes)  
-12909288. [I can't finish thread (runnable), how it is?](http://stackoverflow.com/questions/12909288) (0 upvotes)  
-12917101. [Compiling scalafx for Java 7u7 (that contains JavaFX 2.2) on OS X](http://stackoverflow.com/questions/12917101) (3 upvotes)  
-12924425. [How do you stop Proguard from removing type parameters?](http://stackoverflow.com/questions/12924425) (9 upvotes)  
-12942435. [Error while installing Hadoop](http://stackoverflow.com/questions/12942435) (0 upvotes)  
-12949943. [What mean JAX-RPC-based web service endpoints (in context of EJB)?](http://stackoverflow.com/questions/12949943) (0 upvotes)  
-12953958. [How to create an ARFF file from an array in java?](http://stackoverflow.com/questions/12953958) (0 upvotes)  
-12953967. [dependency-check in Spring3.x](http://stackoverflow.com/questions/12953967) (0 upvotes)  
-12954389. [Java Method Not Found, even though method signature looks OK (desmo-j simulation)](http://stackoverflow.com/questions/12954389) (0 upvotes)  
-12965423. [why have JUnit MethodRule and TestWatchman have been deprecated?](http://stackoverflow.com/questions/12965423) (8 upvotes)  
-12972551. [Eclipse Indigo not running project after installing Lombok](http://stackoverflow.com/questions/12972551) (0 upvotes)  
-12975568. [Unable to compile through command prompt](http://stackoverflow.com/questions/12975568) (0 upvotes)  
-12989413. [JNetPcap send UDP Packet](http://stackoverflow.com/questions/12989413) (3 upvotes)  
-12991116. [Java Exit on Windows Shutdown](http://stackoverflow.com/questions/12991116) (1 upvotes)  
-12995817. [How to stop a Java thread?](http://stackoverflow.com/questions/12995817) (5 upvotes)  
-13004111. [Recompile with -Xlint](http://stackoverflow.com/questions/13004111) (1 upvotes)  
-13011687. [Why are Java Date objects designed so that you can't get the date?](http://stackoverflow.com/questions/13011687) (2 upvotes)  
-13012511. [How to run a jar file in hadoop](http://stackoverflow.com/questions/13012511) (1 upvotes)  
-13014509. [Toggling A2DP Device (Android)](http://stackoverflow.com/questions/13014509) (10 upvotes)  
-13015870. [Java enums mutability usecases and possibilities?](http://stackoverflow.com/questions/13015870) (1 upvotes)  
-13024062. [Mac OS Java 7 applet+smartcard issue](http://stackoverflow.com/questions/13024062) (2 upvotes)  
-13028987. [Deploy war on tomcat by hudson using maven cargo plugin](http://stackoverflow.com/questions/13028987) (3 upvotes)  
-13035640. [Android fails to build on OS X 10.7](http://stackoverflow.com/questions/13035640) (2 upvotes)  
-13036240. [ignoring time when comparing Calendars](http://stackoverflow.com/questions/13036240) (0 upvotes)  
-13076572. [hibernate, jpa, c3p0, and warning HHH000208](http://stackoverflow.com/questions/13076572) (1 upvotes)  
-13081224. [How to display the login information in different layout?](http://stackoverflow.com/questions/13081224) (0 upvotes)  
-13084487. [jython - is there a way to avoid having to use "super__" methods?](http://stackoverflow.com/questions/13084487) (0 upvotes)  
-13092330. [Maven 3.0.4 error on Windows 8 x64: Usage: java [-options] class [args...]](http://stackoverflow.com/questions/13092330) (1 upvotes)  
-13107608. [FindClass in jni code crashes JVM](http://stackoverflow.com/questions/13107608) (2 upvotes)  
-13108112. [Why isn't the @Deprecated annotation triggering a compiler warning about a method?](http://stackoverflow.com/questions/13108112) (4 upvotes)  
-13125551. [Lucene 4.0 overrides final method tokenStream](http://stackoverflow.com/questions/13125551) (2 upvotes)  
-13127291. [Running Selenium tests with Chrome on Ubuntu in a headless environment](http://stackoverflow.com/questions/13127291) (0 upvotes)  
-13128600. [How to reset scroll values, NO_SCROLL_RESET, Blackberry](http://stackoverflow.com/questions/13128600) (0 upvotes)  
-13137403. [How to migrate Fusion Tables SQL API with New API in Java](http://stackoverflow.com/questions/13137403) (2 upvotes)  
-13152173. [de.enough.polish.pim.PimUtility class not found](http://stackoverflow.com/questions/13152173) (1 upvotes)  
-13154074. [How Java thread.stop() work?](http://stackoverflow.com/questions/13154074) (8 upvotes)  
-13157951. [Access Config.groovy from Java class](http://stackoverflow.com/questions/13157951) (5 upvotes)  
-13159409. [Hadoop: What to use instead of deprecated interfaces Mapper and Reducer?](http://stackoverflow.com/questions/13159409) (0 upvotes)  
-13166402. [Drawn image inside panel seems to have wrong x,y offset](http://stackoverflow.com/questions/13166402) (0 upvotes)  
-13175981. [Java usb input platform independent](http://stackoverflow.com/questions/13175981) (4 upvotes)  
-13183675. [Eclipse JavaDoc Generation fails with IllegalArgumentException?](http://stackoverflow.com/questions/13183675) (3 upvotes)  
-13187549. [How to set a spinner item equal to a value](http://stackoverflow.com/questions/13187549) (0 upvotes)  
-13194537. [Android Phonegap 2.1 > 2.2 Upgrade error](http://stackoverflow.com/questions/13194537) (4 upvotes)  
-13204485. [How do i visualize graphs in java ?](http://stackoverflow.com/questions/13204485) (0 upvotes)  
-13212106. [ArrayList doesn't detect first input](http://stackoverflow.com/questions/13212106) (0 upvotes)  
-13214551. [java.lang.IllegalArgumentException: Property 'transactionManager' is required](http://stackoverflow.com/questions/13214551) (5 upvotes)  
-13237297. [How to Update a ProgressDialog Fragment](http://stackoverflow.com/questions/13237297) (0 upvotes)  
-13238685. [Classes / methods - removed / changed in SDK](http://stackoverflow.com/questions/13238685) (6 upvotes)  
-13240325. [Should I @Deprecate a Superclass Method?](http://stackoverflow.com/questions/13240325) (3 upvotes)  
-13240696. [Documentation for Hadoop](http://stackoverflow.com/questions/13240696) (0 upvotes)  
-13244020. [Remember Me with Spring Security 3.1.3 - deprecated default constructors](http://stackoverflow.com/questions/13244020) (3 upvotes)  
-13277567. [Implicit "@copydoc" from Java Inteface](http://stackoverflow.com/questions/13277567) (0 upvotes)  
-13279701. [Most efficient way of checking if Date object and Calendar object are in the same month](http://stackoverflow.com/questions/13279701) (3 upvotes)  
-13281689. [Google earth Plugin with (preferable) Java](http://stackoverflow.com/questions/13281689) (0 upvotes)  
-13296553. [using synhronize for getters/setters or AtomicReference](http://stackoverflow.com/questions/13296553) (2 upvotes)  
-13311700. [List<E>.contains(Object), why?](http://stackoverflow.com/questions/13311700) (4 upvotes)  
-13334207. [Using "notify()" & "wait()" instead of "suspend()" and "resume()" to control a thread](http://stackoverflow.com/questions/13334207) (2 upvotes)  
-13343524. [The correct way to set and get hour, minutes, sec](http://stackoverflow.com/questions/13343524) (1 upvotes)  
-13368775. [Certification chain contains only one position - Java & PKCS11](http://stackoverflow.com/questions/13368775) (2 upvotes)  
-13414474. [alternative to FindBugs DefaultAnnotation for javax.annotation for fields and methods](http://stackoverflow.com/questions/13414474) (3 upvotes)  
-13427122. [Trouble embedding Java applet into an html page](http://stackoverflow.com/questions/13427122) (0 upvotes)  
-13439611. [Why can't Ant find javac?](http://stackoverflow.com/questions/13439611) (0 upvotes)  
-13440186. [call to map.get inside For/in loop throws nullpointerexception while iterator doesn't](http://stackoverflow.com/questions/13440186) (1 upvotes)  
-13445451. [deprecated readLine() What to change?](http://stackoverflow.com/questions/13445451) (0 upvotes)  
-13446101. [Maven build war doesn't work properly on Tomcat 7](http://stackoverflow.com/questions/13446101) (0 upvotes)  
-13451045. [Passing java system properties to ant tests](http://stackoverflow.com/questions/13451045) (4 upvotes)  
-13484955. ["Found unexpected annotation while handling a name sequence"](http://stackoverflow.com/questions/13484955) (0 upvotes)  
-13485767. [How to change non-default constructor in fragments to default constructor?](http://stackoverflow.com/questions/13485767) (1 upvotes)  
-13488958. [Android Facebook-Connect button needs to be clicked two times](http://stackoverflow.com/questions/13488958) (1 upvotes)  
-13499235. [Updating clock in Android](http://stackoverflow.com/questions/13499235) (0 upvotes)  
-13502554. [incrementations per second on a 2.5GHz Intel i7](http://stackoverflow.com/questions/13502554) (0 upvotes)  
-13505236. [How to Implement Android tab menu without deprecated tabhost](http://stackoverflow.com/questions/13505236) (3 upvotes)  
-13524514. [ThrottleService(79): unable reading network stats](http://stackoverflow.com/questions/13524514) (3 upvotes)  
-13525800. [My tab widget doesn't display the picture icons](http://stackoverflow.com/questions/13525800) (0 upvotes)  
-13529783. [AlarmManager triggers PendingIntent too soon for the second time](http://stackoverflow.com/questions/13529783) (2 upvotes)  
-13531672. [Why @Deprecated does not work here?](http://stackoverflow.com/questions/13531672) (2 upvotes)  
-13556668. [Why am I not getting data from accelerometer sensor?](http://stackoverflow.com/questions/13556668) (0 upvotes)  
-13557961. [How to schedule threads in java whose tasks depend on one another?](http://stackoverflow.com/questions/13557961) (3 upvotes)  
-13561456. [Read all beans of class in Spring 3](http://stackoverflow.com/questions/13561456) (0 upvotes)  
-13565515. [Java signing files with BouncyCastle - Create signature of a file usign secret keyring](http://stackoverflow.com/questions/13565515) (0 upvotes)  
-13577216. [JSP getVariableResolver() is deprecated, what is the right way in JSP 2.2?](http://stackoverflow.com/questions/13577216) (2 upvotes)  
-13579301. [Why is buildSessionFactory() deprecated?](http://stackoverflow.com/questions/13579301) (6 upvotes)  
-13580556. [Errors in my torch app](http://stackoverflow.com/questions/13580556) (0 upvotes)  
-13586422. [image processing ( template matching ) on hadoop javacv code](http://stackoverflow.com/questions/13586422) (2 upvotes)  
-13588940. [Different behaviour between javac 1.6 and javac 1.7 when handling special characters](http://stackoverflow.com/questions/13588940) (5 upvotes)  
-13592371. [ListActivity TwoLineListItem Alternative](http://stackoverflow.com/questions/13592371) (6 upvotes)  
-13595646. [Neo4j - Relationship Expander deprecated, using Lowest Common Ancestor](http://stackoverflow.com/questions/13595646) (0 upvotes)  
-13607553. [Facebook Android SDK SSO without the Facebook App installed](http://stackoverflow.com/questions/13607553) (0 upvotes)  
-13611409. [Add text description under each image in image viewpager](http://stackoverflow.com/questions/13611409) (3 upvotes)  
-13624850. [How to extract the text from a currently selected listview element apart from using getSelectedItem?](http://stackoverflow.com/questions/13624850) (0 upvotes)  
-13630281. [Cannot build 32-bit Sigar library](http://stackoverflow.com/questions/13630281) (1 upvotes)  
-13634502. [Custom FocusTraversalPolicy class Java Swing](http://stackoverflow.com/questions/13634502) (1 upvotes)  
-13642422. [Configuring Shiro with Guice without a ServletContext](http://stackoverflow.com/questions/13642422) (3 upvotes)  
-13643137. [How to use Google task API ?Initialize Tasks Get TaskList etc.?](http://stackoverflow.com/questions/13643137) (0 upvotes)  
-13648860. [Android null pointer exception on findviewbyid](http://stackoverflow.com/questions/13648860) (2 upvotes)  
-13657712. [JavaCV Fails to Run after successful clean and build](http://stackoverflow.com/questions/13657712) (0 upvotes)  
-13664662. [Different text for each image in image viewpager](http://stackoverflow.com/questions/13664662) (4 upvotes)  
-13668588. [Infinite Scrolling Image ViewPager](http://stackoverflow.com/questions/13668588) (6 upvotes)  
-13669735. [Stopping thread with sentinel does not work](http://stackoverflow.com/questions/13669735) (0 upvotes)  
-13684292. [Authenticate Google App users with Google OAuth2 API](http://stackoverflow.com/questions/13684292) (2 upvotes)  
-13721378. [Why is JButton.enable deprecated?](http://stackoverflow.com/questions/13721378) (1 upvotes)  
-13721905. [No public execute() in class mydomain error](http://stackoverflow.com/questions/13721905) (2 upvotes)  
-13724944. [Cant delete file using Ant](http://stackoverflow.com/questions/13724944) (0 upvotes)  
-13729675. [Difference between setBackgroundDrawable() and setBackground()](http://stackoverflow.com/questions/13729675) (3 upvotes)  
-13729840. [javac ignoring @SuppressWarnings("all")](http://stackoverflow.com/questions/13729840) (2 upvotes)  
-13733260. [Generate dsa/elgamal key pair with bouncy castle that imports in GPG without error](http://stackoverflow.com/questions/13733260) (2 upvotes)  
-13747409. [Caused by: java.lang.ClassCastException: android.widget.RelativeLayout cannot be cast to com.slidingmenu.lib.SlidingMenu](http://stackoverflow.com/questions/13747409) (0 upvotes)  
-13748678. [Eclipse plugin to suggest replacements for deprecated feature warnings](http://stackoverflow.com/questions/13748678) (2 upvotes)  
-13760885. [Unable to Cleanly Stop my Thread](http://stackoverflow.com/questions/13760885) (0 upvotes)  
-13765853. [Relationship between deprecated Entity Beans in Java EE and the @Entity annotation?](http://stackoverflow.com/questions/13765853) (1 upvotes)  
-13776878. [Deprecation warning from spring](http://stackoverflow.com/questions/13776878) (4 upvotes)  
-13779467. [how to Send SMS message with data from 5 different text fields from android app](http://stackoverflow.com/questions/13779467) (0 upvotes)  
-13786679. [Why my task application fails in android?](http://stackoverflow.com/questions/13786679) (2 upvotes)  
-13789682. [Adding a recurring date to a vector](http://stackoverflow.com/questions/13789682) (1 upvotes)  
-13805233. [Using sections with fragments, NullPointerException](http://stackoverflow.com/questions/13805233) (4 upvotes)  
-13806654. [Runtime.getRuntime exec](http://stackoverflow.com/questions/13806654) (1 upvotes)  
-13813284. [Problems in MainActivity.java when creating CustomWebBrowser for Android](http://stackoverflow.com/questions/13813284) (0 upvotes)  
-13817145. [Axis2 user authentication](http://stackoverflow.com/questions/13817145) (2 upvotes)  
-13823797. [Java Date object constructor for getting string is deprecated](http://stackoverflow.com/questions/13823797) (0 upvotes)  
-13824211. [Android Front Facing Camera Android 4.0.3 ICS Start Failed](http://stackoverflow.com/questions/13824211) (2 upvotes)  
-13848095. [Need to work around applet crashing JVM in specific circumstances](http://stackoverflow.com/questions/13848095) (3 upvotes)  
-13859291. [How to handle the code for versioned SOAP web services?](http://stackoverflow.com/questions/13859291) (11 upvotes)  
-13859348. [How to Hide or remove a JLabel](http://stackoverflow.com/questions/13859348) (2 upvotes)  
-13883284. [creating a strobe, flashing background using handlers](http://stackoverflow.com/questions/13883284) (0 upvotes)  
-13888477. [alternative to deprecated java date.sethours](http://stackoverflow.com/questions/13888477) (2 upvotes)  
-13903589. [google drive dredit error java.lang.NoSuchMethodError: com.google.api.client.http.HttpRequestFactory.buildRequest](http://stackoverflow.com/questions/13903589) (2 upvotes)  
-13930529. [Programmatic SchemaUpdate in Hibernate 4](http://stackoverflow.com/questions/13930529) (1 upvotes)  
-13932740. [Configure Jetty cluster to share web Sessions](http://stackoverflow.com/questions/13932740) (3 upvotes)  
-13948643. [Initialize ServiceRegistry in hibernate 4](http://stackoverflow.com/questions/13948643) (1 upvotes)  
-13954243. [Activity to ListFragment](http://stackoverflow.com/questions/13954243) (1 upvotes)  
-13956877. [Working around DataInputStream to newer standards in Android/Java](http://stackoverflow.com/questions/13956877) (1 upvotes)  
-13964281. [HttpResponse to string length 0 is returned](http://stackoverflow.com/questions/13964281) (5 upvotes)  
-13964344. [Eclipse popup dialog lacks info after attaching android sources](http://stackoverflow.com/questions/13964344) (3 upvotes)  
-13985071. [How do I implement route performance measurement in camel](http://stackoverflow.com/questions/13985071) (2 upvotes)  
-13989257. [Webkit tries to download Java applet class before reading it from JAR](http://stackoverflow.com/questions/13989257) (5 upvotes)  
-13991583. [Is it possible to finish a thread externally in java debugging?](http://stackoverflow.com/questions/13991583) (1 upvotes)  
-13993632. [Deprecated property in Velocity](http://stackoverflow.com/questions/13993632) (2 upvotes)  
-14005510. [I have installed lucene, but could not import it in class](http://stackoverflow.com/questions/14005510) (0 upvotes)  
-14019711. [Wicket Junit Test Case](http://stackoverflow.com/questions/14019711) (2 upvotes)  
-14040859. [Test suite construction failed -(android.test.suitebuilder.TestSuiteBuilder$FailedToCreateTests). How to resolve?](http://stackoverflow.com/questions/14040859) (5 upvotes)  
-14041651. [Sonar ANT task integration error](http://stackoverflow.com/questions/14041651) (1 upvotes)  
-14044839. [Original image size VS displayed image size](http://stackoverflow.com/questions/14044839) (1 upvotes)  
-14045354. [NullPointerException on Matcher.appendEvaluated()?](http://stackoverflow.com/questions/14045354) (0 upvotes)  
-14048172. [Methods are being struck out in Eclipse, why?](http://stackoverflow.com/questions/14048172) (1 upvotes)  
-14052046. [Generating artifact of JavaFX application using Maven](http://stackoverflow.com/questions/14052046) (4 upvotes)  
-14070012. [FXML in obfuscated JavaFX JAR can't find Controller class](http://stackoverflow.com/questions/14070012) (4 upvotes)  
-14070709. [Tablet Layouts definition](http://stackoverflow.com/questions/14070709) (0 upvotes)  
-14082660. [Bukkit - Can't start a runTaskTimerAsynchronously();](http://stackoverflow.com/questions/14082660) (0 upvotes)  
-14087407. [Updating a contact's name programatically in android results in illegalargumentexception in emulator](http://stackoverflow.com/questions/14087407) (1 upvotes)  
-14103417. [TwoLineListItem Source Code](http://stackoverflow.com/questions/14103417) (0 upvotes)  
-14104465. [Android development bluetooth chat example not working](http://stackoverflow.com/questions/14104465) (-1 upvotes)  
-14126000. [How to fix JAVA_HOME not set on Ubuntu when hadoop-env.sh is already set?](http://stackoverflow.com/questions/14126000) (-1 upvotes)  
-14145895. [Date.toString() gives a year different from the set one?](http://stackoverflow.com/questions/14145895) (1 upvotes)  
-14149262. [Java program runs fine within Netbeans, but when running from a built JAR it does not work](http://stackoverflow.com/questions/14149262) (1 upvotes)  
-14157628. [Java Standard Annotations](http://stackoverflow.com/questions/14157628) (0 upvotes)  
-14159566. [Java Deprecation annotation](http://stackoverflow.com/questions/14159566) (1 upvotes)  
-14159720. [Simulating slow/lossy communication in java](http://stackoverflow.com/questions/14159720) (1 upvotes)  
-14164468. [(Fixed) NullPointerException within code using performClick within onCreate method](http://stackoverflow.com/questions/14164468) (1 upvotes)  
-14178385. [Alternative to DISPLAY.getWidth()](http://stackoverflow.com/questions/14178385) (1 upvotes)  
-14183485. [Accessing a public static arrayList of a Thread Class from another Thread's Class](http://stackoverflow.com/questions/14183485) (0 upvotes)  
-14189544. [Copy with clipboard manager that supports old and new android versions?](http://stackoverflow.com/questions/14189544) (7 upvotes)  
-14196331. [exception while storing the x 509 certificate using pem writer?](http://stackoverflow.com/questions/14196331) (2 upvotes)  
-14197054. [Preferences updates just once](http://stackoverflow.com/questions/14197054) (0 upvotes)  
-14197771. [Using CDT's Abstract Syntax Tree API to generate/write C code?](http://stackoverflow.com/questions/14197771) (2 upvotes)  
-14207301. [Struts 2 Convention Plugin Define Multiple Parent Packages](http://stackoverflow.com/questions/14207301) (1 upvotes)  
-14213586. [How to select parent and all subnodes in JXTreeTable?](http://stackoverflow.com/questions/14213586) (0 upvotes)  
-14213868. [How to write build.xml in J2ME application?](http://stackoverflow.com/questions/14213868) (0 upvotes)  
-14216127. [How to replace the using of JRParameter.REPORT_FILE_RESOLVER by JasperReportsContext?](http://stackoverflow.com/questions/14216127) (2 upvotes)  
-14235862. [How can I make Ant use JAXB 2.2.x instead of Java 6 SE JAXB classes in javac?](http://stackoverflow.com/questions/14235862) (2 upvotes)  
-14241594. [Spring Dependancy Injection: FileNotFound Exception](http://stackoverflow.com/questions/14241594) (1 upvotes)  
-14244747. [Getting UTF-8 PDF font into JasperReports 3.7.* report compiled in Java / Spring](http://stackoverflow.com/questions/14244747) (1 upvotes)  
-14269752. [Android Null pointer exception](http://stackoverflow.com/questions/14269752) (0 upvotes)  
-14274919. [The type UrlValidator is deprecated](http://stackoverflow.com/questions/14274919) (0 upvotes)  
-14276487. [Java - Read Bytes and Strings from 1 InputStream](http://stackoverflow.com/questions/14276487) (0 upvotes)  
-14279395. [Android: Drag and Drop Images](http://stackoverflow.com/questions/14279395) (3 upvotes)  
-14281840. [OnListItemClick issue](http://stackoverflow.com/questions/14281840) (-1 upvotes)  
-14282298. [Java/Android: Facebook SDK login two ways and no one work](http://stackoverflow.com/questions/14282298) (0 upvotes)  
-14283559. [Extend activity or listactivity?](http://stackoverflow.com/questions/14283559) (0 upvotes)  
-14284660. [I/O from Socket in Java not reading](http://stackoverflow.com/questions/14284660) (0 upvotes)  
-14298818. [Making a call from a ListView issue](http://stackoverflow.com/questions/14298818) (0 upvotes)  
-14300111. [Starting an intent issue](http://stackoverflow.com/questions/14300111) (0 upvotes)  
-14301333. [Using LibGDX with Android Preferences](http://stackoverflow.com/questions/14301333) (2 upvotes)  
-14303753. [ListView with button and EditText](http://stackoverflow.com/questions/14303753) (0 upvotes)  
-14305222. [Duplicate listview output issue](http://stackoverflow.com/questions/14305222) (0 upvotes)  
-14305278. [Android app enabled plugins](http://stackoverflow.com/questions/14305278) (1 upvotes)  
-14307044. [Cursor adapter on layout issue](http://stackoverflow.com/questions/14307044) (0 upvotes)  
-14314143. [VelocityEngineUtils has been removed in Spring 3.2 so what else to use?](http://stackoverflow.com/questions/14314143) (3 upvotes)  
-14321266. [listview XML id issue](http://stackoverflow.com/questions/14321266) (0 upvotes)  
-14324288. [Cleaning up threads in Java](http://stackoverflow.com/questions/14324288) (9 upvotes)  
-14341618. [Swing refresh cycle](http://stackoverflow.com/questions/14341618) (3 upvotes)  
-14355794. [JavaFX bundle exe not showing TableView contents](http://stackoverflow.com/questions/14355794) (1 upvotes)  
-14357330. ["Code deprecation " in java](http://stackoverflow.com/questions/14357330) (-1 upvotes)  
-14357794. [Hive-metastore error: javax.jdo.JDOFatalInternalException: Unexpected exception caught](http://stackoverflow.com/questions/14357794) (1 upvotes)  
-14366655. [What is the SimpleDateFormat pattern that parses like the deprecated String constructor for Date?](http://stackoverflow.com/questions/14366655) (1 upvotes)  
-14377617. [Using deprecated TabBar and SherlockActionBar in Android v.4](http://stackoverflow.com/questions/14377617) (0 upvotes)  
-14388740. [Populate and Pass an Array of Structures to Java](http://stackoverflow.com/questions/14388740) (3 upvotes)  
-14390967. [If Date is mostly deprecated and we're to use Calendar, what is the equivalent of DateFormat class?](http://stackoverflow.com/questions/14390967) (1 upvotes)  
-14395947. [Private keystore for truststore with client Axis2 stub](http://stackoverflow.com/questions/14395947) (2 upvotes)  
-14398946. [Speech Recognition in Surface View [android]](http://stackoverflow.com/questions/14398946) (0 upvotes)  
-14406288. [Ant javac classpathref not working?](http://stackoverflow.com/questions/14406288) (1 upvotes)  
-14408614. [Refactor parameter names programmatically](http://stackoverflow.com/questions/14408614) (3 upvotes)  
-14411379. [Sectioning Listview](http://stackoverflow.com/questions/14411379) (1 upvotes)  
-14428780. [I'm not sure how to fix this code. The first part is a loop (needs to be the first section) and I don't know how to close it](http://stackoverflow.com/questions/14428780) (1 upvotes)  
-14458450. [What to use instead of org.jboss.resteasy.client.ClientRequest?](http://stackoverflow.com/questions/14458450) (9 upvotes)  
-14464793. [UnsatisfiedLinkException when running JavaCpp example (LegacyLibrary)](http://stackoverflow.com/questions/14464793) (1 upvotes)  
-14465795. [My Android app is crashing, don't understand Logcat in Eclipse](http://stackoverflow.com/questions/14465795) (2 upvotes)  
-14466818. [java.lang.UnsatisfiedLinkError: no cplex122 in java.library.path](http://stackoverflow.com/questions/14466818) (1 upvotes)  
-14474284. [Executing script.py for Modeller software through java code](http://stackoverflow.com/questions/14474284) (0 upvotes)  
-14474564. [Java Applet errors on Web Hosting site](http://stackoverflow.com/questions/14474564) (1 upvotes)  
-14483123. [Flex callback stack](http://stackoverflow.com/questions/14483123) (0 upvotes)  
-14484557. [Error to create new type Date](http://stackoverflow.com/questions/14484557) (0 upvotes)  
-14485951. [Deprecated methods in java](http://stackoverflow.com/questions/14485951) (-2 upvotes)  
-14490021. [Scanning code base for use of deprecated methods](http://stackoverflow.com/questions/14490021) (0 upvotes)  
-14492232. [How do I scale down my image to be half the size with scaleImage32()?](http://stackoverflow.com/questions/14492232) (3 upvotes)  
-14493239. [What is the rationale for the default uncaught signal handler policy in Java?](http://stackoverflow.com/questions/14493239) (2 upvotes)  
-14495619. [JavaFx TableView contents are disappeared after obfuscation](http://stackoverflow.com/questions/14495619) (1 upvotes)  
-14532516. [OpenGL VBO Cube not Rendering Correctly (Java, LWJGL)](http://stackoverflow.com/questions/14532516) (0 upvotes)  
-14534464. [Where can I find the Microsoft Java SDK .jar file? (com.ms.*)](http://stackoverflow.com/questions/14534464) (-1 upvotes)  
-14539842. [wrong date() output java](http://stackoverflow.com/questions/14539842) (-2 upvotes)  
-14561293. [sending post data to https without ssl cert verification with apache httpClient client](http://stackoverflow.com/questions/14561293) (0 upvotes)  
-14563666. [Java Report with charts made by JFreeChart](http://stackoverflow.com/questions/14563666) (1 upvotes)  
-14569183. [Modern Java Annotation Processing](http://stackoverflow.com/questions/14569183) (5 upvotes)  
-14572522. [java socket thread working but no message](http://stackoverflow.com/questions/14572522) (0 upvotes)  
-14577247. [I want to put multiple values from the SQLite database in a listview row](http://stackoverflow.com/questions/14577247) (0 upvotes)  
-14579751. [Possible null pointer exception in string utils](http://stackoverflow.com/questions/14579751) (2 upvotes)  
-14580120. [What's the difference between including files with JSP include directive, JSP include action and using JSP Tag Files?](http://stackoverflow.com/questions/14580120) (44 upvotes)  
-14589223. [SMS in a list view](http://stackoverflow.com/questions/14589223) (-2 upvotes)  
-14596466. [JPA tests hang while obtaining HSQL connection from Maven Command Line](http://stackoverflow.com/questions/14596466) (2 upvotes)  
-14612670. [Generating a location every 5 minutes](http://stackoverflow.com/questions/14612670) (1 upvotes)  
-14619433. [Implementing an abstract class with null properties](http://stackoverflow.com/questions/14619433) (0 upvotes)  
-14620452. [Using 2-legged OAuth with Google Tasks API in Java](http://stackoverflow.com/questions/14620452) (0 upvotes)  
-14625737. [How to set java2ws classpath?](http://stackoverflow.com/questions/14625737) (1 upvotes)  
-14627313. [What does @Deprecated mean on method parameters and local variables?](http://stackoverflow.com/questions/14627313) (5 upvotes)  
-14630943. [java.lang.reflect.MalformedParameterizedTypeException](http://stackoverflow.com/questions/14630943) (1 upvotes)  
-14632383. [Cursor finalize . close() issue](http://stackoverflow.com/questions/14632383) (0 upvotes)  
-14636575. [Replacement for dalvik.system.VMStack](http://stackoverflow.com/questions/14636575) (1 upvotes)  
-14671680. [DateFormat Android - properly?](http://stackoverflow.com/questions/14671680) (1 upvotes)  
-14673578. [Send sms and email from selected contact android](http://stackoverflow.com/questions/14673578) (1 upvotes)  
-14676385. [Accesing SimpleCursorAdapter from all methods](http://stackoverflow.com/questions/14676385) (2 upvotes)  
-14678737. [Cursor setFilterQueryProvider issue](http://stackoverflow.com/questions/14678737) (1 upvotes)  
-14679566. [issueCommand(java.lang.String,int) has private access in com.sun.mail.smtp.SMTPTransport Compile Error](http://stackoverflow.com/questions/14679566) (0 upvotes)  
-14681460. [Working with SharedPreferences and the Android Preference API](http://stackoverflow.com/questions/14681460) (0 upvotes)  
-14686939. [Maven showing error when trying to connect to cloudera url for cdh jar location](http://stackoverflow.com/questions/14686939) (0 upvotes)  
-14694417. [Sqoop jar deprecated](http://stackoverflow.com/questions/14694417) (0 upvotes)  
-14704959. [How to configure JacksonJaxbJsonProvider in a single line of code?](http://stackoverflow.com/questions/14704959) (2 upvotes)  
-14708272. [lucene filter case sensitive](http://stackoverflow.com/questions/14708272) (0 upvotes)  
-14713989. [Getting a strange error in the web application](http://stackoverflow.com/questions/14713989) (0 upvotes)  
-14714687. [Spring 3.x.x MVC jsp combobox trouble](http://stackoverflow.com/questions/14714687) (0 upvotes)  
-14725797. [getting an error when opeming IE9 using IntelliJ IDEA IDE for Selenium automation](http://stackoverflow.com/questions/14725797) (0 upvotes)  
-14747835. [addPreferencesFromResources, Can't figure it out](http://stackoverflow.com/questions/14747835) (0 upvotes)  
-14757486. [How to configure what transaction manager to use without having to override all @Transactional methods](http://stackoverflow.com/questions/14757486) (3 upvotes)  
-14761926. [Is routing slip really deprecated?](http://stackoverflow.com/questions/14761926) (0 upvotes)  
-14765360. [LWJGL: Is glMatrixMode() deprecated? Or am I missing something?](http://stackoverflow.com/questions/14765360) (0 upvotes)  
-14770897. [Netbeans 7.2.1 build issues](http://stackoverflow.com/questions/14770897) (0 upvotes)  
-14776816. [Should I set new TextureRegion for Sprite every frame?](http://stackoverflow.com/questions/14776816) (0 upvotes)  
-14784556. [How Do Java Apps Close in Mac OS X?](http://stackoverflow.com/questions/14784556) (2 upvotes)  
-14791780. [Cant validate Login on Android app using a SQLite db](http://stackoverflow.com/questions/14791780) (0 upvotes)  
-14795579. [Large Database display on listview](http://stackoverflow.com/questions/14795579) (0 upvotes)  
-14806400. [Configure sessionFactory with Spring, Hibernate and LocalSessionFactoryBuilder](http://stackoverflow.com/questions/14806400) (3 upvotes)  
-14809360. [How to call method in java from c# code?](http://stackoverflow.com/questions/14809360) (0 upvotes)  
-14822557. [Illegal Opcodes in the JVM](http://stackoverflow.com/questions/14822557) (10 upvotes)  
-14840167. [What is the canonical means of deploying an {EAR, WAR} file in Eclipse EE (Juno)](http://stackoverflow.com/questions/14840167) (0 upvotes)  
-14842698. [How come command line isn't recognizing this java command?](http://stackoverflow.com/questions/14842698) (-6 upvotes)  
-14848621. [Integration of Yahoo Calendar using CalDav API](http://stackoverflow.com/questions/14848621) (1 upvotes)  
-14863106. [Main method not found in class/illegal start of expression](http://stackoverflow.com/questions/14863106) (1 upvotes)  
-14868072. [Missing tabs in FragmentHostTab Android](http://stackoverflow.com/questions/14868072) (0 upvotes)  
-14870790. [ChainMapper incompatible with Mapper in Hadoop 1.1.1](http://stackoverflow.com/questions/14870790) (0 upvotes)  
-14879308. [Escaping Question Mark in Tuckey Url rewriting (XML/Regex)](http://stackoverflow.com/questions/14879308) (0 upvotes)  
-14881473. [FEST: How to use the NoExitSecurityManager properly?](http://stackoverflow.com/questions/14881473) (1 upvotes)  
-14887416. [Android: Java: The Deprecation of SlidingDrawer](http://stackoverflow.com/questions/14887416) (6 upvotes)  
-14896610. [Stuck thread in update statement: cancelling or closing the statement, and interrupt the thread does not work](http://stackoverflow.com/questions/14896610) (0 upvotes)  
-14906178. [Play framework: type Integer is deprecated: use java.lang.Integer instead](http://stackoverflow.com/questions/14906178) (2 upvotes)  
-14910370. [Alternate method for setHours() of java.util.Date?](http://stackoverflow.com/questions/14910370) (0 upvotes)  
-14919048. [Bouncy Castle : PEMReader => PEMParser](http://stackoverflow.com/questions/14919048) (4 upvotes)  
-14920975. [LWJGL allow negative mouse coordinates (outside window)](http://stackoverflow.com/questions/14920975) (0 upvotes)  
-14924670. [Textures are black in JOGL using VAO](http://stackoverflow.com/questions/14924670) (0 upvotes)  
-14930381. [Generating X509 Certificate using Bouncy Castle Java](http://stackoverflow.com/questions/14930381) (0 upvotes)  
-14936661. [Build a progress bar without launching a new Thread](http://stackoverflow.com/questions/14936661) (-1 upvotes)  
-14938017. [Assigning java.sql.Timestamp with daylight savings time](http://stackoverflow.com/questions/14938017) (0 upvotes)  
-14938114. [Maven/Jenkins java.lang.UnsupportedClassVersionError: Unsupported major.minor version 51.0](http://stackoverflow.com/questions/14938114) (10 upvotes)  
-14938253. [Getting yesterday - The method getDate() from the type Date is deprecated](http://stackoverflow.com/questions/14938253) (4 upvotes)  
-14944271. [Programmatically Created Android ProgressBar (Circle) Invisible On Xoom (Works Everywhere Else!)](http://stackoverflow.com/questions/14944271) (5 upvotes)  
-14955509. [How to create own trust manager in java for apache httpclient library to ignore certificate in apache httpclient 4.2?](http://stackoverflow.com/questions/14955509) (0 upvotes)  
-14958277. [Java Null Pointer Exception (On click)](http://stackoverflow.com/questions/14958277) (0 upvotes)  
-14959834. [JobConf v/s Configuration for Hadoop 1.0.4](http://stackoverflow.com/questions/14959834) (5 upvotes)  
-14968346. [Field seems to have become binary field on update from Lucene 3.6 to Lucene 4.1](http://stackoverflow.com/questions/14968346) (0 upvotes)  
-14993223. [Getting GPG Decryption To Work In Java (Bouncy Castle)](http://stackoverflow.com/questions/14993223) (4 upvotes)  
-15003787. [How can i replace type_orientation (is deprecated) for android 4.0.3?](http://stackoverflow.com/questions/15003787) (12 upvotes)  
-15004325. [File resolver in Jasper Reports 5.0.1](http://stackoverflow.com/questions/15004325) (3 upvotes)  
-15028700. [Listview using Endless adapter](http://stackoverflow.com/questions/15028700) (0 upvotes)  
-15030249. [How to add content to a PopupControl in JavaFX 2.2.6?](http://stackoverflow.com/questions/15030249) (2 upvotes)  
-15036307. [java annotation for do not invoke overridden method](http://stackoverflow.com/questions/15036307) (1 upvotes)  
-15042392. [warning appears more than once](http://stackoverflow.com/questions/15042392) (0 upvotes)  
-15060808. [Java getTimeZone() behaving differently for different kind of inputs](http://stackoverflow.com/questions/15060808) (2 upvotes)  
-15060897. [Error on importing mahout using maven](http://stackoverflow.com/questions/15060897) (0 upvotes)  
-15063718. [another '"java.exe"' is not recognized as an internal or external command](http://stackoverflow.com/questions/15063718) (1 upvotes)  
-15065661. [JDBC resource name being modified by container ('_pm' being appended to it)](http://stackoverflow.com/questions/15065661) (3 upvotes)  
-15067482. [Android : What should I do instead of using a deprecated function(getwidth() )?](http://stackoverflow.com/questions/15067482) (-3 upvotes)  
-15069994. [is there any possibility to start my hbase from java API?](http://stackoverflow.com/questions/15069994) (0 upvotes)  
-15072114. [Google App Engine and Android (OAuth, C2DM, or Cloud Messaging)](http://stackoverflow.com/questions/15072114) (5 upvotes)  
-15072666. [java.lang.NoClassDefFoundError when i included <listener-class> to web.xml java](http://stackoverflow.com/questions/15072666) (1 upvotes)  
-15081610. [What does it mean for a method to be deprecated?](http://stackoverflow.com/questions/15081610) (0 upvotes)  
-15088616. [Is concept of reference node in neo4j still used or deprecated?](http://stackoverflow.com/questions/15088616) (4 upvotes)  
-15109280. [in hibernate4.1.9 buildsessionfactory method is deprecated so why serviceRegistry is paased to buildsessionFactory](http://stackoverflow.com/questions/15109280) (0 upvotes)  
-15110734. [Customize SpringSecurity OAuth 2 Error Output (unauthorized)](http://stackoverflow.com/questions/15110734) (7 upvotes)  
-15112459. [Adding Zxing Lib for J2ME Project in NetBeans](http://stackoverflow.com/questions/15112459) (1 upvotes)  
-15113862. [Having trouble compiling and recreating a JAR file using Eclipse](http://stackoverflow.com/questions/15113862) (0 upvotes)  
-15121133. [package Javax.portlet does not exist](http://stackoverflow.com/questions/15121133) (1 upvotes)  
-15122232. [Simple Java hash map with weak keys based on identity in Google Guava?](http://stackoverflow.com/questions/15122232) (2 upvotes)  
-15124993. [How to get day from a month java](http://stackoverflow.com/questions/15124993) (-1 upvotes)  
-15130175. [ActionBarSherlock Doesn't Compile No More](http://stackoverflow.com/questions/15130175) (0 upvotes)  
-15148253. [Is it possible to extend a Java class with one having the same name](http://stackoverflow.com/questions/15148253) (3 upvotes)  
-15190170. [What does it mean for a method to be deprecated, and how can I resolve resulting errors?](http://stackoverflow.com/questions/15190170) (4 upvotes)  
-15228392. [buildSessionFactory() method that return Hibernate SessionFactory object is deprecated, how to solve?](http://stackoverflow.com/questions/15228392) (0 upvotes)  
-15245088. [file upload encoding troubles with the file name. GWT](http://stackoverflow.com/questions/15245088) (3 upvotes)  
-15253242. [Menu inflater crashes, How to resolve?](http://stackoverflow.com/questions/15253242) (-1 upvotes)  
-15259677. [Deprecate method but keep functionality](http://stackoverflow.com/questions/15259677) (2 upvotes)  
-15260718. [android java.lang.IllegalArgumentException in HttpGet](http://stackoverflow.com/questions/15260718) (5 upvotes)  
-15279381. [Discouraged method, not deprecated](http://stackoverflow.com/questions/15279381) (4 upvotes)  
-15291010. [java.sql.Date and java.sql.Time to org.joda.time.DateTime](http://stackoverflow.com/questions/15291010) (1 upvotes)  
-15291633. [Mark method of Java runtime as deprecated](http://stackoverflow.com/questions/15291633) (1 upvotes)  
-15314345. [getting this error while running android application on eclipse](http://stackoverflow.com/questions/15314345) (0 upvotes)  
-15315716. [How open two cameras in android](http://stackoverflow.com/questions/15315716) (0 upvotes)  
-15320915. [JavaFX screencapture headless exception on OSX](http://stackoverflow.com/questions/15320915) (8 upvotes)  
-15320978. [Background Change gives Force Close](http://stackoverflow.com/questions/15320978) (0 upvotes)  
-15321028. [Cannot build CloudHopper (SMPP)](http://stackoverflow.com/questions/15321028) (1 upvotes)  
-15328616. [Horizontal partitioning in Hibernate with Spring](http://stackoverflow.com/questions/15328616) (4 upvotes)  
-15333891. [Need to fix my Java Timer code](http://stackoverflow.com/questions/15333891) (4 upvotes)  
-15336477. [Java HttpClient - How hard can it be?](http://stackoverflow.com/questions/15336477) (34 upvotes)  
-15348538. [eclipse hangs when run application (application runs fine, eclipse is what hangs)](http://stackoverflow.com/questions/15348538) (2 upvotes)  
-15363411. [Display data from SQLite database into ListView in Android](http://stackoverflow.com/questions/15363411) (1 upvotes)  
-15367857. [java - issue using enumeration to get data from a hashtable](http://stackoverflow.com/questions/15367857) (1 upvotes)  
-15369505. [Trouble with -Xlint:all and maven](http://stackoverflow.com/questions/15369505) (3 upvotes)  
-15380269. [Why does Eclipse ant editor warn me](http://stackoverflow.com/questions/15380269) (4 upvotes)  
-15394240. [Transferring between numerical arrays and SimpleITK Image objects](http://stackoverflow.com/questions/15394240) (1 upvotes)  
-15395736. [Can FindBugs be used to flag code that uses a method that's been blacklisted?](http://stackoverflow.com/questions/15395736) (5 upvotes)  
-15395948. [What Java tools are available that'll report methods being used?](http://stackoverflow.com/questions/15395948) (0 upvotes)  
-15398488. [Problems with the Iterator throwing NoSuchElementException](http://stackoverflow.com/questions/15398488) (0 upvotes)  
-15407739. [updating scala version to 2.10.0 in lift app](http://stackoverflow.com/questions/15407739) (4 upvotes)  
-15408824. [Using -target higher than -source with javac](http://stackoverflow.com/questions/15408824) (0 upvotes)  
-15412108. [Populate Android Listview from SQLite database](http://stackoverflow.com/questions/15412108) (0 upvotes)  
-15432004. [Changing Image source programatically](http://stackoverflow.com/questions/15432004) (0 upvotes)  
-15434260. [Java Chat App - Trouble with multiple fonts, inserting smilies & tables](http://stackoverflow.com/questions/15434260) (1 upvotes)  
-15438691. [how to migrate to new TokenBasedRememberMeServices API](http://stackoverflow.com/questions/15438691) (1 upvotes)  
-15452009. [How to make an Android ImageView partially transparent](http://stackoverflow.com/questions/15452009) (2 upvotes)  
-15452333. [Error with java video decoding by Xuggler](http://stackoverflow.com/questions/15452333) (0 upvotes)  
-15465772. [How to load, compile, and call a JRuby file, from Java?](http://stackoverflow.com/questions/15465772) (1 upvotes)  
-15465817. [How to manage a Bluetooth connection on Android through configuration changes?](http://stackoverflow.com/questions/15465817) (3 upvotes)  
-15477716. [Using android apis for different versions](http://stackoverflow.com/questions/15477716) (0 upvotes)  
-15480395. [Java - going through a hash map](http://stackoverflow.com/questions/15480395) (1 upvotes)  
-15490420. [viewing data in my device error](http://stackoverflow.com/questions/15490420) (0 upvotes)  
-15492712. [org.apache.jasper.JasperException: Unable to compile class for JSP , The server encountered an internal error ()](http://stackoverflow.com/questions/15492712) (2 upvotes)  
-15498577. [Configuration issue in spring security](http://stackoverflow.com/questions/15498577) (5 upvotes)  
-15501393. [managing 'deprecated' warnings in Android project with minSdkVersion](http://stackoverflow.com/questions/15501393) (1 upvotes)  
-15504256. [WebView clicks are not accurate](http://stackoverflow.com/questions/15504256) (0 upvotes)  
-15504807. [Converting An Image To A Buffer In Java](http://stackoverflow.com/questions/15504807) (4 upvotes)  
-15511092. [Change Button to JButton can't fixe it(((](http://stackoverflow.com/questions/15511092) (0 upvotes)  
-15536588. [Alternative of FontMetrics in Java](http://stackoverflow.com/questions/15536588) (-2 upvotes)  
-15540928. [java Facebook integration](http://stackoverflow.com/questions/15540928) (0 upvotes)  
-15542519. [cvc-elt.1 cannot find the declaration of element 'beans:beans'](http://stackoverflow.com/questions/15542519) (0 upvotes)  
-15550370. [Errors in Groovy Script when applied in Post Function For creating an Issue Automatically in JIRA](http://stackoverflow.com/questions/15550370) (-7 upvotes)  
-15555805. [java.lang.NullPointerException](http://stackoverflow.com/questions/15555805) (0 upvotes)  
-15557209. [How do I store DatePicker Time in a SQLite database? Mine keeps crashing](http://stackoverflow.com/questions/15557209) (0 upvotes)  
-15559551. [UnsatisfiedLinkError with sqlite4java Jar on Mac OS X NetBeans](http://stackoverflow.com/questions/15559551) (3 upvotes)  
-15560572. [Using JNI to execute a java jar from a C++ program, using g++ or eclipse](http://stackoverflow.com/questions/15560572) (2 upvotes)  
-15568700. [Best java server implementation for socket.io](http://stackoverflow.com/questions/15568700) (10 upvotes)  
-15573191. [Implementing Side Navigation to switch between activities](http://stackoverflow.com/questions/15573191) (0 upvotes)  
-15578555. [Spring Data web pagination "page" parameter not working](http://stackoverflow.com/questions/15578555) (2 upvotes)  
-15580119. [Netbeans support non english languages?](http://stackoverflow.com/questions/15580119) (2 upvotes)  
-15596083. [What is the correct way to use v8::Locker, and why must I use it?](http://stackoverflow.com/questions/15596083) (2 upvotes)  
-15617914. [Read in java (JDBC) a blob created with sqlite 3 in python](http://stackoverflow.com/questions/15617914) (2 upvotes)  
-15621218. [XMLWorkerHelper performance slow](http://stackoverflow.com/questions/15621218) (1 upvotes)  
-15623295. [ocpsoft.org PrettyTime: Could not find any registered converter-class](http://stackoverflow.com/questions/15623295) (0 upvotes)  
-15624552. [java.lang.ArrayIndexOutOfBoundsException: length=1; index=1](http://stackoverflow.com/questions/15624552) (-6 upvotes)  
-15626145. [Email application does not work when I add Bouncy Castle as a security provider](http://stackoverflow.com/questions/15626145) (0 upvotes)  
-15628256. [HttpPost not working in Java](http://stackoverflow.com/questions/15628256) (0 upvotes)  
-15635840. [JUnit test executions in Jenkins are not finishing properly](http://stackoverflow.com/questions/15635840) (0 upvotes)  
-15647589. [Clear bitmap & canvas](http://stackoverflow.com/questions/15647589) (0 upvotes)  
-15658021. [MyBatis upgrade causes build error](http://stackoverflow.com/questions/15658021) (0 upvotes)  
-15659230. [How to stop toast & alertDialog losing focus on my EditText filter](http://stackoverflow.com/questions/15659230) (13 upvotes)  
-15661313. [JdbcTemplate queryForInt/Long is deprecated in Spring 3.2.2. What should it be replaced by?](http://stackoverflow.com/questions/15661313) (30 upvotes)  
-15674338. [Hibernate: migrating from 3.6.9 to 4.2](http://stackoverflow.com/questions/15674338) (0 upvotes)  
-15679541. [convert java application to android](http://stackoverflow.com/questions/15679541) (-9 upvotes)  
-15694744. [Robotium with libGDX finding imageButton index](http://stackoverflow.com/questions/15694744) (2 upvotes)  
-15703938. [Android development, onClickListener not working](http://stackoverflow.com/questions/15703938) (1 upvotes)  
-15712097. [Using Scala reflection with Java reflection](http://stackoverflow.com/questions/15712097) (7 upvotes)  
-15713849. [strange output in J creator](http://stackoverflow.com/questions/15713849) (0 upvotes)  
-15721356. [Android STT onResult not firing after TTS onUtteranceCompleted](http://stackoverflow.com/questions/15721356) (0 upvotes)  
-15728086. [Converting Ant javadoc to Maven](http://stackoverflow.com/questions/15728086) (0 upvotes)  
-15728906. [Custom GUI won't show up the first time when app is started](http://stackoverflow.com/questions/15728906) (1 upvotes)  
-15734029. [Reduce treatment time of the FFT](http://stackoverflow.com/questions/15734029) (2 upvotes)  
-15738830. [Deprecation warning while implement HttpSession](http://stackoverflow.com/questions/15738830) (2 upvotes)  
-15739114. [java unable to read the XML file using FlatXmlDataSet](http://stackoverflow.com/questions/15739114) (0 upvotes)  
-15740696. [Deploying java application using capistrano](http://stackoverflow.com/questions/15740696) (1 upvotes)  
-15742718. [Hazelcast: distributed execution and local member info](http://stackoverflow.com/questions/15742718) (1 upvotes)  
-15746922. [Import com.sun.javadoc, using with Eclipse and Ant](http://stackoverflow.com/questions/15746922) (0 upvotes)  
-15747439. [How to Access Underlying Document of a new Notes Email Before it is Saved](http://stackoverflow.com/questions/15747439) (2 upvotes)  
-15748155. [Incompatible magic value 0](http://stackoverflow.com/questions/15748155) (8 upvotes)  
-15752608. [HBase standalone failed to connect (fail to create table)](http://stackoverflow.com/questions/15752608) (8 upvotes)  
-15764143. [Upgrading from Java 1.4 to JAVA 6 SE](http://stackoverflow.com/questions/15764143) (2 upvotes)  
-15764948. [error: base operand of ‘->’ has non-pointer type ‘JNIEnv’](http://stackoverflow.com/questions/15764948) (10 upvotes)  
-15777283. [Error compiling](http://stackoverflow.com/questions/15777283) (0 upvotes)  
-15806491. [Spring Security: NoSuchBeanDefinitionException](http://stackoverflow.com/questions/15806491) (1 upvotes)  
-15806554. [Vaadin7: Tracking whether a user is active (DOM Event Handler)](http://stackoverflow.com/questions/15806554) (2 upvotes)  
-15807198. [Apache HttpClient 4.2.3 - SSLException: hostname in certificate didn't match](http://stackoverflow.com/questions/15807198) (1 upvotes)  
-15819608. [Basic login authentication fails after upgrading tomcat-embeded versions](http://stackoverflow.com/questions/15819608) (0 upvotes)  
-15820773. [When are Ant path references set?](http://stackoverflow.com/questions/15820773) (0 upvotes)  
-15828819. [How to support multiple projects in multiple languages (Java and Scala) in Gradle?](http://stackoverflow.com/questions/15828819) (2 upvotes)  
-15833081. [generic not supported in 1.3 error even when java_home point jdk1.7 in maven build](http://stackoverflow.com/questions/15833081) (2 upvotes)  
-15839237. [Error: SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length](http://stackoverflow.com/questions/15839237) (10 upvotes)  
-15846726. [Null Pointer Exception](http://stackoverflow.com/questions/15846726) (0 upvotes)  
-15867511. [Creating .jar archive for BlackBerry Webworks App](http://stackoverflow.com/questions/15867511) (0 upvotes)  
-15870742. [ListView only one list entry play button works](http://stackoverflow.com/questions/15870742) (2 upvotes)  
-15871561. [only on onCreate values assigning is happend](http://stackoverflow.com/questions/15871561) (0 upvotes)  
-15881827. [Java Error, java.lang.NoClassDefFoundError: org/myorg/WordCount in Hadoop](http://stackoverflow.com/questions/15881827) (0 upvotes)  
-15882919. [Google App for bussines + OpenId + GoogleAPIs in Java GAE](http://stackoverflow.com/questions/15882919) (0 upvotes)  
-15884511. [Pause/Resume java applet](http://stackoverflow.com/questions/15884511) (0 upvotes)  
-15893732. [Updating deprecated WAS-MQ code](http://stackoverflow.com/questions/15893732) (0 upvotes)  
-15899489. [java - how to kill a Process if it exceeds an alloted time](http://stackoverflow.com/questions/15899489) (1 upvotes)  
-15908887. [deprecating a class in java](http://stackoverflow.com/questions/15908887) (4 upvotes)  
-15916453. [Cant create preferences activity in Android](http://stackoverflow.com/questions/15916453) (0 upvotes)  
-15942840. [add filter query in Google app engine](http://stackoverflow.com/questions/15942840) (1 upvotes)  
-15951349. [java deprecation](http://stackoverflow.com/questions/15951349) (-4 upvotes)  
-15954634. [Google app engine(java) datastore retrieve not working](http://stackoverflow.com/questions/15954634) (1 upvotes)  
-15988859. [Android / Java - Converting DataInputStream into String](http://stackoverflow.com/questions/15988859) (0 upvotes)  
-15990295. [Notification manager](http://stackoverflow.com/questions/15990295) (0 upvotes)  
-15995927. [AlertDialog SingleChoiceItems not working](http://stackoverflow.com/questions/15995927) (0 upvotes)  
-15995965. [Display data from sqlite in ListView after successful login](http://stackoverflow.com/questions/15995965) (0 upvotes)  
-15999892. [Minimum finding for univariate nonlinear function in Java](http://stackoverflow.com/questions/15999892) (1 upvotes)  
-16002329. [How to use .jar in monodroid project?](http://stackoverflow.com/questions/16002329) (0 upvotes)  
-16002742. [How to parse xml from NOT resource file](http://stackoverflow.com/questions/16002742) (1 upvotes)  
-16009239. [How show progressbar in notification for all android platforms using remoteviews](http://stackoverflow.com/questions/16009239) (0 upvotes)  
-16009980. [Running Linkedin's Rest.li example](http://stackoverflow.com/questions/16009980) (0 upvotes)  
-16023206. [NullPointerException in PreferenceActivity](http://stackoverflow.com/questions/16023206) (0 upvotes)  
-16024193. [Is it ok to use Thread.suspend() under certain conditions?](http://stackoverflow.com/questions/16024193) (0 upvotes)  
-16029668. [Ant is using the wrong Java Compiler but thinks it's right](http://stackoverflow.com/questions/16029668) (3 upvotes)  
-16033609. [weblogic.application.ModuleException: Context path '' is already in use by the module: / application:](http://stackoverflow.com/questions/16033609) (2 upvotes)  
-16042061. [wicket Exception starting filter wicket](http://stackoverflow.com/questions/16042061) (1 upvotes)  
-16044404. [Adding a new JButton to an already existing 2-Dimentional array of JButtons](http://stackoverflow.com/questions/16044404) (1 upvotes)  
-16050510. [download file from server failed](http://stackoverflow.com/questions/16050510) (0 upvotes)  
-16061533. [Java and HTMLUnit: How to click on submit button?](http://stackoverflow.com/questions/16061533) (0 upvotes)  
-16064884. [source files at 1.4 level and j test classes at 1.5 POM updates](http://stackoverflow.com/questions/16064884) (1 upvotes)  
-16067170. [Using Servlets, JSB and JavaBeans (MVC)](http://stackoverflow.com/questions/16067170) (1 upvotes)  
-16076885. [TimeZone discrepancy in mysql and java](http://stackoverflow.com/questions/16076885) (7 upvotes)  
-16097366. [Remove/Deprecate a method in subclass](http://stackoverflow.com/questions/16097366) (0 upvotes)  
-16109515. [Code working on Emulator but not on real device](http://stackoverflow.com/questions/16109515) (1 upvotes)  
-16120692. [Android gestures not working](http://stackoverflow.com/questions/16120692) (0 upvotes)  
-16121482. [Hibernate error org.hibernate.exception.SQLGrammarException with MySQL](http://stackoverflow.com/questions/16121482) (0 upvotes)  
-16123590. [Android SQLitedatabase delete row NullPointerException](http://stackoverflow.com/questions/16123590) (0 upvotes)  
-16127989. [Google Calendar API v3 grab upcoming event](http://stackoverflow.com/questions/16127989) (0 upvotes)  
-16137175. [Android button, source not found](http://stackoverflow.com/questions/16137175) (0 upvotes)  
-16140735. [Table view look and usability enhancement](http://stackoverflow.com/questions/16140735) (1 upvotes)  
-16158839. [Simplest Method to Start AlarmManager With Time Value In Standard Format (ex 7:30)](http://stackoverflow.com/questions/16158839) (2 upvotes)  
-16166969. [Namespaces in the Google App Engine Datastore](http://stackoverflow.com/questions/16166969) (1 upvotes)  
-16175884. [What is the best way to make an OS X screen JMenuBar work consistently across windows?](http://stackoverflow.com/questions/16175884) (2 upvotes)  
-16177760. [Multiple Custom Tags in Javadoc Displayed Separately?](http://stackoverflow.com/questions/16177760) (2 upvotes)  
-16182810. [Insert sound/audio](http://stackoverflow.com/questions/16182810) (-2 upvotes)  
-16186509. [Unit test failing due to surefire plugin's forkmode](http://stackoverflow.com/questions/16186509) (1 upvotes)  
-16193328. [Call a method provided by future API](http://stackoverflow.com/questions/16193328) (0 upvotes)  
-16197519. [Exception using the SchemaFilter in WSO2 GREG](http://stackoverflow.com/questions/16197519) (-1 upvotes)  
-16202744. [How to kill a thread on java?](http://stackoverflow.com/questions/16202744) (-3 upvotes)  
-16206934. [Stack Overflow in Java with the Stack implementation in Collections-Java](http://stackoverflow.com/questions/16206934) (0 upvotes)  
-16207872. [An annotation processor threw an uncaught exception](http://stackoverflow.com/questions/16207872) (1 upvotes)  
-16225979. [Include Deprecated Message In Compiled Class File](http://stackoverflow.com/questions/16225979) (1 upvotes)  
-16229275. [Sometimes getting null pointer exception while executing async post request](http://stackoverflow.com/questions/16229275) (0 upvotes)  
-16231200. [How to configure Apache camel with Eclipse](http://stackoverflow.com/questions/16231200) (0 upvotes)  
-16238881. [Drag objects from JList, with ghost image effect](http://stackoverflow.com/questions/16238881) (1 upvotes)  
-16239215. [Deprecated compiling error](http://stackoverflow.com/questions/16239215) (2 upvotes)  
-16239966. [SessionFactory got looped](http://stackoverflow.com/questions/16239966) (0 upvotes)  
-16240751. [Listview multi duplicate action?](http://stackoverflow.com/questions/16240751) (0 upvotes)  
-16242412. [Can a Constructor Use a Builder](http://stackoverflow.com/questions/16242412) (1 upvotes)  
-16246440. [How to do OAuth authentication from Java/Scala when we know username/password?](http://stackoverflow.com/questions/16246440) (2 upvotes)  
-16250053. [JSON post with asynchttpclient](http://stackoverflow.com/questions/16250053) (0 upvotes)  
-16253701. [Hibernate EntityManager not being injected - NullPointer](http://stackoverflow.com/questions/16253701) (0 upvotes)  
-16257573. [Java Applet does not start properly when Max Heap Size is set](http://stackoverflow.com/questions/16257573) (1 upvotes)  
-16258997. [Why is isJavaLetterOrDigit deprecated?](http://stackoverflow.com/questions/16258997) (5 upvotes)  
-16263975. [Jtable is not becoming visible?](http://stackoverflow.com/questions/16263975) (0 upvotes)  
-16277130. [I can not run C3P0ConnectionProvider](http://stackoverflow.com/questions/16277130) (4 upvotes)  
-16283251. [How can Java apps use tray icons in Ubuntu >= 13.04 (with AppInicator)](http://stackoverflow.com/questions/16283251) (3 upvotes)  
-16284028. [getting started with the latest version of hadoop and ec2](http://stackoverflow.com/questions/16284028) (1 upvotes)  
-16288724. [Java util.Date usage](http://stackoverflow.com/questions/16288724) (0 upvotes)  
-16292134. [How to stop a thread in a web server](http://stackoverflow.com/questions/16292134) (0 upvotes)  
-16295812. [Stopping a Java Thread with heavy DB operations](http://stackoverflow.com/questions/16295812) (0 upvotes)  
-16298481. [ant javac can't find other project compiled classes](http://stackoverflow.com/questions/16298481) (0 upvotes)  
-16306607. [How do decode html entities in java?](http://stackoverflow.com/questions/16306607) (2 upvotes)  
-16311155. [Refactor annotation but keep old annotation name for backward compatibility](http://stackoverflow.com/questions/16311155) (0 upvotes)  
-16325886. [Gracefully ending a thread that's waiting on a blocking queue](http://stackoverflow.com/questions/16325886) (5 upvotes)  
-16327255. [Java class compiles but cannot be loaded](http://stackoverflow.com/questions/16327255) (0 upvotes)  
-16329426. [Preference cannot cast java.lang.boolean to String](http://stackoverflow.com/questions/16329426) (1 upvotes)  
-16334944. [Unchecked cast warning in Java](http://stackoverflow.com/questions/16334944) (2 upvotes)  
-16346191. [Pig error 1070 when doing UDF](http://stackoverflow.com/questions/16346191) (0 upvotes)  
-16349836. [Pig ERROR 1066: Unable to open iterator for alias returned from UDF](http://stackoverflow.com/questions/16349836) (0 upvotes)  
-16351142. [convert the uploaded file (xls) to xml](http://stackoverflow.com/questions/16351142) (0 upvotes)  
-16358658. [GWT: SplitLayoutPanel: I don't see the splitter](http://stackoverflow.com/questions/16358658) (0 upvotes)  
-16359623. [Java how to configure log4j2](http://stackoverflow.com/questions/16359623) (0 upvotes)  
-16365207. [ERROR 1066: Unable to open iterator for alias in certain fields, but works for others](http://stackoverflow.com/questions/16365207) (3 upvotes)  
-16368721. [Is the javafx tag deprecated for javafx-2 and javafx-8?](http://stackoverflow.com/questions/16368721) (1 upvotes)  
-16379420. [PreferenceFragment java.lang.RuntimeException](http://stackoverflow.com/questions/16379420) (0 upvotes)  
-16385824. [Data extraction from SQL database with no success](http://stackoverflow.com/questions/16385824) (0 upvotes)  
-16389061. [PreferenceFragment support all API issue](http://stackoverflow.com/questions/16389061) (4 upvotes)  
-16393249. [Convert image to thumbnail and maintain aspect ratio](http://stackoverflow.com/questions/16393249) (0 upvotes)  
-16402722. [LongPress on OSMDroid map is not working](http://stackoverflow.com/questions/16402722) (1 upvotes)  
-16406841. [Snake game, start](http://stackoverflow.com/questions/16406841) (1 upvotes)  
-16418982. [Android - Client Server, Post Request](http://stackoverflow.com/questions/16418982) (0 upvotes)  
-16425652. [How to normalize your database in hibernate? (Repeating values don't get saved again and again)](http://stackoverflow.com/questions/16425652) (0 upvotes)  
-16427781. [Display store and read Date from Database](http://stackoverflow.com/questions/16427781) (0 upvotes)  
-16448007. [New JFrame with TextArea](http://stackoverflow.com/questions/16448007) (0 upvotes)  
-16450958. [Java: How can I assemble/create a single instance for classification using a Weka generated model?](http://stackoverflow.com/questions/16450958) (1 upvotes)  
-16465024. [Android DatePicker showing Full Screen on Initialization](http://stackoverflow.com/questions/16465024) (0 upvotes)  
-16466583. [android Calender event issues](http://stackoverflow.com/questions/16466583) (0 upvotes)  
-16476834. [Error while creating SessionFactory object form hibernate.cfg.xml](http://stackoverflow.com/questions/16476834) (0 upvotes)  
-16481512. [wicket junit test : Unable to create page from class ... Class does not have a visible default contructor](http://stackoverflow.com/questions/16481512) (0 upvotes)  
-16482060. [Android SlidingMenu nullpointer on toggle](http://stackoverflow.com/questions/16482060) (0 upvotes)  
-16490447. [Validate TLS server certificate with BouncyCastle's "lightweight" API](http://stackoverflow.com/questions/16490447) (3 upvotes)  
-16490860. [Android Fixed Location App](http://stackoverflow.com/questions/16490860) (0 upvotes)  
-16496952. [Hadoop Eclipse Plugin Build Error](http://stackoverflow.com/questions/16496952) (0 upvotes)  
-16497799. [Can't find MongoClient in Java Drivers](http://stackoverflow.com/questions/16497799) (7 upvotes)  
-16504140. [Thread.stop() - deprecated](http://stackoverflow.com/questions/16504140) (11 upvotes)  
-16521890. [What is the current method for server/client network connections](http://stackoverflow.com/questions/16521890) (3 upvotes)  
-16522625. [JavaFX and Ant - Outside any IDE](http://stackoverflow.com/questions/16522625) (0 upvotes)  
-16525478. [Testing a Geo Transformation fails in maven, works in eclipse](http://stackoverflow.com/questions/16525478) (1 upvotes)  
-16526662. [How to use a C library such as PJSIP on java?](http://stackoverflow.com/questions/16526662) (6 upvotes)  
-16532519. [sharedpreference with splash screen](http://stackoverflow.com/questions/16532519) (4 upvotes)  
-16536500. [What does "withdrawn" status mean for a JSR?](http://stackoverflow.com/questions/16536500) (1 upvotes)  
-16536977. [Obfuscating source code using proguard](http://stackoverflow.com/questions/16536977) (2 upvotes)  
-16541124. [Generate Maven archetype from Java code](http://stackoverflow.com/questions/16541124) (1 upvotes)  
-16546742. [Netbeans Generics Bug using FEST, Java?](http://stackoverflow.com/questions/16546742) (1 upvotes)  
-16547301. [Best way to upload/deploy jar files in Github](http://stackoverflow.com/questions/16547301) (3 upvotes)  
-16562966. [CloudBees XML Config vs Command-Line Tool](http://stackoverflow.com/questions/16562966) (1 upvotes)  
-16614743. [Android dev - App stopped working, no errors in code](http://stackoverflow.com/questions/16614743) (0 upvotes)  
-16637687. [onFling only called when swiping Left](http://stackoverflow.com/questions/16637687) (0 upvotes)  
-16638817. [Returning the position in list in Android with OnClickListener on Button](http://stackoverflow.com/questions/16638817) (2 upvotes)  
-16639995. [sliding drawer - deprecated](http://stackoverflow.com/questions/16639995) (-2 upvotes)  
-16649300. [listview notifyDataSetChanged() moves without changing inflated view](http://stackoverflow.com/questions/16649300) (0 upvotes)  
-16651304. [Error while running an Camera application](http://stackoverflow.com/questions/16651304) (0 upvotes)  
-16665347. [is not abstract and does not override abstract method error](http://stackoverflow.com/questions/16665347) (0 upvotes)  
-16665797. [Spring data version annotation not incrementing when used on a mongo collection](http://stackoverflow.com/questions/16665797) (6 upvotes)  
-16666476. [How opera mini can set the proxy](http://stackoverflow.com/questions/16666476) (0 upvotes)  
-16668730. [TabHost in FragmentActivity and screen rotation](http://stackoverflow.com/questions/16668730) (0 upvotes)  
-16670686. [Android Dialog not appearing](http://stackoverflow.com/questions/16670686) (0 upvotes)  
-16681859. [Why ExpectedException is deprecated in Spring](http://stackoverflow.com/questions/16681859) (1 upvotes)  
-16688722. [Parse java source files and then modify the original source using ANTLR4](http://stackoverflow.com/questions/16688722) (2 upvotes)  
-16709523. [Error while trying to launch Pig script with JAVA](http://stackoverflow.com/questions/16709523) (0 upvotes)  
-16733605. [Spring JDBC and GeneratedKeyHolder](http://stackoverflow.com/questions/16733605) (0 upvotes)  
-16747673. [Android application can't compile/find ACRA library after import](http://stackoverflow.com/questions/16747673) (0 upvotes)  
-16762260. [Java Maven Error loading property file](http://stackoverflow.com/questions/16762260) (1 upvotes)  
-16763968. [android.text.format.DateFormat "HH" is not recognized like with java.text.SimpleDateFormat](http://stackoverflow.com/questions/16763968) (3 upvotes)  
-16777829. [java.lang.RuntimeException: Unable to start activity ComponentInfo: java.lang.NullPointerException: storage == null](http://stackoverflow.com/questions/16777829) (2 upvotes)  
-16791203. [How can I generate TouchEvent in JavaFX 2?](http://stackoverflow.com/questions/16791203) (2 upvotes)  
-16795050. [Missing key point on calculate the area of a triangle](http://stackoverflow.com/questions/16795050) (-1 upvotes)  
-16831064. [Why has java.util.Date been deprecated?](http://stackoverflow.com/questions/16831064) (0 upvotes)  
-16831977. [Deprecated Methods in the Thread Class for Android Programming](http://stackoverflow.com/questions/16831977) (-1 upvotes)  
-16843596. [Spring mvc + hibernate + maven](http://stackoverflow.com/questions/16843596) (-2 upvotes)  
-16846789. [Applet will not display when run in a browser](http://stackoverflow.com/questions/16846789) (0 upvotes)  
-16873674. [Error while deploying and running spring app in RAD 8 when selecting Run server with resources within workspace](http://stackoverflow.com/questions/16873674) (2 upvotes)  
-16878466. [Cannot find symbol error android compiling](http://stackoverflow.com/questions/16878466) (0 upvotes)  
-16879462. [Actionbar tab fragments, another headache](http://stackoverflow.com/questions/16879462) (0 upvotes)  
-16882241. [Why Thread.stop() method isn't safe to use?](http://stackoverflow.com/questions/16882241) (0 upvotes)  
-16898305. [Converting Date time format in Java](http://stackoverflow.com/questions/16898305) (-2 upvotes)  
-16902913. [NoClassDefFoundError Exception During when creating intent for SearchActivity](http://stackoverflow.com/questions/16902913) (0 upvotes)  
-16908787. [exlude few rest methods from enunciate doc tool](http://stackoverflow.com/questions/16908787) (0 upvotes)  
-16927178. [How do I create & edit a spreadsheet file on google drive using Google Drive APIs only from my Android app?](http://stackoverflow.com/questions/16927178) (3 upvotes)  
-16932968. [How to send sms using the button click on alert box in android](http://stackoverflow.com/questions/16932968) (1 upvotes)  
-16936745. [$HADOOP_HOME is deprecated ,Hadoop](http://stackoverflow.com/questions/16936745) (4 upvotes)  
-16951609. [When to use ModelAndView vs Model in Spring?](http://stackoverflow.com/questions/16951609) (10 upvotes)  
-16955790. [Android-passing string from one activity to another activity is not working,](http://stackoverflow.com/questions/16955790) (-3 upvotes)  
-16958335. [Java: Monitor the acquisition of Locks](http://stackoverflow.com/questions/16958335) (5 upvotes)  
-16961559. [Existing equivalents of Deprecated Classes in android](http://stackoverflow.com/questions/16961559) (1 upvotes)  
-16965195. [Is is possible to use SQOOP from within Java to read/write from MySQL to/from Hadoop jobs?](http://stackoverflow.com/questions/16965195) (2 upvotes)  
-16969225. [Why can't the system find the path specified when building project with Maven?](http://stackoverflow.com/questions/16969225) (2 upvotes)  
-16982106. [Java Persistence Populating Map with Id's from two different classes](http://stackoverflow.com/questions/16982106) (1 upvotes)  
-16996300. [How to use return value of a method in a another class in android](http://stackoverflow.com/questions/16996300) (0 upvotes)  
-16996322. [String to date time in java](http://stackoverflow.com/questions/16996322) (1 upvotes)  
-16996843. [PayPal: alternative to ConfigManager.getInstance().load()](http://stackoverflow.com/questions/16996843) (1 upvotes)  
-17007449. [GWTUpload not showing file path](http://stackoverflow.com/questions/17007449) (0 upvotes)  
-17007522. [Testing controller with fake session](http://stackoverflow.com/questions/17007522) (4 upvotes)  
-17012827. [IllegalArgumentException: column _id doesn't exist](http://stackoverflow.com/questions/17012827) (2 upvotes)  
-17024931. [UserType nullSafeGet and nullSafeSet migration](http://stackoverflow.com/questions/17024931) (0 upvotes)  
-17029016. [My scores keep increasing by 1 as long as it takes for the image to load](http://stackoverflow.com/questions/17029016) (-2 upvotes)  
-17049746. [how come Eclipse compiles this Java code but not Ant?](http://stackoverflow.com/questions/17049746) (7 upvotes)  
-17053217. [Using getPassword() method and BCrypt](http://stackoverflow.com/questions/17053217) (0 upvotes)  
-17066805. [onCreate Activity not called](http://stackoverflow.com/questions/17066805) (0 upvotes)  
-17089209. [java virtual machine Crashing](http://stackoverflow.com/questions/17089209) (1 upvotes)  
-17089781. [onDraw(Canvas canvas) never reached?](http://stackoverflow.com/questions/17089781) (0 upvotes)  
-17093883. [Java keyListener with multiple JPanel](http://stackoverflow.com/questions/17093883) (0 upvotes)  
-17097548. [Iterating the LinkedHashMap shows compilation error](http://stackoverflow.com/questions/17097548) (0 upvotes)  
-17098968. [Sqoop, export HDFS to MySQL in Java](http://stackoverflow.com/questions/17098968) (0 upvotes)  
-17101551. [RMI Null Pointer?](http://stackoverflow.com/questions/17101551) (1 upvotes)  
-17104455. [guava AbstractIterator - duplicate class](http://stackoverflow.com/questions/17104455) (2 upvotes)  
-17110104. [What method should we use instead of Hazelcast.getMap("Map")?](http://stackoverflow.com/questions/17110104) (3 upvotes)  
-17118640. [How to get GWTUpload SingleUploader to replace the previously selected image](http://stackoverflow.com/questions/17118640) (0 upvotes)  
-17138969. [Java Driver throws null pointer on cursor.hasNext()](http://stackoverflow.com/questions/17138969) (0 upvotes)  
-17167108. [How i have to get the id in JSON after click the button and want to send that id again in post method](http://stackoverflow.com/questions/17167108) (1 upvotes)  
-17172315. [Getting URL contents](http://stackoverflow.com/questions/17172315) (0 upvotes)  
-17180916. [Hadoop single node installation error](http://stackoverflow.com/questions/17180916) (0 upvotes)  
-17187029. [How to run Jacoco with Java 7 and spring-instrument?](http://stackoverflow.com/questions/17187029) (1 upvotes)  
-17187667. [Validate DocBook document using XML Schema, DTD, RelaxNG and Schematron](http://stackoverflow.com/questions/17187667) (0 upvotes)  
-17195867. [Am I allowed to pass multiple arguments to the Ant compilerarg element?](http://stackoverflow.com/questions/17195867) (0 upvotes)  
-17206043. [How to suppress warnings for API marked as depreceated. @SuppressWarnings("deprecation") does not seems suppressing it](http://stackoverflow.com/questions/17206043) (1 upvotes)  
-17213835. [How to merge two imageview into one image in Android?](http://stackoverflow.com/questions/17213835) (0 upvotes)  
-17217250. [Calling Dialog in AsyncTask throwing token error](http://stackoverflow.com/questions/17217250) (0 upvotes)  
-17218328. [Reading a log file in java which in currently being written](http://stackoverflow.com/questions/17218328) (1 upvotes)  
-17219061. [Setting a particular date into a prepared statement](http://stackoverflow.com/questions/17219061) (1 upvotes)  
-17223454. [What happened to BasePagingLoadResult in gxt 3.x?](http://stackoverflow.com/questions/17223454) (0 upvotes)  
-17228224. [Error under bridge between R and Java](http://stackoverflow.com/questions/17228224) (0 upvotes)  
-17232723. [How to include multiple class files and .Jar files in class path which exist in sub folders in linux?](http://stackoverflow.com/questions/17232723) (0 upvotes)  
-17236466. [logstash org.elasticsearch.discovery.MasterNotDiscoveredException error](http://stackoverflow.com/questions/17236466) (3 upvotes)  
-17240534. [How to add controls into xuggler video](http://stackoverflow.com/questions/17240534) (0 upvotes)  
-17248991. [java.uti.zip.ZipException error while calling a ant target](http://stackoverflow.com/questions/17248991) (1 upvotes)  
-17249826. [Fatal Error:sorry, too many clients already in getting many query from db](http://stackoverflow.com/questions/17249826) (1 upvotes)  
-17251610. [How to unconditionally stop a thread](http://stackoverflow.com/questions/17251610) (8 upvotes)  
-17255558. [JavaFX stop threads](http://stackoverflow.com/questions/17255558) (1 upvotes)  
-17261679. [Sending UDP packet to everybody in a LAN?](http://stackoverflow.com/questions/17261679) (0 upvotes)  
-17269949. [Programmatically open password-protected SQLite database with given password](http://stackoverflow.com/questions/17269949) (0 upvotes)  
-17281652. [Deprecating an java JRE method](http://stackoverflow.com/questions/17281652) (2 upvotes)  
-17296006. [Android Custom Camera, getting null pointer exception?](http://stackoverflow.com/questions/17296006) (0 upvotes)  
-17297644. [Declative event listeners registration no longer supported in Hibernate 4.x/JPA 2?](http://stackoverflow.com/questions/17297644) (1 upvotes)  
-17305048. [Convert Date string with Time to long date](http://stackoverflow.com/questions/17305048) (1 upvotes)  
-17332096. [TransformerException: Unknown Error In XPath](http://stackoverflow.com/questions/17332096) (3 upvotes)  
-17336751. [JComponent Painter](http://stackoverflow.com/questions/17336751) (0 upvotes)  
-17338025. [Searching in list view which loaded from database in android](http://stackoverflow.com/questions/17338025) (0 upvotes)  
-17340044. [How to save a canvas into a bitmap](http://stackoverflow.com/questions/17340044) (0 upvotes)  
-17357997. [In GWT how do I display an image from the appengine server given the string version of the blobstore key](http://stackoverflow.com/questions/17357997) (0 upvotes)  
-17361562. [How to maven jar-with-depencies pom.xml overwriting](http://stackoverflow.com/questions/17361562) (0 upvotes)  
-17377965. [Alternative to Java.sql.time](http://stackoverflow.com/questions/17377965) (1 upvotes)  
-17396411. [Regarding a warning message of "A classpath variable is deprecated"](http://stackoverflow.com/questions/17396411) (1 upvotes)  
-17397294. [Android socket app takes too much time to load](http://stackoverflow.com/questions/17397294) (2 upvotes)  
-17400760. [JNetPcap in eclipse does not print error... Ubuntu 12.04](http://stackoverflow.com/questions/17400760) (0 upvotes)  
-17419806. [HazelcastInstance bean - what is the proper destroy-method?](http://stackoverflow.com/questions/17419806) (0 upvotes)  
-17419958. [Parse @Override annotation with maven compiler plugin](http://stackoverflow.com/questions/17419958) (2 upvotes)  
-17433380. [Where do the "Warnings" in Eclipse come from?](http://stackoverflow.com/questions/17433380) (0 upvotes)  
-17437243. [Android Notification on a timer](http://stackoverflow.com/questions/17437243) (1 upvotes)  
-17444258. [How to use new PasswordEncoder from Spring Security](http://stackoverflow.com/questions/17444258) (11 upvotes)  
-17468830. [Inserting json data to database and display in listview make logcat error](http://stackoverflow.com/questions/17468830) (0 upvotes)  
-17469667. [Not sure if i am using the sessionScope correctly](http://stackoverflow.com/questions/17469667) (0 upvotes)  
-17470110. [Compilation failure during mvn clean install](http://stackoverflow.com/questions/17470110) (3 upvotes)  
-17473040. [App force closes when leaving SettingsActivity](http://stackoverflow.com/questions/17473040) (-1 upvotes)  
-17481315. [How to stop a Thread in Java](http://stackoverflow.com/questions/17481315) (1 upvotes)  
-17483283. [JSON to db creating error in logcat-column '_id' does not exist](http://stackoverflow.com/questions/17483283) (0 upvotes)  
-17483334. [org.hibernate.hql.internal.ast.QuerySyntaxException: <table_name> is not mapped [from <table_name>]](http://stackoverflow.com/questions/17483334) (5 upvotes)  
-17485255. [Sending json data into db and display in listview throws "null pointer exception"](http://stackoverflow.com/questions/17485255) (1 upvotes)  
-17488646. ["Application has stopped" - Getting JSON data to store in DB & display in ListView](http://stackoverflow.com/questions/17488646) (0 upvotes)  
-17496889. [Error while connecting to DB with hibernate](http://stackoverflow.com/questions/17496889) (1 upvotes)  
-17498059. [Android Studio build error with gradle](http://stackoverflow.com/questions/17498059) (1 upvotes)  
-17502091. [How to Stop the Webview video in android](http://stackoverflow.com/questions/17502091) (2 upvotes)  
-17507934. [The Surface Has Been Released Error when I try setDisplay to MediaPlayer](http://stackoverflow.com/questions/17507934) (1 upvotes)  
-17507941. [volatile Thread not equal to the Thread.currentThread](http://stackoverflow.com/questions/17507941) (1 upvotes)  
-17532348. [Ant build script/eclipse won't compile with deprecated Jars](http://stackoverflow.com/questions/17532348) (1 upvotes)  
-17533229. [Apple Autoingestion class: username and password "deprecated", properties file?](http://stackoverflow.com/questions/17533229) (4 upvotes)  
-17538182. [Getting Keyboard Input](http://stackoverflow.com/questions/17538182) (12 upvotes)  
-17547314. [My Database is not updated,if my JSON data will increase also](http://stackoverflow.com/questions/17547314) (2 upvotes)  
-17548155. [The specified child already has a parent Exception](http://stackoverflow.com/questions/17548155) (1 upvotes)  
-17554598. [How to create a live wallpaper for android](http://stackoverflow.com/questions/17554598) (-2 upvotes)  
-17570269. [How to update the database,while changing in our server side](http://stackoverflow.com/questions/17570269) (1 upvotes)  
-17594910. [What is the proper replacement of the Resteasy 3.X PreProcessInterceptor?](http://stackoverflow.com/questions/17594910) (12 upvotes)  
-17615019. [Class with @Deprecated annotation means that all methods and fields automatically will be deprecated](http://stackoverflow.com/questions/17615019) (2 upvotes)  
-17617370. [Pretty printing JSON from Jackson 2.2's ObjectMapper](http://stackoverflow.com/questions/17617370) (12 upvotes)  
-17633183. [Collections: Array, Vector and ArrayList. Differences and appropriate usage](http://stackoverflow.com/questions/17633183) (0 upvotes)  
-17642755. [How to add rows to JTable with AbstractTableModel method?](http://stackoverflow.com/questions/17642755) (2 upvotes)  
-17647038. [timepicker listener cannot be resolved to a variable](http://stackoverflow.com/questions/17647038) (0 upvotes)  
-17650081. [My onItemclick function is not working in text to speech](http://stackoverflow.com/questions/17650081) (2 upvotes)  
-17654340. [While clicking search,my application has stopped](http://stackoverflow.com/questions/17654340) (-3 upvotes)  
-17665921. [Recommended use for Joda-Time's DateMidnight](http://stackoverflow.com/questions/17665921) (21 upvotes)  
-17671984. [Camera crashes after first image upload](http://stackoverflow.com/questions/17671984) (1 upvotes)  
-17672116. [How disable softkeyboard in WebView](http://stackoverflow.com/questions/17672116) (3 upvotes)  
-17672539. [Text to speech function is not working in my Listview](http://stackoverflow.com/questions/17672539) (1 upvotes)  
-17693337. [HADOOP wordcount program](http://stackoverflow.com/questions/17693337) (-1 upvotes)  
-17698899. [jersey and jax-rs RI2 - missing HttpServerFactory](http://stackoverflow.com/questions/17698899) (4 upvotes)  
-17715028. [Java web Graphviz tool](http://stackoverflow.com/questions/17715028) (1 upvotes)  
-17739900. [The method managedQuery(Uri, String[], String, String[], String) from the type Activity is deprecated](http://stackoverflow.com/questions/17739900) (8 upvotes)  
-17774527. [Hibernate Criteria issues a deprecation warnings](http://stackoverflow.com/questions/17774527) (0 upvotes)  
-17785340. [Got "undefined method `[]' for nil:NilClass" installing java Cookbook](http://stackoverflow.com/questions/17785340) (1 upvotes)  
-17794460. [Permgen out of memory](http://stackoverflow.com/questions/17794460) (2 upvotes)  
-17804886. [what to use instead of deprecated "LegacyContext" type in phonegap android application?](http://stackoverflow.com/questions/17804886) (0 upvotes)  
-17805145. [ios slider data to java server using tcp socket](http://stackoverflow.com/questions/17805145) (1 upvotes)  
-17805216. [TabHost : unable to start activity componentinfo java.lang.nullpointerexception](http://stackoverflow.com/questions/17805216) (0 upvotes)  
-17807526. [How to create a flash light as well as strobe effect. Need help to fix strobe effect](http://stackoverflow.com/questions/17807526) (0 upvotes)  
-17809801. [How to write Text on ImageView in android coding?](http://stackoverflow.com/questions/17809801) (5 upvotes)  
-17811830. [Wicket: Is there an alternative for org.apache.wicket.extensions.markup.html.tree since it's deprecated](http://stackoverflow.com/questions/17811830) (-1 upvotes)  
-17811950. [Google Analytics API- Exception in thread "main" java.lang.NoClassDefFoundError: com/google/api/client/http/HttpParser](http://stackoverflow.com/questions/17811950) (1 upvotes)  
-17816626. [Get the width of a JPanel without the Border](http://stackoverflow.com/questions/17816626) (-2 upvotes)  
-17828805. [how to download file save as Pdf in Jsp](http://stackoverflow.com/questions/17828805) (-2 upvotes)  
-17846101. [Getting a javaNullPointer Exception dealing with a call to the camera and previewing it](http://stackoverflow.com/questions/17846101) (2 upvotes)  
-17847775. [Nested Fragments - IllegalStateException "Can not perform this action after onSaveInstanceState"](http://stackoverflow.com/questions/17847775) (9 upvotes)  
-17855868. [Time picker stops working after date picker is added](http://stackoverflow.com/questions/17855868) (1 upvotes)  
-17856544. [Issue with sun.security.util while upgrading to from jdk 1.4 to jdk1.6](http://stackoverflow.com/questions/17856544) (0 upvotes)  
-17858714. [What is the substitue for Resteasy ProxyFactory class](http://stackoverflow.com/questions/17858714) (5 upvotes)  
-17858763. [Spring batch 2.2.0 and Hibernate 3 compatibility](http://stackoverflow.com/questions/17858763) (3 upvotes)  
-17872903. [NoSuchMethodException loading Build.getRadioVersion() using reflection](http://stackoverflow.com/questions/17872903) (2 upvotes)  
-17911308. [Looking for a not-deprecated session-factory](http://stackoverflow.com/questions/17911308) (2 upvotes)  
-17914012. [Why is this method deprecated ? (jasperreports)](http://stackoverflow.com/questions/17914012) (0 upvotes)  
-17921085. [SvnOperationFactory get method for svn "add" operation](http://stackoverflow.com/questions/17921085) (1 upvotes)  
-17938220. [Thread.interrupt() in Java: what's the point?](http://stackoverflow.com/questions/17938220) (5 upvotes)  
-17942524. [What to use as a substitute for NumberUtils->Digit()](http://stackoverflow.com/questions/17942524) (-1 upvotes)  
-17942827. [Java Class that implements Runnable without thread](http://stackoverflow.com/questions/17942827) (1 upvotes)  
-17949035. [StrutsTestCase for struts 2.2.x](http://stackoverflow.com/questions/17949035) (0 upvotes)  
-17951954. [org.apache.nutch.crawl.Crawler NPE at org.apache.avro.util.Utf8.<init>(Utf8.java:37)](http://stackoverflow.com/questions/17951954) (0 upvotes)  
-17960041. [One code and deferent result in android2.2 vs android4.2](http://stackoverflow.com/questions/17960041) (1 upvotes)  
-17962586. [FATAL exception Thread -12](http://stackoverflow.com/questions/17962586) (0 upvotes)  
-17986016. [how to save file from html to pdf](http://stackoverflow.com/questions/17986016) (1 upvotes)  
-17991222. [Java: How can I refactor a method to a class and then use its parameters in other classes?](http://stackoverflow.com/questions/17991222) (1 upvotes)  
-17995010. [Index 0 requested, with a size of 0](http://stackoverflow.com/questions/17995010) (0 upvotes)  
-17995723. [Program is not running when try to put properties file outside of jar using maven](http://stackoverflow.com/questions/17995723) (1 upvotes)  
-18012888. [how to run a MDX query direcly via saiku](http://stackoverflow.com/questions/18012888) (1 upvotes)  
-18018460. [UrlConnection not opening HttpsUrlConnection](http://stackoverflow.com/questions/18018460) (2 upvotes)  
-18027333. [Tomcat Integrated Windows Authentication across Multiple Domains](http://stackoverflow.com/questions/18027333) (0 upvotes)  
-18034029. [Kill an infinite-loop thread in java](http://stackoverflow.com/questions/18034029) (1 upvotes)  
-18037041. [Ant:build.xml; XML document structure must start and end within the same entity](http://stackoverflow.com/questions/18037041) (1 upvotes)  
-18042248. [Google App Engine Blobstore and Restlet - "Must be called from a blob upload callback request"](http://stackoverflow.com/questions/18042248) (7 upvotes)  
-18044361. [Facebook Feed Dialog with game images and description below](http://stackoverflow.com/questions/18044361) (1 upvotes)  
-18058019. [maven is not run main class when run from command promt](http://stackoverflow.com/questions/18058019) (0 upvotes)  
-18063599. [Has ever anything been removed from the standard Java API?](http://stackoverflow.com/questions/18063599) (1 upvotes)  
-18074522. [`create` script for Cordova Android fails to create new project - errors with java/ant configuration](http://stackoverflow.com/questions/18074522) (4 upvotes)  
-18078004. [difference between util.date and sql.date?](http://stackoverflow.com/questions/18078004) (-5 upvotes)  
-18094741. [Listview rounded corner selector issue](http://stackoverflow.com/questions/18094741) (0 upvotes)  
-18094944. [Group's "emailPermission" in Directory API in Google Apps](http://stackoverflow.com/questions/18094944) (1 upvotes)  
-18100475. [How to programtically set EditText background to default in Holo theme Api 11-17 Android](http://stackoverflow.com/questions/18100475) (0 upvotes)  
-18107778. [How to reset android service memory](http://stackoverflow.com/questions/18107778) (0 upvotes)  
-18123443. [Button in each row of my dynamic listview is not working?](http://stackoverflow.com/questions/18123443) (1 upvotes)  
-18129712. [Speak Failed Not Bound to TTS Engine](http://stackoverflow.com/questions/18129712) (0 upvotes)  
-18140066. [ApplicationError: 10 on sending files to Google Cloud Storage using the Java remote API from App Engine](http://stackoverflow.com/questions/18140066) (0 upvotes)  
-18143655. [how to add image or Logo in pdf Using Html Worker for Saving Html to Pdf in Jsp](http://stackoverflow.com/questions/18143655) (0 upvotes)  
-18149265. [Add custom View as marker in Google Maps API v2](http://stackoverflow.com/questions/18149265) (1 upvotes)  
-18162642. [How do I get the correct bearing (magnetic orientation) regardless of screen orientation?](http://stackoverflow.com/questions/18162642) (3 upvotes)  
-18172087. [Xuggle Processing video with Audio](http://stackoverflow.com/questions/18172087) (0 upvotes)  
-18187664. [Unable to start webserver service in android](http://stackoverflow.com/questions/18187664) (1 upvotes)  
-18189742. [Is there a way to do JNLP without certificates?](http://stackoverflow.com/questions/18189742) (4 upvotes)  
-18193439. [What Java technology use to capture and modify video stream on the fly](http://stackoverflow.com/questions/18193439) (0 upvotes)  
-18199359. [how to display contacts in a listview in Android for Android api 11+](http://stackoverflow.com/questions/18199359) (5 upvotes)  
-18201755. [how to add image and text in pdf for save html file](http://stackoverflow.com/questions/18201755) (0 upvotes)  
-18204814. [easiest (legal) way to programmatically get the google search result count?](http://stackoverflow.com/questions/18204814) (2 upvotes)  
-18220915. [Android HTML.ImageGetter Images resized](http://stackoverflow.com/questions/18220915) (0 upvotes)  
-18229352. [Database change notification app](http://stackoverflow.com/questions/18229352) (0 upvotes)  
-18231324. [dexifying 18.5 MB "android-4.1.1_r1.jar" gives " java.lang.OutOfMemoryError: Java heap space"](http://stackoverflow.com/questions/18231324) (0 upvotes)  
-18233839. [AsyncTask ImageGetter](http://stackoverflow.com/questions/18233839) (2 upvotes)  
-18235294. [PhoneGap 2.9.0 Plugin example](http://stackoverflow.com/questions/18235294) (0 upvotes)  
-18246752. [My webserver service is not stoping](http://stackoverflow.com/questions/18246752) (-2 upvotes)  
-18248280. [Jetty Jars Upgradation](http://stackoverflow.com/questions/18248280) (1 upvotes)  
-18258485. [Running Java class (not an servlet) on GlassFish 4 server](http://stackoverflow.com/questions/18258485) (0 upvotes)  
-18260003. [creating war file from eclipse web project](http://stackoverflow.com/questions/18260003) (-1 upvotes)  
-18260170. [NullPointerException at OnClickListener](http://stackoverflow.com/questions/18260170) (0 upvotes)  
-18275709. [Null Notifications When Connecting To a Web Service](http://stackoverflow.com/questions/18275709) (-1 upvotes)  
-18299201. [Where is a list of the deprecated language codes that Java still uses?](http://stackoverflow.com/questions/18299201) (3 upvotes)  
-18308763. [include native library for android using ant build.xml](http://stackoverflow.com/questions/18308763) (1 upvotes)  
-18309539. [Remember the last oAuth2 session for Google Drive API in Desktop application](http://stackoverflow.com/questions/18309539) (0 upvotes)  
-18311096. [code with thread crashes at startup (android beginner)](http://stackoverflow.com/questions/18311096) (0 upvotes)  
-18311964. [Warning message "uses or overrides a deprecated API" encountered during code compilation](http://stackoverflow.com/questions/18311964) (-1 upvotes)  
-18312414. [java Android - working with image scaling/cropping programmatically](http://stackoverflow.com/questions/18312414) (0 upvotes)  
-18325795. [Is javax.servlet.http.HttpResponse deprecated by Java 7.0?](http://stackoverflow.com/questions/18325795) (-4 upvotes)  
-18326125. [can't getPreferences but it keeps changes (can see in manu layout)](http://stackoverflow.com/questions/18326125) (0 upvotes)  
-18326262. [what is a good way to stop a thread in android](http://stackoverflow.com/questions/18326262) (1 upvotes)  
-18332297. [Does a Thread remember it's state the next time the same application is run?](http://stackoverflow.com/questions/18332297) (0 upvotes)  
-18335790. [jdk 1.7.25 CORBA idl build warning: Anonymous sequences and array are deprecated](http://stackoverflow.com/questions/18335790) (0 upvotes)  
-18337085. [Working with JPasswordField and its getText/getPassword method](http://stackoverflow.com/questions/18337085) (3 upvotes)  
-18337468. [setItemLabelsVisible deprecated, but setBaseItemLabelsVisible(true); does nothing](http://stackoverflow.com/questions/18337468) (0 upvotes)  
-18339168. [Get a Google Cloud Storage file from its BlobKey](http://stackoverflow.com/questions/18339168) (4 upvotes)  
-18340389. [Convert string into a Java Date](http://stackoverflow.com/questions/18340389) (1 upvotes)  
-18349698. [Could not fetch URL: https://storage.googleapis.com in java gae](http://stackoverflow.com/questions/18349698) (2 upvotes)  
-18359264. [setPluginEnabled is undefined](http://stackoverflow.com/questions/18359264) (0 upvotes)  
-18375611. [Hibernate 4.2.5.Final and Spring 3.2.4 - Alternatives to getHibernateTemplate().find(query, param);](http://stackoverflow.com/questions/18375611) (0 upvotes)  
-18382510. [How Do I fix the password/ username authentication in my code?](http://stackoverflow.com/questions/18382510) (1 upvotes)  
-18385445. [Java - make eclipse show deprecated code as errors](http://stackoverflow.com/questions/18385445) (0 upvotes)  
-18386003. [Java - when changing from jre 1.6 to 1.7 DocumentBuildFactory fails](http://stackoverflow.com/questions/18386003) (0 upvotes)  
-18413111. [ClientRequestFactory RestEasy Deprecated... Any other RestEasy alternative ?](http://stackoverflow.com/questions/18413111) (1 upvotes)  
-18419562. [i= Integer.parseInt(dis.readLine()) [Deprecated].. How to resolve it?](http://stackoverflow.com/questions/18419562) (-2 upvotes)  
-18426044. [how do i create individual sessions for clients querying my servlet](http://stackoverflow.com/questions/18426044) (0 upvotes)  
-18436156. [Have ChromeDriver features been deprecated?](http://stackoverflow.com/questions/18436156) (2 upvotes)  
-18437273. [Correct way to define a Gradle plugin property extension with Java?](http://stackoverflow.com/questions/18437273) (1 upvotes)  
-18439235. [Deprecated java classes in stdlib.jar](http://stackoverflow.com/questions/18439235) (0 upvotes)  
-18440636. [Text to speech not working while using that one in listitem click and myactivity is in Tabactivity](http://stackoverflow.com/questions/18440636) (1 upvotes)  
-18446874. [org.springframework.beans.factory.parsing.BeanDefinitionParsingException](http://stackoverflow.com/questions/18446874) (2 upvotes)  
-18461881. [Resulset to excel data not populating](http://stackoverflow.com/questions/18461881) (0 upvotes)  
-18464218. [hadoop : datanode not running?](http://stackoverflow.com/questions/18464218) (0 upvotes)  
-18471387. [Add/Reduce hours/minutes from a Date object in GWT](http://stackoverflow.com/questions/18471387) (0 upvotes)  
-18486262. [JComponents changing positions for a frame if swing calls validate() in a Jpanel](http://stackoverflow.com/questions/18486262) (0 upvotes)  
-18496468. [Document XPath searching with Marklogic's Java search API vs XQuery/XSLT API](http://stackoverflow.com/questions/18496468) (1 upvotes)  
-18506178. [update TextView every second with ScheduledThreadPoolExecutor](http://stackoverflow.com/questions/18506178) (0 upvotes)  
-18507512. [How to retrieve database table value in hibernate?](http://stackoverflow.com/questions/18507512) (3 upvotes)  
-18510983. [Alarm Manager is running immediately](http://stackoverflow.com/questions/18510983) (0 upvotes)  
-18515352. [How to add external EJB to an Arquillian JUnit project?](http://stackoverflow.com/questions/18515352) (0 upvotes)  
-18521009. [Spring MongoDB query sorting](http://stackoverflow.com/questions/18521009) (4 upvotes)  
-18522882. [Handle a texture in opengl and cut it in many tiles](http://stackoverflow.com/questions/18522882) (1 upvotes)  
-18524092. [timePicker with multiple buttons](http://stackoverflow.com/questions/18524092) (-1 upvotes)  
-18533707. [How to correct deprecated preference methods?](http://stackoverflow.com/questions/18533707) (1 upvotes)  
-18541530. [Could not find class 'android.app.Notification$Builder'](http://stackoverflow.com/questions/18541530) (1 upvotes)  
-18542010. [Gradle - Java - tests - java.lang.AssertionError Assertion Error](http://stackoverflow.com/questions/18542010) (0 upvotes)  
-18556684. [How to initialize annotation configuration instance in the new version of Hibernate?](http://stackoverflow.com/questions/18556684) (1 upvotes)  
-18559063. [how to generate notification from the time choose by user](http://stackoverflow.com/questions/18559063) (1 upvotes)  
-18563830. [Examples for Apache Commons HttpComponents](http://stackoverflow.com/questions/18563830) (0 upvotes)  
-18588064. [send/receive OSC messages to Android with JavaOSC](http://stackoverflow.com/questions/18588064) (1 upvotes)  
-18600755. [JClouds: BlobStore.getBlob() taking a long time](http://stackoverflow.com/questions/18600755) (1 upvotes)  
-18631642. [How to use SQL Server datetime type in Java](http://stackoverflow.com/questions/18631642) (0 upvotes)  
-18631908. [How to properly handle thread interrupts](http://stackoverflow.com/questions/18631908) (5 upvotes)  
-18632581. [Get current time, set object time, and compare](http://stackoverflow.com/questions/18632581) (0 upvotes)  
-18637365. [Design Issue: Should UI layer worry about it's backend?](http://stackoverflow.com/questions/18637365) (0 upvotes)  
-18638705. [InsertAPN() Method Does Not Write APN Settings - Android 2.3.6](http://stackoverflow.com/questions/18638705) (1 upvotes)  
-18646736. [What is replacing send() in java.net.MulticastSocket?](http://stackoverflow.com/questions/18646736) (-1 upvotes)  
-18650532. [Snappy compression error in Hadoop 2.x](http://stackoverflow.com/questions/18650532) (1 upvotes)  
-18653947. [How to compile Maven project with Xlint](http://stackoverflow.com/questions/18653947) (4 upvotes)  
-18660639. [Ant javac: package x does not exist, but i added the x.jar to the java build path libraries](http://stackoverflow.com/questions/18660639) (1 upvotes)  
-18661996. [SOLR 4.x vs 3.x parsedquery differences](http://stackoverflow.com/questions/18661996) (0 upvotes)  
-18663131. [Binding error using Xamarin Android due to overload method](http://stackoverflow.com/questions/18663131) (0 upvotes)  
-18682755. [rewriting a method to use cursor loader](http://stackoverflow.com/questions/18682755) (0 upvotes)  
-18686088. [Application stop after some time android eclipse](http://stackoverflow.com/questions/18686088) (0 upvotes)  
-18687260. [Is StanfordCoreNLP deprecated?](http://stackoverflow.com/questions/18687260) (2 upvotes)  
-18689365. [How to add -Xlint:unchecked to my Android Gradle based project?](http://stackoverflow.com/questions/18689365) (8 upvotes)  
-18694596. [Running a subset of tests in Gradle](http://stackoverflow.com/questions/18694596) (0 upvotes)  
-18696414. [How to enforce Java 1.6 standard during compilation in Ant?](http://stackoverflow.com/questions/18696414) (2 upvotes)  
-18701348. [Python vs Java UTC?](http://stackoverflow.com/questions/18701348) (1 upvotes)  
-18702279. [Suspending an initialisation thread that executes an external method for prolonged period](http://stackoverflow.com/questions/18702279) (0 upvotes)  
-18714349. [error while building android 4.3 master](http://stackoverflow.com/questions/18714349) (1 upvotes)  
-18717854. [warning - @author: is an unknown tag](http://stackoverflow.com/questions/18717854) (1 upvotes)  
-18735882. [build.xml javac is complaining about missing classes from javax.servlet.http during compliation](http://stackoverflow.com/questions/18735882) (0 upvotes)  
-18740213. [Using play button in Bindview,That play function is not working](http://stackoverflow.com/questions/18740213) (2 upvotes)  
-18746720. [Consequences of Thread.stop()](http://stackoverflow.com/questions/18746720) (0 upvotes)  
-18751350. [Difficulty parsing rss feed for Android project](http://stackoverflow.com/questions/18751350) (-1 upvotes)  
-18762068. [Is it possible to create my own certified to run a java applet?](http://stackoverflow.com/questions/18762068) (2 upvotes)  
-18763868. [Avoid using deprecated vaadin 6 methods in vaadin 7](http://stackoverflow.com/questions/18763868) (1 upvotes)  
-18772283. [How to use Bouncycastle PGPContentSigner to clear-sign a byte array?](http://stackoverflow.com/questions/18772283) (0 upvotes)  
-18792185. [hibernate invalid configuration exception](http://stackoverflow.com/questions/18792185) (0 upvotes)  
-18792837. [xml to pdf corrupted on war using struts](http://stackoverflow.com/questions/18792837) (0 upvotes)  
-18794055. [How to install Java 7 EE SDK download as .sh file for Mac OSX](http://stackoverflow.com/questions/18794055) (7 upvotes)  
-18794638. [Android WebView getFavicon() returning null](http://stackoverflow.com/questions/18794638) (0 upvotes)  
-18815587. [EOFException in Spring MVC project](http://stackoverflow.com/questions/18815587) (0 upvotes)  
-18828339. [Scrolling Tabs in a TabHost Activity](http://stackoverflow.com/questions/18828339) (0 upvotes)  
-18852015. [Unable to start activity component info in a Preference Screen](http://stackoverflow.com/questions/18852015) (0 upvotes)  
-18873338. [integration Facebook sign-in , Google+ sign-in in Android app](http://stackoverflow.com/questions/18873338) (-2 upvotes)  
-18882071. [Lucene 4.x performance issues](http://stackoverflow.com/questions/18882071) (3 upvotes)  
-18888229. [How to add One image with Text in Pdf using Itextreader in jsp](http://stackoverflow.com/questions/18888229) (0 upvotes)  
-18890939. [Checkbox-Not selected the Current positon](http://stackoverflow.com/questions/18890939) (1 upvotes)  
-18932395. [Android prevent parent layout touches](http://stackoverflow.com/questions/18932395) (0 upvotes)  
-18932776. [Transferring information from Database to a JTable](http://stackoverflow.com/questions/18932776) (0 upvotes)  
-18937682. [EditText getText() method](http://stackoverflow.com/questions/18937682) (0 upvotes)  
-18938083. [Get Next Jsoup Element with Same Name Android](http://stackoverflow.com/questions/18938083) (1 upvotes)  
-18938568. [Convert Jsoup element to string](http://stackoverflow.com/questions/18938568) (1 upvotes)  
-18942590. [playframework 2.2 functional test](http://stackoverflow.com/questions/18942590) (1 upvotes)  
-18945859. [OpenGL cube vertices are wrong](http://stackoverflow.com/questions/18945859) (-1 upvotes)  
-18950884. [How to stop a thread whose run() doesnt have a loop](http://stackoverflow.com/questions/18950884) (1 upvotes)  
-18958549. [Alternatives for java.util.Date](http://stackoverflow.com/questions/18958549) (2 upvotes)  
-18958902. [Updating child in hibernate](http://stackoverflow.com/questions/18958902) (0 upvotes)  
-18960227. [at scala project, compiler error - Cannot resolve symbol List?](http://stackoverflow.com/questions/18960227) (3 upvotes)  
-18961673. [java [deprecation] readLine() in DataInputStream has been deprecated?](http://stackoverflow.com/questions/18961673) (0 upvotes)  
-18963071. [Hive runtime error: Cannot run program... CreateProcess error=2, The system cannot find the file specified](http://stackoverflow.com/questions/18963071) (0 upvotes)  
-18967976. [Could not find the gcm.jar error when creating App Engine backend => suggests installing deprecated library](http://stackoverflow.com/questions/18967976) (2 upvotes)  
-18968692. [Processing video library does not work on Linux (Ubuntu 13.04)](http://stackoverflow.com/questions/18968692) (0 upvotes)  
-18969415. [Java custom annotation/decorator @Testing](http://stackoverflow.com/questions/18969415) (3 upvotes)  
-18975372. [TTS throw NPE while using Android 2.2,but it works fine 4.0 version](http://stackoverflow.com/questions/18975372) (0 upvotes)  
-18977108. [How to get id to INFLATED view in android?](http://stackoverflow.com/questions/18977108) (2 upvotes)  
-18991912. [How do i retrieve a char array from a ResultSet?](http://stackoverflow.com/questions/18991912) (1 upvotes)  
-18996548. [use command 'hbase shell', the error is Could not locate stub library in jar file. Tried [jni/ppc64-Linux/libjffi-1.0.so](http://stackoverflow.com/questions/18996548) (0 upvotes)  
-19001385. [Alternate method for RandomAccessFileOrArray(byte[])](http://stackoverflow.com/questions/19001385) (0 upvotes)  
-19011726. [Why is the "Statement" Object required if the "prepared" statement is superior?](http://stackoverflow.com/questions/19011726) (4 upvotes)  
-19014919. [How to determine the maximum number of simultaneous connections for a given `HttpClient` instance](http://stackoverflow.com/questions/19014919) (0 upvotes)  
-19027161. [Pre-bound JDBC Connection found with multi-war ear](http://stackoverflow.com/questions/19027161) (0 upvotes)  
-19032136. [OpenGL texture stretched and wrong. VBO vertices incorrect?](http://stackoverflow.com/questions/19032136) (-2 upvotes)  
-19035094. [OnClick Listener Is Not Function As Expected](http://stackoverflow.com/questions/19035094) (0 upvotes)  
-19035805. [Java program simulating finally not called](http://stackoverflow.com/questions/19035805) (1 upvotes)  
-19038907. [Why am I getting AnnotationConfiguration instance is required when AnnotationConfiguration is deprecated?](http://stackoverflow.com/questions/19038907) (0 upvotes)  
-19042254. [How to implement multiple timed notifications in Android](http://stackoverflow.com/questions/19042254) (0 upvotes)  
-19049583. [Failed to set image using URL](http://stackoverflow.com/questions/19049583) (0 upvotes)  
-19059249. [Tell me what are the deprecated things in Java 7](http://stackoverflow.com/questions/19059249) (-6 upvotes)  
-19062001. [Maven compiler plugin failure?](http://stackoverflow.com/questions/19062001) (-1 upvotes)  
-19063293. [What could possibility goes wrong if I were using deprecated Dates' method to see if they are in the same day?](http://stackoverflow.com/questions/19063293) (4 upvotes)  
-19068054. [Akka - Deprecation Compile Errors](http://stackoverflow.com/questions/19068054) (0 upvotes)  
-19074038. [Failed to run maven install?](http://stackoverflow.com/questions/19074038) (0 upvotes)  
-19077626. [IllegalStateException in PullToRefreshListView$InternalListViewSDK9](http://stackoverflow.com/questions/19077626) (3 upvotes)  
-19083108. [Error in my logcat, after some refreshes on my list my app crashes](http://stackoverflow.com/questions/19083108) (0 upvotes)  
-19089403. [android.database.CursorIndexOutOfBoundsException: Index -1 requested, with a size of 7](http://stackoverflow.com/questions/19089403) (1 upvotes)  
-19095656. [Including property files in compile targets](http://stackoverflow.com/questions/19095656) (0 upvotes)  
-19099789. [Android::Data are not retrieving to EditText field through Database](http://stackoverflow.com/questions/19099789) (0 upvotes)  
-19110230. [java.text.ParseException: Unparseable date Exception while converting timestamp value to time in java](http://stackoverflow.com/questions/19110230) (2 upvotes)  
-19142336. [Deprecated SCREEN_DIM_WAKE_LOCK, are there any work-arounds?](http://stackoverflow.com/questions/19142336) (2 upvotes)  
-19151989. [Is it possible to omit the "Constant Field Values" page when generating Javadoc?](http://stackoverflow.com/questions/19151989) (0 upvotes)  
-19152190. [Adding multiple items in single child instance / Android expandable list](http://stackoverflow.com/questions/19152190) (0 upvotes)  
-19153329. [How do I obtain IPv4 subnet prefix/mask in Android WITHOUT root?](http://stackoverflow.com/questions/19153329) (0 upvotes)  
-19159185. [My own deprecated annotation](http://stackoverflow.com/questions/19159185) (3 upvotes)  
-19163041. [Java time to the normal format](http://stackoverflow.com/questions/19163041) (2 upvotes)  
-19176675. [Customizing JAXB bindings based on annotations](http://stackoverflow.com/questions/19176675) (0 upvotes)  
-19180108. [Cannot run program "\ndk-build.cmd": Launching failed](http://stackoverflow.com/questions/19180108) (12 upvotes)  
-19195558. [using BeforeTransaction or AfterTransaction annotation instead of NotTransactional](http://stackoverflow.com/questions/19195558) (0 upvotes)  
-19196292. [The type MultipartEntity is deprecated](http://stackoverflow.com/questions/19196292) (14 upvotes)  
-19199149. [custom ColorDialogPreference - saving/retrieving as sharedpreference](http://stackoverflow.com/questions/19199149) (0 upvotes)  
-19209978. [Same resource in two different servlets](http://stackoverflow.com/questions/19209978) (0 upvotes)  
-19230505. [How to determine if a class has an annotation using JDT, considering the type hierarchy](http://stackoverflow.com/questions/19230505) (0 upvotes)  
-19264145. [Mongo Java Driver find method deprecated](http://stackoverflow.com/questions/19264145) (0 upvotes)  
-19269152. [Why there is strikethrough on addItem method of List?](http://stackoverflow.com/questions/19269152) (1 upvotes)  
-19274805. [Getting version of Mongo Instance with Java driver](http://stackoverflow.com/questions/19274805) (1 upvotes)  
-19283300. [Property reference mapping in Spring Data Rest 2.0.0](http://stackoverflow.com/questions/19283300) (1 upvotes)  
-19286085. [Why Spring MVC configuration support for XML configuration is deprecated?](http://stackoverflow.com/questions/19286085) (1 upvotes)  
-19292169. [MultipartEntityBuilder and Charset](http://stackoverflow.com/questions/19292169) (1 upvotes)  
-19297775. [Eclipse RCP Compare with each other command](http://stackoverflow.com/questions/19297775) (1 upvotes)  
-19302055. [session listener - valueBound or valueUnbound doesn't called](http://stackoverflow.com/questions/19302055) (0 upvotes)  
-19309755. [java access modifiers : no-modifier vs "default"](http://stackoverflow.com/questions/19309755) (1 upvotes)  
-19311849. [UIComponent tag deprecated. How to modify the class?](http://stackoverflow.com/questions/19311849) (0 upvotes)  
-19314684. [show ListView items from database](http://stackoverflow.com/questions/19314684) (0 upvotes)  
-19328307. [Gephi dependency in Maven Missing artifact 0.9- SNAPSHOT](http://stackoverflow.com/questions/19328307) (0 upvotes)  
-19329750. [How to convert java.util.Date objects into Calendar objects?](http://stackoverflow.com/questions/19329750) (0 upvotes)  
-19330215. [HADOOP_CLASSPATH issue while running jar](http://stackoverflow.com/questions/19330215) (1 upvotes)  
-19345059. [Read an excel sheet in, process it and output it](http://stackoverflow.com/questions/19345059) (0 upvotes)  
-19345719. [HTTP Status 404 - The requested resource (/BookStore/index.html) is not available](http://stackoverflow.com/questions/19345719) (0 upvotes)  
-19350180. [Problems connecting to YouTube Data API v3 using Java client library - sample code outdated?](http://stackoverflow.com/questions/19350180) (2 upvotes)  
-19356236. [Distance between points](http://stackoverflow.com/questions/19356236) (0 upvotes)  
-19356817. [Mockito spy referenced to wrong object](http://stackoverflow.com/questions/19356817) (0 upvotes)  
-19364591. [How to manifest Main using Eclipse?](http://stackoverflow.com/questions/19364591) (1 upvotes)  
-19364790. [How to upload a file more that 32Mb to google cloud storage using Java API](http://stackoverflow.com/questions/19364790) (1 upvotes)  
-19370435. [.readline is struck thru and asking add @ SuppressWarnings "Deprecation"](http://stackoverflow.com/questions/19370435) (0 upvotes)  
-19372288. [How to build samples from spring-security source](http://stackoverflow.com/questions/19372288) (1 upvotes)  
-19379494. [Modern way of accessing AST in Java](http://stackoverflow.com/questions/19379494) (2 upvotes)  
-19389981. [Implement Tiles 3 with a Spring MVC application](http://stackoverflow.com/questions/19389981) (2 upvotes)  
-19398318. [Main.java uses or overrides a deprecated API. Note: Recompile with -Xlint:deprecation for details](http://stackoverflow.com/questions/19398318) (-1 upvotes)  
-19411836. [How to force JTextArea to be editable and clickable and flush output immidiately?](http://stackoverflow.com/questions/19411836) (0 upvotes)  
-19415483. [Facebook session won't stay active](http://stackoverflow.com/questions/19415483) (3 upvotes)  
-19422148. [Maven build deprecation error](http://stackoverflow.com/questions/19422148) (1 upvotes)  
-19427691. [How do i compile a java program with -Xlint through textpad](http://stackoverflow.com/questions/19427691) (1 upvotes)  
-19447114. [Using wsgen and @Interceptors causes --> Unsupported major.minor version 51.0](http://stackoverflow.com/questions/19447114) (1 upvotes)  
-19451814. [java.lang.NoClassDefFoundError: javax/el/PropertyNotFoundException when I send invalid values to controller](http://stackoverflow.com/questions/19451814) (5 upvotes)  
-19452590. [Downloading many images with AsyncTask and post them to ImageView](http://stackoverflow.com/questions/19452590) (2 upvotes)  
-19462736. [LWJGL textures don't render when using drawArrays](http://stackoverflow.com/questions/19462736) (0 upvotes)  
-19465448. [Finding position of a found query in Lucene](http://stackoverflow.com/questions/19465448) (1 upvotes)  
-19472574. [Dynamically add a jtable to jpanel](http://stackoverflow.com/questions/19472574) (0 upvotes)  
-19490331. [Calling Apache-Tika from C++](http://stackoverflow.com/questions/19490331) (0 upvotes)  
-19503418. [Cannot compile jdk from sources with debug information](http://stackoverflow.com/questions/19503418) (0 upvotes)  
-19504893. [Android camera , onPictureTaken(byte[] imgData, Camera camera) method & PictureCallback never called](http://stackoverflow.com/questions/19504893) (4 upvotes)  
-19508943. [implementing the MenuContainer](http://stackoverflow.com/questions/19508943) (0 upvotes)  
-19528039. [Same method name with EnumSet (of different type) as a parameter](http://stackoverflow.com/questions/19528039) (1 upvotes)  
-19530467. [Maven project sometimes building empty jar file despite failOnError tag being set to false](http://stackoverflow.com/questions/19530467) (0 upvotes)  
-19531408. [glTranslatef translating constantly](http://stackoverflow.com/questions/19531408) (-1 upvotes)  
-19555987. [How to set MongoDB ReadPreference in Spring MVC's contextConfigLocation](http://stackoverflow.com/questions/19555987) (2 upvotes)  
-19557162. [Java compliation error when installing Spark on CentOS](http://stackoverflow.com/questions/19557162) (0 upvotes)  
-19557628. [map 100% reduce 0% in running hadoop word count](http://stackoverflow.com/questions/19557628) (0 upvotes)  
-19560847. [With which character or token can a .java source file start with?](http://stackoverflow.com/questions/19560847) (3 upvotes)  
-19572918. [Check for row in Service](http://stackoverflow.com/questions/19572918) (1 upvotes)  
-19576910. [Both output is false in sql check](http://stackoverflow.com/questions/19576910) (0 upvotes)  
-19589648. [Calling same Method having same packageName From Different JARs](http://stackoverflow.com/questions/19589648) (2 upvotes)  
-19600221. [Maven command to download latest version of a jar](http://stackoverflow.com/questions/19600221) (1 upvotes)  
-19602692. [Issues in Emitting 2 Matrices as key and value from mapper](http://stackoverflow.com/questions/19602692) (1 upvotes)  
-19611216. [How to get Wi-Fi subnet mask](http://stackoverflow.com/questions/19611216) (0 upvotes)  
-19627551. [How to forward a message from one server to another in java](http://stackoverflow.com/questions/19627551) (0 upvotes)  
-19628567. [Fragment Tabs not Appearing](http://stackoverflow.com/questions/19628567) (-1 upvotes)  
-19633090. [Using triggers in cassandra](http://stackoverflow.com/questions/19633090) (1 upvotes)  
-19634047. [java.lang.OutOfMemoryError setBackgroundResource](http://stackoverflow.com/questions/19634047) (-1 upvotes)  
-19645118. [J2MEPolish cannot compile example application](http://stackoverflow.com/questions/19645118) (0 upvotes)  
-19650235. [Why it is refusing the connection for second time?](http://stackoverflow.com/questions/19650235) (0 upvotes)  
-19667447. [Which M2Eclipse](http://stackoverflow.com/questions/19667447) (0 upvotes)  
-19667663. [Eclipse @Deprecated yields syntax error](http://stackoverflow.com/questions/19667663) (1 upvotes)  
-19668899. [What is the difference between `removeQuery()` and `clearParameters()` in org.apache.http.client.utils.URIBuilder of HttpClient 4.3.1?](http://stackoverflow.com/questions/19668899) (2 upvotes)  
-19671093. [What is the replacement for the deprecated org.jboss.resteasy.spi exceptions?](http://stackoverflow.com/questions/19671093) (1 upvotes)  
-19681455. [Hadoop Streaming job vs regular jobs?](http://stackoverflow.com/questions/19681455) (-2 upvotes)  
-19692678. [Fresh Hibernate 4 documentation?](http://stackoverflow.com/questions/19692678) (2 upvotes)  
-19696613. [gettting JRE system library unbound error in build path](http://stackoverflow.com/questions/19696613) (0 upvotes)  
-19700129. [Communication between client-server using threads](http://stackoverflow.com/questions/19700129) (0 upvotes)  
-19701460. [Gps doesn't work on Android 4.2.2](http://stackoverflow.com/questions/19701460) (1 upvotes)  
-19717940. [Save Web Service variable into MuleSoft Message](http://stackoverflow.com/questions/19717940) (0 upvotes)  
-19722034. [mvn eclipse:eclipse failing after adding apache cxf dependencies](http://stackoverflow.com/questions/19722034) (0 upvotes)  
-19728018. [All fx builders are deprecated ... except a bunch in .adapter?](http://stackoverflow.com/questions/19728018) (6 upvotes)  
-19734421. [Modify graphics in a java program?](http://stackoverflow.com/questions/19734421) (1 upvotes)  
-19739132. [Custom Calendar with Dot Icon & List](http://stackoverflow.com/questions/19739132) (-2 upvotes)  
-19742408. [Are there any problems with JSP for a new greenfield project?](http://stackoverflow.com/questions/19742408) (0 upvotes)  
-19746360. [NullPointerException Error when using RPC](http://stackoverflow.com/questions/19746360) (0 upvotes)  
-19747559. [How do i find the root of: "threadid=4 reacting to signal 3"?](http://stackoverflow.com/questions/19747559) (0 upvotes)  
-19750936. [Fixing symbol cannot be found java on pl](http://stackoverflow.com/questions/19750936) (0 upvotes)  
-19756786. [Spring PageableArgumentResolver deprecated, how to use PageableHandlerMethodArgumentResolver?](http://stackoverflow.com/questions/19756786) (5 upvotes)  
-19757749. [Bukkit plugin syntax error : Syntax error, insert "}" to complete ClassBody](http://stackoverflow.com/questions/19757749) (0 upvotes)  
-19763311. [New Relic not collecting data from Play 2.2.1 Scala App](http://stackoverflow.com/questions/19763311) (4 upvotes)  
-19778725. [Go to previous activity in non-activity class](http://stackoverflow.com/questions/19778725) (0 upvotes)  
-19780523. [Hadoop java socketexception Invalid parameter](http://stackoverflow.com/questions/19780523) (1 upvotes)  
-19781277. [Mediaplayer only have sound but not image error(-38 , 0)](http://stackoverflow.com/questions/19781277) (0 upvotes)  
-19782403. [Resultset convertor in java](http://stackoverflow.com/questions/19782403) (0 upvotes)  
-19792066. [Setting time for calendar instance](http://stackoverflow.com/questions/19792066) (2 upvotes)  
-19797601. [Apache HTTP BasicScheme.authenticate deprecated?](http://stackoverflow.com/questions/19797601) (1 upvotes)  
-19797755. [Exception in thread "main" how to solve java.lang.ArrayIndexOutOfBoundsException: 0](http://stackoverflow.com/questions/19797755) (0 upvotes)  
-19800618. [Creating an FBO using LWJGL on an iMac running OSX 10.8.5](http://stackoverflow.com/questions/19800618) (0 upvotes)  
-19802698. [Launch android app from push notification](http://stackoverflow.com/questions/19802698) (0 upvotes)  
-19804233. [Android AutoFocusCallback is not being called or not returning](http://stackoverflow.com/questions/19804233) (3 upvotes)  
-19806806. [Swagger(-ui) doesn't show the operations](http://stackoverflow.com/questions/19806806) (1 upvotes)  
-19808203. [How to configure included protocols using Camel's JettyHttpComponent?](http://stackoverflow.com/questions/19808203) (1 upvotes)  
-19810996. [perform OnTouchListener and OnItemClickListener on GridView](http://stackoverflow.com/questions/19810996) (0 upvotes)  
-19812952. [Using an array of ElementType gives error in Target annotation](http://stackoverflow.com/questions/19812952) (0 upvotes)  
-19829398. [How to get First and Second Level List using JSON only](http://stackoverflow.com/questions/19829398) (0 upvotes)  
-19829404. [Microphone Streaming not clear](http://stackoverflow.com/questions/19829404) (0 upvotes)  
-19831196. [I need to specify to a deprecated test that is enabled = false?](http://stackoverflow.com/questions/19831196) (2 upvotes)  
-19832668. [Need to download a pdf and store in sd card in android](http://stackoverflow.com/questions/19832668) (0 upvotes)  
-19834801. [Issues with HttpClient 4.3.1 creating instance of HttpClient](http://stackoverflow.com/questions/19834801) (1 upvotes)  
-19835400. [Disposing a Thread in JDK 1.6+](http://stackoverflow.com/questions/19835400) (3 upvotes)  
-19835566. [setting the session timeout in shiro.ini file is giving warning](http://stackoverflow.com/questions/19835566) (0 upvotes)  
-19840391. [Camera Preview App in Android throwing many errors (Nexus 4)](http://stackoverflow.com/questions/19840391) (0 upvotes)  
-19843694. [Prevent user email delegation confirmation link](http://stackoverflow.com/questions/19843694) (0 upvotes)  
-19846654. [Errors performing numeric calculations on data from EditText](http://stackoverflow.com/questions/19846654) (0 upvotes)  
-19877782. [Alarmmanager fires many notifications](http://stackoverflow.com/questions/19877782) (0 upvotes)  
-19890023. [how scan part of rows in hbase from eclipse](http://stackoverflow.com/questions/19890023) (0 upvotes)  
-19891030. [Android mediarecorder stop called in an invalid state : 4](http://stackoverflow.com/questions/19891030) (0 upvotes)  
-19896772. [Jooq CustomTypes generating default type POJOs](http://stackoverflow.com/questions/19896772) (3 upvotes)  
-19901450. [Android date formating](http://stackoverflow.com/questions/19901450) (0 upvotes)  
-19923161. [How to tell a class is deprecated in Java1.5](http://stackoverflow.com/questions/19923161) (0 upvotes)  
-19927858. [Putting tabs in other activities](http://stackoverflow.com/questions/19927858) (1 upvotes)  
-19929478. [My content DOES have a TabHost whose id is 'tabhost'](http://stackoverflow.com/questions/19929478) (0 upvotes)  
-19931473. [hibernate logging in console when the jar is created through build xml](http://stackoverflow.com/questions/19931473) (0 upvotes)  
-19934174. [MediaRecorder : stop called in invalid state : 4](http://stackoverflow.com/questions/19934174) (0 upvotes)  
-19943608. [Java - play video from image sequence and audio track](http://stackoverflow.com/questions/19943608) (0 upvotes)  
-19945346. [Posting Predefined facebook wall does not work](http://stackoverflow.com/questions/19945346) (0 upvotes)  
-19954362. [Facebook SDK 3.5, someone who made it to work?](http://stackoverflow.com/questions/19954362) (1 upvotes)  
-19972250. [Trouble to send data packet to a servlet](http://stackoverflow.com/questions/19972250) (0 upvotes)  
-19981734. [Paypal REST api configuration woes on app engine](http://stackoverflow.com/questions/19981734) (1 upvotes)  
-19984037. [Install selected apk: why it doesn't work?](http://stackoverflow.com/questions/19984037) (0 upvotes)  
-19984905. [HTTP server GET command](http://stackoverflow.com/questions/19984905) (0 upvotes)  
-19998558. [How to deprecate a library in Eclipse/Maven/Nexus?](http://stackoverflow.com/questions/19998558) (2 upvotes)  
-19999396. [Uses or overrides a deprecated API](http://stackoverflow.com/questions/19999396) (0 upvotes)  
-20001310. [NullPointerException when setText to EditText - onDateSet](http://stackoverflow.com/questions/20001310) (0 upvotes)  
-20025007. [Android DatePicker is not appearing on DialogFragment](http://stackoverflow.com/questions/20025007) (0 upvotes)  
-20030158. [Android FacebookAPI - newMeRequest never returns to onCompleted](http://stackoverflow.com/questions/20030158) (1 upvotes)  
-20033593. [Maven not putting HTML properly to WAR](http://stackoverflow.com/questions/20033593) (0 upvotes)  
-20041466. [Decryption is not working using RSA](http://stackoverflow.com/questions/20041466) (-1 upvotes)  
-20055482. [Hadoop 2.2.0 Configuration deprecation](http://stackoverflow.com/questions/20055482) (3 upvotes)  
-20063020. [Oauth 2.0 Example Unable to start activity ComponentInfo - NullPointerException](http://stackoverflow.com/questions/20063020) (0 upvotes)  
-20064171. [AngularJs+Spring MVC 3.0. Page is not displaying because controller in spring work incorrect(](http://stackoverflow.com/questions/20064171) (0 upvotes)  
-20072946. [getView of Child Fragment returns null](http://stackoverflow.com/questions/20072946) (1 upvotes)  
-20093322. ["Android_camera application has stopped unexpectedly. Please try again." how to fix that?](http://stackoverflow.com/questions/20093322) (-2 upvotes)  
-20095640. [Cobertura issue with jdk1.7](http://stackoverflow.com/questions/20095640) (3 upvotes)  
-20100911. [Generating Javadoc from Eclipse created ant script](http://stackoverflow.com/questions/20100911) (0 upvotes)  
-20111930. [The constructor Time is deprecated](http://stackoverflow.com/questions/20111930) (0 upvotes)  
-20129731. [font tag HTMLWriter](http://stackoverflow.com/questions/20129731) (1 upvotes)  
-20131552. [Is it possible to replace fastvector in apriori with other method?](http://stackoverflow.com/questions/20131552) (0 upvotes)  
-20133999. [Ormlite 4.9 changed on create tables and create or update functions](http://stackoverflow.com/questions/20133999) (0 upvotes)  
-20140376. [Java Servlet API - How can I set the response status and reason phrase without commiting the response](http://stackoverflow.com/questions/20140376) (1 upvotes)  
-20142634. [Java class working as an application but not as an applet](http://stackoverflow.com/questions/20142634) (4 upvotes)  
-20144375. [Alternative to setCredentialStore method for google analytics](http://stackoverflow.com/questions/20144375) (1 upvotes)  
-20148259. [Set attributes of ServletContext in Spring 3.2 MVC configuration](http://stackoverflow.com/questions/20148259) (2 upvotes)  
-20153667. [R: rJava fails to install on Mac OSX 10.8.5 'lzma library missing' and 'libjri.jnilib make error'](http://stackoverflow.com/questions/20153667) (4 upvotes)  
-20157594. [How does one set Default HttpHost Target in Apache HttpClient 4.3+?](http://stackoverflow.com/questions/20157594) (1 upvotes)  
-20158764. [thread join in multithreaded server](http://stackoverflow.com/questions/20158764) (0 upvotes)  
-20160753. [java.lang.IllegalArgumentException: column '_id' does not exist - UploadActivity](http://stackoverflow.com/questions/20160753) (-1 upvotes)  
-20171893. [How to retrieve String array from Webservice and show in toast in android](http://stackoverflow.com/questions/20171893) (0 upvotes)  
-20173879. [Spring MVC - HTTP 405 - Request method 'GET' not supported loading static CSS File](http://stackoverflow.com/questions/20173879) (3 upvotes)  
-20176136. [Custom Drawable draw() method not being called (Android)](http://stackoverflow.com/questions/20176136) (1 upvotes)  
-20176679. [filewriting and reading in java always returns as null](http://stackoverflow.com/questions/20176679) (-1 upvotes)  
-20181516. [Solution for "UntypedActor" deprecated in Akka (Java) Tutorial](http://stackoverflow.com/questions/20181516) (3 upvotes)  
-20183635. [No mapping found for HTTP request with URI in DispatcherServlet](http://stackoverflow.com/questions/20183635) (0 upvotes)  
-20189243. [Java Android, attach guesture listener](http://stackoverflow.com/questions/20189243) (0 upvotes)  
-20193645. [Audio not clear while streaming between a java class and android activity](http://stackoverflow.com/questions/20193645) (5 upvotes)  
-20198820. [SQLite Android RunTimeError](http://stackoverflow.com/questions/20198820) (0 upvotes)  
-20212304. [Can't complile MySQL Connector/J with JDK1.7](http://stackoverflow.com/questions/20212304) (1 upvotes)  
-20214963. [Best practices for sharing data between android apps](http://stackoverflow.com/questions/20214963) (1 upvotes)  
-20218118. [DateTime from PHP to Java (Android): how to convert a string to a DateTime object?](http://stackoverflow.com/questions/20218118) (0 upvotes)  
-20231456. [Why are my VBOs slower than display lists?](http://stackoverflow.com/questions/20231456) (1 upvotes)  
-20235909. [Tomcat is not working in Eclipse](http://stackoverflow.com/questions/20235909) (0 upvotes)  
-20249072. [JDOM write content to an existing file without deleting](http://stackoverflow.com/questions/20249072) (0 upvotes)  
-20259962. [hibernate session.save(object) is not inserting a row in the database](http://stackoverflow.com/questions/20259962) (0 upvotes)  
-20262471. [Absent Code attribute in method that is not native or abstract in class file javax/validation/Validation](http://stackoverflow.com/questions/20262471) (1 upvotes)  
-20270277. [Value getting over ridden in DB](http://stackoverflow.com/questions/20270277) (2 upvotes)  
-20275968. [org.springframework.beans.factory.BeanCreationException Caused by : java.lang.NoSuchFieldError: NULL](http://stackoverflow.com/questions/20275968) (0 upvotes)  
-20285988. [how to compile the java file generated by cup](http://stackoverflow.com/questions/20285988) (0 upvotes)  
-20288542. [Android how to update an entire app (mapView, WebSettings ect....)](http://stackoverflow.com/questions/20288542) (0 upvotes)  
-20289156. [Threads stopping, suspending, and resuming](http://stackoverflow.com/questions/20289156) (2 upvotes)  
-20299291. [hints and tips for curing and preventing gephi instability?](http://stackoverflow.com/questions/20299291) (0 upvotes)  
-20313562. [How to authenticate with httpclient 4.3](http://stackoverflow.com/questions/20313562) (0 upvotes)  
-20317705. [Cannot bring data fro a URL using httpost request Android](http://stackoverflow.com/questions/20317705) (0 upvotes)  
-20325386. [Autowired dependency when passing data from Controller to Service layer](http://stackoverflow.com/questions/20325386) (1 upvotes)  
-20325943. [How to display only selected tab layout in Android created using TabHost](http://stackoverflow.com/questions/20325943) (0 upvotes)  
-20325975. [Java Apache HttClient : ThreadSafe or not?](http://stackoverflow.com/questions/20325975) (0 upvotes)  
-20357503. [LogService fetch -> OutOfMemoryError: Java heap space](http://stackoverflow.com/questions/20357503) (0 upvotes)  
-20359530. [Music Notation Recorder Debugging and Resolving (Java)](http://stackoverflow.com/questions/20359530) (0 upvotes)  
-20366777. [Possible redirect issue while trying to log in to website with HttpClient](http://stackoverflow.com/questions/20366777) (2 upvotes)  
-20367753. [Android database application runs fine on emulator but gives an error on the device](http://stackoverflow.com/questions/20367753) (0 upvotes)  
-20379720. [PDPageContentStream has no drawLine() method](http://stackoverflow.com/questions/20379720) (1 upvotes)  
-20387303. [Apache Nutch 1.7 on Hadopp 2.2](http://stackoverflow.com/questions/20387303) (0 upvotes)  
-20394267. [Can I call Multiple adapter classes in android ListView?](http://stackoverflow.com/questions/20394267) (1 upvotes)  
-20399690. [CentOS EPEL package for Tomcat looks incorrect](http://stackoverflow.com/questions/20399690) (0 upvotes)  
-20402007. [gwt listbox execute my handler](http://stackoverflow.com/questions/20402007) (0 upvotes)  
-20418528. [getting error "org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'homeController'"](http://stackoverflow.com/questions/20418528) (0 upvotes)  
-20426537. [GWT Compsite's initWidget not applicable for DivElement](http://stackoverflow.com/questions/20426537) (0 upvotes)  
-20427303. [Understanding GWT onModuleLoad](http://stackoverflow.com/questions/20427303) (0 upvotes)  
-20428810. [Unable to Instantiate Service - Java.NullPointerException](http://stackoverflow.com/questions/20428810) (0 upvotes)  
-20440869. [why can't we pass string in java constructor](http://stackoverflow.com/questions/20440869) (0 upvotes)  
-20441196. [Error when adding ActionListener to JButton](http://stackoverflow.com/questions/20441196) (-1 upvotes)  
-20443471. [Hibernate exception: can't prepare statement](http://stackoverflow.com/questions/20443471) (0 upvotes)  
-20445481. [Cant get AlarmManager and Multiple Notifications to work](http://stackoverflow.com/questions/20445481) (0 upvotes)  
-20449454. [How to make a button show other buttons and options.](http://stackoverflow.com/questions/20449454) (0 upvotes)  
-20449534. [Java Decompiler for Eclipse kepler](http://stackoverflow.com/questions/20449534) (2 upvotes)  
-20451000. [Apache Camel sends ActiveMQ messages to ActiveMQ.DLQ](http://stackoverflow.com/questions/20451000) (0 upvotes)  
-20464096. [Apache Tomcat 7 HTTP Connector node not found in intelliJ](http://stackoverflow.com/questions/20464096) (0 upvotes)  
-20471742. [Thread reset when resuming application](http://stackoverflow.com/questions/20471742) (0 upvotes)  
-20480268. [Object argument in prehandle method of spring Interceptor.. what does it hold?](http://stackoverflow.com/questions/20480268) (0 upvotes)  
-20487323. [getting current time in groovy/java](http://stackoverflow.com/questions/20487323) (0 upvotes)  
-20497968. [DistributedCache in Hadoop 2.x](http://stackoverflow.com/questions/20497968) (0 upvotes)  
-20503620. [Java gui and java threads](http://stackoverflow.com/questions/20503620) (0 upvotes)  
-20503622. [Audio Level Meter](http://stackoverflow.com/questions/20503622) (0 upvotes)  
-20515743. [Deprecated method in two interfaces](http://stackoverflow.com/questions/20515743) (3 upvotes)  
-20516989. [How to add a PdfPTable to the HTML string in a document at (x,y) location using iText?](http://stackoverflow.com/questions/20516989) (1 upvotes)  
-20520439. [Add Vertical and Horizontal Scrolling Programmatically to LinearLayout in Android](http://stackoverflow.com/questions/20520439) (1 upvotes)  
-20523225. [Will it be safe to use JDK8 in commercial products?](http://stackoverflow.com/questions/20523225) (5 upvotes)  
-20525257. [How can I manipulate/create a Google Document via API?](http://stackoverflow.com/questions/20525257) (0 upvotes)  
-20527178. [How to have Neo4j embedded in Java applications + web interface?](http://stackoverflow.com/questions/20527178) (0 upvotes)  
-20527893. [Java Thread.stop() vs Thread.interrupt()](http://stackoverflow.com/questions/20527893) (3 upvotes)  
-20532912. [Generating the CSR using BouncyCastle API](http://stackoverflow.com/questions/20532912) (3 upvotes)  
-20533664. [Hibernateutil re-connection issue - connections.spi.ConnectionProvider](http://stackoverflow.com/questions/20533664) (0 upvotes)  
-20545361. [Android:Runtime error](http://stackoverflow.com/questions/20545361) (0 upvotes)  
-20548363. [FATAL EXCEPTION: main - app crashes after a while](http://stackoverflow.com/questions/20548363) (0 upvotes)  
-20555701. [How to solve the readLine() deprecated warning in ChatClient.java?](http://stackoverflow.com/questions/20555701) (0 upvotes)  
-20569716. [What is the alternative to ClientResponse in Resteasy 3 and above?](http://stackoverflow.com/questions/20569716) (2 upvotes)  
-20577413. [Querying the metadata of Java's JDK documentation](http://stackoverflow.com/questions/20577413) (4 upvotes)  
-20586487. [Running simple application on hadoop](http://stackoverflow.com/questions/20586487) (1 upvotes)  
-20595628. [Relational databases - to delete or not to delete?](http://stackoverflow.com/questions/20595628) (1 upvotes)  
-20602621. [R-rmr2 PipeMapRed.waitOutputThreads(): subprocess failed with code 2](http://stackoverflow.com/questions/20602621) (3 upvotes)  
-20604360. [Send Image using Index Position](http://stackoverflow.com/questions/20604360) (0 upvotes)  
-20605352. [Android MapActivity googlemaps : Couldn't get connection factory client](http://stackoverflow.com/questions/20605352) (0 upvotes)  
-20608408. [How to custom an inherited Fragment class](http://stackoverflow.com/questions/20608408) (1 upvotes)  
-20619876. [Past notifications showing with current notifications](http://stackoverflow.com/questions/20619876) (0 upvotes)  
-20622285. [Auto complete issue in eclipse Android SDK](http://stackoverflow.com/questions/20622285) (2 upvotes)  
-20628122. [Could not call IncrementalTask.taskAction() on task ':Udecide:processDebugResources'](http://stackoverflow.com/questions/20628122) (3 upvotes)  
-20633589. [ANDROID: SQLite - ListView 2 Lines](http://stackoverflow.com/questions/20633589) (0 upvotes)  
-20638299. [RCP Start the product with Clear Workspace](http://stackoverflow.com/questions/20638299) (0 upvotes)  
-20642516. [Starting TabActivity from Activity class](http://stackoverflow.com/questions/20642516) (0 upvotes)  
-20648980. [FATAL EXCEPTION: main java.lang.NoClassDefFoundError: com.mtower.adha.ui.MapDetail](http://stackoverflow.com/questions/20648980) (0 upvotes)  
-20650824. [How to edit PDF Bookmarks using java?](http://stackoverflow.com/questions/20650824) (0 upvotes)  
-20651891. [no security manager: RMI class loader disabled](http://stackoverflow.com/questions/20651891) (0 upvotes)  
-20663756. [Getting a 406 for oxm jaxb2 spring service. Marshalling requestbody works, returning responsebody does not](http://stackoverflow.com/questions/20663756) (0 upvotes)  
-20666877. [setBackgroundDrawable give nullpointerexception in android](http://stackoverflow.com/questions/20666877) (0 upvotes)  
-20674135. [@deprecated vs @Deprecated](http://stackoverflow.com/questions/20674135) (7 upvotes)  
-20674370. [build error: An annotation processor threw an uncaught exception](http://stackoverflow.com/questions/20674370) (-2 upvotes)  
-20680670. [Java 7 - SSL how to trust all certificates](http://stackoverflow.com/questions/20680670) (2 upvotes)  
-20682969. [What replaced the method clone(Serializable)](http://stackoverflow.com/questions/20682969) (1 upvotes)  
-20684238. [Authorization to Google Client](http://stackoverflow.com/questions/20684238) (2 upvotes)  
-20685566. [TargetAuthenticationStrategy, change order of preference](http://stackoverflow.com/questions/20685566) (0 upvotes)  
-20693191. [Why does onResume() seem to be called twice?](http://stackoverflow.com/questions/20693191) (1 upvotes)  
-20695830. [how to call rmi interfaces using http client?](http://stackoverflow.com/questions/20695830) (0 upvotes)  
-20696299. [No error in REPL, it causes only when I run the app the normal way](http://stackoverflow.com/questions/20696299) (0 upvotes)  
-20696547. [Pinging a server says offline even if it's online?](http://stackoverflow.com/questions/20696547) (0 upvotes)  
-20701542. [an attempt was made to request new permissions for a session that has a pending request.Android](http://stackoverflow.com/questions/20701542) (1 upvotes)  
-20702302. [getRelativeLocation(ApplicationResource resource) method in vaadin7](http://stackoverflow.com/questions/20702302) (0 upvotes)  
-20703901. [Calculate x y of Point after increasing distance](http://stackoverflow.com/questions/20703901) (0 upvotes)  
-20712039. [Need to Set Default headers for all http requests](http://stackoverflow.com/questions/20712039) (1 upvotes)  
-20712782. [Why insist all implementations of an interface extend a base class?](http://stackoverflow.com/questions/20712782) (21 upvotes)  
-20713321. [httpClient.getConnectionManager() is deprecated - what should be used instead?](http://stackoverflow.com/questions/20713321) (3 upvotes)  
-20714489. [Java - JList , difficulties with getSelectedValues method](http://stackoverflow.com/questions/20714489) (0 upvotes)  
-20716909. [How do I replace Deprecated httpClient.getParams() with RequestConfig?](http://stackoverflow.com/questions/20716909) (1 upvotes)  
-20730836. [Gradle "setup" tasks (pre-build / compile / jar)](http://stackoverflow.com/questions/20730836) (0 upvotes)  
-20733741. [Not able to get a random int value from Random class](http://stackoverflow.com/questions/20733741) (-3 upvotes)  
-20738960. [How to update text-view with multiple datepickers](http://stackoverflow.com/questions/20738960) (0 upvotes)  
-20740703. [java.lang.ClassNotFoundException: org.springframework.boot.SpringApplication Maven](http://stackoverflow.com/questions/20740703) (3 upvotes)  
-20742015. [How to restrict user to set date based on other date from date picker in android](http://stackoverflow.com/questions/20742015) (0 upvotes)  
-20751552. [How and when do I call method to calculate android screen size](http://stackoverflow.com/questions/20751552) (0 upvotes)  
-20763460. [Thread : start, suspend, resume](http://stackoverflow.com/questions/20763460) (0 upvotes)  
-20769821. [LWJGL OpenGL glbegin and stuff deprecated](http://stackoverflow.com/questions/20769821) (0 upvotes)  
-20781120. [Why hadoop does not recognize my Map class?](http://stackoverflow.com/questions/20781120) (1 upvotes)  
-20789512. [Null Pointer Exception In Fragments Inflater](http://stackoverflow.com/questions/20789512) (0 upvotes)  
-20791299. [Google Maps Utils IconGenerator text styles and background](http://stackoverflow.com/questions/20791299) (2 upvotes)  
-20792528. [Hadoop Word Count MapReduce Tutorial Deprecated](http://stackoverflow.com/questions/20792528) (0 upvotes)  
-20795352. [Memory dumps when reading from server causes Android app to load too slowly](http://stackoverflow.com/questions/20795352) (1 upvotes)  
-20796970. [Date picker dialog is not working in fragment](http://stackoverflow.com/questions/20796970) (0 upvotes)  
-20799074. [Error creating bean with name 'entityManagerFactory](http://stackoverflow.com/questions/20799074) (2 upvotes)  
-20800234. [How to traverse graph using neo4j core traversal algo in neo4j v2.0](http://stackoverflow.com/questions/20800234) (0 upvotes)  
-20802627. [HTMLunit suppress errors: deprecated?](http://stackoverflow.com/questions/20802627) (-1 upvotes)  
-20812767. [How to correctly describe sessionFactory()?](http://stackoverflow.com/questions/20812767) (0 upvotes)  
-20817707. [why i am getting : java.lang.NullPointerException?](http://stackoverflow.com/questions/20817707) (1 upvotes)  
-20817980. [Java thread doesn't stop/interrupt](http://stackoverflow.com/questions/20817980) (1 upvotes)  
-20818237. [Websocket 1.0 WebSocketServlet replacement](http://stackoverflow.com/questions/20818237) (2 upvotes)  
-20818443. [app has unfortunately stoppped working after press a button](http://stackoverflow.com/questions/20818443) (0 upvotes)  
-20819869. [How to connect multiple database with reusing cfg.xml and util class?](http://stackoverflow.com/questions/20819869) (1 upvotes)  
-20821397. [Derby foreign key constraint](http://stackoverflow.com/questions/20821397) (1 upvotes)  
-20821649. [How to properly incorporate applets on HTML page?](http://stackoverflow.com/questions/20821649) (0 upvotes)  
-20824190. [Java.net.ConnectionException: Connection refused while building Ant](http://stackoverflow.com/questions/20824190) (0 upvotes)  
-20828709. [LWJGL & Slick, Textures always load half correct](http://stackoverflow.com/questions/20828709) (0 upvotes)  
-20829228. [shutdown hook vs finalizer method](http://stackoverflow.com/questions/20829228) (4 upvotes)  
-20831441. [Spring AOP: aspect is not executing in case of MethodConstraintViolationException](http://stackoverflow.com/questions/20831441) (0 upvotes)  
-20837739. [How to autostart application](http://stackoverflow.com/questions/20837739) (0 upvotes)  
-20840260. [How to make annotation deprecated only on one target](http://stackoverflow.com/questions/20840260) (5 upvotes)  
-20842720. [missing GWT examples from the backend](http://stackoverflow.com/questions/20842720) (0 upvotes)  
-20849174. [Intellij 13 EclipseLink Class [] not found Error](http://stackoverflow.com/questions/20849174) (0 upvotes)  
-20849513. [Unable to load servlet listener class](http://stackoverflow.com/questions/20849513) (0 upvotes)  
-20853350. [Why Idea cannot run JUnit tests when I add "selenium" dependencies](http://stackoverflow.com/questions/20853350) (0 upvotes)  
-20870369. [Hibernate 4.3.0.Final get session](http://stackoverflow.com/questions/20870369) (3 upvotes)  
-20871324. [Facebook integration not working in different devices](http://stackoverflow.com/questions/20871324) (0 upvotes)  
-20873323. [failed to compile OpenGTS , on windows8.1](http://stackoverflow.com/questions/20873323) (0 upvotes)  
-20882883. [Execution failed for task ':x:processDefaultFlavorDebugResources'](http://stackoverflow.com/questions/20882883) (0 upvotes)  
-20883704. [Class not found exception while running sqoop: org/apache/sqoop/Sqoop](http://stackoverflow.com/questions/20883704) (0 upvotes)  
-20886373. [spring hibernate maven project gets an nosuchmethod error InjectionMetadata](http://stackoverflow.com/questions/20886373) (0 upvotes)  
-20891666. [Google Analytics Android error java.lang.NullPointerException](http://stackoverflow.com/questions/20891666) (0 upvotes)  
-20897248. [Setting cookies in httpClient doing android development](http://stackoverflow.com/questions/20897248) (0 upvotes)  
-20899990. [Java: Clarification needed on API doc for Reference Objects](http://stackoverflow.com/questions/20899990) (3 upvotes)  
-20900882. [Posting on facebook wall with sdk 3.5 android error](http://stackoverflow.com/questions/20900882) (0 upvotes)  
-20908675. [stop an infinite loop within a thread](http://stackoverflow.com/questions/20908675) (-1 upvotes)  
-20909331. [Error while running hadoop map reduce java program on HDP 2.0](http://stackoverflow.com/questions/20909331) (0 upvotes)  
-20921355. [SqlLobValue and NegativeArraySizeException with DefaultLobHandler on Oracle 10g](http://stackoverflow.com/questions/20921355) (0 upvotes)  
-20938543. [Android: java.lang.RuntimeException: takePicture failed](http://stackoverflow.com/questions/20938543) (0 upvotes)  
-20940870. [Need some help or advice for my program. A "Desktop Lock program"](http://stackoverflow.com/questions/20940870) (0 upvotes)  
-20945215. [Integrating Existing Java Project with Groovy](http://stackoverflow.com/questions/20945215) (0 upvotes)  
-20946659. [Neo4j REST API Java binding Uniqueness deprecated](http://stackoverflow.com/questions/20946659) (3 upvotes)  
-20946815. [How can I get resource annotations in a Jersey 2.4 filter?](http://stackoverflow.com/questions/20946815) (0 upvotes)  
-20949383. [Allow the images to be able to update themselves after each capturing of images](http://stackoverflow.com/questions/20949383) (0 upvotes)  
-20953897. [BroadcastReceiver works only when application is opened](http://stackoverflow.com/questions/20953897) (0 upvotes)  
-20955512. [NoClassDefFound error when attempting to add an applet to my website](http://stackoverflow.com/questions/20955512) (0 upvotes)  
-20967421. [Can not complie Jar in Unix by changing Java Version number](http://stackoverflow.com/questions/20967421) (-2 upvotes)  
-20970123. [Sunspot Solr not starting with "You need a Java Runtime Environment to run the Solr server"](http://stackoverflow.com/questions/20970123) (0 upvotes)  
-20981387. [NoSuchMethodError:registerAutoProxyCreatorIfNecessary(ParserContext;Object;) exception with Spring config](http://stackoverflow.com/questions/20981387) (2 upvotes)  
-20982077. [ListView Search Filter leaves unwelcome data](http://stackoverflow.com/questions/20982077) (0 upvotes)  
-20986528. [Gradle build - non java project](http://stackoverflow.com/questions/20986528) (0 upvotes)  
-20994382. [IntelliJ works well with lombok, sbt doesn't](http://stackoverflow.com/questions/20994382) (1 upvotes)  
-20995368. [How to pass username and password at the time of handshaking to authenticate use in websocket?](http://stackoverflow.com/questions/20995368) (1 upvotes)  
-20999849. [DBCP: removeAbandoned is deprecated](http://stackoverflow.com/questions/20999849) (0 upvotes)  
-21002996. [If something is deprecated, can I still use it?](http://stackoverflow.com/questions/21002996) (0 upvotes)  
-21008617. [Java - error when submitting app to Mac Store (deprecated API usage)](http://stackoverflow.com/questions/21008617) (2 upvotes)  
-21011143. [HttpPost image in Android](http://stackoverflow.com/questions/21011143) (-1 upvotes)  
-21015785. [Proguard Setup in a maven Project VS a normal project](http://stackoverflow.com/questions/21015785) (0 upvotes)  
-21023966. [Using Spring Java Config to register Apache Camel dataFormats](http://stackoverflow.com/questions/21023966) (0 upvotes)  
-21024562. [Jackson JsonSchema generating schema incorrectly](http://stackoverflow.com/questions/21024562) (0 upvotes)  
-21026223. [How to modify PathMatch in Spring 3.2.x?](http://stackoverflow.com/questions/21026223) (1 upvotes)  
-21026963. [How to create large binary columns in hibernate (both SqlServer AND Oracle)](http://stackoverflow.com/questions/21026963) (0 upvotes)  
-21031287. [TextArea is overflowing bounds assigned to it as well as the center of the Borderlayout and covering the entire window](http://stackoverflow.com/questions/21031287) (1 upvotes)  
-21034059. [DataOutputStream.write(int b) doesn't write](http://stackoverflow.com/questions/21034059) (0 upvotes)  
-21038173. [Plusclient.connect() in android application is not working](http://stackoverflow.com/questions/21038173) (0 upvotes)  
-21044451. [Getting zip size error while executing ant to create jar](http://stackoverflow.com/questions/21044451) (0 upvotes)  
-21051401. [Checkbox Preference problems](http://stackoverflow.com/questions/21051401) (0 upvotes)  
-21057358. [YouTube Data API: OAuth Authentication for services using V3 without user intervention](http://stackoverflow.com/questions/21057358) (0 upvotes)  
-21057881. [Save File as Mp3 on Sd card { Android app}](http://stackoverflow.com/questions/21057881) (0 upvotes)  
-21060758. [How to pause running thread and restart same thread when needed?](http://stackoverflow.com/questions/21060758) (0 upvotes)  
-21064097. [Modify Code to Download File to Music Directory {Android}](http://stackoverflow.com/questions/21064097) (0 upvotes)  
-21070604. [can't get the screen width and height values ​​in another class](http://stackoverflow.com/questions/21070604) (0 upvotes)  
-21072889. [Handling a POST request in Play Framework 2.2.x with Java?](http://stackoverflow.com/questions/21072889) (0 upvotes)  
-21080710. [Audio Stream error in java while trying to play a .wav file](http://stackoverflow.com/questions/21080710) (0 upvotes)  
-21086143. [extract images from pdf using pdfbox 1.83](http://stackoverflow.com/questions/21086143) (0 upvotes)  
-21086307. [what are the legacy classes in Java?](http://stackoverflow.com/questions/21086307) (2 upvotes)  
-21089676. [Can I make custom Karaf commands that also work in the 'regular' gogo shell?](http://stackoverflow.com/questions/21089676) (0 upvotes)  
-21099347. [Implementing efficient 512 bit integer type](http://stackoverflow.com/questions/21099347) (1 upvotes)  
-21100153. [File download in struts 2](http://stackoverflow.com/questions/21100153) (3 upvotes)  
-21106671. [Alternatives for ClientExecutor and ProxyFactory](http://stackoverflow.com/questions/21106671) (1 upvotes)  
-21113979. [StandardServiceRegistryBuilder not working](http://stackoverflow.com/questions/21113979) (3 upvotes)  
-21121765. [Business Objects Java](http://stackoverflow.com/questions/21121765) (0 upvotes)  
-21132665. [How can my Search Engine connect to browser?](http://stackoverflow.com/questions/21132665) (0 upvotes)  
-21134303. [LogManager Exception in JBOSS AS 7.1 with java.util.Logger](http://stackoverflow.com/questions/21134303) (1 upvotes)  
-21138911. [Password Reset Enforcing Directory Policies with UnboundID](http://stackoverflow.com/questions/21138911) (1 upvotes)  
-21141968. [Can I instantiate a named stateless bean?](http://stackoverflow.com/questions/21141968) (1 upvotes)  
-21147527. [Is this class deprecated, or just the constructors. How does that work](http://stackoverflow.com/questions/21147527) (-4 upvotes)  
-21149572. [Converting multi-argument matches() from EasyMock 1 ArgumentsMatcher to EasyMock 2/3 IArgumentMatcher](http://stackoverflow.com/questions/21149572) (0 upvotes)  
-21150240. [mapping an image larger than the screen](http://stackoverflow.com/questions/21150240) (0 upvotes)  
-21157637. [How to validate a TimeStampToken using a .cer file from filesystem?](http://stackoverflow.com/questions/21157637) (1 upvotes)  
-21169413. [Flex AMF Data/Services Error](http://stackoverflow.com/questions/21169413) (0 upvotes)  
-21171342. [ListView items NOT clickable](http://stackoverflow.com/questions/21171342) (0 upvotes)  
-21176063. [Sqoop and Java 7](http://stackoverflow.com/questions/21176063) (0 upvotes)  
-21181411. [RESTEasy InMemoryClient throws NPE with @FormParam](http://stackoverflow.com/questions/21181411) (0 upvotes)  
-21189568. [Is there a less verbose way to retrieve non deprecated enum values?](http://stackoverflow.com/questions/21189568) (2 upvotes)  
-21189587. [The import com.facebook.android.AsyncFacebookRunner cannot be resolved](http://stackoverflow.com/questions/21189587) (0 upvotes)  
-21189981. [iText mergeFields in PdfCopy creates invalid pdf](http://stackoverflow.com/questions/21189981) (0 upvotes)  
-21196066. [Importing Eclipse project to Android Studio: Google Maps API](http://stackoverflow.com/questions/21196066) (0 upvotes)  
-21204724. [What is qualified name of class in default package? How to import default package?](http://stackoverflow.com/questions/21204724) (0 upvotes)  
-21211138. [Android Service to Activity workflow](http://stackoverflow.com/questions/21211138) (0 upvotes)  
-21217557. [How can I refresh the lazylist?](http://stackoverflow.com/questions/21217557) (0 upvotes)  
-21225540. [Exact steps to kill Hadoop 2.2.0 Configuration deprecation info messages](http://stackoverflow.com/questions/21225540) (3 upvotes)  
-21226682. [Camera Preview does not appear full screen(displayed in a box)](http://stackoverflow.com/questions/21226682) (2 upvotes)  
-21232871. [Java Neo4j Deletion and Internal 500 Errors](http://stackoverflow.com/questions/21232871) (0 upvotes)  
-21234295. [Struts 2.3 form with multiple submit tags with action attribute doesn't work](http://stackoverflow.com/questions/21234295) (1 upvotes)  
-21239480. [XML-24500: (Error) Can not build schema ... located at '...spring-beans-3.1.xsd'](http://stackoverflow.com/questions/21239480) (0 upvotes)  
-21242051. [Long click removing from arrayList](http://stackoverflow.com/questions/21242051) (0 upvotes)  
-21252475. [Annotation parameter: explicit vs. implicit String array](http://stackoverflow.com/questions/21252475) (-1 upvotes)  
-21261616. [UBUNTU 13.04 GNOME_DESKTOP_SESSION_ID](http://stackoverflow.com/questions/21261616) (0 upvotes)  
-21270631. [Calendar V3 Android Sample Not Building](http://stackoverflow.com/questions/21270631) (0 upvotes)  
-21276134. [Jar file for MapReduce new API Job.getInstance(Configuration, String)](http://stackoverflow.com/questions/21276134) (0 upvotes)  
-21279086. [When to use AWT along with Swing and when not?](http://stackoverflow.com/questions/21279086) (0 upvotes)  
-21279503. [After running an Eclipse SWT application it shows many exceptions](http://stackoverflow.com/questions/21279503) (2 upvotes)  
-21281131. [Invalid command do javaw in Eclipse?](http://stackoverflow.com/questions/21281131) (1 upvotes)  
-21286466. [javac can't read file with .jars inside](http://stackoverflow.com/questions/21286466) (0 upvotes)  
-21288678. [Neo4j which Traversal should one use?](http://stackoverflow.com/questions/21288678) (5 upvotes)  
-21296990. [ALT + Key is not working in Java 5 swing after an internal frame is closed](http://stackoverflow.com/questions/21296990) (1 upvotes)  
-21312474. [Usage of @deprecated with parameter type change in method definition](http://stackoverflow.com/questions/21312474) (0 upvotes)  
-21317792. [Receiver throws IllegalArgument exception](http://stackoverflow.com/questions/21317792) (0 upvotes)  
-21320099. [How are bootstrap methods registered to the constant pool in Java?](http://stackoverflow.com/questions/21320099) (0 upvotes)  
-21330100. [Unable to start activity... java.lang.NullPointerException](http://stackoverflow.com/questions/21330100) (0 upvotes)  
-21332090. [How to make a schedule based on setting for backup of contacts](http://stackoverflow.com/questions/21332090) (0 upvotes)  
-21333390. [while scrolling, ListView Listview item changes the position.Why?](http://stackoverflow.com/questions/21333390) (0 upvotes)  
-21344825. [DBHelper.getReadableDatabase().query() parameters](http://stackoverflow.com/questions/21344825) (0 upvotes)  
-21352440. [Java Beginner: Program not compiling; getting error message](http://stackoverflow.com/questions/21352440) (0 upvotes)  
-21352771. [How to suspend a thread without control over the loop in run method](http://stackoverflow.com/questions/21352771) (0 upvotes)  
-21352851. [I have made 2 android app. with Timepickers, I have written same code but one is working, the other is not](http://stackoverflow.com/questions/21352851) (-1 upvotes)  
-21358531. [How to use custom Text-To-Speech](http://stackoverflow.com/questions/21358531) (-3 upvotes)  
-21358791. [I can't run a JFrame due to compiler errors & warnings](http://stackoverflow.com/questions/21358791) (0 upvotes)  
-21361737. [API for connecting to Quickboooks Desktop in v3](http://stackoverflow.com/questions/21361737) (0 upvotes)  
-21369619. [Spring\AspectJ error](http://stackoverflow.com/questions/21369619) (1 upvotes)  
-21372464. [Facebook Session.openActiveSession(this, true, new Session.StatusCallback() not working](http://stackoverflow.com/questions/21372464) (1 upvotes)  
-21402088. [missing artifact springframework:spring-jdbc:jar:3.1.1.RELEASE](http://stackoverflow.com/questions/21402088) (0 upvotes)  
-21404707. [Linkage Error in maven project](http://stackoverflow.com/questions/21404707) (0 upvotes)  
-21405426. [Eclipse “Open Call Hierarchy” across the whole working set/workspace](http://stackoverflow.com/questions/21405426) (1 upvotes)  
-21407873. [replace handleEvent(Event e) by processEvent(AWTEvent e)](http://stackoverflow.com/questions/21407873) (0 upvotes)  
-21416617. [save .class name in a listview through sharedpreferences](http://stackoverflow.com/questions/21416617) (-2 upvotes)  
-21416815. [Hibernate Custom Validator - addPropertyNode() Abstract Method Exception](http://stackoverflow.com/questions/21416815) (1 upvotes)  
-21419963. [How can I make Apache Camel Routes faster?](http://stackoverflow.com/questions/21419963) (1 upvotes)  
-21422176. [How to view listview items on home screen widget?](http://stackoverflow.com/questions/21422176) (0 upvotes)  
-21427859. [IMAP List extension JAVA](http://stackoverflow.com/questions/21427859) (2 upvotes)  
-21429991. [NumberFormatException in Android app](http://stackoverflow.com/questions/21429991) (0 upvotes)  
-21445303. [java thread pause, end gracefully and abort](http://stackoverflow.com/questions/21445303) (0 upvotes)  
-21452885. [FilenotFound exception in android while sending file to server](http://stackoverflow.com/questions/21452885) (0 upvotes)  
-21459255. [Spring 4 Migration -ClassCastException : cannot be cast to org.springframework.web.method.HandlerMethod?](http://stackoverflow.com/questions/21459255) (0 upvotes)  
-21467318. [Restrict ondraglistener imageview to x axis android](http://stackoverflow.com/questions/21467318) (0 upvotes)  
-21474942. [tomcat 7 + jersey + hibernate 4.5.1 - NameNotFoundException - tried everything](http://stackoverflow.com/questions/21474942) (1 upvotes)  
-21479266. [Remote debugging in eclipse issue](http://stackoverflow.com/questions/21479266) (0 upvotes)  
-21479566. [Gradle with java 8 for retrolambda - Android cant find annotations TargetApi](http://stackoverflow.com/questions/21479566) (3 upvotes)  
-21484080. [It is recommendable to use AuthSubUtil authentication in GAE?](http://stackoverflow.com/questions/21484080) (0 upvotes)  
-21484837. [Windows services authentication using Kerberos from Java program on linux](http://stackoverflow.com/questions/21484837) (0 upvotes)  
-21485817. [URLEncoder troubles](http://stackoverflow.com/questions/21485817) (0 upvotes)  
-21494634. [Send/Receive SMS in Android apps (as default SMS app)](http://stackoverflow.com/questions/21494634) (1 upvotes)  
-21497863. [Android - Error Thread and a button still clickable](http://stackoverflow.com/questions/21497863) (0 upvotes)  
-21500807. [Android - False when make thread](http://stackoverflow.com/questions/21500807) (0 upvotes)  
-21507348. [Can't see output of GUI after process complete and ran](http://stackoverflow.com/questions/21507348) (3 upvotes)  
-21507691. [How to solve this error in Android? java.net.MalformedURLException: Protocol not found:](http://stackoverflow.com/questions/21507691) (0 upvotes)  
-21509944. [fail accessing constructor public CameraPreview(Context fragment, Camera camera, PreviewCallback previewCb, AutoFocusCallback autoFocusCb) in fragment](http://stackoverflow.com/questions/21509944) (0 upvotes)  
-21511282. [How to change a particular package import reference in every class in a project](http://stackoverflow.com/questions/21511282) (0 upvotes)  
-21513384. [Could not resolve dependencies for project](http://stackoverflow.com/questions/21513384) (0 upvotes)  
-21516965. [on item click in array of string](http://stackoverflow.com/questions/21516965) (0 upvotes)  
-21517364. [Gradle test task doesn't produced any output files](http://stackoverflow.com/questions/21517364) (1 upvotes)  
-21531019. [Hibernate Session Is Closed - help creating method](http://stackoverflow.com/questions/21531019) (0 upvotes)  
-21534518. [Android SimpleCursorAdapter Logcat Error Message](http://stackoverflow.com/questions/21534518) (0 upvotes)  
-21535753. [Webview JavaScript loads inconsistantly](http://stackoverflow.com/questions/21535753) (0 upvotes)  
-21538035. [RPC/Document Encoded real examples](http://stackoverflow.com/questions/21538035) (1 upvotes)  
-21540645. [addView() Framelayout in fragment](http://stackoverflow.com/questions/21540645) (0 upvotes)  
-21547637. [Alternatives to Spring's deprecated ExpressionEvaluationUtils evaluate methods?](http://stackoverflow.com/questions/21547637) (4 upvotes)  
-21547757. [Android - Error says The type new DialogInterface.OnClickListener(){} must implement the inherited](http://stackoverflow.com/questions/21547757) (-5 upvotes)  
-21550289. [Hadoop 2.2.0 on Windows: Job is Successful but just outputs the input file](http://stackoverflow.com/questions/21550289) (1 upvotes)  
-21554772. [NullPointerException Logcat Error Android](http://stackoverflow.com/questions/21554772) (0 upvotes)  
-21555178. [Comunicate two differents projects with same service](http://stackoverflow.com/questions/21555178) (1 upvotes)  
-21561879. [Program stop working when try to read input stream](http://stackoverflow.com/questions/21561879) (-1 upvotes)  
-21569507. [How to build camera app to match vary size of device?](http://stackoverflow.com/questions/21569507) (0 upvotes)  
-21570476. [ApacheConnectorProvider : Jersey Client 2.5.1](http://stackoverflow.com/questions/21570476) (0 upvotes)  
-21587202. [Symbol not found when linking library](http://stackoverflow.com/questions/21587202) (0 upvotes)  
-21591778. [How to stop audio capture](http://stackoverflow.com/questions/21591778) (0 upvotes)  
-21593641. [JPA, HIBERNATE strange error](http://stackoverflow.com/questions/21593641) (1 upvotes)  
-21595642. [Compile failed when running a lucene example](http://stackoverflow.com/questions/21595642) (0 upvotes)  
-21597550. [GoogleApps java client information](http://stackoverflow.com/questions/21597550) (1 upvotes)  
-21621492. [Facebook Integration in new Android facebook sdk 3.5](http://stackoverflow.com/questions/21621492) (0 upvotes)  
-21624207. [rackspace cloudfiles throws ContainerNotFoundException after migration from jclouds 1.5 to 1.7](http://stackoverflow.com/questions/21624207) (2 upvotes)  
-21635210. [How can I tell Camel to only copy a file if the Last Modified date is past a certain time?](http://stackoverflow.com/questions/21635210) (0 upvotes)  
-21645431. [what are the replacement for hadoop Job deprecated class](http://stackoverflow.com/questions/21645431) (0 upvotes)  
-21645516. [program using hibernate does not terminate](http://stackoverflow.com/questions/21645516) (2 upvotes)  
-21649835. [JDialog return value?](http://stackoverflow.com/questions/21649835) (0 upvotes)  
-21653895. [JTables and MYSQL personal program](http://stackoverflow.com/questions/21653895) (-1 upvotes)  
-21657919. [Java.lang.Runtime exception: Take Picture failed?](http://stackoverflow.com/questions/21657919) (5 upvotes)  
-21660552. [spring mvc hibernate - configuration](http://stackoverflow.com/questions/21660552) (0 upvotes)  
-21662069. [Issues with aligning shapes on a canvas with each other, and work on multiple devices](http://stackoverflow.com/questions/21662069) (0 upvotes)  
-21665544. [Map Reduce code for calculating the rate of decline](http://stackoverflow.com/questions/21665544) (0 upvotes)  
-21673618. [package org.apache.commons.io does not exist error](http://stackoverflow.com/questions/21673618) (1 upvotes)  
-21693139. [Encountered a deprecated javax.persistence.spi.PersistenceProvider](http://stackoverflow.com/questions/21693139) (8 upvotes)  
-21704034. [Cant configure my desktop application to Google Calendar API](http://stackoverflow.com/questions/21704034) (0 upvotes)  
-21706103. [Action Button and if statment](http://stackoverflow.com/questions/21706103) (-3 upvotes)  
-21706415. [Jackson ObjectMapper using custom Serializers and Deserializers](http://stackoverflow.com/questions/21706415) (5 upvotes)  
-21717130. [Is the ProxyFactory replacement in RESTEasy thread safe?](http://stackoverflow.com/questions/21717130) (2 upvotes)  
-21718467. [JPA eclipselink: Error while commit: Transaction rolled back because transaction was set to RollbackOnly](http://stackoverflow.com/questions/21718467) (1 upvotes)  
-21730010. [org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/mmasgis]]](http://stackoverflow.com/questions/21730010) (1 upvotes)  
-21739696. [Jersey test client does not consume JSON body](http://stackoverflow.com/questions/21739696) (0 upvotes)  
-21752839. [How to find Deprecated Alternatives in Eclipse?](http://stackoverflow.com/questions/21752839) (0 upvotes)  
-21753604. [Sending XML http requests in java](http://stackoverflow.com/questions/21753604) (-1 upvotes)  
-21754078. [DataInputStream readLine() deprecated](http://stackoverflow.com/questions/21754078) (0 upvotes)  
-21757285. [I'm using SpringMVC for a web app and i'm using sessionFactory for Hibernate. Following is the pom.xml that i am using](http://stackoverflow.com/questions/21757285) (0 upvotes)  
-21757825. [Ant javac source directory not working](http://stackoverflow.com/questions/21757825) (0 upvotes)  
-21763700. [How to set HTTP header in RESTEasy 3.0 client framework (with ResteasyClientBuilder and ResteasyWebTarget)?](http://stackoverflow.com/questions/21763700) (0 upvotes)  
-21771952. [New GCM Implementation Running On Emulater having Issues](http://stackoverflow.com/questions/21771952) (3 upvotes)  
-21778671. [Cassandra: How to insert a new wide row with good performance using CQL](http://stackoverflow.com/questions/21778671) (1 upvotes)  
-21780525. [How do I use this new listener](http://stackoverflow.com/questions/21780525) (1 upvotes)  
-21793130. [Java Sorting Project Help: Comparator Interface, Sorting Algorithms, and importing csv files](http://stackoverflow.com/questions/21793130) (0 upvotes)  
-21795061. [404 not found with jersey 1.8 and tomcat 7 Resful and eclipse](http://stackoverflow.com/questions/21795061) (0 upvotes)  
-21795457. [PostgreSQL database doesn't connect](http://stackoverflow.com/questions/21795457) (1 upvotes)  
-21796954. [What API do I require to use this method in Java?](http://stackoverflow.com/questions/21796954) (2 upvotes)  
-21803513. [Facebook SDK for Android null pointer exception](http://stackoverflow.com/questions/21803513) (0 upvotes)  
-21804023. [How to set date from user inputs in android?](http://stackoverflow.com/questions/21804023) (0 upvotes)  
-21808727. [Jacob Export Outlook Contact Pictures (Java, Jacob)](http://stackoverflow.com/questions/21808727) (0 upvotes)  
-21811310. [How to add cast to camera in android](http://stackoverflow.com/questions/21811310) (0 upvotes)  
-21814486. [new to android - what technology should be used to access web service?](http://stackoverflow.com/questions/21814486) (0 upvotes)  
-21815478. [Which JFreeChart is the easiest to use for representing simple line and bar charts](http://stackoverflow.com/questions/21815478) (1 upvotes)  
-21816877. [Removing last row of JTable](http://stackoverflow.com/questions/21816877) (0 upvotes)  
-21817581. [Why is MODE_WORLD_READABLE crossed out?](http://stackoverflow.com/questions/21817581) (1 upvotes)  
-21817676. [Android achartengine illegalArgumentException but I don't know why](http://stackoverflow.com/questions/21817676) (1 upvotes)  
-21818242. [With HttpClient 4.3.x, executing a HttpHead for a specific URL gives NoHttpResponseException](http://stackoverflow.com/questions/21818242) (2 upvotes)  
-21823397. [How to connect a prolog based Expert System to Java](http://stackoverflow.com/questions/21823397) (1 upvotes)  
-21833615. [To read the contents of an excel and use the values in my Robotium test case](http://stackoverflow.com/questions/21833615) (2 upvotes)  
-21836894. [java compiler warning: readStrings() in In (deprecated)](http://stackoverflow.com/questions/21836894) (0 upvotes)  
-21837777. [org.w3c.dom.ls.LSSerialize - setting text wrapping, indentation size](http://stackoverflow.com/questions/21837777) (1 upvotes)  
-21852759. [Class Casting error when I pass the listener to async task](http://stackoverflow.com/questions/21852759) (0 upvotes)  
-21855067. [Error when launching activity](http://stackoverflow.com/questions/21855067) (0 upvotes)  
-21859981. [Java Date that refreshes](http://stackoverflow.com/questions/21859981) (1 upvotes)  
-21861542. [Jackson JSON Mapping "NoClassDefFoundError: JsonPropertyDescription"](http://stackoverflow.com/questions/21861542) (0 upvotes)  
-21861844. [SetText of TextView via properties reader](http://stackoverflow.com/questions/21861844) (0 upvotes)  
-21864259. [Date with Timer keeps repeating](http://stackoverflow.com/questions/21864259) (0 upvotes)  
-21867295. [Is guava binary compatible with previous versions?](http://stackoverflow.com/questions/21867295) (5 upvotes)  
-21872804. [UnsatisfiedLinkError (Native method not found)](http://stackoverflow.com/questions/21872804) (11 upvotes)  
-21879426. [Why int primitive type not deprectaed in Java](http://stackoverflow.com/questions/21879426) (2 upvotes)  
-21880379. [How to find which class or method contain specific annotation?](http://stackoverflow.com/questions/21880379) (0 upvotes)  
-21887482. [br.readline() gets stuck while br.read() works](http://stackoverflow.com/questions/21887482) (0 upvotes)  
-21888674. [Apply fading edges to ImageView](http://stackoverflow.com/questions/21888674) (0 upvotes)  
-21893813. [Getting crash on android](http://stackoverflow.com/questions/21893813) (1 upvotes)  
-21898029. [Why is the date not showing up when I launch android?](http://stackoverflow.com/questions/21898029) (3 upvotes)  
-21911801. [SQLite Application Crashes during launch](http://stackoverflow.com/questions/21911801) (-1 upvotes)  
-21911930. [How to store HashMap<Enum,String> in single row where each key of map is 1 to 1 to column name in row of this?](http://stackoverflow.com/questions/21911930) (0 upvotes)  
-21915667. [Connect to Deprecated Sybase Database](http://stackoverflow.com/questions/21915667) (0 upvotes)  
-21920305. [Java: What is the idiomatic way to extract month and year from Date](http://stackoverflow.com/questions/21920305) (-3 upvotes)  
-21929032. [Zxing Maven Compile Error](http://stackoverflow.com/questions/21929032) (0 upvotes)  
-21930554. [Resteasy Ajax POST call](http://stackoverflow.com/questions/21930554) (0 upvotes)  
-21932640. [Routing fails in spring vmware vFabric](http://stackoverflow.com/questions/21932640) (1 upvotes)  
-21936750. [Make JFreeChart CategoryPlot look like Flot.js bar chart](http://stackoverflow.com/questions/21936750) (2 upvotes)  
-21940049. [How to integrate a license to its Android application?](http://stackoverflow.com/questions/21940049) (0 upvotes)  
-21941278. [JSF2 javax.el.PropertyNotFoundException property not found on type](http://stackoverflow.com/questions/21941278) (1 upvotes)  
-21942764. [scala and spring data neo4j - No FieldAccessor configured for field](http://stackoverflow.com/questions/21942764) (0 upvotes)  
-21946936. [How to add to top of list and if same just one time through database?](http://stackoverflow.com/questions/21946936) (-1 upvotes)  
-21947744. [Custom Camera not working in anyway](http://stackoverflow.com/questions/21947744) (0 upvotes)  
-21951770. [How do i set the Explosion Power in a config?](http://stackoverflow.com/questions/21951770) (1 upvotes)  
-21955704. [Hadoop on Ubuntu 12.04.4 and mkdir: org.apache.hadoop.security.AccessControlException: Permission denied](http://stackoverflow.com/questions/21955704) (0 upvotes)  
-21959705. [Why i capture more than one time but the app pick only first picture to process](http://stackoverflow.com/questions/21959705) (0 upvotes)  
-21962874. [Java Eclipse : Hibernate Configuration to AnnotationConfiguration does not work and gives the runtime error](http://stackoverflow.com/questions/21962874) (0 upvotes)  
-21969861. [Configure a postgresql database in apache tomcat7](http://stackoverflow.com/questions/21969861) (0 upvotes)  
-21974469. [Setting default post text for Facebook Share (Android)](http://stackoverflow.com/questions/21974469) (0 upvotes)  
-21984525. [Scala + Eclipse + Casbah = object mongodb is not a member of package com](http://stackoverflow.com/questions/21984525) (0 upvotes)  
-21988836. [Working with the Slide in menu](http://stackoverflow.com/questions/21988836) (0 upvotes)  
-21997208. [android unable to start receiver java.lang.NullPointerException](http://stackoverflow.com/questions/21997208) (-1 upvotes)  
-22000046. [How to generate a distributable library jar only with public functions and members?](http://stackoverflow.com/questions/22000046) (1 upvotes)  
-22001966. [Compile java using multiple flags from command line or netbeans](http://stackoverflow.com/questions/22001966) (0 upvotes)  
-22003332. [custom theme You must use Theme.Sherlock, Theme.Sherlock.Light, Theme.Sherlock.Light.DarkActionBar, or a derivative](http://stackoverflow.com/questions/22003332) (0 upvotes)  
-22012233. [JPA Entitymanagerfactory takes 3-4 seconds too long for Homepage, J2EE](http://stackoverflow.com/questions/22012233) (0 upvotes)  
-22012919. [How to call a class which extends service using alarm manager?](http://stackoverflow.com/questions/22012919) (0 upvotes)  
-22022753. [Guidance with implementation of TreeSet's get method. (Homework)](http://stackoverflow.com/questions/22022753) (0 upvotes)  
-22023234. [delete an item from listview from another activity through database](http://stackoverflow.com/questions/22023234) (1 upvotes)  
-22024489. [Maven sees dependent project jar from Eclipse but not from the command line](http://stackoverflow.com/questions/22024489) (0 upvotes)  
-22024919. [Using the new api and tool interface in hadoop(2.2.0)](http://stackoverflow.com/questions/22024919) (1 upvotes)  
-22026612. [java JUnit Duplicate table mapping, Exception](http://stackoverflow.com/questions/22026612) (0 upvotes)  
-22029629. [lines are wrapping down during java build](http://stackoverflow.com/questions/22029629) (0 upvotes)  
-22029734. [Access not configured youtube api v3 android](http://stackoverflow.com/questions/22029734) (0 upvotes)  
-22036487. [How can i use Services in an application that need to connect to a server?](http://stackoverflow.com/questions/22036487) (0 upvotes)  
-22038957. [HttpClient.getParams() deprecated. What should I use instead?](http://stackoverflow.com/questions/22038957) (3 upvotes)  
-22040541. [Try to create BLOB from HttpServletRequest Body](http://stackoverflow.com/questions/22040541) (0 upvotes)  
-22043223. [Use apache httpclient 4.3.2 and httpclient 4.1.2 at the same time](http://stackoverflow.com/questions/22043223) (0 upvotes)  
-22046456. [Axis2 Rampart : Change UsernameToken ID](http://stackoverflow.com/questions/22046456) (0 upvotes)  
-22052008. [JavaCV on Android with ARMv6](http://stackoverflow.com/questions/22052008) (0 upvotes)  
-22055864. [how can i change visibility of menuitem from another activity?](http://stackoverflow.com/questions/22055864) (-1 upvotes)  
-22061692. [How to make scattered plot with smooth lines(curve) using JFreeChart](http://stackoverflow.com/questions/22061692) (0 upvotes)  
-22068334. [How to uplode the image when recording is start?](http://stackoverflow.com/questions/22068334) (0 upvotes)  
-22079885. [textview into an SMS body Android](http://stackoverflow.com/questions/22079885) (0 upvotes)  
-22082658. ["Hiding" overridden methods in Java](http://stackoverflow.com/questions/22082658) (0 upvotes)  
-22086433. [SBT gives "class file has wrong version 51.0, should be 49.0" when compiling a mixed project?](http://stackoverflow.com/questions/22086433) (4 upvotes)  
-22090410. [Android basic programming](http://stackoverflow.com/questions/22090410) (-2 upvotes)  
-22096425. [Android: Puzzle Tiles not moving on Samsung Galaxy Note 2 and Samsung Galaxy S3, others device working well puzzle game](http://stackoverflow.com/questions/22096425) (0 upvotes)  
-22106514. [Deprecated API com.google.gwt.user.client.Element](http://stackoverflow.com/questions/22106514) (1 upvotes)  
-22115318. [Java uses or overrides a deprecated API](http://stackoverflow.com/questions/22115318) (-2 upvotes)  
-22119606. [Strange behaviour of AndAR(r205) sample code "nmatsui / AR_Speeker" on Android Studio](http://stackoverflow.com/questions/22119606) (0 upvotes)  
-22119642. [Java: Bukkit: Getting blocks in a line](http://stackoverflow.com/questions/22119642) (0 upvotes)  
-22125884. [Config cannot be resolved in java file phonegap error ?](http://stackoverflow.com/questions/22125884) (0 upvotes)  
-22127409. [Handling login session of facebook sdk in android](http://stackoverflow.com/questions/22127409) (7 upvotes)  
-22130667. [How can I add imported jar files to web-inf/lib in eclipse for my build?](http://stackoverflow.com/questions/22130667) (1 upvotes)  
-22135053. [Android App Settings Menu, Can't get it to work](http://stackoverflow.com/questions/22135053) (0 upvotes)  
-22142940. [Set lockscreen to "None" programatically?](http://stackoverflow.com/questions/22142940) (2 upvotes)  
-22146538. [Android Help! null pointer and problems with code](http://stackoverflow.com/questions/22146538) (0 upvotes)  
-22148645. [The constructor Twitter(String, String) is deprecated](http://stackoverflow.com/questions/22148645) (0 upvotes)  
-22149012. [Method called after release() even though I reopen camera](http://stackoverflow.com/questions/22149012) (0 upvotes)  
-22162738. [How to stop consumer thread based on producer thread state](http://stackoverflow.com/questions/22162738) (0 upvotes)  
-22165971. [jpa + hibernate + standalone](http://stackoverflow.com/questions/22165971) (0 upvotes)  
-22169150. [Android : SQLite : Loaders and Thread Safety](http://stackoverflow.com/questions/22169150) (0 upvotes)  
-22170444. [MavenProject.java doubts in methods implemented](http://stackoverflow.com/questions/22170444) (0 upvotes)  
-22178415. [How do I terminate a specific JobFlow in Amazon EMR?](http://stackoverflow.com/questions/22178415) (0 upvotes)  
-22189098. [Does anyone have an updated example on posting a JSON request?](http://stackoverflow.com/questions/22189098) (1 upvotes)  
-22201039. [Can Exception.getCause() be used to know the chained Exception?](http://stackoverflow.com/questions/22201039) (0 upvotes)  
-22211038. [CXF failing with IncompatibleClassChangeError exception on Unit Test](http://stackoverflow.com/questions/22211038) (0 upvotes)  
-22214400. [Google play game services integration after new update](http://stackoverflow.com/questions/22214400) (1 upvotes)  
-22221907. [Comparing SQL Dates from various components](http://stackoverflow.com/questions/22221907) (0 upvotes)  
-22222798. [android notification comes up on start](http://stackoverflow.com/questions/22222798) (0 upvotes)  
-22224410. [(#200) The user hasn't authorized the application to perform this action android facebook SDK](http://stackoverflow.com/questions/22224410) (3 upvotes)  
-22225098. [onCreateContextMenu in PreferenceFragment is not called](http://stackoverflow.com/questions/22225098) (1 upvotes)  
-22225442. [I need a method to save an arraylist in my app](http://stackoverflow.com/questions/22225442) (0 upvotes)  
-22230954. [Why cant my view flipper show more than 3 views?](http://stackoverflow.com/questions/22230954) (0 upvotes)  
-22231865. [java.lang.ClassNotFoundException: org.springframework.web.util.ExpressionEvaluationUtils](http://stackoverflow.com/questions/22231865) (0 upvotes)  
-22234218. [Warning: The method start() from the type Thread is deprecated](http://stackoverflow.com/questions/22234218) (1 upvotes)  
-22246618. [JAVA HBase: how to use CellUtil.getRowByte(Cell, int)](http://stackoverflow.com/questions/22246618) (2 upvotes)  
-22250500. [How to launch gwt-project on external server, e.g. tomcat?](http://stackoverflow.com/questions/22250500) (0 upvotes)  
-22252909. [Raw SQL in DFC (Documentum)](http://stackoverflow.com/questions/22252909) (5 upvotes)  
-22257334. [Netbeans 7.4 & Glassfish 4: package.ClassName cannot be cast to package.ClassName](http://stackoverflow.com/questions/22257334) (0 upvotes)  
-22265607. [How to get Standard Time Abbreviations ( like EST) using SimpleDateFormat?](http://stackoverflow.com/questions/22265607) (0 upvotes)  
-22267679. [What to use instead of deprecated CellRangeAddress.valueOf in ApachePOI](http://stackoverflow.com/questions/22267679) (5 upvotes)  
-22283605. [Java/Flash AS2, Check If a XML Socket is Closed?](http://stackoverflow.com/questions/22283605) (0 upvotes)  
-22283880. [Unable to run JAR through command line or double click](http://stackoverflow.com/questions/22283880) (1 upvotes)  
-22284253. [Android swipe between fragments](http://stackoverflow.com/questions/22284253) (1 upvotes)  
-22284932. [Scala: Custom compiler warning](http://stackoverflow.com/questions/22284932) (2 upvotes)  
-22301949. [Gradle Cargo Plugin in Eclipse failing](http://stackoverflow.com/questions/22301949) (0 upvotes)  
-22302092. [Contact thumbnail in ListView are mixing up when scrolling](http://stackoverflow.com/questions/22302092) (0 upvotes)  
-22306370. [Sonar-runner execution failure causing cast exception](http://stackoverflow.com/questions/22306370) (0 upvotes)  
-22306811. [Arguments for eclipse compiler in Maven](http://stackoverflow.com/questions/22306811) (2 upvotes)  
-22317645. [FileNotFoundException for fetching image from sdcard](http://stackoverflow.com/questions/22317645) (0 upvotes)  
-22322616. [write huge number of records to xlsx using POI](http://stackoverflow.com/questions/22322616) (0 upvotes)  
-22326631. [Hadoop MapFile reader doesn't detect a file in distributed Cache](http://stackoverflow.com/questions/22326631) (0 upvotes)  
-22332609. [How to suppress deprecation warning on annotation argument](http://stackoverflow.com/questions/22332609) (1 upvotes)  
-22338196. [Where/how do you use Android Annotations?](http://stackoverflow.com/questions/22338196) (0 upvotes)  
-22345907. [More and more Threads are causing my app to lag](http://stackoverflow.com/questions/22345907) (1 upvotes)  
-22346858. [Bottom-to-top layout in Java with dynamic sizing](http://stackoverflow.com/questions/22346858) (0 upvotes)  
-22347483. [Syntax errors Java Bukkit Plugin](http://stackoverflow.com/questions/22347483) (0 upvotes)  
-22360258. [JavaFX Flip Node with PerspectiveTransform](http://stackoverflow.com/questions/22360258) (1 upvotes)  
-22363829. [JScrollPane not working with FormLayout](http://stackoverflow.com/questions/22363829) (0 upvotes)  
-22367759. [How to retrieve sessionFactory from Hibernate 4.3.4.Final?](http://stackoverflow.com/questions/22367759) (1 upvotes)  
-22368041. [java.lang.NullPointerException - Can't find the null variable](http://stackoverflow.com/questions/22368041) (1 upvotes)  
-22370812. [Is there Protobuf RPC addon that can use with GAE in Java?](http://stackoverflow.com/questions/22370812) (0 upvotes)  
-22373285. [Type SocketFactory is deprecated](http://stackoverflow.com/questions/22373285) (0 upvotes)  
-22373394. [Is there a way to enforce finalize() method](http://stackoverflow.com/questions/22373394) (1 upvotes)  
-22384713. [Encounter javax.el.PropertyNotFoundException Target Unreachable, identifier 'xxxController' resolved to null](http://stackoverflow.com/questions/22384713) (0 upvotes)  
-22389154. [Spring MVC Locale change doesn't work](http://stackoverflow.com/questions/22389154) (1 upvotes)  
-22394682. [Android: inetAddress.getHostAddress() returns the IP address in hex. How can I convert it or get in dotted decimal representation in Java?](http://stackoverflow.com/questions/22394682) (0 upvotes)  
-22417364. [If statement always returns false](http://stackoverflow.com/questions/22417364) (-2 upvotes)  
-22431984. [Unable to establish a JDBC connection to Hive from Eclipse](http://stackoverflow.com/questions/22431984) (1 upvotes)  
-22447306. [Overridden or Uses a deprecated API?](http://stackoverflow.com/questions/22447306) (0 upvotes)  
-22448421. [android source build app can not find android-support-v4.jar](http://stackoverflow.com/questions/22448421) (2 upvotes)  
-22448541. [Application closed unexpectedly after adding Google Ads in it](http://stackoverflow.com/questions/22448541) (3 upvotes)  
-22451599. [Maven 3.2.1 + Hibernate 4.3.4 - Unable to build entity manager factory - Caused by: ParameterizedTypeImpl cannot be cast to java.lang.Class](http://stackoverflow.com/questions/22451599) (0 upvotes)  
-22459200. [I've created a slideshow using ViewPager, need to make a 3 small changes but stuck](http://stackoverflow.com/questions/22459200) (4 upvotes)  
-22459248. [Get Progress in %age with upload speed while uploading file over http using Java?](http://stackoverflow.com/questions/22459248) (0 upvotes)  
-22464508. [Apache POI autoColumnWidth java.lang.OutOfMemoryError: GC overhead limit exceeded](http://stackoverflow.com/questions/22464508) (2 upvotes)  
-22467704. [Changing MapReduce (K, V) output format](http://stackoverflow.com/questions/22467704) (0 upvotes)  
-22469623. [LWUIT TabbedPane in JavaMe in EasyEclipse](http://stackoverflow.com/questions/22469623) (0 upvotes)  
-22476852. [Hadoop producing no output](http://stackoverflow.com/questions/22476852) (1 upvotes)  
-22480424. [Generic DAO implementation, Injection failure @ controller level](http://stackoverflow.com/questions/22480424) (1 upvotes)  
-22480863. [Mock an attribute within an HttpServlet through the WebApplicationContext](http://stackoverflow.com/questions/22480863) (0 upvotes)  
-22487688. [How to import table from MySQL to Hive using Java?](http://stackoverflow.com/questions/22487688) (1 upvotes)  
-22490679. [Error with clean and build in Netbeans](http://stackoverflow.com/questions/22490679) (1 upvotes)  
-22497324. [onClick ListView item on database](http://stackoverflow.com/questions/22497324) (-1 upvotes)  
-22510021. [IDEA 13.1 giving an error when processing util:map](http://stackoverflow.com/questions/22510021) (0 upvotes)  
-22514394. [Conversion-service class in spring](http://stackoverflow.com/questions/22514394) (4 upvotes)  
-22515634. [JSF (Mojarra) 1.2 causing java.lang.OutOfMemoryError on deploy](http://stackoverflow.com/questions/22515634) (0 upvotes)  
-22525057. [Hit Api and get Response using http post and curl](http://stackoverflow.com/questions/22525057) (0 upvotes)  
-22534985. [How to format a long json text from Wordpress in Android](http://stackoverflow.com/questions/22534985) (0 upvotes)  
-22538210. [Is it possible to include Javac lint in the Android lint report?](http://stackoverflow.com/questions/22538210) (0 upvotes)  
-22539425. [Migrating from GCM helper library to GCM Api](http://stackoverflow.com/questions/22539425) (0 upvotes)  
-22541455. [Warning: The method assertEquals from the type Assert is deprecated](http://stackoverflow.com/questions/22541455) (7 upvotes)  
-22542447. [Tilt angles not being displayed despite sensors being active](http://stackoverflow.com/questions/22542447) (0 upvotes)  
-22548335. [ClassNotFoundException for applet on some computers but not others -- related to operating system?](http://stackoverflow.com/questions/22548335) (3 upvotes)  
-22559302. [Writing a Java application that uses the Google Code services](http://stackoverflow.com/questions/22559302) (0 upvotes)  
-22563679. [How can I include other INI files from within an INI file with ini4j?](http://stackoverflow.com/questions/22563679) (0 upvotes)  
-22576456. [Android - How to know when device is flat to ground or not?](http://stackoverflow.com/questions/22576456) (1 upvotes)  
-22592768. [Reorder JList and ArrayList](http://stackoverflow.com/questions/22592768) (0 upvotes)  
-22606579. [Apache HttpClient 4.3 and x509 client certificate to authenticate](http://stackoverflow.com/questions/22606579) (1 upvotes)  
-22612599. [How to use Timestamp constructor](http://stackoverflow.com/questions/22612599) (0 upvotes)  
-22615107. [Apache Ant {Compile javac srcdir} does not exist](http://stackoverflow.com/questions/22615107) (0 upvotes)  
-22620807. [Java keeps adding buttons! - JFrames -](http://stackoverflow.com/questions/22620807) (0 upvotes)  
-22622223. [What's the difference between mail.smtp.auth and mail.smtp.requiresAuthentication in Javamail/Spring](http://stackoverflow.com/questions/22622223) (0 upvotes)  
-22625538. [Batch HTTP requests in Play!Framework](http://stackoverflow.com/questions/22625538) (1 upvotes)  
-22631266. [Documentation for iOS apps code](http://stackoverflow.com/questions/22631266) (0 upvotes)  
-22632167. [trait PlainResult in package mvc is deprecated: In Play 2.3, SimpleResult will be the only type of result](http://stackoverflow.com/questions/22632167) (-3 upvotes)  
-22636848. [cant convert song duration from ms to a format h:m:s](http://stackoverflow.com/questions/22636848) (0 upvotes)  
-22637587. [How to limit the number of digits in a JPasswordField in Java?](http://stackoverflow.com/questions/22637587) (1 upvotes)  
-22641097. [How to communicate with a Virtual Machine in Java?](http://stackoverflow.com/questions/22641097) (1 upvotes)  
-22642851. [neo4j community V1.9 - how to specify path of config files in Spring?](http://stackoverflow.com/questions/22642851) (0 upvotes)  
-22648993. [How to change the code in Lucene 4.0](http://stackoverflow.com/questions/22648993) (-2 upvotes)  
-22657100. [Adding a simple Enter key functionnality to my program in Java](http://stackoverflow.com/questions/22657100) (0 upvotes)  
-22676765. [How to register AuthSchemes on HttpClient](http://stackoverflow.com/questions/22676765) (2 upvotes)  
-22687943. [Is it possible to declare that a Supplier<T> needs to throw an Exception?](http://stackoverflow.com/questions/22687943) (1 upvotes)  
-22688519. [GWT places and activities - getting duplicate UI](http://stackoverflow.com/questions/22688519) (1 upvotes)  
-22690565. [hadoop-1.2.1 eclipse plugin: build.sysclasspath=last](http://stackoverflow.com/questions/22690565) (1 upvotes)  
-22691252. [Error: Deprecated PersistenceProvider, use HibernatePersistenceProvider instead of HibernatePersistence](http://stackoverflow.com/questions/22691252) (3 upvotes)  
-22695224. [Android RevMob The method start(Activity, String) from the type RevMob is deprecated](http://stackoverflow.com/questions/22695224) (0 upvotes)  
-22697672. [How to split a long json text from Wordpress in Android](http://stackoverflow.com/questions/22697672) (1 upvotes)  
-22705060. [Associating file extension with Java JRE7 application for Mac](http://stackoverflow.com/questions/22705060) (3 upvotes)  
-22706947. [Refresh an Android tab in tabHost](http://stackoverflow.com/questions/22706947) (0 upvotes)  
-22707675. [Hibernate 4.3 index annotation](http://stackoverflow.com/questions/22707675) (1 upvotes)  
-22715285. [New Google Play Services API, Holding connection through activities](http://stackoverflow.com/questions/22715285) (2 upvotes)  
-22727833. [how to add time in java.sql.Timestamp](http://stackoverflow.com/questions/22727833) (0 upvotes)  
-22728193. [Spring MVC disable back button action after logout](http://stackoverflow.com/questions/22728193) (0 upvotes)  
-22729328. [Image and Video Slider in Android](http://stackoverflow.com/questions/22729328) (1 upvotes)  
-22731365. [Exception in thread "main" org.hibernate.HibernateException: 'hibernate.dialect' must be set when no Connection available](http://stackoverflow.com/questions/22731365) (0 upvotes)  
-22740007. [java.lang.NoSuchMethodError: org.apache.hadoop.conf.Configuration.addDeprecation(Ljava/lang/String;[Ljava/lang/String;)](http://stackoverflow.com/questions/22740007) (3 upvotes)  
-22740789. [How to use to Google Dictionary as an API?](http://stackoverflow.com/questions/22740789) (0 upvotes)  
-22742503. [AndroidTouchGallery : Get new Image ?](http://stackoverflow.com/questions/22742503) (0 upvotes)  
-22743153. [Android Device screen resolution](http://stackoverflow.com/questions/22743153) (0 upvotes)  
-22744277. [Tika in Action book examples Lucene StandardAnalyzer does not work](http://stackoverflow.com/questions/22744277) (0 upvotes)  
-22748700. [Javadb error: “TIMESTAMP with implicit DEFAULT value is deprecated”](http://stackoverflow.com/questions/22748700) (2 upvotes)  
-22754164. [How can I build maven project with foreign class names?](http://stackoverflow.com/questions/22754164) (0 upvotes)  
-22764175. [what happened to sun.* packages](http://stackoverflow.com/questions/22764175) (0 upvotes)  
-22768537. [Multiple markers : why?](http://stackoverflow.com/questions/22768537) (0 upvotes)  
-22780210. [Equivalent of hibernate @Index?](http://stackoverflow.com/questions/22780210) (0 upvotes)  
-22782202. [Is there a way to execute Sonar's SSLR (squid-based) rules locally (on demand) in IntelliJ?](http://stackoverflow.com/questions/22782202) (0 upvotes)  
-22782363. [Why am I not able to create stub in new Java 1.8? Then what should I have to do for lookup of remote object without stub?](http://stackoverflow.com/questions/22782363) (-3 upvotes)  
-22783044. [Facebook chat using xmpp problems-NoSuchAlgorithmException: KeyStore jks implementation not found](http://stackoverflow.com/questions/22783044) (-1 upvotes)  
-22791538. [PlayFramework 2 template testing](http://stackoverflow.com/questions/22791538) (1 upvotes)  
-22804328. [Compilation warnings - deprecation and no definition of serialVersionUID](http://stackoverflow.com/questions/22804328) (0 upvotes)  
-22804418. [Getting NullPointerException while using onEjbCreate method of Deprecated AbstractStatelessSessionBean in Spring 3.2.6 with EJB 3](http://stackoverflow.com/questions/22804418) (0 upvotes)  
-22807778. [SurfaceLayer is now deprecated, how to avoid using it?](http://stackoverflow.com/questions/22807778) (0 upvotes)  
-22815971. [How to switch between Views in the same activity?](http://stackoverflow.com/questions/22815971) (2 upvotes)  
-22816817. [Hibernate: Create Index](http://stackoverflow.com/questions/22816817) (2 upvotes)  
-22826844. [Sending multipart POST data without external libraries](http://stackoverflow.com/questions/22826844) (0 upvotes)  
-22836829. [timestamp token validation fails, message digest does not match calculated value](http://stackoverflow.com/questions/22836829) (0 upvotes)  
-22841424. [Accessing MuleMessage and a flow variable from Java component](http://stackoverflow.com/questions/22841424) (0 upvotes)  
-22842971. [Ant Java Major/Minor 51.0 issue even though 1.6 is targetted](http://stackoverflow.com/questions/22842971) (0 upvotes)  
-22843518. [How can handleEvent() be replaced by processEvent()?](http://stackoverflow.com/questions/22843518) (0 upvotes)  
-22855836. [Eclipse not showing deprecated warning?](http://stackoverflow.com/questions/22855836) (0 upvotes)  
-22858419. [Stopping a Thread the Java way](http://stackoverflow.com/questions/22858419) (0 upvotes)  
-22867348. [A message body reader for Java class X, and Java type class Y, and MIME media type application/json was not found](http://stackoverflow.com/questions/22867348) (1 upvotes)  
-22869909. [org.apache.commons.dbcp.SQLNestedException: Cannot load JDBC driver class '${driver}'](http://stackoverflow.com/questions/22869909) (0 upvotes)  
-22875642. [Jackson set default view](http://stackoverflow.com/questions/22875642) (2 upvotes)  
-22878601. [Android: How do i set imageview with photo taken through a custom camera](http://stackoverflow.com/questions/22878601) (0 upvotes)  
-22882683. [How to handle timeouts in httpclient 4.3+ ?](http://stackoverflow.com/questions/22882683) (0 upvotes)  
-22883873. [Socket programming - client-server code not working](http://stackoverflow.com/questions/22883873) (0 upvotes)  
-22887515. [android checkbox preference getting and setting the boolean values](http://stackoverflow.com/questions/22887515) (0 upvotes)  
-22887857. [Set wallpaper in android without the setwallpaper intent](http://stackoverflow.com/questions/22887857) (0 upvotes)  
-22891638. [java.lang.IllegalStateException exception occured in JBoss 7](http://stackoverflow.com/questions/22891638) (0 upvotes)  
-22894510. [JCaptcha4Struts2 plugin, image not loading](http://stackoverflow.com/questions/22894510) (2 upvotes)  
-22894996. [Java class to give the long string format of a date? (In words, as if spoken)](http://stackoverflow.com/questions/22894996) (1 upvotes)  
-22897040. [javax.naming.NameNotFoundException ERROR](http://stackoverflow.com/questions/22897040) (0 upvotes)  
-22900816. [Show the current date using JSP and Servlets](http://stackoverflow.com/questions/22900816) (0 upvotes)  
-22902019. [loadPreference() for preferenceActivity method throws exception first time app is installed](http://stackoverflow.com/questions/22902019) (0 upvotes)  
-22902210. [Error in Mapper Task in Hadoop 2.2 using MultilineJSON format](http://stackoverflow.com/questions/22902210) (0 upvotes)  
-22906907. [Change reference or return reference](http://stackoverflow.com/questions/22906907) (0 upvotes)  
-22910241. [Get the X509Certificate DN email value with bouncycastle](http://stackoverflow.com/questions/22910241) (0 upvotes)  
-22912155. [how to display image plus text in List view using cursor adapter from SQLite?](http://stackoverflow.com/questions/22912155) (0 upvotes)  
-22914903. [Best way to invert a n x n Matrix](http://stackoverflow.com/questions/22914903) (1 upvotes)  
-22920131. [Read an encrypted private key with bouncycastle/spongycastle](http://stackoverflow.com/questions/22920131) (1 upvotes)  
-22923849. [onResume() method and ListPreferences Android](http://stackoverflow.com/questions/22923849) (-1 upvotes)  
-22927017. [get position of button in listfragment](http://stackoverflow.com/questions/22927017) (0 upvotes)  
-22937127. [How can I prevent Eclipse from supplying deprecated classes when importing?](http://stackoverflow.com/questions/22937127) (10 upvotes)  
-22942896. [Android fix close main activity with back button](http://stackoverflow.com/questions/22942896) (0 upvotes)  
-22947724. [JRuby Warbler not creating usable executable Jars](http://stackoverflow.com/questions/22947724) (0 upvotes)  
-22954452. [How do you use Apache Commons Math 3.0+ to solve ODEs with Jacobian?](http://stackoverflow.com/questions/22954452) (0 upvotes)  
-22962914. [Capturing a picture from default camera and setting it as wallpaper](http://stackoverflow.com/questions/22962914) (0 upvotes)  
-22963581. [Reading elliptic curve private key from file with BouncyCastle](http://stackoverflow.com/questions/22963581) (0 upvotes)  
-22966488. [java.lang.NoClassDefFoundError: com/google/common when trying to create a Configuration object](http://stackoverflow.com/questions/22966488) (1 upvotes)  
-22970073. [NoSuchMethodError: org.apache.cxf.jaxrs.JAXRSServiceFactoryBean.sendEvent](http://stackoverflow.com/questions/22970073) (0 upvotes)  
-22978482. [marking method as @VisibleForTesting vs marking @Deprecated for unit testing?](http://stackoverflow.com/questions/22978482) (0 upvotes)  
-22982552. [how log4j FileAppender is deprecated](http://stackoverflow.com/questions/22982552) (2 upvotes)  
-22993491. [Spring security authorization without authentication](http://stackoverflow.com/questions/22993491) (1 upvotes)  
-23004319. [ImageSwitcher took several seconds when Grow heap happen (already down scale)](http://stackoverflow.com/questions/23004319) (1 upvotes)  
-23007356. [How to name the foreign key constraint of ManyToOne references since JPA 2.1?](http://stackoverflow.com/questions/23007356) (1 upvotes)  
-23015475. [OpenCV 2.8.4 installation under Linux for Java development](http://stackoverflow.com/questions/23015475) (0 upvotes)  
-23017416. [getting Blank response from php server while access from other country in android](http://stackoverflow.com/questions/23017416) (2 upvotes)  
-23018519. [@SessionScoped throws Exception. (LifecycleException - "UserSession is annotated with an invalid scope")](http://stackoverflow.com/questions/23018519) (1 upvotes)  
-23033611. [How to use WebSocketServlets?](http://stackoverflow.com/questions/23033611) (0 upvotes)  
-23035554. [How can I add Hibernate to a an Arquillian Embedded EE build?](http://stackoverflow.com/questions/23035554) (0 upvotes)  
-23041964. [JPA 2.1/Hibernate 4.3 deprecation warning](http://stackoverflow.com/questions/23041964) (0 upvotes)  
-23045883. [PowerManager.WakeLock on Android Devices](http://stackoverflow.com/questions/23045883) (0 upvotes)  
-23055332. [android unparseble date Exception?](http://stackoverflow.com/questions/23055332) (1 upvotes)  
-23061787. [object is not an instance of declaring class -Hibernate](http://stackoverflow.com/questions/23061787) (0 upvotes)  
-23062340. [Log-In page - Java Swing](http://stackoverflow.com/questions/23062340) (0 upvotes)  
-23072572. [What is the simplest Spring (3) application that could possibly work?](http://stackoverflow.com/questions/23072572) (-1 upvotes)  
-23083982. [Managing Access Token with Google Drive Oauth 2.0](http://stackoverflow.com/questions/23083982) (2 upvotes)  
-23093745. [Android How to show alert on another app](http://stackoverflow.com/questions/23093745) (0 upvotes)  
-23102193. [org.springframework.beans.NotWritablePropertyException: Invalid property 'adminEmails' of bean class](http://stackoverflow.com/questions/23102193) (0 upvotes)  
-23112328. [Menu bar on left goes away in navigating using places and activities](http://stackoverflow.com/questions/23112328) (0 upvotes)  
-23119454. [Unable to build EntityManagerFactory Spring hibernate maven](http://stackoverflow.com/questions/23119454) (0 upvotes)  
-23126382. [notification strange behavior](http://stackoverflow.com/questions/23126382) (0 upvotes)  
-23129212. [Adding/Subtracting 5 seconds from Java Date - Showing deprected warning](http://stackoverflow.com/questions/23129212) (0 upvotes)  
-23155359. [KeyListener Not responding](http://stackoverflow.com/questions/23155359) (0 upvotes)  
-23156778. [Java/Android: generic method - apply same functionality to different objects](http://stackoverflow.com/questions/23156778) (0 upvotes)  
-23158047. [Getting Tomcat 404 error upon running my WAR file](http://stackoverflow.com/questions/23158047) (0 upvotes)  
-23163999. [Application crashing because of NullPointerException](http://stackoverflow.com/questions/23163999) (3 upvotes)  
-23164922. [Launching Jetty Webserver from Java Application](http://stackoverflow.com/questions/23164922) (0 upvotes)  
-23169507. [JOOQ generated records set to implement Record4 interface even when set not to](http://stackoverflow.com/questions/23169507) (1 upvotes)  
-23177223. [Installing Generated X509Certificate into Android KeyChain](http://stackoverflow.com/questions/23177223) (0 upvotes)  
-23177963. [Struts 2 FilterDispatcher deprecated](http://stackoverflow.com/questions/23177963) (0 upvotes)  
-23191239. [Need to migrate from SOAP based to RESTful Akamai Purge request format in TeamSite](http://stackoverflow.com/questions/23191239) (0 upvotes)  
-23196496. [Error in java code](http://stackoverflow.com/questions/23196496) (-5 upvotes)  
-23201648. [HttpClient 4.3.x, fixing deprecated code to use current HttpClient implementations](http://stackoverflow.com/questions/23201648) (2 upvotes)  
-23203880. [Is Classic Spring MVC Deprecated?](http://stackoverflow.com/questions/23203880) (4 upvotes)  
-23220346. [Spring MVC i18n not working](http://stackoverflow.com/questions/23220346) (1 upvotes)  
-23221433. [updating the deprecated XMLSerializer](http://stackoverflow.com/questions/23221433) (0 upvotes)  
-23229046. [Scanner compatibility with OutputStreams](http://stackoverflow.com/questions/23229046) (0 upvotes)  
-23242736. [Codenameone in-app purchase for J2me](http://stackoverflow.com/questions/23242736) (1 upvotes)  
-23242915. [Field benchmarkRun must implement MethodRule](http://stackoverflow.com/questions/23242915) (0 upvotes)  
-23246722. [Is deprecated getContent still the only option for PopupControl objects in JavaFX 8?](http://stackoverflow.com/questions/23246722) (0 upvotes)  
-23256629. [HBase bulk delete using MapReduce job](http://stackoverflow.com/questions/23256629) (1 upvotes)  
-23261276. [error in acessing Neo4j](http://stackoverflow.com/questions/23261276) (0 upvotes)  
-23261901. [jdtCompileLogPublisher javac](http://stackoverflow.com/questions/23261901) (0 upvotes)  
-23266148. [How can I turn off hadoop speculative execution from Java](http://stackoverflow.com/questions/23266148) (1 upvotes)  
-23269728. [getting action of buttons on receive() method which is a method of broadcast receiver but its show a null](http://stackoverflow.com/questions/23269728) (0 upvotes)  
-23282398. [Syntax Error, insert "}" to complete ClassBody, beginner](http://stackoverflow.com/questions/23282398) (-3 upvotes)  
-23284221. [How to open a dialog window,](http://stackoverflow.com/questions/23284221) (1 upvotes)  
-23285540. [I want to call a method of PlayerAudioActivity class in broadcastreciever using composition but null pointer exception](http://stackoverflow.com/questions/23285540) (0 upvotes)  
-23293046. [How to set/get Resolver to/from org.apache.commons.beanutils.PropertyUtils?](http://stackoverflow.com/questions/23293046) (0 upvotes)  
-23295333. [MongoDB Java driver: autoConnectRetry](http://stackoverflow.com/questions/23295333) (2 upvotes)  
-23302023. [Running tag library from older Tomcat version](http://stackoverflow.com/questions/23302023) (8 upvotes)  
-23302540. [Why RJava cannot be installed](http://stackoverflow.com/questions/23302540) (0 upvotes)  
-23303865. [Tracking data offset of data in a table to retrieve the previous/next subset on table scroll](http://stackoverflow.com/questions/23303865) (0 upvotes)  
-23306915. [Version problems and errors in Java, Lucene , BM25 based search engine](http://stackoverflow.com/questions/23306915) (0 upvotes)  
-23309836. [Slick2D vs slick-util version/build confusion](http://stackoverflow.com/questions/23309836) (1 upvotes)  
-23316288. [Day of week in GWT / Java Date api](http://stackoverflow.com/questions/23316288) (0 upvotes)  
-23317561. [Why can't I rename the import of @BeanProperty in Scala](http://stackoverflow.com/questions/23317561) (1 upvotes)  
-23318351. [Compile android app in raspberry pi](http://stackoverflow.com/questions/23318351) (3 upvotes)  
-23318856. [libGDX sounds Gdx.audio.newSound not working](http://stackoverflow.com/questions/23318856) (0 upvotes)  
-23323185. [How to put "Zoom" for an android app](http://stackoverflow.com/questions/23323185) (1 upvotes)  
-23340433. [Spring using Anonymous Authentication Provider to use Guest User](http://stackoverflow.com/questions/23340433) (1 upvotes)  
-23340837. [How to get data in java with localization?](http://stackoverflow.com/questions/23340837) (0 upvotes)  
-23342940. [ApplicationListener in Spring Security 3](http://stackoverflow.com/questions/23342940) (0 upvotes)  
-23346145. [OutOfMemoryError: Java heap space gradle compiling android](http://stackoverflow.com/questions/23346145) (1 upvotes)  
-23351082. [Getting "specified DSN contains an architecture mismatch between the Driver and Application" running Tomcat via Sysdeo under eclipse](http://stackoverflow.com/questions/23351082) (0 upvotes)  
-23353766. [Error while implementing Google Play Games](http://stackoverflow.com/questions/23353766) (2 upvotes)  
-23357187. [Netty ChannelPromise exctionCaught](http://stackoverflow.com/questions/23357187) (0 upvotes)  
-23358109. [Hadoop namenode format](http://stackoverflow.com/questions/23358109) (1 upvotes)  
-23363949. [How can I insert more than one picture in Excel file with Java Apache poi?](http://stackoverflow.com/questions/23363949) (0 upvotes)  
-23367892. [How to change behaivour of BodyEntityExtractor?](http://stackoverflow.com/questions/23367892) (0 upvotes)  
-23368240. [TextViews with utf-8 and special characters](http://stackoverflow.com/questions/23368240) (0 upvotes)  
-23375275. [gradlew :appengineEnhance fails](http://stackoverflow.com/questions/23375275) (0 upvotes)  
-23382915. [Dialog Error async Task](http://stackoverflow.com/questions/23382915) (-2 upvotes)  
-23383481. [Is Grails spring security plugin uses deprecated PasswordEncoder by default?](http://stackoverflow.com/questions/23383481) (0 upvotes)  
-23384047. [Difficulties getting Spark SVMModel running with Java - java.lang.IncompatibleClassChangeError](http://stackoverflow.com/questions/23384047) (2 upvotes)  
-23390011. [itext xmlworker with javafx htmleditor](http://stackoverflow.com/questions/23390011) (0 upvotes)  
-23398861. [View not attached to window manager android crash](http://stackoverflow.com/questions/23398861) (-1 upvotes)  
-23402489. [How to use ensureIndex in MongoDB Java Driver?](http://stackoverflow.com/questions/23402489) (-1 upvotes)  
-23405377. [Android contacts use ContactsSource for lower api levels and ContactsAccountType as default in contacts.xml](http://stackoverflow.com/questions/23405377) (1 upvotes)  
-23418084. [Spring MVC: How to reroute to a different controller/method dynamically?](http://stackoverflow.com/questions/23418084) (0 upvotes)  
-23420733. [Websocket through Servlet in tomcat](http://stackoverflow.com/questions/23420733) (0 upvotes)  
-23427423. [Validation on wheelview items](http://stackoverflow.com/questions/23427423) (0 upvotes)  
-23428844. [Stopping and Starting Runnable freezes application for 2-10 sec](http://stackoverflow.com/questions/23428844) (0 upvotes)  
-23436655. [WebDriver Crashes Chrome Randomly](http://stackoverflow.com/questions/23436655) (0 upvotes)  
-23442609. [Login in Android app from web server and save registrationId of the device](http://stackoverflow.com/questions/23442609) (0 upvotes)  
-23448846. [Java new Thread using this - Any reason if it is good / bad?](http://stackoverflow.com/questions/23448846) (0 upvotes)  
-23449689. [unable to wirte file hadoop](http://stackoverflow.com/questions/23449689) (0 upvotes)  
-23458030. [how to build a gridlayout that fills any android screen size](http://stackoverflow.com/questions/23458030) (0 upvotes)  
-23462823. [Error when parsing json result from http post on android app](http://stackoverflow.com/questions/23462823) (-2 upvotes)  
-23465538. [Infiniband in Java](http://stackoverflow.com/questions/23465538) (2 upvotes)  
-23467836. [Why does assertEquals(new Object[] {"abc"}, new Object[] {"abc"}); not fail?](http://stackoverflow.com/questions/23467836) (1 upvotes)  
-23471136. [Using PigServer to run mapreduce jobs](http://stackoverflow.com/questions/23471136) (0 upvotes)  
-23472603. [How to deal with message "Usage of statement labels in build scripts has been deprecated"](http://stackoverflow.com/questions/23472603) (0 upvotes)  
-23478466. [SIP Register Request using JAIN SIP](http://stackoverflow.com/questions/23478466) (0 upvotes)  
-23485016. [Eclipse Workspace JRE doesn't match any configuration settings?](http://stackoverflow.com/questions/23485016) (4 upvotes)  
-23485611. [How Do I get the DataBase Data using Hibernate](http://stackoverflow.com/questions/23485611) (0 upvotes)  
-23494412. [How to set http version for the HttpProtocolParams in version of Httpcore 4.3.2?](http://stackoverflow.com/questions/23494412) (1 upvotes)  
-23498780. [How to refresh the markers without refreshing the Google Map in Vaadin?](http://stackoverflow.com/questions/23498780) (0 upvotes)  
-23504322. [Loading data to Hadoop 2.2 with Spring-XD](http://stackoverflow.com/questions/23504322) (0 upvotes)  
-23506875. [Find and Delete a Sub-String in Java](http://stackoverflow.com/questions/23506875) (1 upvotes)  
-23509560. [Java efficient way to have multiple identical ArrayList elements](http://stackoverflow.com/questions/23509560) (2 upvotes)  
-23510740. [Spring Security: using 2 different hashing methods in a single application](http://stackoverflow.com/questions/23510740) (1 upvotes)  
-23513670. [How to automatically display images with Android's PagerAdapter class?](http://stackoverflow.com/questions/23513670) (1 upvotes)  
-23522489. [reducer stops after some iterations](http://stackoverflow.com/questions/23522489) (0 upvotes)  
-23523800. [Java EE 6 CDI interceptor vs dynamic java proxy](http://stackoverflow.com/questions/23523800) (0 upvotes)  
-23526164. [Java Jersey - List to JSON conversion not working](http://stackoverflow.com/questions/23526164) (0 upvotes)  
-23535788. [Chrome-application: Launch a external application (shell script or jar) using native messaging hosts](http://stackoverflow.com/questions/23535788) (1 upvotes)  
-23540716. [how to get the value at specific column and specific row in jtable by a mouse clicked](http://stackoverflow.com/questions/23540716) (-2 upvotes)  
-23548677. [Adding seconds to a Date](http://stackoverflow.com/questions/23548677) (-1 upvotes)  
-23549815. [Carrying intent from PreferenceActivity to LWP Service/Movie class](http://stackoverflow.com/questions/23549815) (0 upvotes)  
-23554803. [Hibernate ServiceRegistryBuilder deprecated](http://stackoverflow.com/questions/23554803) (0 upvotes)  
-23559300. [How to exclude null values in object while converting to JSON using Jackson 1.5?](http://stackoverflow.com/questions/23559300) (0 upvotes)  
-23564037. [How to represent in a modular java project date and time attributes across classes? (mongo used as DB)](http://stackoverflow.com/questions/23564037) (0 upvotes)  
-23565832. [what is the difference between "Request.newMeRequest" and "new http Request("](http://stackoverflow.com/questions/23565832) (0 upvotes)  
-23570003. [JAXB SCD not working with annox](http://stackoverflow.com/questions/23570003) (1 upvotes)  
-23572106. [How do I take a picture and then set activity background to that picture?](http://stackoverflow.com/questions/23572106) (0 upvotes)  
-23576276. [Trying to make ListView display new information using CursorAdapter](http://stackoverflow.com/questions/23576276) (0 upvotes)  
-23577808. [Confirm (yes/No) dialog box in Callout Adempiere](http://stackoverflow.com/questions/23577808) (2 upvotes)  
-23580991. [Set int value in conditional statement after declaring string](http://stackoverflow.com/questions/23580991) (-1 upvotes)  
-23584137. [Error: "java.io.IOException: Type mismatch in key from map" on my MapReduce class (using Hadoop 2.2.0)](http://stackoverflow.com/questions/23584137) (1 upvotes)  
-23584898. [Java - Make a jCheckBox uncheckeable or vice-versa without disabling it](http://stackoverflow.com/questions/23584898) (1 upvotes)  
-23586908. [JTable is covering up the buttons, Help needed in the layout edit](http://stackoverflow.com/questions/23586908) (0 upvotes)  
-23591500. [Blobstore or Cloud Storage for store photo](http://stackoverflow.com/questions/23591500) (1 upvotes)  
-23593186. [Java Applet Keyboard input not working](http://stackoverflow.com/questions/23593186) (0 upvotes)  
-23604713. [I am trying to save data in postgres table after reading from an excel file.While trying to commit,I get a casting error](http://stackoverflow.com/questions/23604713) (2 upvotes)  
-23606092. [Hibernate Upgrade : StatisticsService()](http://stackoverflow.com/questions/23606092) (3 upvotes)  
-23613264. [Unable to load beans from Application Context in junit test](http://stackoverflow.com/questions/23613264) (0 upvotes)  
-23617096. [Spring MVC application authenticating to Active Directory](http://stackoverflow.com/questions/23617096) (1 upvotes)  
-23617569. [GCMBaseIntentService - Wakelock reference is null](http://stackoverflow.com/questions/23617569) (0 upvotes)  
-23637417. [Services for Android 3](http://stackoverflow.com/questions/23637417) (0 upvotes)  
-23639112. [ConcurrentUpdateSolrServer vs HttpSolrServer vs CommonsHttpSolrServer, Whats the difference?](http://stackoverflow.com/questions/23639112) (1 upvotes)  
-23649420. [Getting Bad Request Error with spring and resttemplate postForObject](http://stackoverflow.com/questions/23649420) (1 upvotes)  
-23650386. [Hibernate Upgrade : Unknown service requested](http://stackoverflow.com/questions/23650386) (0 upvotes)  
-23661027. [Calling ImageJ toolbar](http://stackoverflow.com/questions/23661027) (0 upvotes)  
-23670481. [Ant compile does not recognize plugin.jar library](http://stackoverflow.com/questions/23670481) (1 upvotes)  
-23673372. [What replaces MongoDB AggregationOutput class?](http://stackoverflow.com/questions/23673372) (0 upvotes)  
-23686248. [TCP client-server thread issue Blackjack game](http://stackoverflow.com/questions/23686248) (0 upvotes)  
-23691205. [Android view not updating properly](http://stackoverflow.com/questions/23691205) (0 upvotes)  
-23696897. [How to consume ASP.NET Web API from a Java ME Application](http://stackoverflow.com/questions/23696897) (1 upvotes)  
-23699552. [NoClassDefFoundError:StaticLoggerBinder](http://stackoverflow.com/questions/23699552) (0 upvotes)  
-23708032. [Debugging Play 2.3 RC1 with activator -jvm-debug and Java 8 on Windows possible?](http://stackoverflow.com/questions/23708032) (3 upvotes)  
-23708323. [Deprecated Java JList feature](http://stackoverflow.com/questions/23708323) (0 upvotes)  
-23712783. [Get contact info fail?](http://stackoverflow.com/questions/23712783) (0 upvotes)  
-23713320. [Updating UI (via loop) without delay?](http://stackoverflow.com/questions/23713320) (0 upvotes)  
-23724377. [unable to train location.bin using opennlp with java](http://stackoverflow.com/questions/23724377) (1 upvotes)  
-23724405. [Implementing click listener](http://stackoverflow.com/questions/23724405) (0 upvotes)  
-23730176. [j2me: How to parse a byte array into xml and then read and display specific data from that XML](http://stackoverflow.com/questions/23730176) (1 upvotes)  
-23737169. [Managing OSGi Dependency Hell](http://stackoverflow.com/questions/23737169) (0 upvotes)  
-23750594. [OpenFilesHandler no longer works in Mac OS X](http://stackoverflow.com/questions/23750594) (1 upvotes)  
-23758710. [Bukkit - Why does casting to Damageable work?](http://stackoverflow.com/questions/23758710) (0 upvotes)  
-23761452. [Akka Deprecated Warnign [Props] Play Framework 2.2.X](http://stackoverflow.com/questions/23761452) (0 upvotes)  
-23770640. [Login to Rails 4.1 using java](http://stackoverflow.com/questions/23770640) (0 upvotes)  
-23771894. [Spring 4, Hibernate JPA JarInputStreamBasedArchiveDescriptor Error on Websphere 8.5.5](http://stackoverflow.com/questions/23771894) (1 upvotes)  
-23773254. [Error when trying to run maven project in eclipse](http://stackoverflow.com/questions/23773254) (-2 upvotes)  
-23777914. [Maven: Error when trying to maven test the codes](http://stackoverflow.com/questions/23777914) (-7 upvotes)  
-23779378. [Unexpected slowness in Play framework project with Mongodb and Morphia](http://stackoverflow.com/questions/23779378) (0 upvotes)  
-23779976. [java.lang.IllegalArgumentException: Wrong FS: , expected: hdfs://localhost:9000](http://stackoverflow.com/questions/23779976) (0 upvotes)  
-23783553. [Add the debug symboles by using maven](http://stackoverflow.com/questions/23783553) (0 upvotes)  
-23784652. [Drools KnowledgeBase Deprecated](http://stackoverflow.com/questions/23784652) (1 upvotes)  
-23791195. [Spring 4 Maven Issue](http://stackoverflow.com/questions/23791195) (0 upvotes)  
-23791818. [QuitStrategy is gone in eawt jdk 8](http://stackoverflow.com/questions/23791818) (0 upvotes)  
-23791921. [org.sonar.api.utils.SonarException: Can not add twice the same measure on org.sonar.api.resources.File](http://stackoverflow.com/questions/23791921) (3 upvotes)  
-23795360. [Stop, interrupt, suspend and resume a java thread](http://stackoverflow.com/questions/23795360) (0 upvotes)  
-23800372. [Trouble with Date in JNI](http://stackoverflow.com/questions/23800372) (0 upvotes)  
-23802578. [Spring Security, error bean filterChains](http://stackoverflow.com/questions/23802578) (0 upvotes)  
-23804371. [How to print "Today is May 22, 2014 and it is 2:04 pm" at the console?](http://stackoverflow.com/questions/23804371) (1 upvotes)  
-23809650. [How to inject values from context.xml](http://stackoverflow.com/questions/23809650) (0 upvotes)  
-23809940. [How to add @Deprecated to every Class and every Constructor/Method of every class?](http://stackoverflow.com/questions/23809940) (9 upvotes)  
-23810403. [How do I make use of the apple extensions for Java using Eclipse](http://stackoverflow.com/questions/23810403) (0 upvotes)  
-23820581. [Can @SuppressWarnings("deprecation") apply to the use of a deprecated interface without applying to the whole class?](http://stackoverflow.com/questions/23820581) (2 upvotes)  
-23823741. [How to Store the result of my MapReduce Job in a Hashmap and sorted it by value?](http://stackoverflow.com/questions/23823741) (0 upvotes)  
-23844347. [How should I attend the jar library for GCM server?](http://stackoverflow.com/questions/23844347) (2 upvotes)  
-23845161. [Passing system properties from command line to my app via gradle](http://stackoverflow.com/questions/23845161) (0 upvotes)  
-23849399. [Android MediaPlayer cannot play files that contain '#' character in the file name using Uri.parse(path)](http://stackoverflow.com/questions/23849399) (0 upvotes)  
-23849944. [securitypolicy Policy is not a <wsp:Policy> element](http://stackoverflow.com/questions/23849944) (0 upvotes)  
-23850680. [textView getting null exception in customView](http://stackoverflow.com/questions/23850680) (0 upvotes)  
-23854221. [Hibernate without xml](http://stackoverflow.com/questions/23854221) (1 upvotes)  
-23856838. [Android Application Crashes on login and register](http://stackoverflow.com/questions/23856838) (0 upvotes)  
-23858693. [AsynchronousServerChannel is closing himself when reading with CompletionHandler](http://stackoverflow.com/questions/23858693) (0 upvotes)  
-23864426. [How to give data to Weka during running time using the Java API?](http://stackoverflow.com/questions/23864426) (0 upvotes)  
-23866171. [Apache httpclient 4.3.3 how do I accept only one specific self signed certificate](http://stackoverflow.com/questions/23866171) (1 upvotes)  
-23870791. [Wrapping server bootstrapper is deprecated, what is the alternative?](http://stackoverflow.com/questions/23870791) (1 upvotes)  
-23874685. [parse utf8 rss feed failed](http://stackoverflow.com/questions/23874685) (0 upvotes)  
-23912353. [Netbeans 8 constantly add deprecated classes as JAX-RS providers](http://stackoverflow.com/questions/23912353) (0 upvotes)  
-23916053. [How to change Hibernate connection.url property from java code at application startup](http://stackoverflow.com/questions/23916053) (0 upvotes)  
-23917688. [Jersey DI not working with @Context annotation](http://stackoverflow.com/questions/23917688) (0 upvotes)  
-23928586. [The method proprietaryEvaluate(String, Class, PageContext, null) is undefined for the type PageContextImpl](http://stackoverflow.com/questions/23928586) (0 upvotes)  
-23933558. [Adding a camera preview over windowmanager](http://stackoverflow.com/questions/23933558) (0 upvotes)  
-23934684. [Excluding modules on SonarQube 4.3](http://stackoverflow.com/questions/23934684) (0 upvotes)  
-23935471. [Rewriting old/deprecated code java](http://stackoverflow.com/questions/23935471) (0 upvotes)  
-23936528. [Java - Generate download from byte[] using Google App Engine](http://stackoverflow.com/questions/23936528) (-1 upvotes)  
-23955313. [java - how to hold time?](http://stackoverflow.com/questions/23955313) (0 upvotes)  
-23962862. [JAR file messes GUI?](http://stackoverflow.com/questions/23962862) (2 upvotes)  
-23966431. [Maven Failed to execute goal org.codehaus.mojo:exec-maven-plugin:1.3](http://stackoverflow.com/questions/23966431) (0 upvotes)  
-23967353. [How to make synchronize scroll between two table in vaadin 7?](http://stackoverflow.com/questions/23967353) (0 upvotes)  
-23976774. [How to display text in LWJGL using version 3.2 or above](http://stackoverflow.com/questions/23976774) (1 upvotes)  
-23987323. [How to resolve exception in thread main NoClassDefFoundError in Java?](http://stackoverflow.com/questions/23987323) (0 upvotes)  
-23990116. [Hibernate Annotation error](http://stackoverflow.com/questions/23990116) (0 upvotes)  
-23990261. [How to deprecate a method in interface?](http://stackoverflow.com/questions/23990261) (-1 upvotes)  
-23993428. [Jooq autogenerate results in "SELECT command denied to user ... for table 'proc'](http://stackoverflow.com/questions/23993428) (1 upvotes)  
-23998507. [How to clear the Infinispan cache](http://stackoverflow.com/questions/23998507) (0 upvotes)  
-24013627. [How to use UntypedActorFactory() in Akka 2.2.4](http://stackoverflow.com/questions/24013627) (0 upvotes)  
-24016582. [Why do getNewValue() and getOldValue() are deprecated in ListEvent class in Glazed Lists?](http://stackoverflow.com/questions/24016582) (0 upvotes)  
-24020479. [Is there an equivalent construct for HSSFTextbox in the ss.usermodel as opposed to hssf.usermodel?](http://stackoverflow.com/questions/24020479) (0 upvotes)  
-24022780. [Will the size of a Solr core on disk grow indefinitely?](http://stackoverflow.com/questions/24022780) (0 upvotes)  
-24029037. [pausing and resuming a thread in java game development](http://stackoverflow.com/questions/24029037) (-1 upvotes)  
-24030030. [Maven not copying .class files to target while in building though build runs fine in Unix,but the same works in eclipse](http://stackoverflow.com/questions/24030030) (0 upvotes)  
-24046204. [Tool to find deprecated code in jsp or xml files](http://stackoverflow.com/questions/24046204) (0 upvotes)  
-24049197. [Sending an HTTP-post request](http://stackoverflow.com/questions/24049197) (4 upvotes)  
-24053179. [Fetching particular value from entity in GAE DataStore without PersistantManager](http://stackoverflow.com/questions/24053179) (0 upvotes)  
-24059941. [Spring - Annotation - Controller - Use setRedirectAction in controller class](http://stackoverflow.com/questions/24059941) (0 upvotes)  
-24064260. [Maven (m2e) does not update the JRE in Eclipse](http://stackoverflow.com/questions/24064260) (2 upvotes)  
-24065293. [Why can't the instance panel be seen in my apache solr admin interface?](http://stackoverflow.com/questions/24065293) (0 upvotes)  
-24065817. [resources/hibernate.cfg.xml not found](http://stackoverflow.com/questions/24065817) (0 upvotes)  
-24066591. [javac invalid target 1.7 mvn install with Java 7 on Mac](http://stackoverflow.com/questions/24066591) (0 upvotes)  
-24070304. [Android error, cannot instantiate service ... interface cannot be instantiated](http://stackoverflow.com/questions/24070304) (0 upvotes)  
-24070444. [Inputting data to a HashMap](http://stackoverflow.com/questions/24070444) (-1 upvotes)  
-24073676. [Android application displays black screen after running](http://stackoverflow.com/questions/24073676) (0 upvotes)  
-24074943. [Why spring Framework's javadoc is very beautiful?](http://stackoverflow.com/questions/24074943) (0 upvotes)  
-24078865. [Streaming online radio, too much work on the main thread](http://stackoverflow.com/questions/24078865) (0 upvotes)  
-24085795. [Eclipse JDT Batch Compiler Compliance 1.6](http://stackoverflow.com/questions/24085795) (0 upvotes)  
-24087994. [Eclipse JDT Batch Compiler OutOfMemoryError](http://stackoverflow.com/questions/24087994) (0 upvotes)  
-24088623. [Incremental java compile with maven (like Eclipse does)](http://stackoverflow.com/questions/24088623) (0 upvotes)  
-24093746. [How to upload image Android to Server using PHP mysql](http://stackoverflow.com/questions/24093746) (-4 upvotes)  
-24095786. [Facebook image sharing not working in android](http://stackoverflow.com/questions/24095786) (0 upvotes)  
-24096227. [Stemming text in java](http://stackoverflow.com/questions/24096227) (0 upvotes)  
-24096834. [org.apache.hadoop.mapred.LocalClientProtocolProvider not found](http://stackoverflow.com/questions/24096834) (1 upvotes)  
-24097964. [Android Camera Example NullPointerException](http://stackoverflow.com/questions/24097964) (0 upvotes)  
-24101928. [Setting Block Data from Schematic in Bukkit?](http://stackoverflow.com/questions/24101928) (1 upvotes)  
-24105539. [deleing element from one of dual jlist](http://stackoverflow.com/questions/24105539) (-1 upvotes)  
-24114387. [ScaleGestureDetector onTouchEvent doesn't work - Android](http://stackoverflow.com/questions/24114387) (0 upvotes)  
-24115625. [Has viewing an EventSource in Real-Time in Chrome using the browser been deprecated?](http://stackoverflow.com/questions/24115625) (1 upvotes)  
-24117878. [JasperReports 5.6: JRXlsExporter.setParameter is deprecated](http://stackoverflow.com/questions/24117878) (2 upvotes)  
-24118050. [Java makefile under windows chokes on accent marks](http://stackoverflow.com/questions/24118050) (1 upvotes)  
-24118974. [AndEngine ads with Google Play Services](http://stackoverflow.com/questions/24118974) (0 upvotes)  
-24124282. [Check if a certain file exists in CFS from Java code](http://stackoverflow.com/questions/24124282) (1 upvotes)  
-24126099. [Lucene 4.8 IllegalStateException on Field.setBoost](http://stackoverflow.com/questions/24126099) (0 upvotes)  
-24128120. [Why is the constant HTTP.UTF_8 deprecated?](http://stackoverflow.com/questions/24128120) (3 upvotes)  
-24132141. [android studio build failed because of "Cannot cast object '11' with class 'java.lang.Integer' to class "](http://stackoverflow.com/questions/24132141) (0 upvotes)  
-24150255. [Deadlock found when trying to get lock; try restarting transaction : @RetryTransaction](http://stackoverflow.com/questions/24150255) (0 upvotes)  
-24152796. [Grails Date constructor and parsing Dates](http://stackoverflow.com/questions/24152796) (0 upvotes)  
-24154321. [How creating parallel work to TestNG + Maven (Suits)](http://stackoverflow.com/questions/24154321) (0 upvotes)  
-24154856. [Transformation scale mutated input Bitmap but failed to recycle the original](http://stackoverflow.com/questions/24154856) (0 upvotes)  
-24157592. [Load ServletConfig](http://stackoverflow.com/questions/24157592) (0 upvotes)  
-24159327. [How to keep the vibrator on indefinitely from a service or receiver](http://stackoverflow.com/questions/24159327) (5 upvotes)  
-24162179. [Deploying/Migration an application from JBoss 4.2.3GA to 7.1.1GA](http://stackoverflow.com/questions/24162179) (0 upvotes)  
-24167043. [Replacing Hibernate.STRING without being able to use StringType.INSTANCE](http://stackoverflow.com/questions/24167043) (0 upvotes)  
-24172701. [How to keep track of classes that Jackson might deserialize to?](http://stackoverflow.com/questions/24172701) (0 upvotes)  
-24174315. [Is GridView an Appropriate Widget for Displaying SQLite Data?](http://stackoverflow.com/questions/24174315) (0 upvotes)  
-24182802. [How to allow MouseEvents to be dispatched to disabled Nodes?](http://stackoverflow.com/questions/24182802) (4 upvotes)  
-24183935. [Appengine local datastore location config for Java DevServer](http://stackoverflow.com/questions/24183935) (0 upvotes)  
-24184574. [Custom Node painting in JavaFX](http://stackoverflow.com/questions/24184574) (0 upvotes)  
-24189290. [How to check if a certain date is passed](http://stackoverflow.com/questions/24189290) (1 upvotes)  
-24189375. [Weblogic RDBMS Custom Realm](http://stackoverflow.com/questions/24189375) (0 upvotes)  
-24194255. [Android camera preview stay white, but no crash](http://stackoverflow.com/questions/24194255) (0 upvotes)  
-24201349. [one to many association ,table not associate ,](http://stackoverflow.com/questions/24201349) (0 upvotes)  
-24206396. [Android listener for webpage to start loading?](http://stackoverflow.com/questions/24206396) (0 upvotes)  
-24207529. [gradle custom java plugin (with properties)](http://stackoverflow.com/questions/24207529) (0 upvotes)  
-24208380. [How to modify all elements except the current one when iterating](http://stackoverflow.com/questions/24208380) (1 upvotes)  
-24212490. [Random android.intent.action.PHONE_STATE error on receiving calls](http://stackoverflow.com/questions/24212490) (0 upvotes)  
-24214497. [Android Gradle Build Errors](http://stackoverflow.com/questions/24214497) (1 upvotes)  
-24215205. [GWT: CellBrowser isn't displayed in a composite](http://stackoverflow.com/questions/24215205) (0 upvotes)  
-24217164. [App keeps crashing, but works on simulator phone](http://stackoverflow.com/questions/24217164) (0 upvotes)  
-24218613. [one to many Cannot add foreign key constraint](http://stackoverflow.com/questions/24218613) (0 upvotes)  
-24222835. [Error performing load command : org.hibernate.exception.SQLGrammarException: could not extract ResultSet Exception in thread "main"](http://stackoverflow.com/questions/24222835) (1 upvotes)  
-24223400. [Java reading/writing several objects to file](http://stackoverflow.com/questions/24223400) (2 upvotes)  
-24235050. [OpenGL (LWJGL) GL_QUADS behaves oddly](http://stackoverflow.com/questions/24235050) (0 upvotes)  
-24235290. [Fields keep disappearing in R.java](http://stackoverflow.com/questions/24235290) (-2 upvotes)  
-24237276. [java.lang.NoClassDefFoundError: Could not initialize class org.springframework.beans.CachedIntrospectionResults](http://stackoverflow.com/questions/24237276) (2 upvotes)  
-24243381. [Very Slow Apache httpserver response (httpcore 4.3.2 libs)](http://stackoverflow.com/questions/24243381) (0 upvotes)  
-24252213. [Get Timestamp from String and than a Date](http://stackoverflow.com/questions/24252213) (1 upvotes)  
-24256916. [Why Java isn't made fit for KernelProgramming?](http://stackoverflow.com/questions/24256916) (-4 upvotes)  
-24265457. [Difficulty building Pig using Ant](http://stackoverflow.com/questions/24265457) (1 upvotes)  
-24266297. [Error sending email with Java Commons Mail](http://stackoverflow.com/questions/24266297) (0 upvotes)  
-24288709. [Java primitives support elimination? and exact purpose of retaining with new Java version release](http://stackoverflow.com/questions/24288709) (0 upvotes)  
-24296505. [How to effectively use cardlayout in java in order to switch from panel using buttons inside various panel constructors](http://stackoverflow.com/questions/24296505) (1 upvotes)  
-24297798. [Is @Configuration optional for JavaConfig classes?](http://stackoverflow.com/questions/24297798) (0 upvotes)  
-24303903. [ClassNotFoundException: org.springframework.security.core.SpringSecurityCoreVersion](http://stackoverflow.com/questions/24303903) (0 upvotes)  
-24305700. [Camera error - Fail to connect to camera service](http://stackoverflow.com/questions/24305700) (0 upvotes)  
-24308947. [javac default memoryInitialSize and memoryMaximumSize?](http://stackoverflow.com/questions/24308947) (0 upvotes)  
-24310049. [Hadoop 2.4: java.lang.NoClassDefFoundError: org/apache/hcatalog/mapreduce/InputJobInfo](http://stackoverflow.com/questions/24310049) (0 upvotes)  
-24316915. [get TimeZone in gwt](http://stackoverflow.com/questions/24316915) (0 upvotes)  
-24317713. [MySQL update query produces null pointer exception](http://stackoverflow.com/questions/24317713) (0 upvotes)  
-24323194. [Clarification about Converting Appengine Backends to Modules](http://stackoverflow.com/questions/24323194) (0 upvotes)  
-24323982. [Android Java error:null pointer exception can't see why?](http://stackoverflow.com/questions/24323982) (-6 upvotes)  
-24325277. [java.lang.NullPointerException at org.hibernate.cfg.Configuration.configure(Configuration.java:2111)](http://stackoverflow.com/questions/24325277) (0 upvotes)  
-24327743. [Images are not getting displayed in browser in JasperReports 5.6](http://stackoverflow.com/questions/24327743) (0 upvotes)  
-24339486. [Handling EditText Dynamically in Android](http://stackoverflow.com/questions/24339486) (0 upvotes)  
-24351849. [Java - MySQL to Hive Import where MySQL Running on Windows and Hive Running on Cent OS (Horton Sandbox)](http://stackoverflow.com/questions/24351849) (3 upvotes)  
-24352697. [Java - com.cloudera.sqoop vs. org.apache.sqoop which to import from sqoop jar?](http://stackoverflow.com/questions/24352697) (2 upvotes)  
-24354187. [How can I read a sql database backward](http://stackoverflow.com/questions/24354187) (0 upvotes)  
-24355016. [How to make aspectj-maven-plugin include filename and line number in warnings](http://stackoverflow.com/questions/24355016) (0 upvotes)  
-24364742. [Avoid showing already-authorized to app](http://stackoverflow.com/questions/24364742) (0 upvotes)  
-24371617. [Null Pointer Exception Sql Database](http://stackoverflow.com/questions/24371617) (0 upvotes)  
-24373577. [Thread methods deprecated](http://stackoverflow.com/questions/24373577) (1 upvotes)  
-24377571. [Android E/Trace(627): error opening trace file: No such file or directory (2)](http://stackoverflow.com/questions/24377571) (0 upvotes)  
-24379709. [Atmosphere framework, BroadcasterFactory.getDefault() alternative](http://stackoverflow.com/questions/24379709) (2 upvotes)  
-24386554. [Do I need to close DirectoryReader while using Lucence Near real-time indexing feature](http://stackoverflow.com/questions/24386554) (0 upvotes)  
-24394255. [open shift tomcat 7 SEVERE: Error listenerStart](http://stackoverflow.com/questions/24394255) (0 upvotes)  
-24398826. [How to specify com.google.gwt.dev.DevMode as the main class automatically when debug gwt code](http://stackoverflow.com/questions/24398826) (0 upvotes)  
-24410914. [Want to bind Json Data with text and images in spinner](http://stackoverflow.com/questions/24410914) (0 upvotes)  
-24412058. [Using Facebook SDK 3.15. How to share a bitmap](http://stackoverflow.com/questions/24412058) (0 upvotes)  
-24417617. [MVC application cannot perform RequestMapping](http://stackoverflow.com/questions/24417617) (0 upvotes)  
-24418068. [Storing/retrieving BYTEA and BLOB with Java/Scala: "java.sql.SQLFeatureNotSupportedException"](http://stackoverflow.com/questions/24418068) (2 upvotes)  
-24427441. [How to suspend a Java application to take diagnostics](http://stackoverflow.com/questions/24427441) (0 upvotes)  
-24428433. [Error while running mvn jboss-as:run](http://stackoverflow.com/questions/24428433) (0 upvotes)  
-24428437. [Mute command with 2 arguments (ArrayIndexOutOfBoundsException)](http://stackoverflow.com/questions/24428437) (0 upvotes)  
-24429553. [Reading Sql Database from backward](http://stackoverflow.com/questions/24429553) (0 upvotes)  
-24453535. [How to convert byte[] to message with javax.mail library](http://stackoverflow.com/questions/24453535) (0 upvotes)  
-24459715. [I am unable to create Drive object for Google Drive in android](http://stackoverflow.com/questions/24459715) (0 upvotes)  
-24464074. [What are the thread command alternatives in Java?](http://stackoverflow.com/questions/24464074) (0 upvotes)  
-24469244. [Hadoop single node configuration: Allocation memory error during map reduce](http://stackoverflow.com/questions/24469244) (1 upvotes)  
-24469537. [JavaFX desktop app - Using HSQLDB (embedded) and Hibernate](http://stackoverflow.com/questions/24469537) (0 upvotes)  
-24470814. [SonarQube does not collect code coverage](http://stackoverflow.com/questions/24470814) (1 upvotes)  
-24480442. [Deploying webapp on Tomcat7](http://stackoverflow.com/questions/24480442) (0 upvotes)  
-24480919. [Java: replacing deprecated show() method when it takes arguments](http://stackoverflow.com/questions/24480919) (0 upvotes)  
-24488922. [how to Pass id of the selected row in a listview and get the values of row in another acticity,values are stored in sqlite database](http://stackoverflow.com/questions/24488922) (0 upvotes)  
-24495353. [Uploading Image To Google App Engine Blobstore - Java](http://stackoverflow.com/questions/24495353) (0 upvotes)  
-24498646. [500 server error on App Engine when using OpenID Users API on custom domain](http://stackoverflow.com/questions/24498646) (1 upvotes)  
-24505264. [Start user's standard mail client with attachment pre-attached](http://stackoverflow.com/questions/24505264) (0 upvotes)  
-24509062. [What's the difference between setTime(...) and setTimestamp(...) in Hibernate Query?](http://stackoverflow.com/questions/24509062) (-1 upvotes)  
-24510785. [Explanation of "itf" parameter of visitMethodInsn in ASM 5](http://stackoverflow.com/questions/24510785) (1 upvotes)  
-24538140. [IllegalArgumentException Parameter value [Long] was not matching type [java.lang.String]](http://stackoverflow.com/questions/24538140) (1 upvotes)  
-24540443. [Get name of day from timestamp in Android](http://stackoverflow.com/questions/24540443) (0 upvotes)  
-24542565. [Bug when firing notification using AlarmManager at specific time every day](http://stackoverflow.com/questions/24542565) (1 upvotes)  
-24548599. [Android SQLite query rows from bottom to top with timestamp to equal current date](http://stackoverflow.com/questions/24548599) (-1 upvotes)  
-24553517. [Move an implementation from one file to another keeping git tracking](http://stackoverflow.com/questions/24553517) (1 upvotes)  
-24558735. [Google play services lib Java heap space error](http://stackoverflow.com/questions/24558735) (0 upvotes)  
-24564554. [Maven javadoc:javadoc works but javadoc:aggregate throws errors that look like compiler errors](http://stackoverflow.com/questions/24564554) (5 upvotes)  
-24571244. [Is the isChecked() method Deprecated](http://stackoverflow.com/questions/24571244) (2 upvotes)  
-24575639. [org.apache.hadoop.io.Text cannot be cast to org.apache.hive.hcatalog.data.HCatRecord](http://stackoverflow.com/questions/24575639) (-1 upvotes)  
-24579445. [illegalthreadstateexception thread already started occurs when using thread.start in a FOR loop in Java on Android](http://stackoverflow.com/questions/24579445) (-3 upvotes)  
-24582930. [Terminate program and show error dialog on fatal exception](http://stackoverflow.com/questions/24582930) (0 upvotes)  
-24585804. [what is alternative function instead of setPreferredSize function in codenameone](http://stackoverflow.com/questions/24585804) (1 upvotes)  
-24589519. [Overriding Spring Security TokenBasedRememberMeServices don't work?](http://stackoverflow.com/questions/24589519) (0 upvotes)  
-24600599. [Trouble scanning for collisions in javaFX](http://stackoverflow.com/questions/24600599) (0 upvotes)  
-24609538. [maven won't compile my JavaFx project on Ubuntu](http://stackoverflow.com/questions/24609538) (0 upvotes)  
-24613994. [java json communication with LimeSurvey](http://stackoverflow.com/questions/24613994) (0 upvotes)  
-24616924. [Is the JDK missing some source files?](http://stackoverflow.com/questions/24616924) (2 upvotes)  
-24634522. [Debuggin Jetty webapp initialization](http://stackoverflow.com/questions/24634522) (0 upvotes)  
-24642730. [Send message to other devices in Google Cloud Messaging](http://stackoverflow.com/questions/24642730) (0 upvotes)  
-24644540. [Derby LockAcquisitionException thrown on subsequent accesses](http://stackoverflow.com/questions/24644540) (0 upvotes)  
-24646288. [onclick working fine in api 18 but not on api 8](http://stackoverflow.com/questions/24646288) (0 upvotes)  
-24650186. [Choosing between java.util.Date or java.sql.Date](http://stackoverflow.com/questions/24650186) (0 upvotes)  
-24668193. [Unfortunately application has stopped android emulator](http://stackoverflow.com/questions/24668193) (0 upvotes)  
-24680585. [JDK7, mvn-3.2.2 - maven-enforcer-plugin - RequireJavaVersion failed](http://stackoverflow.com/questions/24680585) (0 upvotes)  
-24684799. [Play framework - java.lang.RuntimeException: No main class detected](http://stackoverflow.com/questions/24684799) (2 upvotes)  
-24685545. [swagger-springmvc IncompatibleClassChangeError on Tomcat startup](http://stackoverflow.com/questions/24685545) (1 upvotes)  
-24685552. [Frequent ZooKeeper CONNECTIONLOSS events?](http://stackoverflow.com/questions/24685552) (1 upvotes)  
-24686985. [Websphere8.5 j2ee log out from single sign on](http://stackoverflow.com/questions/24686985) (0 upvotes)  
-24686988. [Morphia / Java how to pass in username and password in new version?](http://stackoverflow.com/questions/24686988) (1 upvotes)  
-24689785. [How to stop a thread without using the stop Method?](http://stackoverflow.com/questions/24689785) (0 upvotes)  
-24695063. [Unable to instantiate activity for Compass Activity](http://stackoverflow.com/questions/24695063) (1 upvotes)  
-24702058. [Threads waiting but why?](http://stackoverflow.com/questions/24702058) (-5 upvotes)  
-24704267. [Tapestry 5 cannot resolve symbol "layout"](http://stackoverflow.com/questions/24704267) (0 upvotes)  
-24706812. [Java JApplet doesn't remove an old rectangle once it is moved](http://stackoverflow.com/questions/24706812) (2 upvotes)  
-24722950. [How can I correctly set a Dye into an ItemStack?](http://stackoverflow.com/questions/24722950) (1 upvotes)  
-24723169. [How agent login using AMI asterisk interface?](http://stackoverflow.com/questions/24723169) (0 upvotes)  
-24723240. [Imprecise comparison of complex objects in Java?](http://stackoverflow.com/questions/24723240) (1 upvotes)  
-24723596. [I can't click ListView in SlidingMenu Fragment, Layout doesn't appear](http://stackoverflow.com/questions/24723596) (0 upvotes)  
-24724570. [Spring Data Neo4j exceptions](http://stackoverflow.com/questions/24724570) (0 upvotes)  
-24727509. [Bukkit Coding - Config.yml How do I allow players to have {target} and {sender} in there and it shows up as the sender name and target name in game](http://stackoverflow.com/questions/24727509) (0 upvotes)  
-24733049. [aborting jython script from java](http://stackoverflow.com/questions/24733049) (3 upvotes)  
-24744171. [Parsing XSD Schema with XSOM in Java. How to access attributes in another namespace](http://stackoverflow.com/questions/24744171) (0 upvotes)  
-24745803. [Error starting embedded astyanax cassandra from java code](http://stackoverflow.com/questions/24745803) (0 upvotes)  
-24746799. [Google OAuth2 Migration and App Engine UserService](http://stackoverflow.com/questions/24746799) (1 upvotes)  
-24754297. [android: Variable in runOnUiThread](http://stackoverflow.com/questions/24754297) (1 upvotes)  
-24759794. [Best way to add classpath to build.xml](http://stackoverflow.com/questions/24759794) (0 upvotes)  
-24761621. [Why can't my CSV File display the content onto my graph?](http://stackoverflow.com/questions/24761621) (0 upvotes)  
-24762325. [Deleting code and unit tests in java](http://stackoverflow.com/questions/24762325) (-1 upvotes)  
-24763015. [Youtube messages using v3](http://stackoverflow.com/questions/24763015) (0 upvotes)  
-24765243. [SapJco 3.0.11 with Maven: It is not allowed to rename or repackage the original archive "sapjco3.jar"](http://stackoverflow.com/questions/24765243) (0 upvotes)  
-24769228. [Notification DeleteIntent broken on later versions of Android](http://stackoverflow.com/questions/24769228) (1 upvotes)  
-24771420. [Does my app connected and detect to my wifi access point?](http://stackoverflow.com/questions/24771420) (0 upvotes)  
-24772626. [App crashes after splash screen](http://stackoverflow.com/questions/24772626) (0 upvotes)  
-24779881. [Using non activity class to write to a file](http://stackoverflow.com/questions/24779881) (1 upvotes)  
-24785219. [Apache CXF-JMS 3.0 and Spring configuration](http://stackoverflow.com/questions/24785219) (1 upvotes)  
-24787616. [Unable to create JOB in SCOOP](http://stackoverflow.com/questions/24787616) (0 upvotes)  
-24788521. [Why I am getting DefaultHttpClient is deprecated?](http://stackoverflow.com/questions/24788521) (0 upvotes)  
-24795235. [My android application is unable to establish connection with my PHP file](http://stackoverflow.com/questions/24795235) (0 upvotes)  
-24798644. [OnBoard Device Debugging with Nokia Asha (SDK 1.1+) in NetBeans](http://stackoverflow.com/questions/24798644) (0 upvotes)  
-24799507. [playframework-2.3 Akka-Async interaction porting?](http://stackoverflow.com/questions/24799507) (0 upvotes)  
-24819449. [How can I set my back end values to my form text field in play framework](http://stackoverflow.com/questions/24819449) (0 upvotes)  
-24820769. [Unfortunetly The program has stopped](http://stackoverflow.com/questions/24820769) (-3 upvotes)  
-24825841. [JTextField to File Output](http://stackoverflow.com/questions/24825841) (-3 upvotes)  
-24826105. [Weird error in using Ant](http://stackoverflow.com/questions/24826105) (0 upvotes)  
-24830932. [how to setup JPA project to work with Hibernate?](http://stackoverflow.com/questions/24830932) (1 upvotes)  
-24837919. [Reading and using Files in java](http://stackoverflow.com/questions/24837919) (0 upvotes)  
-24838374. [Android:Other user cann't feed/share through my facebook app](http://stackoverflow.com/questions/24838374) (0 upvotes)  
-24838730. [How can i calculate difference in seocnds between a predefined date time and recent date time](http://stackoverflow.com/questions/24838730) (0 upvotes)  
-24840534. [Conflict with Maven Dependencies (Spring & Hibernate)](http://stackoverflow.com/questions/24840534) (0 upvotes)  
-24843122. [Why am i getting a "could not read hi value" error?](http://stackoverflow.com/questions/24843122) (0 upvotes)  
-24844506. [How do I import 3rd party jars with Buildr?](http://stackoverflow.com/questions/24844506) (0 upvotes)  
-24848404. [JavaDoc fails with "Illegal package name"-error](http://stackoverflow.com/questions/24848404) (0 upvotes)  
-24852252. [java.lang.ClassNotFoundException: javax.persistence.Persistence](http://stackoverflow.com/questions/24852252) (0 upvotes)  
-24854679. [Can I try/catch this error: "An unexpected error occurred while trying to open jar"](http://stackoverflow.com/questions/24854679) (0 upvotes)  
-24854887. [Manipulating single cell in a google spreadsheet](http://stackoverflow.com/questions/24854887) (1 upvotes)  
-24861997. [Google App Engine : Calling Multiple Back end Inside a task queue in a sequence](http://stackoverflow.com/questions/24861997) (1 upvotes)  
-24868528. [Gradle 1.1 vs 2.0: Could not determine the dependencies of task ':compileAcctJava'](http://stackoverflow.com/questions/24868528) (4 upvotes)  
-24869810. [jOOQ codegen maven plugin error with 3.4.1 but not with 3.1.0](http://stackoverflow.com/questions/24869810) (1 upvotes)  
-24875999. [How I have to configure hdfs and pig](http://stackoverflow.com/questions/24875999) (0 upvotes)  
-24884568. [Struts 2/ Foundation 5 - ModelDriven class and File upload](http://stackoverflow.com/questions/24884568) (2 upvotes)  
-24888491. [Replace shape in center of Android Camera App](http://stackoverflow.com/questions/24888491) (0 upvotes)  
-24895303. [How to use buttons and swiping gestures on android](http://stackoverflow.com/questions/24895303) (0 upvotes)  
-24899211. [Stopping a working thread while querying Facebook](http://stackoverflow.com/questions/24899211) (1 upvotes)  
-24902158. [c3p0 : java.sql.SQLException: Some resources failed to close properly](http://stackoverflow.com/questions/24902158) (0 upvotes)  
-24916810. [How to let Hibernate create tables in database automatically when used with JPA?](http://stackoverflow.com/questions/24916810) (0 upvotes)  
-24925053. [Locale in Spring MVC](http://stackoverflow.com/questions/24925053) (1 upvotes)  
-24926522. [How do I update my profile record in play framework](http://stackoverflow.com/questions/24926522) (0 upvotes)  
-24935091. [Deadlock in Try-catch-finally](http://stackoverflow.com/questions/24935091) (-4 upvotes)  
-24943304. [java.lang.ClassCastException: org.apache.jasper.runtime.ELContextImpl cannot be cast to org.apache.jasper.el.ELContextImpl](http://stackoverflow.com/questions/24943304) (0 upvotes)  
-24944205. [Netbeans + JavaFX: bootstrap class path not set in conjunction with -source 1.6](http://stackoverflow.com/questions/24944205) (0 upvotes)  
-24946972. [How to run Junits locally using Google Cloud Storage service](http://stackoverflow.com/questions/24946972) (0 upvotes)  
-24955953. [Eclipse + JNI: Can find library but not method](http://stackoverflow.com/questions/24955953) (0 upvotes)  
-24957170. [Getting error when I try to change output directory using maven and pom.xml](http://stackoverflow.com/questions/24957170) (2 upvotes)  
-24957878. [Spring MVC Bean Validation with Java Configuration](http://stackoverflow.com/questions/24957878) (0 upvotes)  
-24961678. [How to make a button change Tab in TabHost()](http://stackoverflow.com/questions/24961678) (0 upvotes)  
-24964024. [Applet Not Displaying In Web Browser](http://stackoverflow.com/questions/24964024) (1 upvotes)  
-24969326. [hibernate.dialect must be set when no connection available](http://stackoverflow.com/questions/24969326) (0 upvotes)  
-24977735. [When using CDI in Java is the default constructor necessary?](http://stackoverflow.com/questions/24977735) (2 upvotes)  
-24982392. [Java socket, send image](http://stackoverflow.com/questions/24982392) (0 upvotes)  
-24983252. [Custom camera Crashes app onLanuch](http://stackoverflow.com/questions/24983252) (0 upvotes)  
-25001402. [How to return user input values (double) from EditText- Android](http://stackoverflow.com/questions/25001402) (-1 upvotes)  
-25011775. [Date is deprecated. Should I use it or not?](http://stackoverflow.com/questions/25011775) (0 upvotes)  
-25020741. [Having trouble implementing CountDownTimer in Android game](http://stackoverflow.com/questions/25020741) (0 upvotes)  
-25051671. [TotalOrderPartitioner ignores partition file location](http://stackoverflow.com/questions/25051671) (1 upvotes)  
-25073503. [how to get ArrayLists from particular JSONObects in android?](http://stackoverflow.com/questions/25073503) (0 upvotes)  
-25074255. [new GestureDetector(new SwipeGestureDetector()) deprecated](http://stackoverflow.com/questions/25074255) (0 upvotes)  
-25076968. [The same Android listview code is choppy on scroll in one version of app, in other is not. (known tweaks performed)](http://stackoverflow.com/questions/25076968) (3 upvotes)  
-25076975. [NoSQL Datastore provider: org.hibernate.ogm.datastore.mongodb.impl.MongoDBDatastoreProvider](http://stackoverflow.com/questions/25076975) (1 upvotes)  
-25079125. [Setting value between classes (via set/get methods)](http://stackoverflow.com/questions/25079125) (-2 upvotes)  
-25079368. [Why SingleThreadModel Marker Interface in Servlet API 2.5 is marked as "Deprecated"?](http://stackoverflow.com/questions/25079368) (0 upvotes)  
-25083666. [How to instantiate BeanFactory in Spring 4?](http://stackoverflow.com/questions/25083666) (0 upvotes)  
-25089759. [Move AdView to bottom, Cocos2dx Activity](http://stackoverflow.com/questions/25089759) (0 upvotes)  
-25090570. [Google Auto Factory: not annotated with @Provided?](http://stackoverflow.com/questions/25090570) (0 upvotes)  
-25092426. [Automatic crossing of function names by eclipse in the standard StdIn class](http://stackoverflow.com/questions/25092426) (0 upvotes)  
-25093255. [How to get time difference in Android?](http://stackoverflow.com/questions/25093255) (0 upvotes)  
-25098314. [Java JOptionPane Issue](http://stackoverflow.com/questions/25098314) (0 upvotes)  
-25100610. [Android Studio (0.8.2) + Android Annotations (3.0.1) cannot symbol class MyClass](http://stackoverflow.com/questions/25100610) (1 upvotes)  
-25114491. [Remove non-object From List<Object>](http://stackoverflow.com/questions/25114491) (0 upvotes)  
-25120024. [Tabs in android not showing](http://stackoverflow.com/questions/25120024) (0 upvotes)  
-25123115. [Get Image path JavaFx](http://stackoverflow.com/questions/25123115) (0 upvotes)  
-25135814. [how to get captured image into app and want to upload into server?](http://stackoverflow.com/questions/25135814) (0 upvotes)  
-25135880. [Eclipse RCP no icons in plugin.xml extensions](http://stackoverflow.com/questions/25135880) (1 upvotes)  
-25136075. [/usr/lib/hive-hcatalog/share/hcatalog/hive-hcatalog-core-*.jar does not exist](http://stackoverflow.com/questions/25136075) (0 upvotes)  
-25136979. [exporting report to html format](http://stackoverflow.com/questions/25136979) (0 upvotes)  
-25139532. [Thread exiting with uncaught exception (group=0x40a3b1f8) while reading data from database and listing in listview using AES encryption?](http://stackoverflow.com/questions/25139532) (-1 upvotes)  
-25158851. [Cant run vertx module for eclipse project on windows 7](http://stackoverflow.com/questions/25158851) (0 upvotes)  
-25161813. [SOAP handlers using java keystore](http://stackoverflow.com/questions/25161813) (2 upvotes)  
-25165204. [multipart request on Android goes to timeout](http://stackoverflow.com/questions/25165204) (0 upvotes)  
-25172516. [Deleting a ServingUrl created from a GcsFilename instead of a BlobKey doesn't seem to be supported?](http://stackoverflow.com/questions/25172516) (0 upvotes)  
-25173630. [Hibernate: How to join two tables with one of it doesn't have an id?](http://stackoverflow.com/questions/25173630) (2 upvotes)  
-25177767. [Performance issue Sqlite in a tomcat server](http://stackoverflow.com/questions/25177767) (1 upvotes)  
-25183297. [Incompatibility version of Tomcat 7, Throwing java.lang.abstractmethoderror](http://stackoverflow.com/questions/25183297) (0 upvotes)  
-25189752. [How to add data to message body of post with HttpClient 4.3](http://stackoverflow.com/questions/25189752) (0 upvotes)  
-25190200. [Netty AttributeKey - Cannot infer type arguments for AttributeKey<>](http://stackoverflow.com/questions/25190200) (0 upvotes)  
-25193386. [Adding firebase to libgdx project built with gradle](http://stackoverflow.com/questions/25193386) (0 upvotes)  
-25194831. [Android - Hazards of using deprecated API](http://stackoverflow.com/questions/25194831) (0 upvotes)  
-25208866. [iText -> Best approach to read XMP metadata?](http://stackoverflow.com/questions/25208866) (0 upvotes)  
-25210836. [Properly use of jar command](http://stackoverflow.com/questions/25210836) (0 upvotes)  
-25210978. [Gradle 2.0 - Proper way to load a java properties file?](http://stackoverflow.com/questions/25210978) (2 upvotes)  
-25211904. [Anonymous threads deprecated entirely in Java?](http://stackoverflow.com/questions/25211904) (0 upvotes)  
-25220651. [Google Game Services for Android Stubborn Error](http://stackoverflow.com/questions/25220651) (0 upvotes)  
-25220713. [JOOQ: No schemata were loaded?](http://stackoverflow.com/questions/25220713) (1 upvotes)  
-25221219. [error: code too large in netbeans](http://stackoverflow.com/questions/25221219) (0 upvotes)  
-25223505. [Why is this notification coming up when it shouldn't?](http://stackoverflow.com/questions/25223505) (0 upvotes)  
-25224841. [Java EE 7 Security not redirecting users to the login page](http://stackoverflow.com/questions/25224841) (0 upvotes)  
-25236665. [Alternative for deprecated apache commons CurveFitter class?](http://stackoverflow.com/questions/25236665) (0 upvotes)  
-25251643. [Spring Data Neo4j and queries](http://stackoverflow.com/questions/25251643) (2 upvotes)  
-25256273. [Adding swipe functionality and a textview to a Image Slideshow Android app - Comic](http://stackoverflow.com/questions/25256273) (0 upvotes)  
-25258927. [Unable to run Cucumber tests from maven](http://stackoverflow.com/questions/25258927) (0 upvotes)  
-25265310. [how to solve android.database.CursorIndexOutOfBoundsException: Index 0 requested,](http://stackoverflow.com/questions/25265310) (-3 upvotes)  
-25276225. [@Context issue when migrating from JBoss 7.1.1 to Wildfly](http://stackoverflow.com/questions/25276225) (0 upvotes)  
-25283977. [ClassCastException when trying to invoke sonar with maven](http://stackoverflow.com/questions/25283977) (0 upvotes)  
-25293433. [CoberturaInstrumenter - Unable to instrument file?](http://stackoverflow.com/questions/25293433) (1 upvotes)  
-25296081. [Scale and align in custom android AnalogClock hands](http://stackoverflow.com/questions/25296081) (1 upvotes)  
-25299396. [What all to download for Google Cloud Storage api java?](http://stackoverflow.com/questions/25299396) (1 upvotes)  
-25311053. [how to bypass lotus notes password log in - JAVA code](http://stackoverflow.com/questions/25311053) (0 upvotes)  
-25315717. [Android display Dimensions and Drawable size scaling](http://stackoverflow.com/questions/25315717) (0 upvotes)  
-25321236. [user inputs name of image and displays the image into GUI Java](http://stackoverflow.com/questions/25321236) (0 upvotes)  
-25324505. [Backward compatible java code makes compile error](http://stackoverflow.com/questions/25324505) (2 upvotes)  
-25336173. [When i run the server for couple of times it worked well and after few start up it's showing the following message in the console](http://stackoverflow.com/questions/25336173) (-3 upvotes)  
-25339021. [Android method getChildView is being called multiple times so childs are repeating the no of child](http://stackoverflow.com/questions/25339021) (0 upvotes)  
-25339353. [Cannot use ant to compile 1.7 java project](http://stackoverflow.com/questions/25339353) (0 upvotes)  
-25339772. [Save a String globally in Android / Java](http://stackoverflow.com/questions/25339772) (0 upvotes)  
-25343641. [Something isn't working right with JavaFX](http://stackoverflow.com/questions/25343641) (0 upvotes)  
-25346615. [Java some of commands to RPC/Encoded web services could not found Axis files](http://stackoverflow.com/questions/25346615) (0 upvotes)  
-25347005. [unable to post game score on facebook wall in android using libgdx framework](http://stackoverflow.com/questions/25347005) (0 upvotes)  
-25349658. [how to compare two calendar objects?](http://stackoverflow.com/questions/25349658) (-2 upvotes)  
-25360916. [Best practice for signaling that a method is deprecated?](http://stackoverflow.com/questions/25360916) (0 upvotes)  
-25364802. [Hadoop MapReduce NoSuchElementException](http://stackoverflow.com/questions/25364802) (0 upvotes)  
-25367980. [How to get human readable date with unix time stamp in milliseconds?](http://stackoverflow.com/questions/25367980) (0 upvotes)  
-25381580. [android frame animation in fragment](http://stackoverflow.com/questions/25381580) (0 upvotes)  
-25387002. [Hadoop Mapreduce Wrong result without errors - Column count check](http://stackoverflow.com/questions/25387002) (0 upvotes)  
-25387387. [Sharedpreferences apply themes with button in custom activity in Android?](http://stackoverflow.com/questions/25387387) (0 upvotes)  
-25394084. [ListView.setSelection does not work](http://stackoverflow.com/questions/25394084) (0 upvotes)  
-25403936. [Facebook Posts Search using Graph API v2.1](http://stackoverflow.com/questions/25403936) (0 upvotes)  
-25408963. [How to output PEM for *Holder objects with Bouncy Castle 1.46? (i.e. BouncyCastle 1)](http://stackoverflow.com/questions/25408963) (0 upvotes)  
-25412681. [Spring Security Anonymous Authentication not initialised](http://stackoverflow.com/questions/25412681) (0 upvotes)  
-25418419. [Error using spray-aws to connect to DynamoDB under spray framework](http://stackoverflow.com/questions/25418419) (0 upvotes)  
-25418672. [Debugging Android App communicating with Servlet on real device](http://stackoverflow.com/questions/25418672) (1 upvotes)  
-25418885. [How to switch from sun microsystems BASE64Encoder to something equivalent?](http://stackoverflow.com/questions/25418885) (1 upvotes)  
-25419369. [Why does Spring not see my @Resource annotated object after Obfuscation?](http://stackoverflow.com/questions/25419369) (0 upvotes)  
-25426069. [What replaces ObjectId.massageToObjectId() in new mongo java driver?](http://stackoverflow.com/questions/25426069) (0 upvotes)  
-25431794. [Maven Exec Plugin : How configure the working directory](http://stackoverflow.com/questions/25431794) (0 upvotes)  
-25440896. [Cannot find symbol symbol : variable PROXIMITY_ON_WAKE?](http://stackoverflow.com/questions/25440896) (0 upvotes)  
-25450452. [Changed behaviour of java.sql.Date after OJBC client upgrade](http://stackoverflow.com/questions/25450452) (3 upvotes)  
-25459290. [How to implement GXT Appearance?](http://stackoverflow.com/questions/25459290) (0 upvotes)  
-25461528. [Android-Service Class to do task repeatidely in background crashing](http://stackoverflow.com/questions/25461528) (0 upvotes)  
-25462324. [how to display alert dialog box in button if target action fails](http://stackoverflow.com/questions/25462324) (1 upvotes)  
-25468992. [Struts 2 File Upload and AWS](http://stackoverflow.com/questions/25468992) (1 upvotes)  
-25474033. [Getting hours,minutes, and seconds from Date?](http://stackoverflow.com/questions/25474033) (0 upvotes)  
-25475907. [What method to use instead of deprecated setParameter in JRXlsExporter?](http://stackoverflow.com/questions/25475907) (0 upvotes)  
-25481931. [CellDataFeatures.getValue.get() no longer supported?](http://stackoverflow.com/questions/25481931) (0 upvotes)  
-25483610. [What's the equivalent of setConnectionTimeout() in latest Apache HTTP client?](http://stackoverflow.com/questions/25483610) (-2 upvotes)  
-25485124. [GOOGLE API for uploading and retrieving the images and their urls from google results in java](http://stackoverflow.com/questions/25485124) (0 upvotes)  
-25485397. [android facebook sdk Session: an attempt was made to request new permissions for a session that has a pending request](http://stackoverflow.com/questions/25485397) (0 upvotes)  
-25487259. [Hibernate 4, alternative way for implement UserType](http://stackoverflow.com/questions/25487259) (0 upvotes)  
-25489720. [Using Thread.stop() on carefully locked down, but untrusted, code](http://stackoverflow.com/questions/25489720) (10 upvotes)  
-25492040. [in folder my workplace dist/.jar can open, but 1 menu and report use iReport can't open. But in netbeans and then run can open that menu and report](http://stackoverflow.com/questions/25492040) (0 upvotes)  
-25492135. [Why does this Cloudant java api code not update existing database record?](http://stackoverflow.com/questions/25492135) (0 upvotes)  
-25499359. [Hadoop MapReduce secondary sort: Reducer not getting called](http://stackoverflow.com/questions/25499359) (0 upvotes)  
-25503939. [Ant build in Eclipse failing: Unable to understand the error from console](http://stackoverflow.com/questions/25503939) (1 upvotes)  
-25515704. [How to access the date and time a file was created?](http://stackoverflow.com/questions/25515704) (-1 upvotes)  
-25521877. [Universal Wiki Converter building with Eclipse](http://stackoverflow.com/questions/25521877) (0 upvotes)  
-25530184. [How do I change a user's password using Google's Directory API using Java? [Solved]](http://stackoverflow.com/questions/25530184) (0 upvotes)  
-25536466. [How Can Set FullWidth Image in PagerView in Android?](http://stackoverflow.com/questions/25536466) (-2 upvotes)  
-25537307. [App Engine - How to save a Blob?](http://stackoverflow.com/questions/25537307) (0 upvotes)  
-25540288. [Create Calendar object using SpEL](http://stackoverflow.com/questions/25540288) (0 upvotes)  
-25552721. [IntelliJ Idea Maven project and JasperReport cannot find symbol](http://stackoverflow.com/questions/25552721) (0 upvotes)  
-25553387. [Common naming conventions for option type variables and methods that return them](http://stackoverflow.com/questions/25553387) (1 upvotes)  
-25558605. [Getting a null crash into Android - setPreviewDisplay](http://stackoverflow.com/questions/25558605) (0 upvotes)  
-25560584. [How can I get my ad banner to the bottom of my application?](http://stackoverflow.com/questions/25560584) (1 upvotes)  
-25560796. [Spring framework upgrde from 3.2.2 -> 4.0.6, BeanCreationException ... RequestMappingHandlerMapping](http://stackoverflow.com/questions/25560796) (0 upvotes)  
-25565764. [Project throwing multiple compilation errors exception](http://stackoverflow.com/questions/25565764) (0 upvotes)  
-25571309. [Eclipse Android Exception : NullPointerException throws in SharedPreferences](http://stackoverflow.com/questions/25571309) (0 upvotes)  
-25572479. [ArrayIndexOutOfBoundsException: 0 using Vector](http://stackoverflow.com/questions/25572479) (-1 upvotes)  
-25573532. [Using OAuth2 token to authenticate to an API hosted on Google App Engine?](http://stackoverflow.com/questions/25573532) (0 upvotes)  
-25576825. [Making HTTP POST call in Java with file](http://stackoverflow.com/questions/25576825) (0 upvotes)  
-25578202. [Where can I find the StreamedTextArea() class - is it deprecated?](http://stackoverflow.com/questions/25578202) (0 upvotes)  
-25580487. [MapReduce counters are always zero for Hadoop/TEZ jobs](http://stackoverflow.com/questions/25580487) (0 upvotes)  
-25582988. [(ANDROID) Java - Facebook JSON parse error?](http://stackoverflow.com/questions/25582988) (0 upvotes)  
-25584727. [C++ and Java with Nar Maven plugin](http://stackoverflow.com/questions/25584727) (0 upvotes)  
-25587265. [getContext() doesn't exist](http://stackoverflow.com/questions/25587265) (0 upvotes)  
-25593245. [Is it better to use the deprecated glTranslatef or update coordinates using glBufferSubData?](http://stackoverflow.com/questions/25593245) (1 upvotes)  
-25595497. [Google Blobstore add using curl POST](http://stackoverflow.com/questions/25595497) (0 upvotes)  
-25601746. [Update list in a fragment when you are in another fragment](http://stackoverflow.com/questions/25601746) (0 upvotes)  
-25602188. [system agnostic url encoding](http://stackoverflow.com/questions/25602188) (-1 upvotes)  
-25606487. [Json response is very slow android](http://stackoverflow.com/questions/25606487) (3 upvotes)  
-25625641. [how to ensure thread safety for session attributes](http://stackoverflow.com/questions/25625641) (1 upvotes)  
-25629817. [Extract Date and month from a date object](http://stackoverflow.com/questions/25629817) (0 upvotes)  
-25630784. [Case insensitive requirement in a ported web service to java using tomcat 7](http://stackoverflow.com/questions/25630784) (0 upvotes)  
-25630906. [Not sure why I am getting a StackOverflowError. Also have a yellow underline under Vector, and 1 other place in code](http://stackoverflow.com/questions/25630906) (-4 upvotes)  
-25642536. [Transform XHTML with XML::Saxon::XSLT2](http://stackoverflow.com/questions/25642536) (0 upvotes)  
-25653702. [Why can't I schedule a fixed delay task using scheduler](http://stackoverflow.com/questions/25653702) (0 upvotes)  
-25657823. [DRL not resolve dynamically loaded class](http://stackoverflow.com/questions/25657823) (0 upvotes)  
-25661787. [Apache HTTPClient BasicAuthentification not working in 4.3](http://stackoverflow.com/questions/25661787) (0 upvotes)  
-25664704. [post status on linkedin wall usin java](http://stackoverflow.com/questions/25664704) (0 upvotes)  
-25667491. [Spring with Hibernate - Exception in thread "main" java.lang.NullPointerException](http://stackoverflow.com/questions/25667491) (3 upvotes)  
-25679142. [hadoop cannot find file in case path has extra /](http://stackoverflow.com/questions/25679142) (-1 upvotes)  
-25685077. [Solution for DefaultHttpClient is deprecated](http://stackoverflow.com/questions/25685077) (0 upvotes)  
-25689837. [Spring MVC web app cannot find org.apache.commons.dbcp.BasicDataSource class](http://stackoverflow.com/questions/25689837) (0 upvotes)  
-25693068. [White Dots and Lines between Polygons in Minecraft Clone with OpenGL](http://stackoverflow.com/questions/25693068) (0 upvotes)  
-25693744. [how to do for make public an app using facebook sdk for android?](http://stackoverflow.com/questions/25693744) (0 upvotes)  
-25695914. [Why does compilation take longer in Play 2.3.4 (activator) vs Play 2.2.4 (play)?](http://stackoverflow.com/questions/25695914) (1 upvotes)  
-25696057. [How to make inter-class call graph for Java using Doxygen?](http://stackoverflow.com/questions/25696057) (0 upvotes)  
-25702088. [Java available bytes for BufferedInputStream isn't working](http://stackoverflow.com/questions/25702088) (0 upvotes)  
-25704262. [How do we fix a NotBoundException?](http://stackoverflow.com/questions/25704262) (-2 upvotes)  
-25705036. [Java force stop a thread from executing inside a loop cycle](http://stackoverflow.com/questions/25705036) (0 upvotes)  
-25705800. [Where do I find start in gradlew in Eclipse?](http://stackoverflow.com/questions/25705800) (0 upvotes)  
-25706905. [stop() from java.lang.Thread has been deprecated](http://stackoverflow.com/questions/25706905) (-3 upvotes)  
-25706917. [Ongoing notification in service class causes phone to freeze](http://stackoverflow.com/questions/25706917) (0 upvotes)  
-25709477. [GLSL moving a 3D model position](http://stackoverflow.com/questions/25709477) (0 upvotes)  
-25710846. [Why RetentionPolicy.RUNTIME is used for @Deprecated annotation?](http://stackoverflow.com/questions/25710846) (2 upvotes)  
-25713646. [Java keyListener not working on BasicConstruct](http://stackoverflow.com/questions/25713646) (0 upvotes)  
-25726236. [Which PDF library to use](http://stackoverflow.com/questions/25726236) (0 upvotes)  
-25728402. [How can I connect to an external JVM using Inline::Java?](http://stackoverflow.com/questions/25728402) (1 upvotes)  
-25729674. [installing rJava error ubuntu 14.04](http://stackoverflow.com/questions/25729674) (0 upvotes)  
-25731767. [Android: R.java: error <identifier> expected](http://stackoverflow.com/questions/25731767) (0 upvotes)  
-25740363. [meaning of this glassfish warning: context path differs from bundle](http://stackoverflow.com/questions/25740363) (0 upvotes)  
-25741973. [hadoop version command gives error related to java (No such file or directory)](http://stackoverflow.com/questions/25741973) (0 upvotes)  
-25744236. [How to download image from a URL in android](http://stackoverflow.com/questions/25744236) (0 upvotes)  
-25752395. [How to rotate a JXImageview](http://stackoverflow.com/questions/25752395) (0 upvotes)  
-25753876. [Stopping a Java thread blocked on a Scanner](http://stackoverflow.com/questions/25753876) (1 upvotes)  
-25763318. [Resolving Eclipse's deprecated classpath variables](http://stackoverflow.com/questions/25763318) (0 upvotes)  
-25769454. [Hadoop program runs well with "java -jar" but not with "hadoop jar"](http://stackoverflow.com/questions/25769454) (0 upvotes)  
-25770699. [Sending the notifications from service](http://stackoverflow.com/questions/25770699) (0 upvotes)  
-25770789. [Jetty WebSocket api vs the standard JSR 356 API](http://stackoverflow.com/questions/25770789) (1 upvotes)  
-25770915. [What does .java uses or overrides a deprecated API mean?](http://stackoverflow.com/questions/25770915) (-2 upvotes)  
-25776903. [NoClassDefFoundError: com/mchange/v2/c3p0/DataSources](http://stackoverflow.com/questions/25776903) (0 upvotes)  
-25779685. [How to change redirect expression from httpclient 4.1 to later version?](http://stackoverflow.com/questions/25779685) (0 upvotes)  
-25785564. [the following code should turn on the camera and record video on my android phone. However, nothing happens. Anybody spot any errors in my code?](http://stackoverflow.com/questions/25785564) (0 upvotes)  
-25798526. [Ant compiles but no class files](http://stackoverflow.com/questions/25798526) (2 upvotes)  
-25800533. [Method to have both HTTPS and HTTP with embedded Spark server?](http://stackoverflow.com/questions/25800533) (0 upvotes)  
-25807305. [How to retrieve data stored with Shared Preference in MainActivity class to SplashScreen activity class?](http://stackoverflow.com/questions/25807305) (1 upvotes)  
-25815908. [Containers and method packages in software architecture - how about static?](http://stackoverflow.com/questions/25815908) (0 upvotes)  
-25818055. [Passing ListArray<Object> from Servlet to JSP working in Windows but failing in Linux](http://stackoverflow.com/questions/25818055) (0 upvotes)  
-25827041. [GWT: SafeHtmlRenderer](http://stackoverflow.com/questions/25827041) (0 upvotes)  
-25829412. [How do i run a command line program using m2e (Eclipse/Maven) in the test scope, with test dependencies?](http://stackoverflow.com/questions/25829412) (-1 upvotes)  
+34988,http://stackoverflow.com/questions/34988  
+103598,http://stackoverflow.com/questions/103598  
+127328,http://stackoverflow.com/questions/127328  
+133710,http://stackoverflow.com/questions/133710  
+136419,http://stackoverflow.com/questions/136419  
+152205,http://stackoverflow.com/questions/152205  
+213506,http://stackoverflow.com/questions/213506  
+226910,http://stackoverflow.com/questions/226910  
+233593,http://stackoverflow.com/questions/233593  
+233628,http://stackoverflow.com/questions/233628  
+238941,http://stackoverflow.com/questions/238941  
+244115,http://stackoverflow.com/questions/244115  
+247455,http://stackoverflow.com/questions/247455  
+248938,http://stackoverflow.com/questions/248938  
+281342,http://stackoverflow.com/questions/281342  
+306732,http://stackoverflow.com/questions/306732  
+314540,http://stackoverflow.com/questions/314540  
+341005,http://stackoverflow.com/questions/341005  
+375252,http://stackoverflow.com/questions/375252  
+432154,http://stackoverflow.com/questions/432154  
+442322,http://stackoverflow.com/questions/442322  
+453684,http://stackoverflow.com/questions/453684  
+454175,http://stackoverflow.com/questions/454175  
+460423,http://stackoverflow.com/questions/460423  
+477842,http://stackoverflow.com/questions/477842  
+489169,http://stackoverflow.com/questions/489169  
+512436,http://stackoverflow.com/questions/512436  
+520168,http://stackoverflow.com/questions/520168  
+533573,http://stackoverflow.com/questions/533573  
+544732,http://stackoverflow.com/questions/544732  
+568616,http://stackoverflow.com/questions/568616  
+573543,http://stackoverflow.com/questions/573543  
+590960,http://stackoverflow.com/questions/590960  
+624604,http://stackoverflow.com/questions/624604  
+629557,http://stackoverflow.com/questions/629557  
+632884,http://stackoverflow.com/questions/632884  
+635860,http://stackoverflow.com/questions/635860  
+636550,http://stackoverflow.com/questions/636550  
+644262,http://stackoverflow.com/questions/644262  
+657962,http://stackoverflow.com/questions/657962  
+661213,http://stackoverflow.com/questions/661213  
+665563,http://stackoverflow.com/questions/665563  
+674137,http://stackoverflow.com/questions/674137  
+678894,http://stackoverflow.com/questions/678894  
+689354,http://stackoverflow.com/questions/689354  
+730605,http://stackoverflow.com/questions/730605  
+748788,http://stackoverflow.com/questions/748788  
+750390,http://stackoverflow.com/questions/750390  
+751402,http://stackoverflow.com/questions/751402  
+766576,http://stackoverflow.com/questions/766576  
+777423,http://stackoverflow.com/questions/777423  
+786840,http://stackoverflow.com/questions/786840  
+805989,http://stackoverflow.com/questions/805989  
+818759,http://stackoverflow.com/questions/818759  
+829422,http://stackoverflow.com/questions/829422  
+829510,http://stackoverflow.com/questions/829510  
+873875,http://stackoverflow.com/questions/873875  
+874073,http://stackoverflow.com/questions/874073  
+876840,http://stackoverflow.com/questions/876840  
+879349,http://stackoverflow.com/questions/879349  
+887653,http://stackoverflow.com/questions/887653  
+893337,http://stackoverflow.com/questions/893337  
+905126,http://stackoverflow.com/questions/905126  
+907170,http://stackoverflow.com/questions/907170  
+910740,http://stackoverflow.com/questions/910740  
+920850,http://stackoverflow.com/questions/920850  
+941845,http://stackoverflow.com/questions/941845  
+949353,http://stackoverflow.com/questions/949353  
+957187,http://stackoverflow.com/questions/957187  
+979917,http://stackoverflow.com/questions/979917  
+983964,http://stackoverflow.com/questions/983964  
+1000171,http://stackoverflow.com/questions/1000171  
+1020741,http://stackoverflow.com/questions/1020741  
+1056239,http://stackoverflow.com/questions/1056239  
+1056722,http://stackoverflow.com/questions/1056722  
+1059640,http://stackoverflow.com/questions/1059640  
+1100869,http://stackoverflow.com/questions/1100869  
+1102094,http://stackoverflow.com/questions/1102094  
+1111130,http://stackoverflow.com/questions/1111130  
+1116123,http://stackoverflow.com/questions/1116123  
+1127704,http://stackoverflow.com/questions/1127704  
+1132448,http://stackoverflow.com/questions/1132448  
+1140223,http://stackoverflow.com/questions/1140223  
+1153221,http://stackoverflow.com/questions/1153221  
+1200774,http://stackoverflow.com/questions/1200774  
+1213362,http://stackoverflow.com/questions/1213362  
+1218790,http://stackoverflow.com/questions/1218790  
+1219681,http://stackoverflow.com/questions/1219681  
+1251339,http://stackoverflow.com/questions/1251339  
+1257595,http://stackoverflow.com/questions/1257595  
+1267033,http://stackoverflow.com/questions/1267033  
+1267845,http://stackoverflow.com/questions/1267845  
+1283328,http://stackoverflow.com/questions/1283328  
+1290112,http://stackoverflow.com/questions/1290112  
+1326737,http://stackoverflow.com/questions/1326737  
+1335473,http://stackoverflow.com/questions/1335473  
+1369014,http://stackoverflow.com/questions/1369014  
+1370192,http://stackoverflow.com/questions/1370192  
+1386275,http://stackoverflow.com/questions/1386275  
+1388441,http://stackoverflow.com/questions/1388441  
+1411015,http://stackoverflow.com/questions/1411015  
+1477455,http://stackoverflow.com/questions/1477455  
+1512754,http://stackoverflow.com/questions/1512754  
+1513534,http://stackoverflow.com/questions/1513534  
+1534289,http://stackoverflow.com/questions/1534289  
+1553678,http://stackoverflow.com/questions/1553678  
+1554538,http://stackoverflow.com/questions/1554538  
+1557080,http://stackoverflow.com/questions/1557080  
+1560422,http://stackoverflow.com/questions/1560422  
+1575289,http://stackoverflow.com/questions/1575289  
+1605065,http://stackoverflow.com/questions/1605065  
+1618700,http://stackoverflow.com/questions/1618700  
+1629918,http://stackoverflow.com/questions/1629918  
+1649133,http://stackoverflow.com/questions/1649133  
+1654923,http://stackoverflow.com/questions/1654923  
+1664823,http://stackoverflow.com/questions/1664823  
+1666736,http://stackoverflow.com/questions/1666736  
+1681266,http://stackoverflow.com/questions/1681266  
+1685442,http://stackoverflow.com/questions/1685442  
+1693744,http://stackoverflow.com/questions/1693744  
+1703951,http://stackoverflow.com/questions/1703951  
+1721935,http://stackoverflow.com/questions/1721935  
+1724604,http://stackoverflow.com/questions/1724604  
+1752607,http://stackoverflow.com/questions/1752607  
+1790957,http://stackoverflow.com/questions/1790957  
+1842959,http://stackoverflow.com/questions/1842959  
+1858021,http://stackoverflow.com/questions/1858021  
+1874298,http://stackoverflow.com/questions/1874298  
+1886489,http://stackoverflow.com/questions/1886489  
+1895142,http://stackoverflow.com/questions/1895142  
+1899006,http://stackoverflow.com/questions/1899006  
+1906673,http://stackoverflow.com/questions/1906673  
+1927401,http://stackoverflow.com/questions/1927401  
+1928670,http://stackoverflow.com/questions/1928670  
+1948317,http://stackoverflow.com/questions/1948317  
+1954878,http://stackoverflow.com/questions/1954878  
+1955834,http://stackoverflow.com/questions/1955834  
+1995411,http://stackoverflow.com/questions/1995411  
+1998281,http://stackoverflow.com/questions/1998281  
+1999766,http://stackoverflow.com/questions/1999766  
+2013092,http://stackoverflow.com/questions/2013092  
+2013443,http://stackoverflow.com/questions/2013443  
+2036174,http://stackoverflow.com/questions/2036174  
+2048626,http://stackoverflow.com/questions/2048626  
+2059781,http://stackoverflow.com/questions/2059781  
+2063472,http://stackoverflow.com/questions/2063472  
+2082693,http://stackoverflow.com/questions/2082693  
+2085797,http://stackoverflow.com/questions/2085797  
+2088528,http://stackoverflow.com/questions/2088528  
+2092474,http://stackoverflow.com/questions/2092474  
+2092834,http://stackoverflow.com/questions/2092834  
+2093378,http://stackoverflow.com/questions/2093378  
+2102336,http://stackoverflow.com/questions/2102336  
+2115292,http://stackoverflow.com/questions/2115292  
+2158009,http://stackoverflow.com/questions/2158009  
+2158627,http://stackoverflow.com/questions/2158627  
+2158754,http://stackoverflow.com/questions/2158754  
+2159089,http://stackoverflow.com/questions/2159089  
+2169674,http://stackoverflow.com/questions/2169674  
+2178532,http://stackoverflow.com/questions/2178532  
+2180966,http://stackoverflow.com/questions/2180966  
+2190500,http://stackoverflow.com/questions/2190500  
+2213109,http://stackoverflow.com/questions/2213109  
+2218349,http://stackoverflow.com/questions/2218349  
+2227965,http://stackoverflow.com/questions/2227965  
+2232077,http://stackoverflow.com/questions/2232077  
+2264430,http://stackoverflow.com/questions/2264430  
+2289243,http://stackoverflow.com/questions/2289243  
+2292160,http://stackoverflow.com/questions/2292160  
+2300227,http://stackoverflow.com/questions/2300227  
+2301207,http://stackoverflow.com/questions/2301207  
+2311775,http://stackoverflow.com/questions/2311775  
+2347206,http://stackoverflow.com/questions/2347206  
+2354255,http://stackoverflow.com/questions/2354255  
+2358651,http://stackoverflow.com/questions/2358651  
+2380592,http://stackoverflow.com/questions/2380592  
+2380837,http://stackoverflow.com/questions/2380837  
+2405954,http://stackoverflow.com/questions/2405954  
+2411343,http://stackoverflow.com/questions/2411343  
+2414081,http://stackoverflow.com/questions/2414081  
+2434555,http://stackoverflow.com/questions/2434555  
+2470331,http://stackoverflow.com/questions/2470331  
+2514499,http://stackoverflow.com/questions/2514499  
+2518604,http://stackoverflow.com/questions/2518604  
+2551999,http://stackoverflow.com/questions/2551999  
+2569060,http://stackoverflow.com/questions/2569060  
+2580601,http://stackoverflow.com/questions/2580601  
+2583138,http://stackoverflow.com/questions/2583138  
+2599993,http://stackoverflow.com/questions/2599993  
+2619691,http://stackoverflow.com/questions/2619691  
+2622804,http://stackoverflow.com/questions/2622804  
+2646965,http://stackoverflow.com/questions/2646965  
+2654529,http://stackoverflow.com/questions/2654529  
+2657653,http://stackoverflow.com/questions/2657653  
+2703511,http://stackoverflow.com/questions/2703511  
+2708229,http://stackoverflow.com/questions/2708229  
+2714981,http://stackoverflow.com/questions/2714981  
+2720689,http://stackoverflow.com/questions/2720689  
+2725940,http://stackoverflow.com/questions/2725940  
+2727698,http://stackoverflow.com/questions/2727698  
+2770321,http://stackoverflow.com/questions/2770321  
+2778313,http://stackoverflow.com/questions/2778313  
+2781286,http://stackoverflow.com/questions/2781286  
+2782763,http://stackoverflow.com/questions/2782763  
+2789241,http://stackoverflow.com/questions/2789241  
+2800799,http://stackoverflow.com/questions/2800799  
+2801327,http://stackoverflow.com/questions/2801327  
+2838516,http://stackoverflow.com/questions/2838516  
+2867747,http://stackoverflow.com/questions/2867747  
+2868396,http://stackoverflow.com/questions/2868396  
+2873254,http://stackoverflow.com/questions/2873254  
+2876962,http://stackoverflow.com/questions/2876962  
+2901262,http://stackoverflow.com/questions/2901262  
+2936155,http://stackoverflow.com/questions/2936155  
+2940805,http://stackoverflow.com/questions/2940805  
+2941900,http://stackoverflow.com/questions/2941900  
+2951729,http://stackoverflow.com/questions/2951729  
+2956141,http://stackoverflow.com/questions/2956141  
+2980983,http://stackoverflow.com/questions/2980983  
+2997488,http://stackoverflow.com/questions/2997488  
+3008390,http://stackoverflow.com/questions/3008390  
+3010855,http://stackoverflow.com/questions/3010855  
+3018775,http://stackoverflow.com/questions/3018775  
+3042552,http://stackoverflow.com/questions/3042552  
+3058044,http://stackoverflow.com/questions/3058044  
+3064835,http://stackoverflow.com/questions/3064835  
+3068817,http://stackoverflow.com/questions/3068817  
+3071951,http://stackoverflow.com/questions/3071951  
+3080888,http://stackoverflow.com/questions/3080888  
+3084927,http://stackoverflow.com/questions/3084927  
+3094032,http://stackoverflow.com/questions/3094032  
+3145968,http://stackoverflow.com/questions/3145968  
+3159430,http://stackoverflow.com/questions/3159430  
+3189308,http://stackoverflow.com/questions/3189308  
+3197146,http://stackoverflow.com/questions/3197146  
+3197370,http://stackoverflow.com/questions/3197370  
+3200462,http://stackoverflow.com/questions/3200462  
+3203903,http://stackoverflow.com/questions/3203903  
+3208782,http://stackoverflow.com/questions/3208782  
+3209409,http://stackoverflow.com/questions/3209409  
+3210117,http://stackoverflow.com/questions/3210117  
+3222078,http://stackoverflow.com/questions/3222078  
+3226916,http://stackoverflow.com/questions/3226916  
+3260294,http://stackoverflow.com/questions/3260294  
+3273825,http://stackoverflow.com/questions/3273825  
+3278008,http://stackoverflow.com/questions/3278008  
+3306498,http://stackoverflow.com/questions/3306498  
+3346563,http://stackoverflow.com/questions/3346563  
+3362256,http://stackoverflow.com/questions/3362256  
+3364991,http://stackoverflow.com/questions/3364991  
+3375943,http://stackoverflow.com/questions/3375943  
+3401595,http://stackoverflow.com/questions/3401595  
+3402895,http://stackoverflow.com/questions/3402895  
+3404516,http://stackoverflow.com/questions/3404516  
+3435667,http://stackoverflow.com/questions/3435667  
+3450164,http://stackoverflow.com/questions/3450164  
+3450356,http://stackoverflow.com/questions/3450356  
+3488045,http://stackoverflow.com/questions/3488045  
+3515095,http://stackoverflow.com/questions/3515095  
+3515209,http://stackoverflow.com/questions/3515209  
+3526556,http://stackoverflow.com/questions/3526556  
+3528012,http://stackoverflow.com/questions/3528012  
+3537173,http://stackoverflow.com/questions/3537173  
+3549221,http://stackoverflow.com/questions/3549221  
+3564603,http://stackoverflow.com/questions/3564603  
+3578130,http://stackoverflow.com/questions/3578130  
+3578743,http://stackoverflow.com/questions/3578743  
+3589946,http://stackoverflow.com/questions/3589946  
+3604154,http://stackoverflow.com/questions/3604154  
+3613359,http://stackoverflow.com/questions/3613359  
+3620385,http://stackoverflow.com/questions/3620385  
+3638248,http://stackoverflow.com/questions/3638248  
+3639198,http://stackoverflow.com/questions/3639198  
+3649577,http://stackoverflow.com/questions/3649577  
+3654588,http://stackoverflow.com/questions/3654588  
+3664412,http://stackoverflow.com/questions/3664412  
+3677380,http://stackoverflow.com/questions/3677380  
+3688578,http://stackoverflow.com/questions/3688578  
+3691453,http://stackoverflow.com/questions/3691453  
+3698171,http://stackoverflow.com/questions/3698171  
+3698604,http://stackoverflow.com/questions/3698604  
+3723455,http://stackoverflow.com/questions/3723455  
+3728901,http://stackoverflow.com/questions/3728901  
+3735571,http://stackoverflow.com/questions/3735571  
+3767364,http://stackoverflow.com/questions/3767364  
+3788839,http://stackoverflow.com/questions/3788839  
+3832155,http://stackoverflow.com/questions/3832155  
+3850079,http://stackoverflow.com/questions/3850079  
+3866935,http://stackoverflow.com/questions/3866935  
+3870894,http://stackoverflow.com/questions/3870894  
+3871138,http://stackoverflow.com/questions/3871138  
+3885725,http://stackoverflow.com/questions/3885725  
+3897185,http://stackoverflow.com/questions/3897185  
+3922993,http://stackoverflow.com/questions/3922993  
+3946870,http://stackoverflow.com/questions/3946870  
+3947866,http://stackoverflow.com/questions/3947866  
+3950002,http://stackoverflow.com/questions/3950002  
+3963274,http://stackoverflow.com/questions/3963274  
+3963881,http://stackoverflow.com/questions/3963881  
+3965550,http://stackoverflow.com/questions/3965550  
+3971301,http://stackoverflow.com/questions/3971301  
+3972568,http://stackoverflow.com/questions/3972568  
+3991824,http://stackoverflow.com/questions/3991824  
+3991992,http://stackoverflow.com/questions/3991992  
+4007252,http://stackoverflow.com/questions/4007252  
+4009900,http://stackoverflow.com/questions/4009900  
+4009956,http://stackoverflow.com/questions/4009956  
+4017223,http://stackoverflow.com/questions/4017223  
+4021058,http://stackoverflow.com/questions/4021058  
+4033457,http://stackoverflow.com/questions/4033457  
+4044107,http://stackoverflow.com/questions/4044107  
+4091423,http://stackoverflow.com/questions/4091423  
+4114543,http://stackoverflow.com/questions/4114543  
+4136112,http://stackoverflow.com/questions/4136112  
+4139709,http://stackoverflow.com/questions/4139709  
+4142322,http://stackoverflow.com/questions/4142322  
+4166230,http://stackoverflow.com/questions/4166230  
+4186330,http://stackoverflow.com/questions/4186330  
+4188406,http://stackoverflow.com/questions/4188406  
+4197693,http://stackoverflow.com/questions/4197693  
+4198916,http://stackoverflow.com/questions/4198916  
+4200142,http://stackoverflow.com/questions/4200142  
+4205300,http://stackoverflow.com/questions/4205300  
+4215578,http://stackoverflow.com/questions/4215578  
+4256252,http://stackoverflow.com/questions/4256252  
+4260531,http://stackoverflow.com/questions/4260531  
+4275502,http://stackoverflow.com/questions/4275502  
+4277819,http://stackoverflow.com/questions/4277819  
+4296343,http://stackoverflow.com/questions/4296343  
+4296747,http://stackoverflow.com/questions/4296747  
+4315246,http://stackoverflow.com/questions/4315246  
+4321221,http://stackoverflow.com/questions/4321221  
+4332586,http://stackoverflow.com/questions/4332586  
+4338216,http://stackoverflow.com/questions/4338216  
+4351483,http://stackoverflow.com/questions/4351483  
+4385079,http://stackoverflow.com/questions/4385079  
+4387622,http://stackoverflow.com/questions/4387622  
+4410176,http://stackoverflow.com/questions/4410176  
+4415365,http://stackoverflow.com/questions/4415365  
+4423561,http://stackoverflow.com/questions/4423561  
+4423618,http://stackoverflow.com/questions/4423618  
+4444670,http://stackoverflow.com/questions/4444670  
+4451466,http://stackoverflow.com/questions/4451466  
+4455694,http://stackoverflow.com/questions/4455694  
+4466577,http://stackoverflow.com/questions/4466577  
+4479075,http://stackoverflow.com/questions/4479075  
+4525684,http://stackoverflow.com/questions/4525684  
+4527934,http://stackoverflow.com/questions/4527934  
+4532719,http://stackoverflow.com/questions/4532719  
+4544128,http://stackoverflow.com/questions/4544128  
+4545624,http://stackoverflow.com/questions/4545624  
+4556401,http://stackoverflow.com/questions/4556401  
+4561251,http://stackoverflow.com/questions/4561251  
+4561702,http://stackoverflow.com/questions/4561702  
+4566946,http://stackoverflow.com/questions/4566946  
+4570768,http://stackoverflow.com/questions/4570768  
+4621141,http://stackoverflow.com/questions/4621141  
+4623667,http://stackoverflow.com/questions/4623667  
+4640841,http://stackoverflow.com/questions/4640841  
+4648765,http://stackoverflow.com/questions/4648765  
+4665923,http://stackoverflow.com/questions/4665923  
+4694795,http://stackoverflow.com/questions/4694795  
+4697193,http://stackoverflow.com/questions/4697193  
+4705709,http://stackoverflow.com/questions/4705709  
+4722873,http://stackoverflow.com/questions/4722873  
+4734259,http://stackoverflow.com/questions/4734259  
+4740806,http://stackoverflow.com/questions/4740806  
+4744391,http://stackoverflow.com/questions/4744391  
+4762842,http://stackoverflow.com/questions/4762842  
+4783063,http://stackoverflow.com/questions/4783063  
+4784987,http://stackoverflow.com/questions/4784987  
+4786982,http://stackoverflow.com/questions/4786982  
+4799754,http://stackoverflow.com/questions/4799754  
+4803700,http://stackoverflow.com/questions/4803700  
+4845032,http://stackoverflow.com/questions/4845032  
+4859421,http://stackoverflow.com/questions/4859421  
+4874507,http://stackoverflow.com/questions/4874507  
+4875950,http://stackoverflow.com/questions/4875950  
+4912441,http://stackoverflow.com/questions/4912441  
+4930934,http://stackoverflow.com/questions/4930934  
+4945381,http://stackoverflow.com/questions/4945381  
+4951348,http://stackoverflow.com/questions/4951348  
+4956209,http://stackoverflow.com/questions/4956209  
+4968194,http://stackoverflow.com/questions/4968194  
+4972973,http://stackoverflow.com/questions/4972973  
+4993060,http://stackoverflow.com/questions/4993060  
+4996350,http://stackoverflow.com/questions/4996350  
+4997072,http://stackoverflow.com/questions/4997072  
+5009425,http://stackoverflow.com/questions/5009425  
+5011964,http://stackoverflow.com/questions/5011964  
+5012436,http://stackoverflow.com/questions/5012436  
+5034311,http://stackoverflow.com/questions/5034311  
+5039723,http://stackoverflow.com/questions/5039723  
+5046771,http://stackoverflow.com/questions/5046771  
+5056306,http://stackoverflow.com/questions/5056306  
+5063246,http://stackoverflow.com/questions/5063246  
+5065199,http://stackoverflow.com/questions/5065199  
+5074454,http://stackoverflow.com/questions/5074454  
+5086236,http://stackoverflow.com/questions/5086236  
+5094598,http://stackoverflow.com/questions/5094598  
+5109146,http://stackoverflow.com/questions/5109146  
+5123227,http://stackoverflow.com/questions/5123227  
+5130074,http://stackoverflow.com/questions/5130074  
+5136126,http://stackoverflow.com/questions/5136126  
+5139937,http://stackoverflow.com/questions/5139937  
+5144169,http://stackoverflow.com/questions/5144169  
+5157437,http://stackoverflow.com/questions/5157437  
+5173932,http://stackoverflow.com/questions/5173932  
+5216689,http://stackoverflow.com/questions/5216689  
+5218969,http://stackoverflow.com/questions/5218969  
+5220651,http://stackoverflow.com/questions/5220651  
+5231325,http://stackoverflow.com/questions/5231325  
+5231371,http://stackoverflow.com/questions/5231371  
+5233445,http://stackoverflow.com/questions/5233445  
+5244312,http://stackoverflow.com/questions/5244312  
+5284139,http://stackoverflow.com/questions/5284139  
+5299887,http://stackoverflow.com/questions/5299887  
+5300575,http://stackoverflow.com/questions/5300575  
+5313806,http://stackoverflow.com/questions/5313806  
+5314738,http://stackoverflow.com/questions/5314738  
+5317329,http://stackoverflow.com/questions/5317329  
+5338888,http://stackoverflow.com/questions/5338888  
+5355786,http://stackoverflow.com/questions/5355786  
+5362455,http://stackoverflow.com/questions/5362455  
+5369246,http://stackoverflow.com/questions/5369246  
+5385380,http://stackoverflow.com/questions/5385380  
+5465935,http://stackoverflow.com/questions/5465935  
+5468244,http://stackoverflow.com/questions/5468244  
+5493136,http://stackoverflow.com/questions/5493136  
+5501649,http://stackoverflow.com/questions/5501649  
+5509704,http://stackoverflow.com/questions/5509704  
+5541316,http://stackoverflow.com/questions/5541316  
+5546979,http://stackoverflow.com/questions/5546979  
+5555551,http://stackoverflow.com/questions/5555551  
+5562461,http://stackoverflow.com/questions/5562461  
+5569226,http://stackoverflow.com/questions/5569226  
+5586633,http://stackoverflow.com/questions/5586633  
+5611387,http://stackoverflow.com/questions/5611387  
+5616242,http://stackoverflow.com/questions/5616242  
+5616444,http://stackoverflow.com/questions/5616444  
+5616645,http://stackoverflow.com/questions/5616645  
+5619345,http://stackoverflow.com/questions/5619345  
+5633424,http://stackoverflow.com/questions/5633424  
+5676245,http://stackoverflow.com/questions/5676245  
+5677260,http://stackoverflow.com/questions/5677260  
+5677470,http://stackoverflow.com/questions/5677470  
+5682411,http://stackoverflow.com/questions/5682411  
+5686755,http://stackoverflow.com/questions/5686755  
+5699038,http://stackoverflow.com/questions/5699038  
+5713220,http://stackoverflow.com/questions/5713220  
+5724068,http://stackoverflow.com/questions/5724068  
+5727448,http://stackoverflow.com/questions/5727448  
+5737129,http://stackoverflow.com/questions/5737129  
+5746540,http://stackoverflow.com/questions/5746540  
+5753705,http://stackoverflow.com/questions/5753705  
+5769717,http://stackoverflow.com/questions/5769717  
+5783991,http://stackoverflow.com/questions/5783991  
+5785306,http://stackoverflow.com/questions/5785306  
+5802111,http://stackoverflow.com/questions/5802111  
+5809310,http://stackoverflow.com/questions/5809310  
+5822259,http://stackoverflow.com/questions/5822259  
+5822656,http://stackoverflow.com/questions/5822656  
+5826113,http://stackoverflow.com/questions/5826113  
+5828625,http://stackoverflow.com/questions/5828625  
+5834694,http://stackoverflow.com/questions/5834694  
+5837895,http://stackoverflow.com/questions/5837895  
+5841505,http://stackoverflow.com/questions/5841505  
+5842504,http://stackoverflow.com/questions/5842504  
+5845137,http://stackoverflow.com/questions/5845137  
+5855387,http://stackoverflow.com/questions/5855387  
+5859701,http://stackoverflow.com/questions/5859701  
+5862560,http://stackoverflow.com/questions/5862560  
+5864261,http://stackoverflow.com/questions/5864261  
+5865944,http://stackoverflow.com/questions/5865944  
+5871190,http://stackoverflow.com/questions/5871190  
+5884933,http://stackoverflow.com/questions/5884933  
+5899783,http://stackoverflow.com/questions/5899783  
+5903191,http://stackoverflow.com/questions/5903191  
+5915621,http://stackoverflow.com/questions/5915621  
+5916029,http://stackoverflow.com/questions/5916029  
+5917680,http://stackoverflow.com/questions/5917680  
+5917697,http://stackoverflow.com/questions/5917697  
+5921781,http://stackoverflow.com/questions/5921781  
+5926369,http://stackoverflow.com/questions/5926369  
+5929439,http://stackoverflow.com/questions/5929439  
+5934679,http://stackoverflow.com/questions/5934679  
+5939788,http://stackoverflow.com/questions/5939788  
+5950806,http://stackoverflow.com/questions/5950806  
+5976407,http://stackoverflow.com/questions/5976407  
+5995365,http://stackoverflow.com/questions/5995365  
+6001915,http://stackoverflow.com/questions/6001915  
+6003129,http://stackoverflow.com/questions/6003129  
+6005202,http://stackoverflow.com/questions/6005202  
+6005204,http://stackoverflow.com/questions/6005204  
+6009261,http://stackoverflow.com/questions/6009261  
+6026491,http://stackoverflow.com/questions/6026491  
+6034203,http://stackoverflow.com/questions/6034203  
+6043959,http://stackoverflow.com/questions/6043959  
+6046143,http://stackoverflow.com/questions/6046143  
+6057070,http://stackoverflow.com/questions/6057070  
+6074940,http://stackoverflow.com/questions/6074940  
+6075657,http://stackoverflow.com/questions/6075657  
+6081560,http://stackoverflow.com/questions/6081560  
+6084475,http://stackoverflow.com/questions/6084475  
+6094828,http://stackoverflow.com/questions/6094828  
+6097559,http://stackoverflow.com/questions/6097559  
+6097682,http://stackoverflow.com/questions/6097682  
+6104063,http://stackoverflow.com/questions/6104063  
+6106033,http://stackoverflow.com/questions/6106033  
+6111248,http://stackoverflow.com/questions/6111248  
+6117788,http://stackoverflow.com/questions/6117788  
+6118363,http://stackoverflow.com/questions/6118363  
+6139140,http://stackoverflow.com/questions/6139140  
+6144826,http://stackoverflow.com/questions/6144826  
+6147389,http://stackoverflow.com/questions/6147389  
+6156501,http://stackoverflow.com/questions/6156501  
+6164497,http://stackoverflow.com/questions/6164497  
+6176341,http://stackoverflow.com/questions/6176341  
+6201197,http://stackoverflow.com/questions/6201197  
+6219709,http://stackoverflow.com/questions/6219709  
+6235206,http://stackoverflow.com/questions/6235206  
+6236473,http://stackoverflow.com/questions/6236473  
+6280465,http://stackoverflow.com/questions/6280465  
+6281314,http://stackoverflow.com/questions/6281314  
+6293410,http://stackoverflow.com/questions/6293410  
+6293925,http://stackoverflow.com/questions/6293925  
+6310138,http://stackoverflow.com/questions/6310138  
+6322656,http://stackoverflow.com/questions/6322656  
+6327968,http://stackoverflow.com/questions/6327968  
+6328547,http://stackoverflow.com/questions/6328547  
+6328778,http://stackoverflow.com/questions/6328778  
+6340769,http://stackoverflow.com/questions/6340769  
+6343594,http://stackoverflow.com/questions/6343594  
+6349165,http://stackoverflow.com/questions/6349165  
+6359123,http://stackoverflow.com/questions/6359123  
+6363801,http://stackoverflow.com/questions/6363801  
+6367690,http://stackoverflow.com/questions/6367690  
+6369102,http://stackoverflow.com/questions/6369102  
+6373887,http://stackoverflow.com/questions/6373887  
+6374646,http://stackoverflow.com/questions/6374646  
+6385137,http://stackoverflow.com/questions/6385137  
+6391539,http://stackoverflow.com/questions/6391539  
+6398403,http://stackoverflow.com/questions/6398403  
+6403891,http://stackoverflow.com/questions/6403891  
+6408828,http://stackoverflow.com/questions/6408828  
+6421867,http://stackoverflow.com/questions/6421867  
+6437257,http://stackoverflow.com/questions/6437257  
+6456347,http://stackoverflow.com/questions/6456347  
+6467353,http://stackoverflow.com/questions/6467353  
+6477962,http://stackoverflow.com/questions/6477962  
+6485493,http://stackoverflow.com/questions/6485493  
+6497638,http://stackoverflow.com/questions/6497638  
+6505573,http://stackoverflow.com/questions/6505573  
+6519746,http://stackoverflow.com/questions/6519746  
+6544991,http://stackoverflow.com/questions/6544991  
+6555668,http://stackoverflow.com/questions/6555668  
+6555752,http://stackoverflow.com/questions/6555752  
+6558592,http://stackoverflow.com/questions/6558592  
+6573023,http://stackoverflow.com/questions/6573023  
+6580702,http://stackoverflow.com/questions/6580702  
+6590227,http://stackoverflow.com/questions/6590227  
+6590661,http://stackoverflow.com/questions/6590661  
+6591960,http://stackoverflow.com/questions/6591960  
+6596017,http://stackoverflow.com/questions/6596017  
+6603064,http://stackoverflow.com/questions/6603064  
+6634150,http://stackoverflow.com/questions/6634150  
+6635099,http://stackoverflow.com/questions/6635099  
+6638654,http://stackoverflow.com/questions/6638654  
+6650239,http://stackoverflow.com/questions/6650239  
+6653821,http://stackoverflow.com/questions/6653821  
+6659662,http://stackoverflow.com/questions/6659662  
+6659840,http://stackoverflow.com/questions/6659840  
+6663397,http://stackoverflow.com/questions/6663397  
+6692299,http://stackoverflow.com/questions/6692299  
+6692604,http://stackoverflow.com/questions/6692604  
+6725341,http://stackoverflow.com/questions/6725341  
+6728763,http://stackoverflow.com/questions/6728763  
+6745466,http://stackoverflow.com/questions/6745466  
+6752548,http://stackoverflow.com/questions/6752548  
+6759989,http://stackoverflow.com/questions/6759989  
+6769978,http://stackoverflow.com/questions/6769978  
+6772270,http://stackoverflow.com/questions/6772270  
+6777568,http://stackoverflow.com/questions/6777568  
+6791072,http://stackoverflow.com/questions/6791072  
+6793426,http://stackoverflow.com/questions/6793426  
+6829264,http://stackoverflow.com/questions/6829264  
+6831110,http://stackoverflow.com/questions/6831110  
+6861494,http://stackoverflow.com/questions/6861494  
+6869038,http://stackoverflow.com/questions/6869038  
+6876155,http://stackoverflow.com/questions/6876155  
+6876400,http://stackoverflow.com/questions/6876400  
+6889659,http://stackoverflow.com/questions/6889659  
+6890963,http://stackoverflow.com/questions/6890963  
+6893753,http://stackoverflow.com/questions/6893753  
+6903335,http://stackoverflow.com/questions/6903335  
+6929157,http://stackoverflow.com/questions/6929157  
+6929349,http://stackoverflow.com/questions/6929349  
+6942169,http://stackoverflow.com/questions/6942169  
+6946711,http://stackoverflow.com/questions/6946711  
+6955767,http://stackoverflow.com/questions/6955767  
+6959392,http://stackoverflow.com/questions/6959392  
+6960568,http://stackoverflow.com/questions/6960568  
+6980504,http://stackoverflow.com/questions/6980504  
+6983302,http://stackoverflow.com/questions/6983302  
+6983856,http://stackoverflow.com/questions/6983856  
+6990781,http://stackoverflow.com/questions/6990781  
+7003962,http://stackoverflow.com/questions/7003962  
+7021696,http://stackoverflow.com/questions/7021696  
+7022504,http://stackoverflow.com/questions/7022504  
+7029881,http://stackoverflow.com/questions/7029881  
+7043112,http://stackoverflow.com/questions/7043112  
+7050321,http://stackoverflow.com/questions/7050321  
+7051074,http://stackoverflow.com/questions/7051074  
+7057421,http://stackoverflow.com/questions/7057421  
+7068417,http://stackoverflow.com/questions/7068417  
+7078086,http://stackoverflow.com/questions/7078086  
+7082701,http://stackoverflow.com/questions/7082701  
+7087872,http://stackoverflow.com/questions/7087872  
+7116030,http://stackoverflow.com/questions/7116030  
+7116467,http://stackoverflow.com/questions/7116467  
+7135783,http://stackoverflow.com/questions/7135783  
+7139066,http://stackoverflow.com/questions/7139066  
+7152555,http://stackoverflow.com/questions/7152555  
+7160172,http://stackoverflow.com/questions/7160172  
+7160668,http://stackoverflow.com/questions/7160668  
+7160938,http://stackoverflow.com/questions/7160938  
+7170541,http://stackoverflow.com/questions/7170541  
+7171925,http://stackoverflow.com/questions/7171925  
+7194926,http://stackoverflow.com/questions/7194926  
+7230692,http://stackoverflow.com/questions/7230692  
+7231312,http://stackoverflow.com/questions/7231312  
+7251098,http://stackoverflow.com/questions/7251098  
+7261478,http://stackoverflow.com/questions/7261478  
+7261698,http://stackoverflow.com/questions/7261698  
+7262774,http://stackoverflow.com/questions/7262774  
+7267914,http://stackoverflow.com/questions/7267914  
+7282042,http://stackoverflow.com/questions/7282042  
+7286346,http://stackoverflow.com/questions/7286346  
+7289737,http://stackoverflow.com/questions/7289737  
+7298172,http://stackoverflow.com/questions/7298172  
+7313227,http://stackoverflow.com/questions/7313227  
+7325426,http://stackoverflow.com/questions/7325426  
+7340726,http://stackoverflow.com/questions/7340726  
+7345674,http://stackoverflow.com/questions/7345674  
+7355416,http://stackoverflow.com/questions/7355416  
+7357370,http://stackoverflow.com/questions/7357370  
+7358775,http://stackoverflow.com/questions/7358775  
+7375742,http://stackoverflow.com/questions/7375742  
+7376522,http://stackoverflow.com/questions/7376522  
+7383428,http://stackoverflow.com/questions/7383428  
+7392230,http://stackoverflow.com/questions/7392230  
+7393699,http://stackoverflow.com/questions/7393699  
+7397325,http://stackoverflow.com/questions/7397325  
+7405038,http://stackoverflow.com/questions/7405038  
+7412144,http://stackoverflow.com/questions/7412144  
+7434084,http://stackoverflow.com/questions/7434084  
+7435788,http://stackoverflow.com/questions/7435788  
+7438850,http://stackoverflow.com/questions/7438850  
+7453652,http://stackoverflow.com/questions/7453652  
+7461940,http://stackoverflow.com/questions/7461940  
+7463414,http://stackoverflow.com/questions/7463414  
+7470677,http://stackoverflow.com/questions/7470677  
+7471696,http://stackoverflow.com/questions/7471696  
+7489136,http://stackoverflow.com/questions/7489136  
+7491142,http://stackoverflow.com/questions/7491142  
+7504830,http://stackoverflow.com/questions/7504830  
+7506331,http://stackoverflow.com/questions/7506331  
+7509831,http://stackoverflow.com/questions/7509831  
+7516591,http://stackoverflow.com/questions/7516591  
+7518618,http://stackoverflow.com/questions/7518618  
+7523373,http://stackoverflow.com/questions/7523373  
+7531428,http://stackoverflow.com/questions/7531428  
+7534540,http://stackoverflow.com/questions/7534540  
+7534888,http://stackoverflow.com/questions/7534888  
+7539148,http://stackoverflow.com/questions/7539148  
+7541916,http://stackoverflow.com/questions/7541916  
+7554213,http://stackoverflow.com/questions/7554213  
+7554831,http://stackoverflow.com/questions/7554831  
+7555231,http://stackoverflow.com/questions/7555231  
+7561160,http://stackoverflow.com/questions/7561160  
+7563851,http://stackoverflow.com/questions/7563851  
+7584933,http://stackoverflow.com/questions/7584933  
+7589460,http://stackoverflow.com/questions/7589460  
+7599865,http://stackoverflow.com/questions/7599865  
+7603820,http://stackoverflow.com/questions/7603820  
+7615961,http://stackoverflow.com/questions/7615961  
+7617131,http://stackoverflow.com/questions/7617131  
+7618129,http://stackoverflow.com/questions/7618129  
+7623897,http://stackoverflow.com/questions/7623897  
+7626077,http://stackoverflow.com/questions/7626077  
+7629758,http://stackoverflow.com/questions/7629758  
+7630061,http://stackoverflow.com/questions/7630061  
+7634226,http://stackoverflow.com/questions/7634226  
+7639224,http://stackoverflow.com/questions/7639224  
+7644405,http://stackoverflow.com/questions/7644405  
+7644536,http://stackoverflow.com/questions/7644536  
+7644926,http://stackoverflow.com/questions/7644926  
+7649934,http://stackoverflow.com/questions/7649934  
+7650908,http://stackoverflow.com/questions/7650908  
+7669306,http://stackoverflow.com/questions/7669306  
+7675402,http://stackoverflow.com/questions/7675402  
+7675526,http://stackoverflow.com/questions/7675526  
+7682150,http://stackoverflow.com/questions/7682150  
+7724373,http://stackoverflow.com/questions/7724373  
+7734371,http://stackoverflow.com/questions/7734371  
+7738046,http://stackoverflow.com/questions/7738046  
+7742397,http://stackoverflow.com/questions/7742397  
+7743716,http://stackoverflow.com/questions/7743716  
+7748996,http://stackoverflow.com/questions/7748996  
+7753432,http://stackoverflow.com/questions/7753432  
+7768376,http://stackoverflow.com/questions/7768376  
+7769319,http://stackoverflow.com/questions/7769319  
+7777618,http://stackoverflow.com/questions/7777618  
+7786037,http://stackoverflow.com/questions/7786037  
+7787289,http://stackoverflow.com/questions/7787289  
+7789847,http://stackoverflow.com/questions/7789847  
+7790527,http://stackoverflow.com/questions/7790527  
+7796558,http://stackoverflow.com/questions/7796558  
+7810504,http://stackoverflow.com/questions/7810504  
+7814602,http://stackoverflow.com/questions/7814602  
+7825553,http://stackoverflow.com/questions/7825553  
+7854397,http://stackoverflow.com/questions/7854397  
+7859271,http://stackoverflow.com/questions/7859271  
+7866118,http://stackoverflow.com/questions/7866118  
+7872411,http://stackoverflow.com/questions/7872411  
+7874586,http://stackoverflow.com/questions/7874586  
+7880991,http://stackoverflow.com/questions/7880991  
+7891452,http://stackoverflow.com/questions/7891452  
+7921339,http://stackoverflow.com/questions/7921339  
+7921454,http://stackoverflow.com/questions/7921454  
+7927865,http://stackoverflow.com/questions/7927865  
+7928785,http://stackoverflow.com/questions/7928785  
+7928976,http://stackoverflow.com/questions/7928976  
+7930451,http://stackoverflow.com/questions/7930451  
+7931469,http://stackoverflow.com/questions/7931469  
+7933432,http://stackoverflow.com/questions/7933432  
+7937199,http://stackoverflow.com/questions/7937199  
+7950594,http://stackoverflow.com/questions/7950594  
+7959019,http://stackoverflow.com/questions/7959019  
+7963347,http://stackoverflow.com/questions/7963347  
+7968076,http://stackoverflow.com/questions/7968076  
+7970132,http://stackoverflow.com/questions/7970132  
+7985970,http://stackoverflow.com/questions/7985970  
+7988954,http://stackoverflow.com/questions/7988954  
+8011789,http://stackoverflow.com/questions/8011789  
+8015291,http://stackoverflow.com/questions/8015291  
+8018760,http://stackoverflow.com/questions/8018760  
+8021261,http://stackoverflow.com/questions/8021261  
+8021846,http://stackoverflow.com/questions/8021846  
+8022589,http://stackoverflow.com/questions/8022589  
+8023977,http://stackoverflow.com/questions/8023977  
+8024434,http://stackoverflow.com/questions/8024434  
+8026589,http://stackoverflow.com/questions/8026589  
+8028094,http://stackoverflow.com/questions/8028094  
+8035674,http://stackoverflow.com/questions/8035674  
+8037129,http://stackoverflow.com/questions/8037129  
+8044764,http://stackoverflow.com/questions/8044764  
+8056838,http://stackoverflow.com/questions/8056838  
+8064667,http://stackoverflow.com/questions/8064667  
+8072926,http://stackoverflow.com/questions/8072926  
+8074477,http://stackoverflow.com/questions/8074477  
+8080220,http://stackoverflow.com/questions/8080220  
+8084665,http://stackoverflow.com/questions/8084665  
+8090449,http://stackoverflow.com/questions/8090449  
+8095300,http://stackoverflow.com/questions/8095300  
+8095495,http://stackoverflow.com/questions/8095495  
+8098551,http://stackoverflow.com/questions/8098551  
+8099789,http://stackoverflow.com/questions/8099789  
+8100816,http://stackoverflow.com/questions/8100816  
+8104500,http://stackoverflow.com/questions/8104500  
+8116936,http://stackoverflow.com/questions/8116936  
+8120509,http://stackoverflow.com/questions/8120509  
+8121243,http://stackoverflow.com/questions/8121243  
+8133725,http://stackoverflow.com/questions/8133725  
+8143878,http://stackoverflow.com/questions/8143878  
+8150155,http://stackoverflow.com/questions/8150155  
+8152972,http://stackoverflow.com/questions/8152972  
+8155343,http://stackoverflow.com/questions/8155343  
+8156316,http://stackoverflow.com/questions/8156316  
+8163374,http://stackoverflow.com/questions/8163374  
+8178103,http://stackoverflow.com/questions/8178103  
+8190649,http://stackoverflow.com/questions/8190649  
+8190971,http://stackoverflow.com/questions/8190971  
+8191282,http://stackoverflow.com/questions/8191282  
+8193156,http://stackoverflow.com/questions/8193156  
+8215429,http://stackoverflow.com/questions/8215429  
+8215582,http://stackoverflow.com/questions/8215582  
+8233272,http://stackoverflow.com/questions/8233272  
+8253938,http://stackoverflow.com/questions/8253938  
+8256772,http://stackoverflow.com/questions/8256772  
+8276150,http://stackoverflow.com/questions/8276150  
+8276515,http://stackoverflow.com/questions/8276515  
+8277739,http://stackoverflow.com/questions/8277739  
+8295610,http://stackoverflow.com/questions/8295610  
+8311739,http://stackoverflow.com/questions/8311739  
+8320296,http://stackoverflow.com/questions/8320296  
+8320376,http://stackoverflow.com/questions/8320376  
+8322987,http://stackoverflow.com/questions/8322987  
+8330295,http://stackoverflow.com/questions/8330295  
+8333815,http://stackoverflow.com/questions/8333815  
+8334431,http://stackoverflow.com/questions/8334431  
+8359429,http://stackoverflow.com/questions/8359429  
+8361527,http://stackoverflow.com/questions/8361527  
+8361642,http://stackoverflow.com/questions/8361642  
+8370341,http://stackoverflow.com/questions/8370341  
+8389156,http://stackoverflow.com/questions/8389156  
+8406642,http://stackoverflow.com/questions/8406642  
+8413938,http://stackoverflow.com/questions/8413938  
+8417440,http://stackoverflow.com/questions/8417440  
+8426275,http://stackoverflow.com/questions/8426275  
+8430708,http://stackoverflow.com/questions/8430708  
+8431380,http://stackoverflow.com/questions/8431380  
+8435228,http://stackoverflow.com/questions/8435228  
+8437574,http://stackoverflow.com/questions/8437574  
+8438748,http://stackoverflow.com/questions/8438748  
+8440828,http://stackoverflow.com/questions/8440828  
+8456617,http://stackoverflow.com/questions/8456617  
+8462027,http://stackoverflow.com/questions/8462027  
+8470820,http://stackoverflow.com/questions/8470820  
+8476147,http://stackoverflow.com/questions/8476147  
+8477475,http://stackoverflow.com/questions/8477475  
+8493233,http://stackoverflow.com/questions/8493233  
+8505166,http://stackoverflow.com/questions/8505166  
+8511430,http://stackoverflow.com/questions/8511430  
+8515208,http://stackoverflow.com/questions/8515208  
+8515564,http://stackoverflow.com/questions/8515564  
+8518475,http://stackoverflow.com/questions/8518475  
+8521425,http://stackoverflow.com/questions/8521425  
+8536586,http://stackoverflow.com/questions/8536586  
+8538288,http://stackoverflow.com/questions/8538288  
+8548483,http://stackoverflow.com/questions/8548483  
+8565531,http://stackoverflow.com/questions/8565531  
+8578586,http://stackoverflow.com/questions/8578586  
+8578969,http://stackoverflow.com/questions/8578969  
+8589538,http://stackoverflow.com/questions/8589538  
+8589578,http://stackoverflow.com/questions/8589578  
+8590302,http://stackoverflow.com/questions/8590302  
+8592556,http://stackoverflow.com/questions/8592556  
+8594069,http://stackoverflow.com/questions/8594069  
+8595246,http://stackoverflow.com/questions/8595246  
+8599786,http://stackoverflow.com/questions/8599786  
+8600326,http://stackoverflow.com/questions/8600326  
+8607736,http://stackoverflow.com/questions/8607736  
+8618426,http://stackoverflow.com/questions/8618426  
+8621906,http://stackoverflow.com/questions/8621906  
+8623284,http://stackoverflow.com/questions/8623284  
+8624656,http://stackoverflow.com/questions/8624656  
+8630269,http://stackoverflow.com/questions/8630269  
+8640209,http://stackoverflow.com/questions/8640209  
+8652914,http://stackoverflow.com/questions/8652914  
+8655401,http://stackoverflow.com/questions/8655401  
+8655861,http://stackoverflow.com/questions/8655861  
+8663890,http://stackoverflow.com/questions/8663890  
+8668005,http://stackoverflow.com/questions/8668005  
+8676206,http://stackoverflow.com/questions/8676206  
+8691769,http://stackoverflow.com/questions/8691769  
+8694185,http://stackoverflow.com/questions/8694185  
+8694941,http://stackoverflow.com/questions/8694941  
+8698740,http://stackoverflow.com/questions/8698740  
+8700518,http://stackoverflow.com/questions/8700518  
+8703652,http://stackoverflow.com/questions/8703652  
+8714090,http://stackoverflow.com/questions/8714090  
+8732937,http://stackoverflow.com/questions/8732937  
+8737340,http://stackoverflow.com/questions/8737340  
+8738512,http://stackoverflow.com/questions/8738512  
+8742736,http://stackoverflow.com/questions/8742736  
+8752321,http://stackoverflow.com/questions/8752321  
+8757266,http://stackoverflow.com/questions/8757266  
+8763396,http://stackoverflow.com/questions/8763396  
+8764405,http://stackoverflow.com/questions/8764405  
+8775978,http://stackoverflow.com/questions/8775978  
+8789324,http://stackoverflow.com/questions/8789324  
+8802637,http://stackoverflow.com/questions/8802637  
+8804881,http://stackoverflow.com/questions/8804881  
+8806199,http://stackoverflow.com/questions/8806199  
+8819988,http://stackoverflow.com/questions/8819988  
+8821046,http://stackoverflow.com/questions/8821046  
+8832219,http://stackoverflow.com/questions/8832219  
+8852326,http://stackoverflow.com/questions/8852326  
+8853133,http://stackoverflow.com/questions/8853133  
+8855740,http://stackoverflow.com/questions/8855740  
+8857431,http://stackoverflow.com/questions/8857431  
+8859189,http://stackoverflow.com/questions/8859189  
+8864143,http://stackoverflow.com/questions/8864143  
+8872274,http://stackoverflow.com/questions/8872274  
+8877253,http://stackoverflow.com/questions/8877253  
+8877814,http://stackoverflow.com/questions/8877814  
+8886405,http://stackoverflow.com/questions/8886405  
+8890309,http://stackoverflow.com/questions/8890309  
+8897869,http://stackoverflow.com/questions/8897869  
+8899497,http://stackoverflow.com/questions/8899497  
+8907348,http://stackoverflow.com/questions/8907348  
+8917951,http://stackoverflow.com/questions/8917951  
+8923880,http://stackoverflow.com/questions/8923880  
+8932740,http://stackoverflow.com/questions/8932740  
+8934852,http://stackoverflow.com/questions/8934852  
+8947726,http://stackoverflow.com/questions/8947726  
+8963203,http://stackoverflow.com/questions/8963203  
+8964717,http://stackoverflow.com/questions/8964717  
+8965048,http://stackoverflow.com/questions/8965048  
+8979270,http://stackoverflow.com/questions/8979270  
+8984490,http://stackoverflow.com/questions/8984490  
+8990916,http://stackoverflow.com/questions/8990916  
+9020131,http://stackoverflow.com/questions/9020131  
+9031832,http://stackoverflow.com/questions/9031832  
+9047032,http://stackoverflow.com/questions/9047032  
+9047430,http://stackoverflow.com/questions/9047430  
+9048812,http://stackoverflow.com/questions/9048812  
+9057816,http://stackoverflow.com/questions/9057816  
+9065732,http://stackoverflow.com/questions/9065732  
+9073492,http://stackoverflow.com/questions/9073492  
+9079431,http://stackoverflow.com/questions/9079431  
+9083204,http://stackoverflow.com/questions/9083204  
+9108067,http://stackoverflow.com/questions/9108067  
+9113400,http://stackoverflow.com/questions/9113400  
+9115897,http://stackoverflow.com/questions/9115897  
+9117458,http://stackoverflow.com/questions/9117458  
+9126864,http://stackoverflow.com/questions/9126864  
+9135579,http://stackoverflow.com/questions/9135579  
+9147576,http://stackoverflow.com/questions/9147576  
+9160464,http://stackoverflow.com/questions/9160464  
+9165370,http://stackoverflow.com/questions/9165370  
+9170737,http://stackoverflow.com/questions/9170737  
+9173191,http://stackoverflow.com/questions/9173191  
+9179151,http://stackoverflow.com/questions/9179151  
+9181270,http://stackoverflow.com/questions/9181270  
+9192406,http://stackoverflow.com/questions/9192406  
+9193965,http://stackoverflow.com/questions/9193965  
+9198663,http://stackoverflow.com/questions/9198663  
+9203634,http://stackoverflow.com/questions/9203634  
+9208214,http://stackoverflow.com/questions/9208214  
+9211922,http://stackoverflow.com/questions/9211922  
+9211997,http://stackoverflow.com/questions/9211997  
+9239287,http://stackoverflow.com/questions/9239287  
+9243071,http://stackoverflow.com/questions/9243071  
+9245098,http://stackoverflow.com/questions/9245098  
+9247093,http://stackoverflow.com/questions/9247093  
+9250160,http://stackoverflow.com/questions/9250160  
+9255738,http://stackoverflow.com/questions/9255738  
+9258005,http://stackoverflow.com/questions/9258005  
+9263025,http://stackoverflow.com/questions/9263025  
+9267403,http://stackoverflow.com/questions/9267403  
+9270971,http://stackoverflow.com/questions/9270971  
+9279256,http://stackoverflow.com/questions/9279256  
+9281950,http://stackoverflow.com/questions/9281950  
+9289974,http://stackoverflow.com/questions/9289974  
+9290848,http://stackoverflow.com/questions/9290848  
+9290888,http://stackoverflow.com/questions/9290888  
+9315480,http://stackoverflow.com/questions/9315480  
+9319714,http://stackoverflow.com/questions/9319714  
+9327408,http://stackoverflow.com/questions/9327408  
+9327479,http://stackoverflow.com/questions/9327479  
+9335425,http://stackoverflow.com/questions/9335425  
+9341769,http://stackoverflow.com/questions/9341769  
+9346372,http://stackoverflow.com/questions/9346372  
+9366200,http://stackoverflow.com/questions/9366200  
+9384479,http://stackoverflow.com/questions/9384479  
+9401612,http://stackoverflow.com/questions/9401612  
+9405950,http://stackoverflow.com/questions/9405950  
+9422069,http://stackoverflow.com/questions/9422069  
+9423693,http://stackoverflow.com/questions/9423693  
+9428847,http://stackoverflow.com/questions/9428847  
+9430441,http://stackoverflow.com/questions/9430441  
+9448504,http://stackoverflow.com/questions/9448504  
+9456655,http://stackoverflow.com/questions/9456655  
+9459827,http://stackoverflow.com/questions/9459827  
+9466206,http://stackoverflow.com/questions/9466206  
+9473379,http://stackoverflow.com/questions/9473379  
+9474121,http://stackoverflow.com/questions/9474121  
+9480363,http://stackoverflow.com/questions/9480363  
+9481510,http://stackoverflow.com/questions/9481510  
+9482731,http://stackoverflow.com/questions/9482731  
+9482821,http://stackoverflow.com/questions/9482821  
+9488803,http://stackoverflow.com/questions/9488803  
+9506186,http://stackoverflow.com/questions/9506186  
+9540574,http://stackoverflow.com/questions/9540574  
+9548455,http://stackoverflow.com/questions/9548455  
+9548612,http://stackoverflow.com/questions/9548612  
+9550929,http://stackoverflow.com/questions/9550929  
+9552806,http://stackoverflow.com/questions/9552806  
+9588979,http://stackoverflow.com/questions/9588979  
+9597345,http://stackoverflow.com/questions/9597345  
+9613857,http://stackoverflow.com/questions/9613857  
+9621690,http://stackoverflow.com/questions/9621690  
+9636953,http://stackoverflow.com/questions/9636953  
+9640462,http://stackoverflow.com/questions/9640462  
+9646130,http://stackoverflow.com/questions/9646130  
+9646847,http://stackoverflow.com/questions/9646847  
+9652906,http://stackoverflow.com/questions/9652906  
+9659379,http://stackoverflow.com/questions/9659379  
+9689884,http://stackoverflow.com/questions/9689884  
+9716398,http://stackoverflow.com/questions/9716398  
+9721362,http://stackoverflow.com/questions/9721362  
+9721725,http://stackoverflow.com/questions/9721725  
+9725299,http://stackoverflow.com/questions/9725299  
+9757067,http://stackoverflow.com/questions/9757067  
+9758001,http://stackoverflow.com/questions/9758001  
+9762194,http://stackoverflow.com/questions/9762194  
+9762829,http://stackoverflow.com/questions/9762829  
+9783818,http://stackoverflow.com/questions/9783818  
+9793682,http://stackoverflow.com/questions/9793682  
+9794278,http://stackoverflow.com/questions/9794278  
+9825310,http://stackoverflow.com/questions/9825310  
+9825540,http://stackoverflow.com/questions/9825540  
+9831096,http://stackoverflow.com/questions/9831096  
+9833635,http://stackoverflow.com/questions/9833635  
+9835974,http://stackoverflow.com/questions/9835974  
+9838734,http://stackoverflow.com/questions/9838734  
+9842119,http://stackoverflow.com/questions/9842119  
+9849441,http://stackoverflow.com/questions/9849441  
+9852625,http://stackoverflow.com/questions/9852625  
+9852974,http://stackoverflow.com/questions/9852974  
+9862037,http://stackoverflow.com/questions/9862037  
+9867975,http://stackoverflow.com/questions/9867975  
+9868955,http://stackoverflow.com/questions/9868955  
+9876456,http://stackoverflow.com/questions/9876456  
+9878067,http://stackoverflow.com/questions/9878067  
+9879987,http://stackoverflow.com/questions/9879987  
+9884280,http://stackoverflow.com/questions/9884280  
+9889793,http://stackoverflow.com/questions/9889793  
+9894087,http://stackoverflow.com/questions/9894087  
+9895463,http://stackoverflow.com/questions/9895463  
+9898875,http://stackoverflow.com/questions/9898875  
+9908260,http://stackoverflow.com/questions/9908260  
+9913883,http://stackoverflow.com/questions/9913883  
+9936497,http://stackoverflow.com/questions/9936497  
+9937812,http://stackoverflow.com/questions/9937812  
+9949367,http://stackoverflow.com/questions/9949367  
+9952636,http://stackoverflow.com/questions/9952636  
+9953468,http://stackoverflow.com/questions/9953468  
+9961992,http://stackoverflow.com/questions/9961992  
+9966384,http://stackoverflow.com/questions/9966384  
+9989672,http://stackoverflow.com/questions/9989672  
+9992566,http://stackoverflow.com/questions/9992566  
+10007169,http://stackoverflow.com/questions/10007169  
+10017628,http://stackoverflow.com/questions/10017628  
+10026491,http://stackoverflow.com/questions/10026491  
+10029503,http://stackoverflow.com/questions/10029503  
+10039314,http://stackoverflow.com/questions/10039314  
+10048502,http://stackoverflow.com/questions/10048502  
+10048654,http://stackoverflow.com/questions/10048654  
+10054958,http://stackoverflow.com/questions/10054958  
+10062364,http://stackoverflow.com/questions/10062364  
+10064804,http://stackoverflow.com/questions/10064804  
+10076031,http://stackoverflow.com/questions/10076031  
+10076104,http://stackoverflow.com/questions/10076104  
+10076200,http://stackoverflow.com/questions/10076200  
+10080878,http://stackoverflow.com/questions/10080878  
+10082031,http://stackoverflow.com/questions/10082031  
+10086053,http://stackoverflow.com/questions/10086053  
+10090358,http://stackoverflow.com/questions/10090358  
+10095388,http://stackoverflow.com/questions/10095388  
+10099495,http://stackoverflow.com/questions/10099495  
+10103713,http://stackoverflow.com/questions/10103713  
+10105144,http://stackoverflow.com/questions/10105144  
+10110248,http://stackoverflow.com/questions/10110248  
+10114912,http://stackoverflow.com/questions/10114912  
+10115225,http://stackoverflow.com/questions/10115225  
+10121514,http://stackoverflow.com/questions/10121514  
+10130708,http://stackoverflow.com/questions/10130708  
+10136775,http://stackoverflow.com/questions/10136775  
+10160367,http://stackoverflow.com/questions/10160367  
+10173809,http://stackoverflow.com/questions/10173809  
+10180010,http://stackoverflow.com/questions/10180010  
+10184854,http://stackoverflow.com/questions/10184854  
+10185846,http://stackoverflow.com/questions/10185846  
+10186986,http://stackoverflow.com/questions/10186986  
+10189289,http://stackoverflow.com/questions/10189289  
+10191267,http://stackoverflow.com/questions/10191267  
+10204837,http://stackoverflow.com/questions/10204837  
+10205202,http://stackoverflow.com/questions/10205202  
+10207626,http://stackoverflow.com/questions/10207626  
+10209959,http://stackoverflow.com/questions/10209959  
+10213407,http://stackoverflow.com/questions/10213407  
+10214860,http://stackoverflow.com/questions/10214860  
+10225091,http://stackoverflow.com/questions/10225091  
+10228477,http://stackoverflow.com/questions/10228477  
+10231843,http://stackoverflow.com/questions/10231843  
+10238236,http://stackoverflow.com/questions/10238236  
+10238330,http://stackoverflow.com/questions/10238330  
+10243396,http://stackoverflow.com/questions/10243396  
+10249254,http://stackoverflow.com/questions/10249254  
+10249450,http://stackoverflow.com/questions/10249450  
+10253335,http://stackoverflow.com/questions/10253335  
+10262487,http://stackoverflow.com/questions/10262487  
+10263033,http://stackoverflow.com/questions/10263033  
+10265643,http://stackoverflow.com/questions/10265643  
+10280128,http://stackoverflow.com/questions/10280128  
+10280957,http://stackoverflow.com/questions/10280957  
+10301907,http://stackoverflow.com/questions/10301907  
+10322631,http://stackoverflow.com/questions/10322631  
+10331519,http://stackoverflow.com/questions/10331519  
+10352299,http://stackoverflow.com/questions/10352299  
+10356315,http://stackoverflow.com/questions/10356315  
+10357281,http://stackoverflow.com/questions/10357281  
+10361701,http://stackoverflow.com/questions/10361701  
+10372855,http://stackoverflow.com/questions/10372855  
+10373077,http://stackoverflow.com/questions/10373077  
+10375755,http://stackoverflow.com/questions/10375755  
+10385135,http://stackoverflow.com/questions/10385135  
+10388083,http://stackoverflow.com/questions/10388083  
+10399880,http://stackoverflow.com/questions/10399880  
+10405650,http://stackoverflow.com/questions/10405650  
+10412299,http://stackoverflow.com/questions/10412299  
+10418721,http://stackoverflow.com/questions/10418721  
+10421764,http://stackoverflow.com/questions/10421764  
+10442211,http://stackoverflow.com/questions/10442211  
+10443308,http://stackoverflow.com/questions/10443308  
+10444129,http://stackoverflow.com/questions/10444129  
+10445848,http://stackoverflow.com/questions/10445848  
+10445967,http://stackoverflow.com/questions/10445967  
+10450957,http://stackoverflow.com/questions/10450957  
+10463397,http://stackoverflow.com/questions/10463397  
+10466630,http://stackoverflow.com/questions/10466630  
+10474967,http://stackoverflow.com/questions/10474967  
+10475827,http://stackoverflow.com/questions/10475827  
+10476560,http://stackoverflow.com/questions/10476560  
+10482303,http://stackoverflow.com/questions/10482303  
+10486064,http://stackoverflow.com/questions/10486064  
+10489291,http://stackoverflow.com/questions/10489291  
+10499208,http://stackoverflow.com/questions/10499208  
+10509138,http://stackoverflow.com/questions/10509138  
+10516633,http://stackoverflow.com/questions/10516633  
+10524149,http://stackoverflow.com/questions/10524149  
+10526797,http://stackoverflow.com/questions/10526797  
+10527234,http://stackoverflow.com/questions/10527234  
+10537520,http://stackoverflow.com/questions/10537520  
+10540698,http://stackoverflow.com/questions/10540698  
+10544918,http://stackoverflow.com/questions/10544918  
+10547915,http://stackoverflow.com/questions/10547915  
+10549478,http://stackoverflow.com/questions/10549478  
+10567863,http://stackoverflow.com/questions/10567863  
+10571573,http://stackoverflow.com/questions/10571573  
+10576371,http://stackoverflow.com/questions/10576371  
+10598663,http://stackoverflow.com/questions/10598663  
+10607126,http://stackoverflow.com/questions/10607126  
+10615800,http://stackoverflow.com/questions/10615800  
+10624716,http://stackoverflow.com/questions/10624716  
+10631540,http://stackoverflow.com/questions/10631540  
+10649581,http://stackoverflow.com/questions/10649581  
+10659014,http://stackoverflow.com/questions/10659014  
+10676907,http://stackoverflow.com/questions/10676907  
+10691486,http://stackoverflow.com/questions/10691486  
+10700625,http://stackoverflow.com/questions/10700625  
+10719262,http://stackoverflow.com/questions/10719262  
+10732935,http://stackoverflow.com/questions/10732935  
+10739619,http://stackoverflow.com/questions/10739619  
+10747427,http://stackoverflow.com/questions/10747427  
+10764719,http://stackoverflow.com/questions/10764719  
+10774871,http://stackoverflow.com/questions/10774871  
+10785776,http://stackoverflow.com/questions/10785776  
+10789143,http://stackoverflow.com/questions/10789143  
+10792275,http://stackoverflow.com/questions/10792275  
+10797563,http://stackoverflow.com/questions/10797563  
+10813144,http://stackoverflow.com/questions/10813144  
+10815779,http://stackoverflow.com/questions/10815779  
+10816188,http://stackoverflow.com/questions/10816188  
+10823382,http://stackoverflow.com/questions/10823382  
+10837540,http://stackoverflow.com/questions/10837540  
+10837713,http://stackoverflow.com/questions/10837713  
+10841710,http://stackoverflow.com/questions/10841710  
+10841948,http://stackoverflow.com/questions/10841948  
+10851776,http://stackoverflow.com/questions/10851776  
+10853469,http://stackoverflow.com/questions/10853469  
+10872220,http://stackoverflow.com/questions/10872220  
+10872257,http://stackoverflow.com/questions/10872257  
+10874733,http://stackoverflow.com/questions/10874733  
+10876140,http://stackoverflow.com/questions/10876140  
+10880177,http://stackoverflow.com/questions/10880177  
+10883092,http://stackoverflow.com/questions/10883092  
+10886138,http://stackoverflow.com/questions/10886138  
+10913363,http://stackoverflow.com/questions/10913363  
+10932288,http://stackoverflow.com/questions/10932288  
+10944524,http://stackoverflow.com/questions/10944524  
+10947487,http://stackoverflow.com/questions/10947487  
+10951977,http://stackoverflow.com/questions/10951977  
+10961714,http://stackoverflow.com/questions/10961714  
+10970068,http://stackoverflow.com/questions/10970068  
+10973169,http://stackoverflow.com/questions/10973169  
+10977315,http://stackoverflow.com/questions/10977315  
+10977595,http://stackoverflow.com/questions/10977595  
+10980826,http://stackoverflow.com/questions/10980826  
+10981203,http://stackoverflow.com/questions/10981203  
+10986578,http://stackoverflow.com/questions/10986578  
+10988155,http://stackoverflow.com/questions/10988155  
+10993632,http://stackoverflow.com/questions/10993632  
+11001149,http://stackoverflow.com/questions/11001149  
+11003154,http://stackoverflow.com/questions/11003154  
+11003206,http://stackoverflow.com/questions/11003206  
+11019276,http://stackoverflow.com/questions/11019276  
+11019910,http://stackoverflow.com/questions/11019910  
+11020005,http://stackoverflow.com/questions/11020005  
+11028147,http://stackoverflow.com/questions/11028147  
+11031485,http://stackoverflow.com/questions/11031485  
+11042103,http://stackoverflow.com/questions/11042103  
+11044888,http://stackoverflow.com/questions/11044888  
+11046787,http://stackoverflow.com/questions/11046787  
+11048016,http://stackoverflow.com/questions/11048016  
+11063093,http://stackoverflow.com/questions/11063093  
+11077915,http://stackoverflow.com/questions/11077915  
+11078939,http://stackoverflow.com/questions/11078939  
+11086343,http://stackoverflow.com/questions/11086343  
+11086785,http://stackoverflow.com/questions/11086785  
+11092055,http://stackoverflow.com/questions/11092055  
+11092407,http://stackoverflow.com/questions/11092407  
+11093818,http://stackoverflow.com/questions/11093818  
+11107248,http://stackoverflow.com/questions/11107248  
+11109450,http://stackoverflow.com/questions/11109450  
+11111796,http://stackoverflow.com/questions/11111796  
+11114815,http://stackoverflow.com/questions/11114815  
+11128662,http://stackoverflow.com/questions/11128662  
+11134028,http://stackoverflow.com/questions/11134028  
+11135273,http://stackoverflow.com/questions/11135273  
+11139831,http://stackoverflow.com/questions/11139831  
+11143609,http://stackoverflow.com/questions/11143609  
+11150329,http://stackoverflow.com/questions/11150329  
+11160880,http://stackoverflow.com/questions/11160880  
+11181660,http://stackoverflow.com/questions/11181660  
+11181893,http://stackoverflow.com/questions/11181893  
+11185510,http://stackoverflow.com/questions/11185510  
+11186105,http://stackoverflow.com/questions/11186105  
+11192719,http://stackoverflow.com/questions/11192719  
+11198953,http://stackoverflow.com/questions/11198953  
+11213550,http://stackoverflow.com/questions/11213550  
+11228095,http://stackoverflow.com/questions/11228095  
+11228462,http://stackoverflow.com/questions/11228462  
+11230692,http://stackoverflow.com/questions/11230692  
+11235486,http://stackoverflow.com/questions/11235486  
+11237946,http://stackoverflow.com/questions/11237946  
+11238155,http://stackoverflow.com/questions/11238155  
+11242224,http://stackoverflow.com/questions/11242224  
+11247459,http://stackoverflow.com/questions/11247459  
+11247844,http://stackoverflow.com/questions/11247844  
+11254693,http://stackoverflow.com/questions/11254693  
+11256361,http://stackoverflow.com/questions/11256361  
+11258039,http://stackoverflow.com/questions/11258039  
+11258752,http://stackoverflow.com/questions/11258752  
+11268093,http://stackoverflow.com/questions/11268093  
+11272839,http://stackoverflow.com/questions/11272839  
+11276760,http://stackoverflow.com/questions/11276760  
+11278813,http://stackoverflow.com/questions/11278813  
+11280531,http://stackoverflow.com/questions/11280531  
+11297025,http://stackoverflow.com/questions/11297025  
+11302870,http://stackoverflow.com/questions/11302870  
+11307649,http://stackoverflow.com/questions/11307649  
+11313283,http://stackoverflow.com/questions/11313283  
+11318641,http://stackoverflow.com/questions/11318641  
+11318672,http://stackoverflow.com/questions/11318672  
+11328805,http://stackoverflow.com/questions/11328805  
+11331744,http://stackoverflow.com/questions/11331744  
+11342182,http://stackoverflow.com/questions/11342182  
+11348797,http://stackoverflow.com/questions/11348797  
+11348840,http://stackoverflow.com/questions/11348840  
+11355971,http://stackoverflow.com/questions/11355971  
+11369910,http://stackoverflow.com/questions/11369910  
+11375392,http://stackoverflow.com/questions/11375392  
+11380216,http://stackoverflow.com/questions/11380216  
+11383898,http://stackoverflow.com/questions/11383898  
+11394412,http://stackoverflow.com/questions/11394412  
+11419101,http://stackoverflow.com/questions/11419101  
+11428410,http://stackoverflow.com/questions/11428410  
+11428538,http://stackoverflow.com/questions/11428538  
+11431980,http://stackoverflow.com/questions/11431980  
+11441299,http://stackoverflow.com/questions/11441299  
+11463271,http://stackoverflow.com/questions/11463271  
+11463735,http://stackoverflow.com/questions/11463735  
+11469211,http://stackoverflow.com/questions/11469211  
+11470188,http://stackoverflow.com/questions/11470188  
+11486633,http://stackoverflow.com/questions/11486633  
+11503039,http://stackoverflow.com/questions/11503039  
+11510029,http://stackoverflow.com/questions/11510029  
+11515533,http://stackoverflow.com/questions/11515533  
+11520010,http://stackoverflow.com/questions/11520010  
+11529641,http://stackoverflow.com/questions/11529641  
+11530515,http://stackoverflow.com/questions/11530515  
+11545769,http://stackoverflow.com/questions/11545769  
+11547888,http://stackoverflow.com/questions/11547888  
+11547908,http://stackoverflow.com/questions/11547908  
+11552838,http://stackoverflow.com/questions/11552838  
+11559512,http://stackoverflow.com/questions/11559512  
+11564281,http://stackoverflow.com/questions/11564281  
+11564870,http://stackoverflow.com/questions/11564870  
+11568310,http://stackoverflow.com/questions/11568310  
+11581997,http://stackoverflow.com/questions/11581997  
+11582220,http://stackoverflow.com/questions/11582220  
+11586199,http://stackoverflow.com/questions/11586199  
+11592269,http://stackoverflow.com/questions/11592269  
+11598708,http://stackoverflow.com/questions/11598708  
+11599604,http://stackoverflow.com/questions/11599604  
+11606137,http://stackoverflow.com/questions/11606137  
+11649889,http://stackoverflow.com/questions/11649889  
+11651705,http://stackoverflow.com/questions/11651705  
+11653918,http://stackoverflow.com/questions/11653918  
+11654737,http://stackoverflow.com/questions/11654737  
+11654984,http://stackoverflow.com/questions/11654984  
+11657710,http://stackoverflow.com/questions/11657710  
+11668970,http://stackoverflow.com/questions/11668970  
+11677452,http://stackoverflow.com/questions/11677452  
+11684656,http://stackoverflow.com/questions/11684656  
+11697937,http://stackoverflow.com/questions/11697937  
+11719023,http://stackoverflow.com/questions/11719023  
+11719452,http://stackoverflow.com/questions/11719452  
+11731965,http://stackoverflow.com/questions/11731965  
+11742025,http://stackoverflow.com/questions/11742025  
+11743983,http://stackoverflow.com/questions/11743983  
+11758068,http://stackoverflow.com/questions/11758068  
+11776302,http://stackoverflow.com/questions/11776302  
+11786717,http://stackoverflow.com/questions/11786717  
+11803226,http://stackoverflow.com/questions/11803226  
+11808849,http://stackoverflow.com/questions/11808849  
+11812475,http://stackoverflow.com/questions/11812475  
+11819145,http://stackoverflow.com/questions/11819145  
+11828762,http://stackoverflow.com/questions/11828762  
+11842029,http://stackoverflow.com/questions/11842029  
+11856287,http://stackoverflow.com/questions/11856287  
+11861245,http://stackoverflow.com/questions/11861245  
+11866647,http://stackoverflow.com/questions/11866647  
+11868511,http://stackoverflow.com/questions/11868511  
+11876972,http://stackoverflow.com/questions/11876972  
+11888654,http://stackoverflow.com/questions/11888654  
+11891194,http://stackoverflow.com/questions/11891194  
+11893727,http://stackoverflow.com/questions/11893727  
+11895205,http://stackoverflow.com/questions/11895205  
+11909363,http://stackoverflow.com/questions/11909363  
+11928860,http://stackoverflow.com/questions/11928860  
+11935299,http://stackoverflow.com/questions/11935299  
+11940194,http://stackoverflow.com/questions/11940194  
+11945728,http://stackoverflow.com/questions/11945728  
+11946848,http://stackoverflow.com/questions/11946848  
+11953772,http://stackoverflow.com/questions/11953772  
+11959482,http://stackoverflow.com/questions/11959482  
+11964261,http://stackoverflow.com/questions/11964261  
+11966434,http://stackoverflow.com/questions/11966434  
+11966822,http://stackoverflow.com/questions/11966822  
+11967240,http://stackoverflow.com/questions/11967240  
+11984610,http://stackoverflow.com/questions/11984610  
+11990434,http://stackoverflow.com/questions/11990434  
+11992705,http://stackoverflow.com/questions/11992705  
+11994260,http://stackoverflow.com/questions/11994260  
+12011447,http://stackoverflow.com/questions/12011447  
+12013438,http://stackoverflow.com/questions/12013438  
+12019649,http://stackoverflow.com/questions/12019649  
+12028635,http://stackoverflow.com/questions/12028635  
+12029826,http://stackoverflow.com/questions/12029826  
+12030331,http://stackoverflow.com/questions/12030331  
+12031080,http://stackoverflow.com/questions/12031080  
+12031637,http://stackoverflow.com/questions/12031637  
+12036261,http://stackoverflow.com/questions/12036261  
+12042352,http://stackoverflow.com/questions/12042352  
+12044206,http://stackoverflow.com/questions/12044206  
+12048610,http://stackoverflow.com/questions/12048610  
+12048646,http://stackoverflow.com/questions/12048646  
+12058823,http://stackoverflow.com/questions/12058823  
+12071454,http://stackoverflow.com/questions/12071454  
+12079417,http://stackoverflow.com/questions/12079417  
+12091957,http://stackoverflow.com/questions/12091957  
+12095054,http://stackoverflow.com/questions/12095054  
+12102004,http://stackoverflow.com/questions/12102004  
+12114612,http://stackoverflow.com/questions/12114612  
+12122418,http://stackoverflow.com/questions/12122418  
+12124924,http://stackoverflow.com/questions/12124924  
+12127443,http://stackoverflow.com/questions/12127443  
+12137400,http://stackoverflow.com/questions/12137400  
+12141542,http://stackoverflow.com/questions/12141542  
+12170305,http://stackoverflow.com/questions/12170305  
+12174440,http://stackoverflow.com/questions/12174440  
+12174567,http://stackoverflow.com/questions/12174567  
+12179248,http://stackoverflow.com/questions/12179248  
+12179302,http://stackoverflow.com/questions/12179302  
+12179510,http://stackoverflow.com/questions/12179510  
+12187805,http://stackoverflow.com/questions/12187805  
+12190202,http://stackoverflow.com/questions/12190202  
+12194090,http://stackoverflow.com/questions/12194090  
+12202510,http://stackoverflow.com/questions/12202510  
+12217933,http://stackoverflow.com/questions/12217933  
+12236519,http://stackoverflow.com/questions/12236519  
+12259670,http://stackoverflow.com/questions/12259670  
+12261899,http://stackoverflow.com/questions/12261899  
+12279723,http://stackoverflow.com/questions/12279723  
+12285913,http://stackoverflow.com/questions/12285913  
+12293593,http://stackoverflow.com/questions/12293593  
+12305191,http://stackoverflow.com/questions/12305191  
+12311717,http://stackoverflow.com/questions/12311717  
+12315149,http://stackoverflow.com/questions/12315149  
+12318629,http://stackoverflow.com/questions/12318629  
+12320829,http://stackoverflow.com/questions/12320829  
+12350889,http://stackoverflow.com/questions/12350889  
+12352171,http://stackoverflow.com/questions/12352171  
+12352355,http://stackoverflow.com/questions/12352355  
+12360890,http://stackoverflow.com/questions/12360890  
+12369594,http://stackoverflow.com/questions/12369594  
+12372831,http://stackoverflow.com/questions/12372831  
+12382304,http://stackoverflow.com/questions/12382304  
+12387564,http://stackoverflow.com/questions/12387564  
+12392563,http://stackoverflow.com/questions/12392563  
+12392750,http://stackoverflow.com/questions/12392750  
+12396305,http://stackoverflow.com/questions/12396305  
+12410247,http://stackoverflow.com/questions/12410247  
+12415997,http://stackoverflow.com/questions/12415997  
+12419163,http://stackoverflow.com/questions/12419163  
+12426808,http://stackoverflow.com/questions/12426808  
+12432184,http://stackoverflow.com/questions/12432184  
+12434994,http://stackoverflow.com/questions/12434994  
+12438089,http://stackoverflow.com/questions/12438089  
+12443769,http://stackoverflow.com/questions/12443769  
+12449642,http://stackoverflow.com/questions/12449642  
+12449769,http://stackoverflow.com/questions/12449769  
+12473384,http://stackoverflow.com/questions/12473384  
+12478041,http://stackoverflow.com/questions/12478041  
+12481336,http://stackoverflow.com/questions/12481336  
+12484691,http://stackoverflow.com/questions/12484691  
+12499675,http://stackoverflow.com/questions/12499675  
+12503437,http://stackoverflow.com/questions/12503437  
+12503527,http://stackoverflow.com/questions/12503527  
+12515199,http://stackoverflow.com/questions/12515199  
+12515599,http://stackoverflow.com/questions/12515599  
+12538093,http://stackoverflow.com/questions/12538093  
+12538445,http://stackoverflow.com/questions/12538445  
+12539955,http://stackoverflow.com/questions/12539955  
+12539982,http://stackoverflow.com/questions/12539982  
+12558231,http://stackoverflow.com/questions/12558231  
+12558358,http://stackoverflow.com/questions/12558358  
+12569150,http://stackoverflow.com/questions/12569150  
+12574098,http://stackoverflow.com/questions/12574098  
+12579667,http://stackoverflow.com/questions/12579667  
+12591580,http://stackoverflow.com/questions/12591580  
+12593490,http://stackoverflow.com/questions/12593490  
+12596579,http://stackoverflow.com/questions/12596579  
+12600842,http://stackoverflow.com/questions/12600842  
+12604754,http://stackoverflow.com/questions/12604754  
+12606196,http://stackoverflow.com/questions/12606196  
+12607952,http://stackoverflow.com/questions/12607952  
+12612746,http://stackoverflow.com/questions/12612746  
+12616158,http://stackoverflow.com/questions/12616158  
+12617618,http://stackoverflow.com/questions/12617618  
+12630758,http://stackoverflow.com/questions/12630758  
+12637289,http://stackoverflow.com/questions/12637289  
+12639112,http://stackoverflow.com/questions/12639112  
+12642355,http://stackoverflow.com/questions/12642355  
+12658852,http://stackoverflow.com/questions/12658852  
+12664107,http://stackoverflow.com/questions/12664107  
+12664963,http://stackoverflow.com/questions/12664963  
+12667200,http://stackoverflow.com/questions/12667200  
+12674801,http://stackoverflow.com/questions/12674801  
+12676425,http://stackoverflow.com/questions/12676425  
+12684305,http://stackoverflow.com/questions/12684305  
+12693822,http://stackoverflow.com/questions/12693822  
+12694048,http://stackoverflow.com/questions/12694048  
+12714337,http://stackoverflow.com/questions/12714337  
+12714701,http://stackoverflow.com/questions/12714701  
+12715207,http://stackoverflow.com/questions/12715207  
+12715216,http://stackoverflow.com/questions/12715216  
+12716416,http://stackoverflow.com/questions/12716416  
+12718804,http://stackoverflow.com/questions/12718804  
+12723037,http://stackoverflow.com/questions/12723037  
+12725219,http://stackoverflow.com/questions/12725219  
+12729733,http://stackoverflow.com/questions/12729733  
+12730852,http://stackoverflow.com/questions/12730852  
+12731283,http://stackoverflow.com/questions/12731283  
+12731291,http://stackoverflow.com/questions/12731291  
+12732752,http://stackoverflow.com/questions/12732752  
+12746566,http://stackoverflow.com/questions/12746566  
+12756434,http://stackoverflow.com/questions/12756434  
+12766085,http://stackoverflow.com/questions/12766085  
+12769696,http://stackoverflow.com/questions/12769696  
+12784662,http://stackoverflow.com/questions/12784662  
+12786342,http://stackoverflow.com/questions/12786342  
+12806613,http://stackoverflow.com/questions/12806613  
+12812105,http://stackoverflow.com/questions/12812105  
+12826897,http://stackoverflow.com/questions/12826897  
+12831957,http://stackoverflow.com/questions/12831957  
+12841855,http://stackoverflow.com/questions/12841855  
+12849913,http://stackoverflow.com/questions/12849913  
+12850033,http://stackoverflow.com/questions/12850033  
+12853434,http://stackoverflow.com/questions/12853434  
+12855158,http://stackoverflow.com/questions/12855158  
+12856165,http://stackoverflow.com/questions/12856165  
+12881072,http://stackoverflow.com/questions/12881072  
+12886191,http://stackoverflow.com/questions/12886191  
+12887461,http://stackoverflow.com/questions/12887461  
+12895753,http://stackoverflow.com/questions/12895753  
+12897083,http://stackoverflow.com/questions/12897083  
+12901275,http://stackoverflow.com/questions/12901275  
+12905038,http://stackoverflow.com/questions/12905038  
+12905512,http://stackoverflow.com/questions/12905512  
+12909288,http://stackoverflow.com/questions/12909288  
+12917101,http://stackoverflow.com/questions/12917101  
+12924425,http://stackoverflow.com/questions/12924425  
+12942435,http://stackoverflow.com/questions/12942435  
+12949943,http://stackoverflow.com/questions/12949943  
+12953958,http://stackoverflow.com/questions/12953958  
+12953967,http://stackoverflow.com/questions/12953967  
+12954389,http://stackoverflow.com/questions/12954389  
+12963085,http://stackoverflow.com/questions/12963085  
+12965423,http://stackoverflow.com/questions/12965423  
+12969102,http://stackoverflow.com/questions/12969102  
+12972551,http://stackoverflow.com/questions/12972551  
+12975568,http://stackoverflow.com/questions/12975568  
+12989413,http://stackoverflow.com/questions/12989413  
+12991116,http://stackoverflow.com/questions/12991116  
+12991169,http://stackoverflow.com/questions/12991169  
+12995817,http://stackoverflow.com/questions/12995817  
+13004111,http://stackoverflow.com/questions/13004111  
+13011687,http://stackoverflow.com/questions/13011687  
+13012511,http://stackoverflow.com/questions/13012511  
+13014509,http://stackoverflow.com/questions/13014509  
+13015870,http://stackoverflow.com/questions/13015870  
+13024062,http://stackoverflow.com/questions/13024062  
+13028987,http://stackoverflow.com/questions/13028987  
+13035640,http://stackoverflow.com/questions/13035640  
+13036240,http://stackoverflow.com/questions/13036240  
+13048281,http://stackoverflow.com/questions/13048281  
+13063007,http://stackoverflow.com/questions/13063007  
+13076572,http://stackoverflow.com/questions/13076572  
+13081224,http://stackoverflow.com/questions/13081224  
+13084487,http://stackoverflow.com/questions/13084487  
+13092330,http://stackoverflow.com/questions/13092330  
+13094121,http://stackoverflow.com/questions/13094121  
+13107608,http://stackoverflow.com/questions/13107608  
+13108112,http://stackoverflow.com/questions/13108112  
+13125551,http://stackoverflow.com/questions/13125551  
+13127291,http://stackoverflow.com/questions/13127291  
+13128600,http://stackoverflow.com/questions/13128600  
+13135125,http://stackoverflow.com/questions/13135125  
+13137403,http://stackoverflow.com/questions/13137403  
+13152173,http://stackoverflow.com/questions/13152173  
+13153010,http://stackoverflow.com/questions/13153010  
+13154074,http://stackoverflow.com/questions/13154074  
+13157951,http://stackoverflow.com/questions/13157951  
+13159409,http://stackoverflow.com/questions/13159409  
+13166402,http://stackoverflow.com/questions/13166402  
+13168839,http://stackoverflow.com/questions/13168839  
+13175981,http://stackoverflow.com/questions/13175981  
+13183675,http://stackoverflow.com/questions/13183675  
+13187549,http://stackoverflow.com/questions/13187549  
+13194537,http://stackoverflow.com/questions/13194537  
+13204485,http://stackoverflow.com/questions/13204485  
+13212106,http://stackoverflow.com/questions/13212106  
+13214551,http://stackoverflow.com/questions/13214551  
+13215481,http://stackoverflow.com/questions/13215481  
+13237143,http://stackoverflow.com/questions/13237143  
+13237297,http://stackoverflow.com/questions/13237297  
+13238685,http://stackoverflow.com/questions/13238685  
+13239317,http://stackoverflow.com/questions/13239317  
+13240325,http://stackoverflow.com/questions/13240325  
+13240696,http://stackoverflow.com/questions/13240696  
+13244020,http://stackoverflow.com/questions/13244020  
+13249612,http://stackoverflow.com/questions/13249612  
+13257822,http://stackoverflow.com/questions/13257822  
+13261524,http://stackoverflow.com/questions/13261524  
+13271474,http://stackoverflow.com/questions/13271474  
+13277567,http://stackoverflow.com/questions/13277567  
+13279701,http://stackoverflow.com/questions/13279701  
+13281689,http://stackoverflow.com/questions/13281689  
+13296553,http://stackoverflow.com/questions/13296553  
+13300827,http://stackoverflow.com/questions/13300827  
+13311700,http://stackoverflow.com/questions/13311700  
+13334207,http://stackoverflow.com/questions/13334207  
+13343524,http://stackoverflow.com/questions/13343524  
+13347922,http://stackoverflow.com/questions/13347922  
+13359734,http://stackoverflow.com/questions/13359734  
+13368775,http://stackoverflow.com/questions/13368775  
+13382536,http://stackoverflow.com/questions/13382536  
+13383880,http://stackoverflow.com/questions/13383880  
+13414474,http://stackoverflow.com/questions/13414474  
+13416400,http://stackoverflow.com/questions/13416400  
+13425355,http://stackoverflow.com/questions/13425355  
+13427122,http://stackoverflow.com/questions/13427122  
+13438903,http://stackoverflow.com/questions/13438903  
+13439611,http://stackoverflow.com/questions/13439611  
+13440186,http://stackoverflow.com/questions/13440186  
+13445451,http://stackoverflow.com/questions/13445451  
+13446101,http://stackoverflow.com/questions/13446101  
+13451045,http://stackoverflow.com/questions/13451045  
+13454338,http://stackoverflow.com/questions/13454338  
+13466115,http://stackoverflow.com/questions/13466115  
+13478353,http://stackoverflow.com/questions/13478353  
+13484955,http://stackoverflow.com/questions/13484955  
+13485767,http://stackoverflow.com/questions/13485767  
+13488958,http://stackoverflow.com/questions/13488958  
+13499010,http://stackoverflow.com/questions/13499010  
+13499235,http://stackoverflow.com/questions/13499235  
+13502554,http://stackoverflow.com/questions/13502554  
+13505236,http://stackoverflow.com/questions/13505236  
+13524514,http://stackoverflow.com/questions/13524514  
+13525800,http://stackoverflow.com/questions/13525800  
+13529783,http://stackoverflow.com/questions/13529783  
+13531672,http://stackoverflow.com/questions/13531672  
+13542283,http://stackoverflow.com/questions/13542283  
+13556668,http://stackoverflow.com/questions/13556668  
+13557961,http://stackoverflow.com/questions/13557961  
+13561456,http://stackoverflow.com/questions/13561456  
+13565515,http://stackoverflow.com/questions/13565515  
+13570262,http://stackoverflow.com/questions/13570262  
+13576465,http://stackoverflow.com/questions/13576465  
+13577216,http://stackoverflow.com/questions/13577216  
+13579301,http://stackoverflow.com/questions/13579301  
+13580556,http://stackoverflow.com/questions/13580556  
+13586422,http://stackoverflow.com/questions/13586422  
+13588940,http://stackoverflow.com/questions/13588940  
+13591069,http://stackoverflow.com/questions/13591069  
+13592156,http://stackoverflow.com/questions/13592156  
+13592371,http://stackoverflow.com/questions/13592371  
+13595646,http://stackoverflow.com/questions/13595646  
+13607553,http://stackoverflow.com/questions/13607553  
+13611409,http://stackoverflow.com/questions/13611409  
+13619248,http://stackoverflow.com/questions/13619248  
+13624850,http://stackoverflow.com/questions/13624850  
+13630281,http://stackoverflow.com/questions/13630281  
+13634502,http://stackoverflow.com/questions/13634502  
+13642422,http://stackoverflow.com/questions/13642422  
+13643137,http://stackoverflow.com/questions/13643137  
+13648860,http://stackoverflow.com/questions/13648860  
+13657712,http://stackoverflow.com/questions/13657712  
+13664662,http://stackoverflow.com/questions/13664662  
+13668588,http://stackoverflow.com/questions/13668588  
+13669735,http://stackoverflow.com/questions/13669735  
+13675917,http://stackoverflow.com/questions/13675917  
+13684292,http://stackoverflow.com/questions/13684292  
+13689270,http://stackoverflow.com/questions/13689270  
+13695465,http://stackoverflow.com/questions/13695465  
+13721378,http://stackoverflow.com/questions/13721378  
+13721905,http://stackoverflow.com/questions/13721905  
+13724944,http://stackoverflow.com/questions/13724944  
+13729675,http://stackoverflow.com/questions/13729675  
+13729840,http://stackoverflow.com/questions/13729840  
+13733260,http://stackoverflow.com/questions/13733260  
+13744345,http://stackoverflow.com/questions/13744345  
+13747409,http://stackoverflow.com/questions/13747409  
+13748678,http://stackoverflow.com/questions/13748678  
+13748887,http://stackoverflow.com/questions/13748887  
+13760885,http://stackoverflow.com/questions/13760885  
+13765853,http://stackoverflow.com/questions/13765853  
+13769802,http://stackoverflow.com/questions/13769802  
+13776878,http://stackoverflow.com/questions/13776878  
+13779467,http://stackoverflow.com/questions/13779467  
+13786679,http://stackoverflow.com/questions/13786679  
+13789682,http://stackoverflow.com/questions/13789682  
+13805233,http://stackoverflow.com/questions/13805233  
+13806654,http://stackoverflow.com/questions/13806654  
+13813284,http://stackoverflow.com/questions/13813284  
+13817145,http://stackoverflow.com/questions/13817145  
+13823797,http://stackoverflow.com/questions/13823797  
+13824211,http://stackoverflow.com/questions/13824211  
+13833286,http://stackoverflow.com/questions/13833286  
+13835738,http://stackoverflow.com/questions/13835738  
+13839115,http://stackoverflow.com/questions/13839115  
+13848095,http://stackoverflow.com/questions/13848095  
+13859291,http://stackoverflow.com/questions/13859291  
+13859348,http://stackoverflow.com/questions/13859348  
+13866236,http://stackoverflow.com/questions/13866236  
+13877419,http://stackoverflow.com/questions/13877419  
+13883284,http://stackoverflow.com/questions/13883284  
+13888477,http://stackoverflow.com/questions/13888477  
+13890760,http://stackoverflow.com/questions/13890760  
+13903589,http://stackoverflow.com/questions/13903589  
+13930529,http://stackoverflow.com/questions/13930529  
+13932740,http://stackoverflow.com/questions/13932740  
+13948643,http://stackoverflow.com/questions/13948643  
+13954243,http://stackoverflow.com/questions/13954243  
+13956877,http://stackoverflow.com/questions/13956877  
+13964281,http://stackoverflow.com/questions/13964281  
+13964344,http://stackoverflow.com/questions/13964344  
+13974730,http://stackoverflow.com/questions/13974730  
+13985071,http://stackoverflow.com/questions/13985071  
+13989257,http://stackoverflow.com/questions/13989257  
+13991583,http://stackoverflow.com/questions/13991583  
+13993632,http://stackoverflow.com/questions/13993632  
+14005510,http://stackoverflow.com/questions/14005510  
+14019711,http://stackoverflow.com/questions/14019711  
+14040859,http://stackoverflow.com/questions/14040859  
+14041651,http://stackoverflow.com/questions/14041651  
+14044839,http://stackoverflow.com/questions/14044839  
+14045354,http://stackoverflow.com/questions/14045354  
+14048172,http://stackoverflow.com/questions/14048172  
+14052046,http://stackoverflow.com/questions/14052046  
+14059759,http://stackoverflow.com/questions/14059759  
+14063822,http://stackoverflow.com/questions/14063822  
+14070012,http://stackoverflow.com/questions/14070012  
+14070709,http://stackoverflow.com/questions/14070709  
+14082660,http://stackoverflow.com/questions/14082660  
+14087407,http://stackoverflow.com/questions/14087407  
+14099169,http://stackoverflow.com/questions/14099169  
+14103417,http://stackoverflow.com/questions/14103417  
+14104465,http://stackoverflow.com/questions/14104465  
+14105006,http://stackoverflow.com/questions/14105006  
+14126000,http://stackoverflow.com/questions/14126000  
+14142916,http://stackoverflow.com/questions/14142916  
+14145895,http://stackoverflow.com/questions/14145895  
+14149262,http://stackoverflow.com/questions/14149262  
+14157628,http://stackoverflow.com/questions/14157628  
+14159566,http://stackoverflow.com/questions/14159566  
+14159720,http://stackoverflow.com/questions/14159720  
+14164468,http://stackoverflow.com/questions/14164468  
+14178385,http://stackoverflow.com/questions/14178385  
+14183485,http://stackoverflow.com/questions/14183485  
+14189544,http://stackoverflow.com/questions/14189544  
+14196331,http://stackoverflow.com/questions/14196331  
+14197054,http://stackoverflow.com/questions/14197054  
+14197771,http://stackoverflow.com/questions/14197771  
+14207301,http://stackoverflow.com/questions/14207301  
+14213586,http://stackoverflow.com/questions/14213586  
+14213868,http://stackoverflow.com/questions/14213868  
+14216127,http://stackoverflow.com/questions/14216127  
+14225190,http://stackoverflow.com/questions/14225190  
+14235862,http://stackoverflow.com/questions/14235862  
+14241594,http://stackoverflow.com/questions/14241594  
+14244747,http://stackoverflow.com/questions/14244747  
+14258602,http://stackoverflow.com/questions/14258602  
+14262910,http://stackoverflow.com/questions/14262910  
+14269752,http://stackoverflow.com/questions/14269752  
+14274919,http://stackoverflow.com/questions/14274919  
+14276487,http://stackoverflow.com/questions/14276487  
+14277208,http://stackoverflow.com/questions/14277208  
+14279395,http://stackoverflow.com/questions/14279395  
+14281840,http://stackoverflow.com/questions/14281840  
+14282298,http://stackoverflow.com/questions/14282298  
+14283559,http://stackoverflow.com/questions/14283559  
+14283842,http://stackoverflow.com/questions/14283842  
+14284660,http://stackoverflow.com/questions/14284660  
+14298818,http://stackoverflow.com/questions/14298818  
+14300111,http://stackoverflow.com/questions/14300111  
+14301333,http://stackoverflow.com/questions/14301333  
+14303753,http://stackoverflow.com/questions/14303753  
+14305222,http://stackoverflow.com/questions/14305222  
+14305278,http://stackoverflow.com/questions/14305278  
+14307044,http://stackoverflow.com/questions/14307044  
+14314143,http://stackoverflow.com/questions/14314143  
+14321266,http://stackoverflow.com/questions/14321266  
+14324288,http://stackoverflow.com/questions/14324288  
+14325729,http://stackoverflow.com/questions/14325729  
+14341618,http://stackoverflow.com/questions/14341618  
+14345483,http://stackoverflow.com/questions/14345483  
+14349225,http://stackoverflow.com/questions/14349225  
+14349686,http://stackoverflow.com/questions/14349686  
+14355794,http://stackoverflow.com/questions/14355794  
+14357330,http://stackoverflow.com/questions/14357330  
+14357794,http://stackoverflow.com/questions/14357794  
+14363740,http://stackoverflow.com/questions/14363740  
+14366417,http://stackoverflow.com/questions/14366417  
+14366655,http://stackoverflow.com/questions/14366655  
+14368366,http://stackoverflow.com/questions/14368366  
+14375894,http://stackoverflow.com/questions/14375894  
+14377617,http://stackoverflow.com/questions/14377617  
+14379674,http://stackoverflow.com/questions/14379674  
+14382072,http://stackoverflow.com/questions/14382072  
+14388740,http://stackoverflow.com/questions/14388740  
+14390776,http://stackoverflow.com/questions/14390776  
+14390967,http://stackoverflow.com/questions/14390967  
+14395947,http://stackoverflow.com/questions/14395947  
+14398946,http://stackoverflow.com/questions/14398946  
+14406288,http://stackoverflow.com/questions/14406288  
+14407079,http://stackoverflow.com/questions/14407079  
+14408614,http://stackoverflow.com/questions/14408614  
+14411379,http://stackoverflow.com/questions/14411379  
+14428780,http://stackoverflow.com/questions/14428780  
+14433114,http://stackoverflow.com/questions/14433114  
+14458450,http://stackoverflow.com/questions/14458450  
+14464793,http://stackoverflow.com/questions/14464793  
+14465795,http://stackoverflow.com/questions/14465795  
+14466818,http://stackoverflow.com/questions/14466818  
+14474284,http://stackoverflow.com/questions/14474284  
+14474564,http://stackoverflow.com/questions/14474564  
+14478994,http://stackoverflow.com/questions/14478994  
+14479608,http://stackoverflow.com/questions/14479608  
+14483123,http://stackoverflow.com/questions/14483123  
+14484557,http://stackoverflow.com/questions/14484557  
+14485951,http://stackoverflow.com/questions/14485951  
+14489697,http://stackoverflow.com/questions/14489697  
+14490021,http://stackoverflow.com/questions/14490021  
+14490364,http://stackoverflow.com/questions/14490364  
+14492232,http://stackoverflow.com/questions/14492232  
+14493239,http://stackoverflow.com/questions/14493239  
+14495019,http://stackoverflow.com/questions/14495019  
+14495619,http://stackoverflow.com/questions/14495619  
+14510324,http://stackoverflow.com/questions/14510324  
+14532516,http://stackoverflow.com/questions/14532516  
+14534464,http://stackoverflow.com/questions/14534464  
+14539842,http://stackoverflow.com/questions/14539842  
+14554012,http://stackoverflow.com/questions/14554012  
+14561293,http://stackoverflow.com/questions/14561293  
+14563666,http://stackoverflow.com/questions/14563666  
+14564436,http://stackoverflow.com/questions/14564436  
+14569183,http://stackoverflow.com/questions/14569183  
+14572522,http://stackoverflow.com/questions/14572522  
+14573368,http://stackoverflow.com/questions/14573368  
+14577247,http://stackoverflow.com/questions/14577247  
+14579751,http://stackoverflow.com/questions/14579751  
+14580120,http://stackoverflow.com/questions/14580120  
+14589223,http://stackoverflow.com/questions/14589223  
+14596466,http://stackoverflow.com/questions/14596466  
+14607708,http://stackoverflow.com/questions/14607708  
+14611749,http://stackoverflow.com/questions/14611749  
+14612670,http://stackoverflow.com/questions/14612670  
+14619433,http://stackoverflow.com/questions/14619433  
+14620452,http://stackoverflow.com/questions/14620452  
+14625737,http://stackoverflow.com/questions/14625737  
+14626335,http://stackoverflow.com/questions/14626335  
+14627313,http://stackoverflow.com/questions/14627313  
+14629861,http://stackoverflow.com/questions/14629861  
+14630943,http://stackoverflow.com/questions/14630943  
+14632383,http://stackoverflow.com/questions/14632383  
+14636575,http://stackoverflow.com/questions/14636575  
+14652390,http://stackoverflow.com/questions/14652390  
+14654853,http://stackoverflow.com/questions/14654853  
+14657038,http://stackoverflow.com/questions/14657038  
+14667512,http://stackoverflow.com/questions/14667512  
+14671680,http://stackoverflow.com/questions/14671680  
+14673578,http://stackoverflow.com/questions/14673578  
+14676385,http://stackoverflow.com/questions/14676385  
+14678737,http://stackoverflow.com/questions/14678737  
+14679566,http://stackoverflow.com/questions/14679566  
+14681460,http://stackoverflow.com/questions/14681460  
+14686939,http://stackoverflow.com/questions/14686939  
+14694417,http://stackoverflow.com/questions/14694417  
+14704959,http://stackoverflow.com/questions/14704959  
+14708272,http://stackoverflow.com/questions/14708272  
+14710207,http://stackoverflow.com/questions/14710207  
+14713989,http://stackoverflow.com/questions/14713989  
+14714687,http://stackoverflow.com/questions/14714687  
+14725797,http://stackoverflow.com/questions/14725797  
+14725861,http://stackoverflow.com/questions/14725861  
+14728815,http://stackoverflow.com/questions/14728815  
+14747835,http://stackoverflow.com/questions/14747835  
+14757486,http://stackoverflow.com/questions/14757486  
+14757611,http://stackoverflow.com/questions/14757611  
+14761926,http://stackoverflow.com/questions/14761926  
+14765360,http://stackoverflow.com/questions/14765360  
+14770897,http://stackoverflow.com/questions/14770897  
+14776816,http://stackoverflow.com/questions/14776816  
+14781787,http://stackoverflow.com/questions/14781787  
+14784556,http://stackoverflow.com/questions/14784556  
+14791780,http://stackoverflow.com/questions/14791780  
+14795579,http://stackoverflow.com/questions/14795579  
+14805903,http://stackoverflow.com/questions/14805903  
+14806400,http://stackoverflow.com/questions/14806400  
+14809360,http://stackoverflow.com/questions/14809360  
+14822557,http://stackoverflow.com/questions/14822557  
+14832158,http://stackoverflow.com/questions/14832158  
+14840167,http://stackoverflow.com/questions/14840167  
+14842698,http://stackoverflow.com/questions/14842698  
+14843541,http://stackoverflow.com/questions/14843541  
+14844781,http://stackoverflow.com/questions/14844781  
+14848621,http://stackoverflow.com/questions/14848621  
+14849576,http://stackoverflow.com/questions/14849576  
+14863106,http://stackoverflow.com/questions/14863106  
+14868072,http://stackoverflow.com/questions/14868072  
+14870790,http://stackoverflow.com/questions/14870790  
+14879308,http://stackoverflow.com/questions/14879308  
+14881473,http://stackoverflow.com/questions/14881473  
+14887416,http://stackoverflow.com/questions/14887416  
+14891412,http://stackoverflow.com/questions/14891412  
+14896610,http://stackoverflow.com/questions/14896610  
+14902780,http://stackoverflow.com/questions/14902780  
+14906178,http://stackoverflow.com/questions/14906178  
+14910370,http://stackoverflow.com/questions/14910370  
+14916975,http://stackoverflow.com/questions/14916975  
+14919048,http://stackoverflow.com/questions/14919048  
+14920975,http://stackoverflow.com/questions/14920975  
+14923301,http://stackoverflow.com/questions/14923301  
+14924670,http://stackoverflow.com/questions/14924670  
+14930381,http://stackoverflow.com/questions/14930381  
+14936661,http://stackoverflow.com/questions/14936661  
+14938017,http://stackoverflow.com/questions/14938017  
+14938114,http://stackoverflow.com/questions/14938114  
+14938253,http://stackoverflow.com/questions/14938253  
+14944271,http://stackoverflow.com/questions/14944271  
+14955509,http://stackoverflow.com/questions/14955509  
+14956867,http://stackoverflow.com/questions/14956867  
+14958277,http://stackoverflow.com/questions/14958277  
+14959834,http://stackoverflow.com/questions/14959834  
+14964760,http://stackoverflow.com/questions/14964760  
+14968346,http://stackoverflow.com/questions/14968346  
+14981096,http://stackoverflow.com/questions/14981096  
+14993223,http://stackoverflow.com/questions/14993223  
+15003787,http://stackoverflow.com/questions/15003787  
+15004325,http://stackoverflow.com/questions/15004325  
+15028700,http://stackoverflow.com/questions/15028700  
+15030249,http://stackoverflow.com/questions/15030249  
+15030906,http://stackoverflow.com/questions/15030906  
+15036307,http://stackoverflow.com/questions/15036307  
+15037988,http://stackoverflow.com/questions/15037988  
+15042392,http://stackoverflow.com/questions/15042392  
+15050816,http://stackoverflow.com/questions/15050816  
+15057281,http://stackoverflow.com/questions/15057281  
+15060808,http://stackoverflow.com/questions/15060808  
+15060897,http://stackoverflow.com/questions/15060897  
+15063718,http://stackoverflow.com/questions/15063718  
+15065661,http://stackoverflow.com/questions/15065661  
+15067482,http://stackoverflow.com/questions/15067482  
+15069994,http://stackoverflow.com/questions/15069994  
+15072114,http://stackoverflow.com/questions/15072114  
+15072221,http://stackoverflow.com/questions/15072221  
+15072226,http://stackoverflow.com/questions/15072226  
+15072666,http://stackoverflow.com/questions/15072666  
+15079708,http://stackoverflow.com/questions/15079708  
+15081610,http://stackoverflow.com/questions/15081610  
+15085400,http://stackoverflow.com/questions/15085400  
+15088616,http://stackoverflow.com/questions/15088616  
+15090829,http://stackoverflow.com/questions/15090829  
+15093946,http://stackoverflow.com/questions/15093946  
+15102651,http://stackoverflow.com/questions/15102651  
+15107697,http://stackoverflow.com/questions/15107697  
+15109280,http://stackoverflow.com/questions/15109280  
+15110734,http://stackoverflow.com/questions/15110734  
+15112459,http://stackoverflow.com/questions/15112459  
+15113862,http://stackoverflow.com/questions/15113862  
+15121133,http://stackoverflow.com/questions/15121133  
+15122232,http://stackoverflow.com/questions/15122232  
+15124993,http://stackoverflow.com/questions/15124993  
+15130175,http://stackoverflow.com/questions/15130175  
+15140681,http://stackoverflow.com/questions/15140681  
+15148253,http://stackoverflow.com/questions/15148253  
+15150002,http://stackoverflow.com/questions/15150002  
+15190170,http://stackoverflow.com/questions/15190170  
+15196865,http://stackoverflow.com/questions/15196865  
+15228392,http://stackoverflow.com/questions/15228392  
+15231533,http://stackoverflow.com/questions/15231533  
+15245088,http://stackoverflow.com/questions/15245088  
+15253242,http://stackoverflow.com/questions/15253242  
+15259677,http://stackoverflow.com/questions/15259677  
+15260718,http://stackoverflow.com/questions/15260718  
+15268661,http://stackoverflow.com/questions/15268661  
+15275442,http://stackoverflow.com/questions/15275442  
+15279381,http://stackoverflow.com/questions/15279381  
+15291010,http://stackoverflow.com/questions/15291010  
+15291633,http://stackoverflow.com/questions/15291633  
+15293694,http://stackoverflow.com/questions/15293694  
+15314345,http://stackoverflow.com/questions/15314345  
+15315716,http://stackoverflow.com/questions/15315716  
+15320915,http://stackoverflow.com/questions/15320915  
+15320978,http://stackoverflow.com/questions/15320978  
+15321028,http://stackoverflow.com/questions/15321028  
+15328616,http://stackoverflow.com/questions/15328616  
+15330448,http://stackoverflow.com/questions/15330448  
+15333891,http://stackoverflow.com/questions/15333891  
+15336477,http://stackoverflow.com/questions/15336477  
+15341999,http://stackoverflow.com/questions/15341999  
+15348538,http://stackoverflow.com/questions/15348538  
+15363019,http://stackoverflow.com/questions/15363019  
+15363411,http://stackoverflow.com/questions/15363411  
+15367316,http://stackoverflow.com/questions/15367316  
+15367857,http://stackoverflow.com/questions/15367857  
+15369505,http://stackoverflow.com/questions/15369505  
+15380269,http://stackoverflow.com/questions/15380269  
+15394240,http://stackoverflow.com/questions/15394240  
+15394704,http://stackoverflow.com/questions/15394704  
+15395736,http://stackoverflow.com/questions/15395736  
+15395948,http://stackoverflow.com/questions/15395948  
+15398488,http://stackoverflow.com/questions/15398488  
+15404235,http://stackoverflow.com/questions/15404235  
+15407739,http://stackoverflow.com/questions/15407739  
+15408824,http://stackoverflow.com/questions/15408824  
+15412108,http://stackoverflow.com/questions/15412108  
+15415010,http://stackoverflow.com/questions/15415010  
+15429511,http://stackoverflow.com/questions/15429511  
+15432004,http://stackoverflow.com/questions/15432004  
+15434260,http://stackoverflow.com/questions/15434260  
+15438691,http://stackoverflow.com/questions/15438691  
+15452009,http://stackoverflow.com/questions/15452009  
+15452333,http://stackoverflow.com/questions/15452333  
+15458539,http://stackoverflow.com/questions/15458539  
+15465772,http://stackoverflow.com/questions/15465772  
+15465817,http://stackoverflow.com/questions/15465817  
+15477716,http://stackoverflow.com/questions/15477716  
+15480395,http://stackoverflow.com/questions/15480395  
+15490420,http://stackoverflow.com/questions/15490420  
+15492712,http://stackoverflow.com/questions/15492712  
+15498577,http://stackoverflow.com/questions/15498577  
+15501393,http://stackoverflow.com/questions/15501393  
+15504256,http://stackoverflow.com/questions/15504256  
+15504807,http://stackoverflow.com/questions/15504807  
+15510773,http://stackoverflow.com/questions/15510773  
+15511092,http://stackoverflow.com/questions/15511092  
+15536588,http://stackoverflow.com/questions/15536588  
+15540928,http://stackoverflow.com/questions/15540928  
+15542519,http://stackoverflow.com/questions/15542519  
+15550370,http://stackoverflow.com/questions/15550370  
+15552671,http://stackoverflow.com/questions/15552671  
+15555805,http://stackoverflow.com/questions/15555805  
+15557209,http://stackoverflow.com/questions/15557209  
+15559551,http://stackoverflow.com/questions/15559551  
+15560572,http://stackoverflow.com/questions/15560572  
+15568700,http://stackoverflow.com/questions/15568700  
+15572082,http://stackoverflow.com/questions/15572082  
+15572803,http://stackoverflow.com/questions/15572803  
+15573191,http://stackoverflow.com/questions/15573191  
+15578555,http://stackoverflow.com/questions/15578555  
+15579658,http://stackoverflow.com/questions/15579658  
+15580119,http://stackoverflow.com/questions/15580119  
+15581901,http://stackoverflow.com/questions/15581901  
+15596083,http://stackoverflow.com/questions/15596083  
+15603390,http://stackoverflow.com/questions/15603390  
+15606397,http://stackoverflow.com/questions/15606397  
+15617914,http://stackoverflow.com/questions/15617914  
+15621218,http://stackoverflow.com/questions/15621218  
+15623295,http://stackoverflow.com/questions/15623295  
+15624552,http://stackoverflow.com/questions/15624552  
+15626145,http://stackoverflow.com/questions/15626145  
+15628256,http://stackoverflow.com/questions/15628256  
+15635840,http://stackoverflow.com/questions/15635840  
+15647589,http://stackoverflow.com/questions/15647589  
+15658021,http://stackoverflow.com/questions/15658021  
+15659230,http://stackoverflow.com/questions/15659230  
+15659824,http://stackoverflow.com/questions/15659824  
+15661313,http://stackoverflow.com/questions/15661313  
+15663125,http://stackoverflow.com/questions/15663125  
+15674338,http://stackoverflow.com/questions/15674338  
+15679541,http://stackoverflow.com/questions/15679541  
+15694744,http://stackoverflow.com/questions/15694744  
+15696205,http://stackoverflow.com/questions/15696205  
+15703938,http://stackoverflow.com/questions/15703938  
+15712097,http://stackoverflow.com/questions/15712097  
+15713849,http://stackoverflow.com/questions/15713849  
+15721356,http://stackoverflow.com/questions/15721356  
+15728086,http://stackoverflow.com/questions/15728086  
+15728906,http://stackoverflow.com/questions/15728906  
+15734029,http://stackoverflow.com/questions/15734029  
+15738830,http://stackoverflow.com/questions/15738830  
+15739114,http://stackoverflow.com/questions/15739114  
+15740696,http://stackoverflow.com/questions/15740696  
+15742718,http://stackoverflow.com/questions/15742718  
+15746922,http://stackoverflow.com/questions/15746922  
+15747439,http://stackoverflow.com/questions/15747439  
+15748155,http://stackoverflow.com/questions/15748155  
+15750929,http://stackoverflow.com/questions/15750929  
+15752608,http://stackoverflow.com/questions/15752608  
+15753387,http://stackoverflow.com/questions/15753387  
+15755459,http://stackoverflow.com/questions/15755459  
+15764143,http://stackoverflow.com/questions/15764143  
+15764948,http://stackoverflow.com/questions/15764948  
+15767416,http://stackoverflow.com/questions/15767416  
+15767457,http://stackoverflow.com/questions/15767457  
+15777283,http://stackoverflow.com/questions/15777283  
+15806115,http://stackoverflow.com/questions/15806115  
+15806491,http://stackoverflow.com/questions/15806491  
+15806554,http://stackoverflow.com/questions/15806554  
+15807198,http://stackoverflow.com/questions/15807198  
+15819608,http://stackoverflow.com/questions/15819608  
+15820773,http://stackoverflow.com/questions/15820773  
+15821867,http://stackoverflow.com/questions/15821867  
+15828819,http://stackoverflow.com/questions/15828819  
+15833081,http://stackoverflow.com/questions/15833081  
+15835622,http://stackoverflow.com/questions/15835622  
+15839237,http://stackoverflow.com/questions/15839237  
+15846726,http://stackoverflow.com/questions/15846726  
+15867511,http://stackoverflow.com/questions/15867511  
+15870161,http://stackoverflow.com/questions/15870161  
+15870742,http://stackoverflow.com/questions/15870742  
+15871561,http://stackoverflow.com/questions/15871561  
+15877229,http://stackoverflow.com/questions/15877229  
+15881827,http://stackoverflow.com/questions/15881827  
+15882919,http://stackoverflow.com/questions/15882919  
+15884511,http://stackoverflow.com/questions/15884511  
+15893732,http://stackoverflow.com/questions/15893732  
+15899489,http://stackoverflow.com/questions/15899489  
+15908887,http://stackoverflow.com/questions/15908887  
+15916453,http://stackoverflow.com/questions/15916453  
+15924175,http://stackoverflow.com/questions/15924175  
+15937936,http://stackoverflow.com/questions/15937936  
+15942840,http://stackoverflow.com/questions/15942840  
+15951349,http://stackoverflow.com/questions/15951349  
+15951468,http://stackoverflow.com/questions/15951468  
+15954634,http://stackoverflow.com/questions/15954634  
+15988859,http://stackoverflow.com/questions/15988859  
+15990295,http://stackoverflow.com/questions/15990295  
+15995927,http://stackoverflow.com/questions/15995927  
+15995965,http://stackoverflow.com/questions/15995965  
+15999597,http://stackoverflow.com/questions/15999597  
+15999892,http://stackoverflow.com/questions/15999892  
+16002329,http://stackoverflow.com/questions/16002329  
+16002742,http://stackoverflow.com/questions/16002742  
+16009239,http://stackoverflow.com/questions/16009239  
+16009980,http://stackoverflow.com/questions/16009980  
+16015824,http://stackoverflow.com/questions/16015824  
+16019686,http://stackoverflow.com/questions/16019686  
+16023206,http://stackoverflow.com/questions/16023206  
+16024193,http://stackoverflow.com/questions/16024193  
+16029668,http://stackoverflow.com/questions/16029668  
+16033609,http://stackoverflow.com/questions/16033609  
+16042061,http://stackoverflow.com/questions/16042061  
+16044404,http://stackoverflow.com/questions/16044404  
+16050510,http://stackoverflow.com/questions/16050510  
+16061533,http://stackoverflow.com/questions/16061533  
+16064884,http://stackoverflow.com/questions/16064884  
+16067170,http://stackoverflow.com/questions/16067170  
+16076885,http://stackoverflow.com/questions/16076885  
+16085092,http://stackoverflow.com/questions/16085092  
+16097366,http://stackoverflow.com/questions/16097366  
+16109515,http://stackoverflow.com/questions/16109515  
+16110496,http://stackoverflow.com/questions/16110496  
+16120692,http://stackoverflow.com/questions/16120692  
+16121482,http://stackoverflow.com/questions/16121482  
+16123590,http://stackoverflow.com/questions/16123590  
+16127989,http://stackoverflow.com/questions/16127989  
+16137175,http://stackoverflow.com/questions/16137175  
+16140735,http://stackoverflow.com/questions/16140735  
+16148391,http://stackoverflow.com/questions/16148391  
+16158839,http://stackoverflow.com/questions/16158839  
+16166969,http://stackoverflow.com/questions/16166969  
+16175884,http://stackoverflow.com/questions/16175884  
+16177760,http://stackoverflow.com/questions/16177760  
+16182810,http://stackoverflow.com/questions/16182810  
+16186509,http://stackoverflow.com/questions/16186509  
+16193328,http://stackoverflow.com/questions/16193328  
+16197519,http://stackoverflow.com/questions/16197519  
+16202744,http://stackoverflow.com/questions/16202744  
+16206934,http://stackoverflow.com/questions/16206934  
+16207872,http://stackoverflow.com/questions/16207872  
+16225979,http://stackoverflow.com/questions/16225979  
+16229275,http://stackoverflow.com/questions/16229275  
+16231200,http://stackoverflow.com/questions/16231200  
+16235996,http://stackoverflow.com/questions/16235996  
+16238881,http://stackoverflow.com/questions/16238881  
+16239215,http://stackoverflow.com/questions/16239215  
+16239966,http://stackoverflow.com/questions/16239966  
+16240078,http://stackoverflow.com/questions/16240078  
+16240751,http://stackoverflow.com/questions/16240751  
+16242412,http://stackoverflow.com/questions/16242412  
+16246440,http://stackoverflow.com/questions/16246440  
+16250053,http://stackoverflow.com/questions/16250053  
+16253701,http://stackoverflow.com/questions/16253701  
+16257573,http://stackoverflow.com/questions/16257573  
+16258997,http://stackoverflow.com/questions/16258997  
+16263975,http://stackoverflow.com/questions/16263975  
+16275045,http://stackoverflow.com/questions/16275045  
+16277130,http://stackoverflow.com/questions/16277130  
+16283251,http://stackoverflow.com/questions/16283251  
+16284028,http://stackoverflow.com/questions/16284028  
+16288482,http://stackoverflow.com/questions/16288482  
+16288724,http://stackoverflow.com/questions/16288724  
+16292134,http://stackoverflow.com/questions/16292134  
+16295812,http://stackoverflow.com/questions/16295812  
+16298481,http://stackoverflow.com/questions/16298481  
+16306607,http://stackoverflow.com/questions/16306607  
+16309231,http://stackoverflow.com/questions/16309231  
+16311155,http://stackoverflow.com/questions/16311155  
+16325886,http://stackoverflow.com/questions/16325886  
+16327255,http://stackoverflow.com/questions/16327255  
+16329426,http://stackoverflow.com/questions/16329426  
+16334944,http://stackoverflow.com/questions/16334944  
+16338420,http://stackoverflow.com/questions/16338420  
+16339506,http://stackoverflow.com/questions/16339506  
+16346191,http://stackoverflow.com/questions/16346191  
+16348044,http://stackoverflow.com/questions/16348044  
+16349836,http://stackoverflow.com/questions/16349836  
+16351142,http://stackoverflow.com/questions/16351142  
+16352163,http://stackoverflow.com/questions/16352163  
+16353338,http://stackoverflow.com/questions/16353338  
+16358658,http://stackoverflow.com/questions/16358658  
+16359623,http://stackoverflow.com/questions/16359623  
+16365207,http://stackoverflow.com/questions/16365207  
+16366907,http://stackoverflow.com/questions/16366907  
+16368721,http://stackoverflow.com/questions/16368721  
+16379420,http://stackoverflow.com/questions/16379420  
+16381454,http://stackoverflow.com/questions/16381454  
+16385824,http://stackoverflow.com/questions/16385824  
+16389061,http://stackoverflow.com/questions/16389061  
+16393136,http://stackoverflow.com/questions/16393136  
+16393249,http://stackoverflow.com/questions/16393249  
+16401386,http://stackoverflow.com/questions/16401386  
+16402722,http://stackoverflow.com/questions/16402722  
+16403147,http://stackoverflow.com/questions/16403147  
+16406841,http://stackoverflow.com/questions/16406841  
+16418982,http://stackoverflow.com/questions/16418982  
+16425652,http://stackoverflow.com/questions/16425652  
+16427781,http://stackoverflow.com/questions/16427781  
+16448007,http://stackoverflow.com/questions/16448007  
+16450958,http://stackoverflow.com/questions/16450958  
+16465024,http://stackoverflow.com/questions/16465024  
+16466583,http://stackoverflow.com/questions/16466583  
+16476834,http://stackoverflow.com/questions/16476834  
+16481512,http://stackoverflow.com/questions/16481512  
+16482060,http://stackoverflow.com/questions/16482060  
+16490447,http://stackoverflow.com/questions/16490447  
+16490860,http://stackoverflow.com/questions/16490860  
+16492603,http://stackoverflow.com/questions/16492603  
+16493322,http://stackoverflow.com/questions/16493322  
+16493372,http://stackoverflow.com/questions/16493372  
+16496952,http://stackoverflow.com/questions/16496952  
+16497799,http://stackoverflow.com/questions/16497799  
+16504140,http://stackoverflow.com/questions/16504140  
+16511682,http://stackoverflow.com/questions/16511682  
+16518056,http://stackoverflow.com/questions/16518056  
+16521890,http://stackoverflow.com/questions/16521890  
+16522625,http://stackoverflow.com/questions/16522625  
+16525478,http://stackoverflow.com/questions/16525478  
+16526662,http://stackoverflow.com/questions/16526662  
+16532519,http://stackoverflow.com/questions/16532519  
+16536500,http://stackoverflow.com/questions/16536500  
+16536977,http://stackoverflow.com/questions/16536977  
+16541124,http://stackoverflow.com/questions/16541124  
+16546742,http://stackoverflow.com/questions/16546742  
+16547301,http://stackoverflow.com/questions/16547301  
+16562966,http://stackoverflow.com/questions/16562966  
+16567643,http://stackoverflow.com/questions/16567643  
+16592315,http://stackoverflow.com/questions/16592315  
+16597479,http://stackoverflow.com/questions/16597479  
+16613674,http://stackoverflow.com/questions/16613674  
+16614743,http://stackoverflow.com/questions/16614743  
+16629091,http://stackoverflow.com/questions/16629091  
+16637687,http://stackoverflow.com/questions/16637687  
+16638817,http://stackoverflow.com/questions/16638817  
+16639917,http://stackoverflow.com/questions/16639917  
+16639995,http://stackoverflow.com/questions/16639995  
+16641171,http://stackoverflow.com/questions/16641171  
+16647363,http://stackoverflow.com/questions/16647363  
+16649300,http://stackoverflow.com/questions/16649300  
+16651304,http://stackoverflow.com/questions/16651304  
+16665347,http://stackoverflow.com/questions/16665347  
+16665797,http://stackoverflow.com/questions/16665797  
+16666476,http://stackoverflow.com/questions/16666476  
+16668730,http://stackoverflow.com/questions/16668730  
+16670686,http://stackoverflow.com/questions/16670686  
+16677706,http://stackoverflow.com/questions/16677706  
+16681859,http://stackoverflow.com/questions/16681859  
+16687971,http://stackoverflow.com/questions/16687971  
+16688722,http://stackoverflow.com/questions/16688722  
+16697079,http://stackoverflow.com/questions/16697079  
+16709523,http://stackoverflow.com/questions/16709523  
+16729687,http://stackoverflow.com/questions/16729687  
+16733605,http://stackoverflow.com/questions/16733605  
+16747673,http://stackoverflow.com/questions/16747673  
+16750936,http://stackoverflow.com/questions/16750936  
+16762260,http://stackoverflow.com/questions/16762260  
+16763968,http://stackoverflow.com/questions/16763968  
+16777829,http://stackoverflow.com/questions/16777829  
+16790176,http://stackoverflow.com/questions/16790176  
+16791203,http://stackoverflow.com/questions/16791203  
+16795050,http://stackoverflow.com/questions/16795050  
+16824342,http://stackoverflow.com/questions/16824342  
+16831064,http://stackoverflow.com/questions/16831064  
+16831977,http://stackoverflow.com/questions/16831977  
+16843061,http://stackoverflow.com/questions/16843061  
+16843596,http://stackoverflow.com/questions/16843596  
+16846789,http://stackoverflow.com/questions/16846789  
+16847061,http://stackoverflow.com/questions/16847061  
+16873674,http://stackoverflow.com/questions/16873674  
+16878466,http://stackoverflow.com/questions/16878466  
+16879462,http://stackoverflow.com/questions/16879462  
+16882241,http://stackoverflow.com/questions/16882241  
+16898288,http://stackoverflow.com/questions/16898288  
+16898305,http://stackoverflow.com/questions/16898305  
+16902913,http://stackoverflow.com/questions/16902913  
+16908787,http://stackoverflow.com/questions/16908787  
+16927178,http://stackoverflow.com/questions/16927178  
+16932968,http://stackoverflow.com/questions/16932968  
+16936745,http://stackoverflow.com/questions/16936745  
+16946578,http://stackoverflow.com/questions/16946578  
+16951609,http://stackoverflow.com/questions/16951609  
+16955790,http://stackoverflow.com/questions/16955790  
+16958335,http://stackoverflow.com/questions/16958335  
+16961559,http://stackoverflow.com/questions/16961559  
+16963733,http://stackoverflow.com/questions/16963733  
+16965195,http://stackoverflow.com/questions/16965195  
+16969225,http://stackoverflow.com/questions/16969225  
+16972415,http://stackoverflow.com/questions/16972415  
+16982106,http://stackoverflow.com/questions/16982106  
+16988911,http://stackoverflow.com/questions/16988911  
+16996300,http://stackoverflow.com/questions/16996300  
+16996322,http://stackoverflow.com/questions/16996322  
+16996843,http://stackoverflow.com/questions/16996843  
+17004218,http://stackoverflow.com/questions/17004218  
+17007449,http://stackoverflow.com/questions/17007449  
+17007522,http://stackoverflow.com/questions/17007522  
+17012827,http://stackoverflow.com/questions/17012827  
+17024931,http://stackoverflow.com/questions/17024931  
+17029016,http://stackoverflow.com/questions/17029016  
+17044958,http://stackoverflow.com/questions/17044958  
+17049746,http://stackoverflow.com/questions/17049746  
+17053217,http://stackoverflow.com/questions/17053217  
+17066805,http://stackoverflow.com/questions/17066805  
+17076876,http://stackoverflow.com/questions/17076876  
+17081417,http://stackoverflow.com/questions/17081417  
+17089209,http://stackoverflow.com/questions/17089209  
+17089781,http://stackoverflow.com/questions/17089781  
+17093883,http://stackoverflow.com/questions/17093883  
+17094097,http://stackoverflow.com/questions/17094097  
+17097548,http://stackoverflow.com/questions/17097548  
+17098340,http://stackoverflow.com/questions/17098340  
+17098968,http://stackoverflow.com/questions/17098968  
+17101551,http://stackoverflow.com/questions/17101551  
+17104455,http://stackoverflow.com/questions/17104455  
+17110104,http://stackoverflow.com/questions/17110104  
+17118640,http://stackoverflow.com/questions/17118640  
+17124916,http://stackoverflow.com/questions/17124916  
+17133321,http://stackoverflow.com/questions/17133321  
+17138969,http://stackoverflow.com/questions/17138969  
+17162313,http://stackoverflow.com/questions/17162313  
+17164698,http://stackoverflow.com/questions/17164698  
+17167108,http://stackoverflow.com/questions/17167108  
+17172315,http://stackoverflow.com/questions/17172315  
+17174237,http://stackoverflow.com/questions/17174237  
+17180916,http://stackoverflow.com/questions/17180916  
+17187029,http://stackoverflow.com/questions/17187029  
+17187667,http://stackoverflow.com/questions/17187667  
+17195867,http://stackoverflow.com/questions/17195867  
+17206043,http://stackoverflow.com/questions/17206043  
+17213835,http://stackoverflow.com/questions/17213835  
+17217250,http://stackoverflow.com/questions/17217250  
+17218328,http://stackoverflow.com/questions/17218328  
+17219061,http://stackoverflow.com/questions/17219061  
+17223454,http://stackoverflow.com/questions/17223454  
+17228224,http://stackoverflow.com/questions/17228224  
+17232723,http://stackoverflow.com/questions/17232723  
+17236466,http://stackoverflow.com/questions/17236466  
+17240534,http://stackoverflow.com/questions/17240534  
+17248991,http://stackoverflow.com/questions/17248991  
+17249826,http://stackoverflow.com/questions/17249826  
+17251610,http://stackoverflow.com/questions/17251610  
+17255558,http://stackoverflow.com/questions/17255558  
+17261679,http://stackoverflow.com/questions/17261679  
+17262750,http://stackoverflow.com/questions/17262750  
+17269949,http://stackoverflow.com/questions/17269949  
+17278312,http://stackoverflow.com/questions/17278312  
+17281652,http://stackoverflow.com/questions/17281652  
+17296006,http://stackoverflow.com/questions/17296006  
+17297644,http://stackoverflow.com/questions/17297644  
+17305048,http://stackoverflow.com/questions/17305048  
+17305501,http://stackoverflow.com/questions/17305501  
+17332096,http://stackoverflow.com/questions/17332096  
+17336751,http://stackoverflow.com/questions/17336751  
+17338025,http://stackoverflow.com/questions/17338025  
+17340044,http://stackoverflow.com/questions/17340044  
+17357997,http://stackoverflow.com/questions/17357997  
+17361562,http://stackoverflow.com/questions/17361562  
+17377965,http://stackoverflow.com/questions/17377965  
+17396411,http://stackoverflow.com/questions/17396411  
+17397294,http://stackoverflow.com/questions/17397294  
+17397814,http://stackoverflow.com/questions/17397814  
+17400760,http://stackoverflow.com/questions/17400760  
+17419806,http://stackoverflow.com/questions/17419806  
+17419958,http://stackoverflow.com/questions/17419958  
+17433380,http://stackoverflow.com/questions/17433380  
+17434871,http://stackoverflow.com/questions/17434871  
+17436300,http://stackoverflow.com/questions/17436300  
+17436997,http://stackoverflow.com/questions/17436997  
+17437243,http://stackoverflow.com/questions/17437243  
+17437292,http://stackoverflow.com/questions/17437292  
+17444258,http://stackoverflow.com/questions/17444258  
+17468830,http://stackoverflow.com/questions/17468830  
+17469667,http://stackoverflow.com/questions/17469667  
+17470110,http://stackoverflow.com/questions/17470110  
+17473040,http://stackoverflow.com/questions/17473040  
+17481315,http://stackoverflow.com/questions/17481315  
+17483283,http://stackoverflow.com/questions/17483283  
+17483334,http://stackoverflow.com/questions/17483334  
+17484154,http://stackoverflow.com/questions/17484154  
+17485255,http://stackoverflow.com/questions/17485255  
+17488646,http://stackoverflow.com/questions/17488646  
+17495209,http://stackoverflow.com/questions/17495209  
+17496889,http://stackoverflow.com/questions/17496889  
+17498059,http://stackoverflow.com/questions/17498059  
+17502091,http://stackoverflow.com/questions/17502091  
+17507934,http://stackoverflow.com/questions/17507934  
+17507941,http://stackoverflow.com/questions/17507941  
+17514195,http://stackoverflow.com/questions/17514195  
+17532348,http://stackoverflow.com/questions/17532348  
+17533229,http://stackoverflow.com/questions/17533229  
+17538182,http://stackoverflow.com/questions/17538182  
+17547314,http://stackoverflow.com/questions/17547314  
+17548155,http://stackoverflow.com/questions/17548155  
+17549096,http://stackoverflow.com/questions/17549096  
+17549795,http://stackoverflow.com/questions/17549795  
+17554598,http://stackoverflow.com/questions/17554598  
+17566730,http://stackoverflow.com/questions/17566730  
+17570269,http://stackoverflow.com/questions/17570269  
+17594910,http://stackoverflow.com/questions/17594910  
+17615019,http://stackoverflow.com/questions/17615019  
+17617370,http://stackoverflow.com/questions/17617370  
+17633183,http://stackoverflow.com/questions/17633183  
+17642755,http://stackoverflow.com/questions/17642755  
+17646399,http://stackoverflow.com/questions/17646399  
+17647038,http://stackoverflow.com/questions/17647038  
+17650081,http://stackoverflow.com/questions/17650081  
+17654340,http://stackoverflow.com/questions/17654340  
+17665921,http://stackoverflow.com/questions/17665921  
+17668284,http://stackoverflow.com/questions/17668284  
+17670108,http://stackoverflow.com/questions/17670108  
+17671984,http://stackoverflow.com/questions/17671984  
+17672116,http://stackoverflow.com/questions/17672116  
+17672539,http://stackoverflow.com/questions/17672539  
+17673645,http://stackoverflow.com/questions/17673645  
+17674400,http://stackoverflow.com/questions/17674400  
+17680774,http://stackoverflow.com/questions/17680774  
+17693337,http://stackoverflow.com/questions/17693337  
+17698899,http://stackoverflow.com/questions/17698899  
+17703094,http://stackoverflow.com/questions/17703094  
+17709966,http://stackoverflow.com/questions/17709966  
+17715028,http://stackoverflow.com/questions/17715028  
+17731465,http://stackoverflow.com/questions/17731465  
+17739900,http://stackoverflow.com/questions/17739900  
+17747482,http://stackoverflow.com/questions/17747482  
+17749608,http://stackoverflow.com/questions/17749608  
+17774527,http://stackoverflow.com/questions/17774527  
+17785340,http://stackoverflow.com/questions/17785340  
+17794400,http://stackoverflow.com/questions/17794400  
+17794460,http://stackoverflow.com/questions/17794460  
+17800388,http://stackoverflow.com/questions/17800388  
+17804886,http://stackoverflow.com/questions/17804886  
+17805145,http://stackoverflow.com/questions/17805145  
+17805216,http://stackoverflow.com/questions/17805216  
+17807526,http://stackoverflow.com/questions/17807526  
+17809801,http://stackoverflow.com/questions/17809801  
+17809824,http://stackoverflow.com/questions/17809824  
+17811830,http://stackoverflow.com/questions/17811830  
+17811950,http://stackoverflow.com/questions/17811950  
+17816626,http://stackoverflow.com/questions/17816626  
+17828805,http://stackoverflow.com/questions/17828805  
+17833561,http://stackoverflow.com/questions/17833561  
+17846101,http://stackoverflow.com/questions/17846101  
+17847775,http://stackoverflow.com/questions/17847775  
+17855868,http://stackoverflow.com/questions/17855868  
+17856544,http://stackoverflow.com/questions/17856544  
+17858714,http://stackoverflow.com/questions/17858714  
+17858763,http://stackoverflow.com/questions/17858763  
+17872903,http://stackoverflow.com/questions/17872903  
+17886806,http://stackoverflow.com/questions/17886806  
+17898719,http://stackoverflow.com/questions/17898719  
+17911308,http://stackoverflow.com/questions/17911308  
+17911472,http://stackoverflow.com/questions/17911472  
+17914012,http://stackoverflow.com/questions/17914012  
+17921085,http://stackoverflow.com/questions/17921085  
+17926329,http://stackoverflow.com/questions/17926329  
+17938220,http://stackoverflow.com/questions/17938220  
+17940036,http://stackoverflow.com/questions/17940036  
+17942524,http://stackoverflow.com/questions/17942524  
+17942827,http://stackoverflow.com/questions/17942827  
+17949035,http://stackoverflow.com/questions/17949035  
+17951954,http://stackoverflow.com/questions/17951954  
+17960041,http://stackoverflow.com/questions/17960041  
+17962586,http://stackoverflow.com/questions/17962586  
+17986016,http://stackoverflow.com/questions/17986016  
+17991222,http://stackoverflow.com/questions/17991222  
+17995010,http://stackoverflow.com/questions/17995010  
+17995723,http://stackoverflow.com/questions/17995723  
+18012888,http://stackoverflow.com/questions/18012888  
+18013952,http://stackoverflow.com/questions/18013952  
+18018460,http://stackoverflow.com/questions/18018460  
+18023294,http://stackoverflow.com/questions/18023294  
+18027333,http://stackoverflow.com/questions/18027333  
+18034029,http://stackoverflow.com/questions/18034029  
+18037041,http://stackoverflow.com/questions/18037041  
+18042248,http://stackoverflow.com/questions/18042248  
+18043125,http://stackoverflow.com/questions/18043125  
+18044361,http://stackoverflow.com/questions/18044361  
+18058019,http://stackoverflow.com/questions/18058019  
+18063323,http://stackoverflow.com/questions/18063323  
+18063599,http://stackoverflow.com/questions/18063599  
+18074522,http://stackoverflow.com/questions/18074522  
+18076116,http://stackoverflow.com/questions/18076116  
+18078004,http://stackoverflow.com/questions/18078004  
+18078657,http://stackoverflow.com/questions/18078657  
+18089033,http://stackoverflow.com/questions/18089033  
+18094741,http://stackoverflow.com/questions/18094741  
+18094944,http://stackoverflow.com/questions/18094944  
+18100475,http://stackoverflow.com/questions/18100475  
+18105029,http://stackoverflow.com/questions/18105029  
+18107778,http://stackoverflow.com/questions/18107778  
+18118475,http://stackoverflow.com/questions/18118475  
+18123011,http://stackoverflow.com/questions/18123011  
+18123443,http://stackoverflow.com/questions/18123443  
+18129712,http://stackoverflow.com/questions/18129712  
+18140066,http://stackoverflow.com/questions/18140066  
+18143655,http://stackoverflow.com/questions/18143655  
+18149265,http://stackoverflow.com/questions/18149265  
+18156615,http://stackoverflow.com/questions/18156615  
+18162642,http://stackoverflow.com/questions/18162642  
+18165930,http://stackoverflow.com/questions/18165930  
+18170656,http://stackoverflow.com/questions/18170656  
+18172087,http://stackoverflow.com/questions/18172087  
+18187664,http://stackoverflow.com/questions/18187664  
+18189742,http://stackoverflow.com/questions/18189742  
+18193439,http://stackoverflow.com/questions/18193439  
+18194289,http://stackoverflow.com/questions/18194289  
+18199359,http://stackoverflow.com/questions/18199359  
+18201755,http://stackoverflow.com/questions/18201755  
+18204814,http://stackoverflow.com/questions/18204814  
+18214010,http://stackoverflow.com/questions/18214010  
+18220915,http://stackoverflow.com/questions/18220915  
+18223315,http://stackoverflow.com/questions/18223315  
+18229352,http://stackoverflow.com/questions/18229352  
+18231324,http://stackoverflow.com/questions/18231324  
+18233839,http://stackoverflow.com/questions/18233839  
+18234101,http://stackoverflow.com/questions/18234101  
+18235294,http://stackoverflow.com/questions/18235294  
+18246752,http://stackoverflow.com/questions/18246752  
+18248280,http://stackoverflow.com/questions/18248280  
+18251399,http://stackoverflow.com/questions/18251399  
+18258485,http://stackoverflow.com/questions/18258485  
+18260003,http://stackoverflow.com/questions/18260003  
+18260170,http://stackoverflow.com/questions/18260170  
+18264140,http://stackoverflow.com/questions/18264140  
+18264237,http://stackoverflow.com/questions/18264237  
+18275670,http://stackoverflow.com/questions/18275670  
+18275709,http://stackoverflow.com/questions/18275709  
+18299201,http://stackoverflow.com/questions/18299201  
+18308763,http://stackoverflow.com/questions/18308763  
+18309539,http://stackoverflow.com/questions/18309539  
+18311096,http://stackoverflow.com/questions/18311096  
+18311964,http://stackoverflow.com/questions/18311964  
+18312414,http://stackoverflow.com/questions/18312414  
+18325795,http://stackoverflow.com/questions/18325795  
+18326125,http://stackoverflow.com/questions/18326125  
+18326262,http://stackoverflow.com/questions/18326262  
+18332049,http://stackoverflow.com/questions/18332049  
+18332297,http://stackoverflow.com/questions/18332297  
+18335790,http://stackoverflow.com/questions/18335790  
+18337085,http://stackoverflow.com/questions/18337085  
+18337468,http://stackoverflow.com/questions/18337468  
+18339168,http://stackoverflow.com/questions/18339168  
+18340389,http://stackoverflow.com/questions/18340389  
+18346797,http://stackoverflow.com/questions/18346797  
+18349698,http://stackoverflow.com/questions/18349698  
+18359264,http://stackoverflow.com/questions/18359264  
+18366454,http://stackoverflow.com/questions/18366454  
+18375611,http://stackoverflow.com/questions/18375611  
+18382510,http://stackoverflow.com/questions/18382510  
+18385445,http://stackoverflow.com/questions/18385445  
+18386003,http://stackoverflow.com/questions/18386003  
+18396725,http://stackoverflow.com/questions/18396725  
+18405051,http://stackoverflow.com/questions/18405051  
+18408511,http://stackoverflow.com/questions/18408511  
+18413111,http://stackoverflow.com/questions/18413111  
+18416376,http://stackoverflow.com/questions/18416376  
+18419562,http://stackoverflow.com/questions/18419562  
+18426044,http://stackoverflow.com/questions/18426044  
+18436156,http://stackoverflow.com/questions/18436156  
+18437273,http://stackoverflow.com/questions/18437273  
+18439235,http://stackoverflow.com/questions/18439235  
+18440636,http://stackoverflow.com/questions/18440636  
+18446874,http://stackoverflow.com/questions/18446874  
+18461881,http://stackoverflow.com/questions/18461881  
+18462002,http://stackoverflow.com/questions/18462002  
+18464218,http://stackoverflow.com/questions/18464218  
+18471387,http://stackoverflow.com/questions/18471387  
+18477676,http://stackoverflow.com/questions/18477676  
+18482148,http://stackoverflow.com/questions/18482148  
+18486262,http://stackoverflow.com/questions/18486262  
+18493505,http://stackoverflow.com/questions/18493505  
+18496468,http://stackoverflow.com/questions/18496468  
+18502803,http://stackoverflow.com/questions/18502803  
+18506178,http://stackoverflow.com/questions/18506178  
+18506756,http://stackoverflow.com/questions/18506756  
+18507512,http://stackoverflow.com/questions/18507512  
+18510983,http://stackoverflow.com/questions/18510983  
+18515352,http://stackoverflow.com/questions/18515352  
+18521009,http://stackoverflow.com/questions/18521009  
+18522882,http://stackoverflow.com/questions/18522882  
+18523346,http://stackoverflow.com/questions/18523346  
+18524092,http://stackoverflow.com/questions/18524092  
+18533707,http://stackoverflow.com/questions/18533707  
+18541297,http://stackoverflow.com/questions/18541297  
+18541530,http://stackoverflow.com/questions/18541530  
+18542010,http://stackoverflow.com/questions/18542010  
+18556684,http://stackoverflow.com/questions/18556684  
+18559063,http://stackoverflow.com/questions/18559063  
+18563830,http://stackoverflow.com/questions/18563830  
+18564280,http://stackoverflow.com/questions/18564280  
+18588064,http://stackoverflow.com/questions/18588064  
+18593492,http://stackoverflow.com/questions/18593492  
+18600755,http://stackoverflow.com/questions/18600755  
+18604363,http://stackoverflow.com/questions/18604363  
+18619043,http://stackoverflow.com/questions/18619043  
+18631642,http://stackoverflow.com/questions/18631642  
+18631908,http://stackoverflow.com/questions/18631908  
+18632581,http://stackoverflow.com/questions/18632581  
+18637365,http://stackoverflow.com/questions/18637365  
+18638705,http://stackoverflow.com/questions/18638705  
+18646736,http://stackoverflow.com/questions/18646736  
+18650532,http://stackoverflow.com/questions/18650532  
+18653947,http://stackoverflow.com/questions/18653947  
+18660639,http://stackoverflow.com/questions/18660639  
+18661996,http://stackoverflow.com/questions/18661996  
+18663131,http://stackoverflow.com/questions/18663131  
+18666626,http://stackoverflow.com/questions/18666626  
+18667625,http://stackoverflow.com/questions/18667625  
+18682755,http://stackoverflow.com/questions/18682755  
+18686088,http://stackoverflow.com/questions/18686088  
+18687260,http://stackoverflow.com/questions/18687260  
+18688891,http://stackoverflow.com/questions/18688891  
+18689365,http://stackoverflow.com/questions/18689365  
+18694596,http://stackoverflow.com/questions/18694596  
+18696414,http://stackoverflow.com/questions/18696414  
+18700762,http://stackoverflow.com/questions/18700762  
+18701348,http://stackoverflow.com/questions/18701348  
+18702279,http://stackoverflow.com/questions/18702279  
+18713969,http://stackoverflow.com/questions/18713969  
+18714349,http://stackoverflow.com/questions/18714349  
+18717854,http://stackoverflow.com/questions/18717854  
+18725223,http://stackoverflow.com/questions/18725223  
+18726056,http://stackoverflow.com/questions/18726056  
+18735882,http://stackoverflow.com/questions/18735882  
+18740213,http://stackoverflow.com/questions/18740213  
+18743755,http://stackoverflow.com/questions/18743755  
+18743760,http://stackoverflow.com/questions/18743760  
+18746720,http://stackoverflow.com/questions/18746720  
+18751350,http://stackoverflow.com/questions/18751350  
+18762068,http://stackoverflow.com/questions/18762068  
+18763868,http://stackoverflow.com/questions/18763868  
+18764311,http://stackoverflow.com/questions/18764311  
+18772283,http://stackoverflow.com/questions/18772283  
+18778043,http://stackoverflow.com/questions/18778043  
+18792185,http://stackoverflow.com/questions/18792185  
+18792837,http://stackoverflow.com/questions/18792837  
+18794055,http://stackoverflow.com/questions/18794055  
+18794638,http://stackoverflow.com/questions/18794638  
+18802189,http://stackoverflow.com/questions/18802189  
+18815587,http://stackoverflow.com/questions/18815587  
+18819052,http://stackoverflow.com/questions/18819052  
+18827279,http://stackoverflow.com/questions/18827279  
+18828339,http://stackoverflow.com/questions/18828339  
+18845309,http://stackoverflow.com/questions/18845309  
+18852015,http://stackoverflow.com/questions/18852015  
+18854617,http://stackoverflow.com/questions/18854617  
+18861049,http://stackoverflow.com/questions/18861049  
+18861852,http://stackoverflow.com/questions/18861852  
+18864984,http://stackoverflow.com/questions/18864984  
+18873338,http://stackoverflow.com/questions/18873338  
+18874860,http://stackoverflow.com/questions/18874860  
+18882071,http://stackoverflow.com/questions/18882071  
+18886847,http://stackoverflow.com/questions/18886847  
+18888229,http://stackoverflow.com/questions/18888229  
+18890939,http://stackoverflow.com/questions/18890939  
+18899727,http://stackoverflow.com/questions/18899727  
+18907797,http://stackoverflow.com/questions/18907797  
+18922482,http://stackoverflow.com/questions/18922482  
+18928864,http://stackoverflow.com/questions/18928864  
+18932395,http://stackoverflow.com/questions/18932395  
+18932776,http://stackoverflow.com/questions/18932776  
+18937682,http://stackoverflow.com/questions/18937682  
+18938083,http://stackoverflow.com/questions/18938083  
+18938568,http://stackoverflow.com/questions/18938568  
+18939152,http://stackoverflow.com/questions/18939152  
+18942590,http://stackoverflow.com/questions/18942590  
+18945859,http://stackoverflow.com/questions/18945859  
+18950884,http://stackoverflow.com/questions/18950884  
+18958549,http://stackoverflow.com/questions/18958549  
+18958902,http://stackoverflow.com/questions/18958902  
+18960227,http://stackoverflow.com/questions/18960227  
+18961673,http://stackoverflow.com/questions/18961673  
+18963071,http://stackoverflow.com/questions/18963071  
+18967165,http://stackoverflow.com/questions/18967165  
+18967976,http://stackoverflow.com/questions/18967976  
+18968692,http://stackoverflow.com/questions/18968692  
+18969415,http://stackoverflow.com/questions/18969415  
+18975372,http://stackoverflow.com/questions/18975372  
+18976543,http://stackoverflow.com/questions/18976543  
+18977108,http://stackoverflow.com/questions/18977108  
+18982615,http://stackoverflow.com/questions/18982615  
+18990317,http://stackoverflow.com/questions/18990317  
+18991912,http://stackoverflow.com/questions/18991912  
+18996548,http://stackoverflow.com/questions/18996548  
+19001385,http://stackoverflow.com/questions/19001385  
+19011726,http://stackoverflow.com/questions/19011726  
+19014919,http://stackoverflow.com/questions/19014919  
+19027161,http://stackoverflow.com/questions/19027161  
+19032136,http://stackoverflow.com/questions/19032136  
+19035094,http://stackoverflow.com/questions/19035094  
+19035805,http://stackoverflow.com/questions/19035805  
+19038225,http://stackoverflow.com/questions/19038225  
+19038907,http://stackoverflow.com/questions/19038907  
+19042254,http://stackoverflow.com/questions/19042254  
+19049583,http://stackoverflow.com/questions/19049583  
+19056349,http://stackoverflow.com/questions/19056349  
+19059249,http://stackoverflow.com/questions/19059249  
+19062001,http://stackoverflow.com/questions/19062001  
+19063293,http://stackoverflow.com/questions/19063293  
+19068054,http://stackoverflow.com/questions/19068054  
+19074038,http://stackoverflow.com/questions/19074038  
+19077626,http://stackoverflow.com/questions/19077626  
+19083108,http://stackoverflow.com/questions/19083108  
+19089403,http://stackoverflow.com/questions/19089403  
+19095656,http://stackoverflow.com/questions/19095656  
+19099789,http://stackoverflow.com/questions/19099789  
+19110230,http://stackoverflow.com/questions/19110230  
+19126034,http://stackoverflow.com/questions/19126034  
+19127500,http://stackoverflow.com/questions/19127500  
+19129542,http://stackoverflow.com/questions/19129542  
+19130753,http://stackoverflow.com/questions/19130753  
+19133734,http://stackoverflow.com/questions/19133734  
+19142336,http://stackoverflow.com/questions/19142336  
+19148029,http://stackoverflow.com/questions/19148029  
+19151989,http://stackoverflow.com/questions/19151989  
+19152190,http://stackoverflow.com/questions/19152190  
+19153329,http://stackoverflow.com/questions/19153329  
+19159185,http://stackoverflow.com/questions/19159185  
+19163041,http://stackoverflow.com/questions/19163041  
+19167597,http://stackoverflow.com/questions/19167597  
+19172589,http://stackoverflow.com/questions/19172589  
+19175218,http://stackoverflow.com/questions/19175218  
+19176675,http://stackoverflow.com/questions/19176675  
+19180108,http://stackoverflow.com/questions/19180108  
+19195558,http://stackoverflow.com/questions/19195558  
+19196292,http://stackoverflow.com/questions/19196292  
+19199149,http://stackoverflow.com/questions/19199149  
+19209978,http://stackoverflow.com/questions/19209978  
+19230505,http://stackoverflow.com/questions/19230505  
+19231799,http://stackoverflow.com/questions/19231799  
+19237938,http://stackoverflow.com/questions/19237938  
+19238404,http://stackoverflow.com/questions/19238404  
+19260807,http://stackoverflow.com/questions/19260807  
+19264145,http://stackoverflow.com/questions/19264145  
+19269152,http://stackoverflow.com/questions/19269152  
+19271142,http://stackoverflow.com/questions/19271142  
+19274805,http://stackoverflow.com/questions/19274805  
+19283300,http://stackoverflow.com/questions/19283300  
+19286085,http://stackoverflow.com/questions/19286085  
+19292169,http://stackoverflow.com/questions/19292169  
+19292915,http://stackoverflow.com/questions/19292915  
+19297775,http://stackoverflow.com/questions/19297775  
+19302055,http://stackoverflow.com/questions/19302055  
+19303233,http://stackoverflow.com/questions/19303233  
+19309755,http://stackoverflow.com/questions/19309755  
+19311849,http://stackoverflow.com/questions/19311849  
+19311859,http://stackoverflow.com/questions/19311859  
+19314684,http://stackoverflow.com/questions/19314684  
+19318412,http://stackoverflow.com/questions/19318412  
+19328307,http://stackoverflow.com/questions/19328307  
+19329750,http://stackoverflow.com/questions/19329750  
+19330215,http://stackoverflow.com/questions/19330215  
+19345059,http://stackoverflow.com/questions/19345059  
+19345719,http://stackoverflow.com/questions/19345719  
+19348320,http://stackoverflow.com/questions/19348320  
+19350180,http://stackoverflow.com/questions/19350180  
+19356236,http://stackoverflow.com/questions/19356236  
+19356817,http://stackoverflow.com/questions/19356817  
+19364591,http://stackoverflow.com/questions/19364591  
+19364790,http://stackoverflow.com/questions/19364790  
+19370435,http://stackoverflow.com/questions/19370435  
+19370700,http://stackoverflow.com/questions/19370700  
+19372288,http://stackoverflow.com/questions/19372288  
+19372658,http://stackoverflow.com/questions/19372658  
+19374647,http://stackoverflow.com/questions/19374647  
+19379494,http://stackoverflow.com/questions/19379494  
+19385312,http://stackoverflow.com/questions/19385312  
+19385997,http://stackoverflow.com/questions/19385997  
+19389981,http://stackoverflow.com/questions/19389981  
+19397690,http://stackoverflow.com/questions/19397690  
+19398318,http://stackoverflow.com/questions/19398318  
+19401289,http://stackoverflow.com/questions/19401289  
+19410073,http://stackoverflow.com/questions/19410073  
+19411836,http://stackoverflow.com/questions/19411836  
+19415483,http://stackoverflow.com/questions/19415483  
+19422148,http://stackoverflow.com/questions/19422148  
+19427691,http://stackoverflow.com/questions/19427691  
+19431104,http://stackoverflow.com/questions/19431104  
+19447114,http://stackoverflow.com/questions/19447114  
+19451814,http://stackoverflow.com/questions/19451814  
+19452590,http://stackoverflow.com/questions/19452590  
+19455158,http://stackoverflow.com/questions/19455158  
+19456837,http://stackoverflow.com/questions/19456837  
+19458576,http://stackoverflow.com/questions/19458576  
+19462736,http://stackoverflow.com/questions/19462736  
+19465448,http://stackoverflow.com/questions/19465448  
+19469970,http://stackoverflow.com/questions/19469970  
+19472574,http://stackoverflow.com/questions/19472574  
+19490331,http://stackoverflow.com/questions/19490331  
+19495013,http://stackoverflow.com/questions/19495013  
+19502371,http://stackoverflow.com/questions/19502371  
+19503418,http://stackoverflow.com/questions/19503418  
+19504893,http://stackoverflow.com/questions/19504893  
+19508943,http://stackoverflow.com/questions/19508943  
+19515935,http://stackoverflow.com/questions/19515935  
+19528039,http://stackoverflow.com/questions/19528039  
+19530428,http://stackoverflow.com/questions/19530428  
+19530467,http://stackoverflow.com/questions/19530467  
+19531408,http://stackoverflow.com/questions/19531408  
+19555987,http://stackoverflow.com/questions/19555987  
+19557162,http://stackoverflow.com/questions/19557162  
+19557628,http://stackoverflow.com/questions/19557628  
+19560847,http://stackoverflow.com/questions/19560847  
+19564239,http://stackoverflow.com/questions/19564239  
+19565047,http://stackoverflow.com/questions/19565047  
+19567866,http://stackoverflow.com/questions/19567866  
+19572918,http://stackoverflow.com/questions/19572918  
+19574608,http://stackoverflow.com/questions/19574608  
+19576910,http://stackoverflow.com/questions/19576910  
+19578452,http://stackoverflow.com/questions/19578452  
+19581146,http://stackoverflow.com/questions/19581146  
+19589648,http://stackoverflow.com/questions/19589648  
+19600221,http://stackoverflow.com/questions/19600221  
+19602692,http://stackoverflow.com/questions/19602692  
+19611216,http://stackoverflow.com/questions/19611216  
+19627551,http://stackoverflow.com/questions/19627551  
+19628567,http://stackoverflow.com/questions/19628567  
+19631014,http://stackoverflow.com/questions/19631014  
+19633090,http://stackoverflow.com/questions/19633090  
+19634047,http://stackoverflow.com/questions/19634047  
+19635188,http://stackoverflow.com/questions/19635188  
+19645118,http://stackoverflow.com/questions/19645118  
+19650235,http://stackoverflow.com/questions/19650235  
+19655855,http://stackoverflow.com/questions/19655855  
+19667447,http://stackoverflow.com/questions/19667447  
+19667663,http://stackoverflow.com/questions/19667663  
+19668899,http://stackoverflow.com/questions/19668899  
+19671093,http://stackoverflow.com/questions/19671093  
+19681455,http://stackoverflow.com/questions/19681455  
+19690962,http://stackoverflow.com/questions/19690962  
+19692678,http://stackoverflow.com/questions/19692678  
+19696613,http://stackoverflow.com/questions/19696613  
+19700129,http://stackoverflow.com/questions/19700129  
+19701460,http://stackoverflow.com/questions/19701460  
+19717940,http://stackoverflow.com/questions/19717940  
+19722034,http://stackoverflow.com/questions/19722034  
+19725028,http://stackoverflow.com/questions/19725028  
+19728018,http://stackoverflow.com/questions/19728018  
+19734421,http://stackoverflow.com/questions/19734421  
+19739132,http://stackoverflow.com/questions/19739132  
+19742408,http://stackoverflow.com/questions/19742408  
+19746360,http://stackoverflow.com/questions/19746360  
+19746609,http://stackoverflow.com/questions/19746609  
+19747559,http://stackoverflow.com/questions/19747559  
+19750936,http://stackoverflow.com/questions/19750936  
+19756786,http://stackoverflow.com/questions/19756786  
+19757749,http://stackoverflow.com/questions/19757749  
+19763311,http://stackoverflow.com/questions/19763311  
+19773967,http://stackoverflow.com/questions/19773967  
+19774843,http://stackoverflow.com/questions/19774843  
+19778725,http://stackoverflow.com/questions/19778725  
+19780523,http://stackoverflow.com/questions/19780523  
+19781277,http://stackoverflow.com/questions/19781277  
+19782403,http://stackoverflow.com/questions/19782403  
+19792066,http://stackoverflow.com/questions/19792066  
+19797579,http://stackoverflow.com/questions/19797579  
+19797601,http://stackoverflow.com/questions/19797601  
+19797755,http://stackoverflow.com/questions/19797755  
+19798255,http://stackoverflow.com/questions/19798255  
+19800618,http://stackoverflow.com/questions/19800618  
+19802698,http://stackoverflow.com/questions/19802698  
+19804233,http://stackoverflow.com/questions/19804233  
+19806806,http://stackoverflow.com/questions/19806806  
+19808203,http://stackoverflow.com/questions/19808203  
+19810996,http://stackoverflow.com/questions/19810996  
+19812952,http://stackoverflow.com/questions/19812952  
+19819183,http://stackoverflow.com/questions/19819183  
+19829398,http://stackoverflow.com/questions/19829398  
+19829404,http://stackoverflow.com/questions/19829404  
+19831196,http://stackoverflow.com/questions/19831196  
+19831485,http://stackoverflow.com/questions/19831485  
+19832668,http://stackoverflow.com/questions/19832668  
+19834801,http://stackoverflow.com/questions/19834801  
+19835400,http://stackoverflow.com/questions/19835400  
+19835566,http://stackoverflow.com/questions/19835566  
+19840391,http://stackoverflow.com/questions/19840391  
+19843694,http://stackoverflow.com/questions/19843694  
+19846654,http://stackoverflow.com/questions/19846654  
+19877782,http://stackoverflow.com/questions/19877782  
+19883136,http://stackoverflow.com/questions/19883136  
+19890023,http://stackoverflow.com/questions/19890023  
+19891030,http://stackoverflow.com/questions/19891030  
+19896772,http://stackoverflow.com/questions/19896772  
+19901450,http://stackoverflow.com/questions/19901450  
+19917707,http://stackoverflow.com/questions/19917707  
+19923161,http://stackoverflow.com/questions/19923161  
+19927465,http://stackoverflow.com/questions/19927465  
+19927858,http://stackoverflow.com/questions/19927858  
+19929478,http://stackoverflow.com/questions/19929478  
+19931473,http://stackoverflow.com/questions/19931473  
+19934174,http://stackoverflow.com/questions/19934174  
+19943608,http://stackoverflow.com/questions/19943608  
+19945346,http://stackoverflow.com/questions/19945346  
+19946575,http://stackoverflow.com/questions/19946575  
+19947834,http://stackoverflow.com/questions/19947834  
+19954362,http://stackoverflow.com/questions/19954362  
+19963333,http://stackoverflow.com/questions/19963333  
+19965211,http://stackoverflow.com/questions/19965211  
+19972071,http://stackoverflow.com/questions/19972071  
+19972250,http://stackoverflow.com/questions/19972250  
+19976340,http://stackoverflow.com/questions/19976340  
+19978212,http://stackoverflow.com/questions/19978212  
+19981734,http://stackoverflow.com/questions/19981734  
+19981817,http://stackoverflow.com/questions/19981817  
+19984037,http://stackoverflow.com/questions/19984037  
+19984905,http://stackoverflow.com/questions/19984905  
+19984992,http://stackoverflow.com/questions/19984992  
+19986794,http://stackoverflow.com/questions/19986794  
+19992109,http://stackoverflow.com/questions/19992109  
+19998558,http://stackoverflow.com/questions/19998558  
+19999396,http://stackoverflow.com/questions/19999396  
+20001310,http://stackoverflow.com/questions/20001310  
+20025007,http://stackoverflow.com/questions/20025007  
+20026359,http://stackoverflow.com/questions/20026359  
+20030158,http://stackoverflow.com/questions/20030158  
+20033593,http://stackoverflow.com/questions/20033593  
+20041466,http://stackoverflow.com/questions/20041466  
+20045162,http://stackoverflow.com/questions/20045162  
+20045951,http://stackoverflow.com/questions/20045951  
+20055482,http://stackoverflow.com/questions/20055482  
+20062651,http://stackoverflow.com/questions/20062651  
+20063020,http://stackoverflow.com/questions/20063020  
+20064171,http://stackoverflow.com/questions/20064171  
+20072946,http://stackoverflow.com/questions/20072946  
+20088668,http://stackoverflow.com/questions/20088668  
+20093322,http://stackoverflow.com/questions/20093322  
+20095640,http://stackoverflow.com/questions/20095640  
+20100911,http://stackoverflow.com/questions/20100911  
+20103870,http://stackoverflow.com/questions/20103870  
+20107517,http://stackoverflow.com/questions/20107517  
+20111930,http://stackoverflow.com/questions/20111930  
+20118058,http://stackoverflow.com/questions/20118058  
+20129731,http://stackoverflow.com/questions/20129731  
+20131552,http://stackoverflow.com/questions/20131552  
+20133999,http://stackoverflow.com/questions/20133999  
+20134556,http://stackoverflow.com/questions/20134556  
+20140376,http://stackoverflow.com/questions/20140376  
+20142634,http://stackoverflow.com/questions/20142634  
+20144375,http://stackoverflow.com/questions/20144375  
+20148259,http://stackoverflow.com/questions/20148259  
+20153667,http://stackoverflow.com/questions/20153667  
+20154088,http://stackoverflow.com/questions/20154088  
+20157594,http://stackoverflow.com/questions/20157594  
+20158764,http://stackoverflow.com/questions/20158764  
+20160753,http://stackoverflow.com/questions/20160753  
+20169160,http://stackoverflow.com/questions/20169160  
+20171893,http://stackoverflow.com/questions/20171893  
+20173879,http://stackoverflow.com/questions/20173879  
+20174019,http://stackoverflow.com/questions/20174019  
+20176136,http://stackoverflow.com/questions/20176136  
+20176679,http://stackoverflow.com/questions/20176679  
+20177763,http://stackoverflow.com/questions/20177763  
+20180246,http://stackoverflow.com/questions/20180246  
+20181516,http://stackoverflow.com/questions/20181516  
+20183635,http://stackoverflow.com/questions/20183635  
+20189243,http://stackoverflow.com/questions/20189243  
+20193645,http://stackoverflow.com/questions/20193645  
+20198820,http://stackoverflow.com/questions/20198820  
+20203681,http://stackoverflow.com/questions/20203681  
+20212304,http://stackoverflow.com/questions/20212304  
+20214963,http://stackoverflow.com/questions/20214963  
+20215464,http://stackoverflow.com/questions/20215464  
+20218118,http://stackoverflow.com/questions/20218118  
+20224474,http://stackoverflow.com/questions/20224474  
+20231456,http://stackoverflow.com/questions/20231456  
+20233803,http://stackoverflow.com/questions/20233803  
+20235909,http://stackoverflow.com/questions/20235909  
+20243359,http://stackoverflow.com/questions/20243359  
+20247382,http://stackoverflow.com/questions/20247382  
+20247775,http://stackoverflow.com/questions/20247775  
+20249072,http://stackoverflow.com/questions/20249072  
+20249616,http://stackoverflow.com/questions/20249616  
+20259962,http://stackoverflow.com/questions/20259962  
+20262471,http://stackoverflow.com/questions/20262471  
+20262865,http://stackoverflow.com/questions/20262865  
+20270277,http://stackoverflow.com/questions/20270277  
+20275968,http://stackoverflow.com/questions/20275968  
+20276560,http://stackoverflow.com/questions/20276560  
+20277073,http://stackoverflow.com/questions/20277073  
+20281927,http://stackoverflow.com/questions/20281927  
+20285988,http://stackoverflow.com/questions/20285988  
+20288542,http://stackoverflow.com/questions/20288542  
+20289156,http://stackoverflow.com/questions/20289156  
+20291513,http://stackoverflow.com/questions/20291513  
+20292060,http://stackoverflow.com/questions/20292060  
+20299291,http://stackoverflow.com/questions/20299291  
+20302532,http://stackoverflow.com/questions/20302532  
+20313562,http://stackoverflow.com/questions/20313562  
+20317705,http://stackoverflow.com/questions/20317705  
+20325386,http://stackoverflow.com/questions/20325386  
+20325943,http://stackoverflow.com/questions/20325943  
+20325975,http://stackoverflow.com/questions/20325975  
+20330294,http://stackoverflow.com/questions/20330294  
+20337810,http://stackoverflow.com/questions/20337810  
+20342698,http://stackoverflow.com/questions/20342698  
+20347089,http://stackoverflow.com/questions/20347089  
+20357503,http://stackoverflow.com/questions/20357503  
+20359530,http://stackoverflow.com/questions/20359530  
+20366777,http://stackoverflow.com/questions/20366777  
+20367753,http://stackoverflow.com/questions/20367753  
+20372307,http://stackoverflow.com/questions/20372307  
+20378144,http://stackoverflow.com/questions/20378144  
+20379720,http://stackoverflow.com/questions/20379720  
+20385405,http://stackoverflow.com/questions/20385405  
+20387178,http://stackoverflow.com/questions/20387178  
+20387303,http://stackoverflow.com/questions/20387303  
+20394267,http://stackoverflow.com/questions/20394267  
+20399690,http://stackoverflow.com/questions/20399690  
+20402007,http://stackoverflow.com/questions/20402007  
+20404778,http://stackoverflow.com/questions/20404778  
+20408289,http://stackoverflow.com/questions/20408289  
+20408483,http://stackoverflow.com/questions/20408483  
+20414993,http://stackoverflow.com/questions/20414993  
+20416559,http://stackoverflow.com/questions/20416559  
+20418528,http://stackoverflow.com/questions/20418528  
+20425745,http://stackoverflow.com/questions/20425745  
+20426537,http://stackoverflow.com/questions/20426537  
+20426809,http://stackoverflow.com/questions/20426809  
+20427303,http://stackoverflow.com/questions/20427303  
+20428810,http://stackoverflow.com/questions/20428810  
+20440869,http://stackoverflow.com/questions/20440869  
+20441196,http://stackoverflow.com/questions/20441196  
+20443471,http://stackoverflow.com/questions/20443471  
+20444829,http://stackoverflow.com/questions/20444829  
+20445481,http://stackoverflow.com/questions/20445481  
+20449454,http://stackoverflow.com/questions/20449454  
+20449511,http://stackoverflow.com/questions/20449511  
+20449534,http://stackoverflow.com/questions/20449534  
+20451000,http://stackoverflow.com/questions/20451000  
+20464096,http://stackoverflow.com/questions/20464096  
+20471352,http://stackoverflow.com/questions/20471352  
+20471742,http://stackoverflow.com/questions/20471742  
+20478562,http://stackoverflow.com/questions/20478562  
+20480268,http://stackoverflow.com/questions/20480268  
+20484798,http://stackoverflow.com/questions/20484798  
+20485206,http://stackoverflow.com/questions/20485206  
+20487323,http://stackoverflow.com/questions/20487323  
+20497968,http://stackoverflow.com/questions/20497968  
+20500060,http://stackoverflow.com/questions/20500060  
+20503620,http://stackoverflow.com/questions/20503620  
+20503622,http://stackoverflow.com/questions/20503622  
+20505807,http://stackoverflow.com/questions/20505807  
+20515743,http://stackoverflow.com/questions/20515743  
+20516989,http://stackoverflow.com/questions/20516989  
+20520439,http://stackoverflow.com/questions/20520439  
+20523225,http://stackoverflow.com/questions/20523225  
+20525257,http://stackoverflow.com/questions/20525257  
+20526541,http://stackoverflow.com/questions/20526541  
+20527178,http://stackoverflow.com/questions/20527178  
+20527893,http://stackoverflow.com/questions/20527893  
+20532912,http://stackoverflow.com/questions/20532912  
+20533664,http://stackoverflow.com/questions/20533664  
+20534753,http://stackoverflow.com/questions/20534753  
+20545361,http://stackoverflow.com/questions/20545361  
+20548363,http://stackoverflow.com/questions/20548363  
+20555701,http://stackoverflow.com/questions/20555701  
+20569716,http://stackoverflow.com/questions/20569716  
+20576833,http://stackoverflow.com/questions/20576833  
+20577413,http://stackoverflow.com/questions/20577413  
+20586487,http://stackoverflow.com/questions/20586487  
+20591746,http://stackoverflow.com/questions/20591746  
+20593008,http://stackoverflow.com/questions/20593008  
+20595628,http://stackoverflow.com/questions/20595628  
+20597418,http://stackoverflow.com/questions/20597418  
+20602621,http://stackoverflow.com/questions/20602621  
+20604360,http://stackoverflow.com/questions/20604360  
+20604475,http://stackoverflow.com/questions/20604475  
+20605352,http://stackoverflow.com/questions/20605352  
+20608408,http://stackoverflow.com/questions/20608408  
+20613984,http://stackoverflow.com/questions/20613984  
+20619876,http://stackoverflow.com/questions/20619876  
+20622285,http://stackoverflow.com/questions/20622285  
+20628122,http://stackoverflow.com/questions/20628122  
+20633589,http://stackoverflow.com/questions/20633589  
+20634859,http://stackoverflow.com/questions/20634859  
+20638299,http://stackoverflow.com/questions/20638299  
+20639105,http://stackoverflow.com/questions/20639105  
+20641559,http://stackoverflow.com/questions/20641559  
+20642516,http://stackoverflow.com/questions/20642516  
+20645305,http://stackoverflow.com/questions/20645305  
+20648980,http://stackoverflow.com/questions/20648980  
+20650058,http://stackoverflow.com/questions/20650058  
+20650824,http://stackoverflow.com/questions/20650824  
+20651891,http://stackoverflow.com/questions/20651891  
+20653496,http://stackoverflow.com/questions/20653496  
+20663756,http://stackoverflow.com/questions/20663756  
+20666877,http://stackoverflow.com/questions/20666877  
+20668362,http://stackoverflow.com/questions/20668362  
+20672714,http://stackoverflow.com/questions/20672714  
+20674135,http://stackoverflow.com/questions/20674135  
+20674370,http://stackoverflow.com/questions/20674370  
+20677765,http://stackoverflow.com/questions/20677765  
+20680670,http://stackoverflow.com/questions/20680670  
+20681089,http://stackoverflow.com/questions/20681089  
+20681876,http://stackoverflow.com/questions/20681876  
+20682227,http://stackoverflow.com/questions/20682227  
+20682969,http://stackoverflow.com/questions/20682969  
+20684238,http://stackoverflow.com/questions/20684238  
+20685566,http://stackoverflow.com/questions/20685566  
+20691931,http://stackoverflow.com/questions/20691931  
+20693191,http://stackoverflow.com/questions/20693191  
+20694384,http://stackoverflow.com/questions/20694384  
+20695830,http://stackoverflow.com/questions/20695830  
+20696299,http://stackoverflow.com/questions/20696299  
+20696547,http://stackoverflow.com/questions/20696547  
+20701542,http://stackoverflow.com/questions/20701542  
+20702302,http://stackoverflow.com/questions/20702302  
+20703901,http://stackoverflow.com/questions/20703901  
+20712039,http://stackoverflow.com/questions/20712039  
+20712782,http://stackoverflow.com/questions/20712782  
+20713321,http://stackoverflow.com/questions/20713321  
+20714489,http://stackoverflow.com/questions/20714489  
+20716909,http://stackoverflow.com/questions/20716909  
+20729168,http://stackoverflow.com/questions/20729168  
+20730836,http://stackoverflow.com/questions/20730836  
+20733741,http://stackoverflow.com/questions/20733741  
+20733962,http://stackoverflow.com/questions/20733962  
+20738960,http://stackoverflow.com/questions/20738960  
+20740703,http://stackoverflow.com/questions/20740703  
+20742015,http://stackoverflow.com/questions/20742015  
+20751552,http://stackoverflow.com/questions/20751552  
+20763460,http://stackoverflow.com/questions/20763460  
+20769821,http://stackoverflow.com/questions/20769821  
+20777711,http://stackoverflow.com/questions/20777711  
+20781120,http://stackoverflow.com/questions/20781120  
+20789512,http://stackoverflow.com/questions/20789512  
+20791299,http://stackoverflow.com/questions/20791299  
+20792341,http://stackoverflow.com/questions/20792341  
+20792528,http://stackoverflow.com/questions/20792528  
+20795352,http://stackoverflow.com/questions/20795352  
+20796970,http://stackoverflow.com/questions/20796970  
+20799074,http://stackoverflow.com/questions/20799074  
+20800234,http://stackoverflow.com/questions/20800234  
+20800332,http://stackoverflow.com/questions/20800332  
+20802627,http://stackoverflow.com/questions/20802627  
+20803141,http://stackoverflow.com/questions/20803141  
+20807688,http://stackoverflow.com/questions/20807688  
+20812767,http://stackoverflow.com/questions/20812767  
+20817707,http://stackoverflow.com/questions/20817707  
+20817980,http://stackoverflow.com/questions/20817980  
+20818237,http://stackoverflow.com/questions/20818237  
+20818443,http://stackoverflow.com/questions/20818443  
+20819869,http://stackoverflow.com/questions/20819869  
+20820262,http://stackoverflow.com/questions/20820262  
+20821397,http://stackoverflow.com/questions/20821397  
+20821649,http://stackoverflow.com/questions/20821649  
+20822711,http://stackoverflow.com/questions/20822711  
+20824190,http://stackoverflow.com/questions/20824190  
+20828709,http://stackoverflow.com/questions/20828709  
+20829228,http://stackoverflow.com/questions/20829228  
+20831441,http://stackoverflow.com/questions/20831441  
+20834266,http://stackoverflow.com/questions/20834266  
+20834889,http://stackoverflow.com/questions/20834889  
+20837739,http://stackoverflow.com/questions/20837739  
+20840260,http://stackoverflow.com/questions/20840260  
+20842720,http://stackoverflow.com/questions/20842720  
+20849174,http://stackoverflow.com/questions/20849174  
+20849513,http://stackoverflow.com/questions/20849513  
+20853350,http://stackoverflow.com/questions/20853350  
+20859476,http://stackoverflow.com/questions/20859476  
+20870369,http://stackoverflow.com/questions/20870369  
+20871324,http://stackoverflow.com/questions/20871324  
+20872176,http://stackoverflow.com/questions/20872176  
+20873323,http://stackoverflow.com/questions/20873323  
+20873874,http://stackoverflow.com/questions/20873874  
+20877250,http://stackoverflow.com/questions/20877250  
+20882883,http://stackoverflow.com/questions/20882883  
+20883704,http://stackoverflow.com/questions/20883704  
+20886373,http://stackoverflow.com/questions/20886373  
+20891666,http://stackoverflow.com/questions/20891666  
+20895264,http://stackoverflow.com/questions/20895264  
+20897248,http://stackoverflow.com/questions/20897248  
+20899854,http://stackoverflow.com/questions/20899854  
+20899990,http://stackoverflow.com/questions/20899990  
+20900700,http://stackoverflow.com/questions/20900700  
+20900882,http://stackoverflow.com/questions/20900882  
+20907699,http://stackoverflow.com/questions/20907699  
+20908075,http://stackoverflow.com/questions/20908075  
+20908171,http://stackoverflow.com/questions/20908171  
+20908644,http://stackoverflow.com/questions/20908644  
+20908675,http://stackoverflow.com/questions/20908675  
+20909331,http://stackoverflow.com/questions/20909331  
+20910504,http://stackoverflow.com/questions/20910504  
+20913302,http://stackoverflow.com/questions/20913302  
+20921355,http://stackoverflow.com/questions/20921355  
+20938543,http://stackoverflow.com/questions/20938543  
+20940870,http://stackoverflow.com/questions/20940870  
+20941568,http://stackoverflow.com/questions/20941568  
+20945215,http://stackoverflow.com/questions/20945215  
+20946659,http://stackoverflow.com/questions/20946659  
+20946815,http://stackoverflow.com/questions/20946815  
+20948858,http://stackoverflow.com/questions/20948858  
+20949383,http://stackoverflow.com/questions/20949383  
+20952246,http://stackoverflow.com/questions/20952246  
+20953897,http://stackoverflow.com/questions/20953897  
+20955512,http://stackoverflow.com/questions/20955512  
+20956229,http://stackoverflow.com/questions/20956229  
+20967421,http://stackoverflow.com/questions/20967421  
+20970123,http://stackoverflow.com/questions/20970123  
+20974437,http://stackoverflow.com/questions/20974437  
+20978049,http://stackoverflow.com/questions/20978049  
+20981387,http://stackoverflow.com/questions/20981387  
+20981604,http://stackoverflow.com/questions/20981604  
+20982077,http://stackoverflow.com/questions/20982077  
+20983527,http://stackoverflow.com/questions/20983527  
+20986528,http://stackoverflow.com/questions/20986528  
+20988012,http://stackoverflow.com/questions/20988012  
+20994273,http://stackoverflow.com/questions/20994273  
+20994382,http://stackoverflow.com/questions/20994382  
+20995368,http://stackoverflow.com/questions/20995368  
+20999849,http://stackoverflow.com/questions/20999849  
+21002996,http://stackoverflow.com/questions/21002996  
+21003534,http://stackoverflow.com/questions/21003534  
+21008617,http://stackoverflow.com/questions/21008617  
+21011143,http://stackoverflow.com/questions/21011143  
+21015785,http://stackoverflow.com/questions/21015785  
+21020809,http://stackoverflow.com/questions/21020809  
+21023966,http://stackoverflow.com/questions/21023966  
+21024562,http://stackoverflow.com/questions/21024562  
+21026223,http://stackoverflow.com/questions/21026223  
+21026963,http://stackoverflow.com/questions/21026963  
+21031287,http://stackoverflow.com/questions/21031287  
+21034059,http://stackoverflow.com/questions/21034059  
+21038173,http://stackoverflow.com/questions/21038173  
+21044451,http://stackoverflow.com/questions/21044451  
+21051401,http://stackoverflow.com/questions/21051401  
+21057358,http://stackoverflow.com/questions/21057358  
+21057881,http://stackoverflow.com/questions/21057881  
+21058674,http://stackoverflow.com/questions/21058674  
+21060758,http://stackoverflow.com/questions/21060758  
+21064097,http://stackoverflow.com/questions/21064097  
+21064463,http://stackoverflow.com/questions/21064463  
+21070604,http://stackoverflow.com/questions/21070604  
+21072889,http://stackoverflow.com/questions/21072889  
+21073337,http://stackoverflow.com/questions/21073337  
+21080710,http://stackoverflow.com/questions/21080710  
+21086143,http://stackoverflow.com/questions/21086143  
+21086307,http://stackoverflow.com/questions/21086307  
+21089676,http://stackoverflow.com/questions/21089676  
+21093816,http://stackoverflow.com/questions/21093816  
+21099347,http://stackoverflow.com/questions/21099347  
+21100153,http://stackoverflow.com/questions/21100153  
+21101714,http://stackoverflow.com/questions/21101714  
+21106671,http://stackoverflow.com/questions/21106671  
+21106820,http://stackoverflow.com/questions/21106820  
+21111531,http://stackoverflow.com/questions/21111531  
+21113979,http://stackoverflow.com/questions/21113979  
+21115471,http://stackoverflow.com/questions/21115471  
+21121765,http://stackoverflow.com/questions/21121765  
+21132665,http://stackoverflow.com/questions/21132665  
+21134303,http://stackoverflow.com/questions/21134303  
+21138911,http://stackoverflow.com/questions/21138911  
+21139217,http://stackoverflow.com/questions/21139217  
+21141968,http://stackoverflow.com/questions/21141968  
+21147527,http://stackoverflow.com/questions/21147527  
+21149572,http://stackoverflow.com/questions/21149572  
+21150240,http://stackoverflow.com/questions/21150240  
+21151577,http://stackoverflow.com/questions/21151577  
+21156201,http://stackoverflow.com/questions/21156201  
+21157637,http://stackoverflow.com/questions/21157637  
+21169413,http://stackoverflow.com/questions/21169413  
+21171342,http://stackoverflow.com/questions/21171342  
+21176063,http://stackoverflow.com/questions/21176063  
+21176795,http://stackoverflow.com/questions/21176795  
+21177554,http://stackoverflow.com/questions/21177554  
+21181411,http://stackoverflow.com/questions/21181411  
+21189568,http://stackoverflow.com/questions/21189568  
+21189587,http://stackoverflow.com/questions/21189587  
+21189981,http://stackoverflow.com/questions/21189981  
+21196066,http://stackoverflow.com/questions/21196066  
+21203524,http://stackoverflow.com/questions/21203524  
+21204057,http://stackoverflow.com/questions/21204057  
+21204724,http://stackoverflow.com/questions/21204724  
+21211138,http://stackoverflow.com/questions/21211138  
+21217557,http://stackoverflow.com/questions/21217557  
+21225540,http://stackoverflow.com/questions/21225540  
+21226682,http://stackoverflow.com/questions/21226682  
+21231061,http://stackoverflow.com/questions/21231061  
+21232871,http://stackoverflow.com/questions/21232871  
+21234295,http://stackoverflow.com/questions/21234295  
+21236677,http://stackoverflow.com/questions/21236677  
+21238016,http://stackoverflow.com/questions/21238016  
+21238401,http://stackoverflow.com/questions/21238401  
+21239480,http://stackoverflow.com/questions/21239480  
+21242051,http://stackoverflow.com/questions/21242051  
+21242808,http://stackoverflow.com/questions/21242808  
+21243053,http://stackoverflow.com/questions/21243053  
+21252475,http://stackoverflow.com/questions/21252475  
+21261616,http://stackoverflow.com/questions/21261616  
+21268450,http://stackoverflow.com/questions/21268450  
+21270631,http://stackoverflow.com/questions/21270631  
+21271687,http://stackoverflow.com/questions/21271687  
+21274828,http://stackoverflow.com/questions/21274828  
+21276134,http://stackoverflow.com/questions/21276134  
+21279086,http://stackoverflow.com/questions/21279086  
+21279503,http://stackoverflow.com/questions/21279503  
+21279931,http://stackoverflow.com/questions/21279931  
+21281131,http://stackoverflow.com/questions/21281131  
+21286466,http://stackoverflow.com/questions/21286466  
+21286727,http://stackoverflow.com/questions/21286727  
+21288678,http://stackoverflow.com/questions/21288678  
+21296990,http://stackoverflow.com/questions/21296990  
+21301646,http://stackoverflow.com/questions/21301646  
+21310966,http://stackoverflow.com/questions/21310966  
+21312474,http://stackoverflow.com/questions/21312474  
+21317792,http://stackoverflow.com/questions/21317792  
+21320099,http://stackoverflow.com/questions/21320099  
+21330100,http://stackoverflow.com/questions/21330100  
+21332090,http://stackoverflow.com/questions/21332090  
+21333390,http://stackoverflow.com/questions/21333390  
+21336584,http://stackoverflow.com/questions/21336584  
+21337849,http://stackoverflow.com/questions/21337849  
+21338703,http://stackoverflow.com/questions/21338703  
+21338748,http://stackoverflow.com/questions/21338748  
+21344825,http://stackoverflow.com/questions/21344825  
+21345081,http://stackoverflow.com/questions/21345081  
+21352440,http://stackoverflow.com/questions/21352440  
+21352771,http://stackoverflow.com/questions/21352771  
+21352851,http://stackoverflow.com/questions/21352851  
+21356797,http://stackoverflow.com/questions/21356797  
+21358531,http://stackoverflow.com/questions/21358531  
+21358791,http://stackoverflow.com/questions/21358791  
+21361737,http://stackoverflow.com/questions/21361737  
+21363128,http://stackoverflow.com/questions/21363128  
+21363971,http://stackoverflow.com/questions/21363971  
+21369619,http://stackoverflow.com/questions/21369619  
+21372464,http://stackoverflow.com/questions/21372464  
+21394297,http://stackoverflow.com/questions/21394297  
+21402088,http://stackoverflow.com/questions/21402088  
+21403087,http://stackoverflow.com/questions/21403087  
+21404707,http://stackoverflow.com/questions/21404707  
+21405426,http://stackoverflow.com/questions/21405426  
+21405638,http://stackoverflow.com/questions/21405638  
+21407012,http://stackoverflow.com/questions/21407012  
+21407873,http://stackoverflow.com/questions/21407873  
+21415307,http://stackoverflow.com/questions/21415307  
+21416617,http://stackoverflow.com/questions/21416617  
+21416815,http://stackoverflow.com/questions/21416815  
+21419963,http://stackoverflow.com/questions/21419963  
+21422176,http://stackoverflow.com/questions/21422176  
+21427859,http://stackoverflow.com/questions/21427859  
+21429991,http://stackoverflow.com/questions/21429991  
+21435027,http://stackoverflow.com/questions/21435027  
+21445303,http://stackoverflow.com/questions/21445303  
+21452885,http://stackoverflow.com/questions/21452885  
+21459255,http://stackoverflow.com/questions/21459255  
+21467318,http://stackoverflow.com/questions/21467318  
+21474942,http://stackoverflow.com/questions/21474942  
+21479266,http://stackoverflow.com/questions/21479266  
+21479566,http://stackoverflow.com/questions/21479566  
+21483908,http://stackoverflow.com/questions/21483908  
+21484080,http://stackoverflow.com/questions/21484080  
+21484837,http://stackoverflow.com/questions/21484837  
+21485817,http://stackoverflow.com/questions/21485817  
+21494634,http://stackoverflow.com/questions/21494634  
+21497863,http://stackoverflow.com/questions/21497863  
+21497964,http://stackoverflow.com/questions/21497964  
+21500807,http://stackoverflow.com/questions/21500807  
+21505235,http://stackoverflow.com/questions/21505235  
+21507348,http://stackoverflow.com/questions/21507348  
+21507691,http://stackoverflow.com/questions/21507691  
+21509944,http://stackoverflow.com/questions/21509944  
+21511282,http://stackoverflow.com/questions/21511282  
+21513384,http://stackoverflow.com/questions/21513384  
+21516965,http://stackoverflow.com/questions/21516965  
+21517252,http://stackoverflow.com/questions/21517252  
+21517364,http://stackoverflow.com/questions/21517364  
+21522293,http://stackoverflow.com/questions/21522293  
+21531019,http://stackoverflow.com/questions/21531019  
+21534518,http://stackoverflow.com/questions/21534518  
+21535753,http://stackoverflow.com/questions/21535753  
+21537939,http://stackoverflow.com/questions/21537939  
+21538035,http://stackoverflow.com/questions/21538035  
+21540645,http://stackoverflow.com/questions/21540645  
+21544444,http://stackoverflow.com/questions/21544444  
+21545800,http://stackoverflow.com/questions/21545800  
+21547183,http://stackoverflow.com/questions/21547183  
+21547637,http://stackoverflow.com/questions/21547637  
+21547757,http://stackoverflow.com/questions/21547757  
+21549420,http://stackoverflow.com/questions/21549420  
+21550289,http://stackoverflow.com/questions/21550289  
+21554772,http://stackoverflow.com/questions/21554772  
+21555178,http://stackoverflow.com/questions/21555178  
+21561150,http://stackoverflow.com/questions/21561150  
+21561879,http://stackoverflow.com/questions/21561879  
+21569507,http://stackoverflow.com/questions/21569507  
+21570476,http://stackoverflow.com/questions/21570476  
+21578446,http://stackoverflow.com/questions/21578446  
+21587202,http://stackoverflow.com/questions/21587202  
+21591778,http://stackoverflow.com/questions/21591778  
+21593641,http://stackoverflow.com/questions/21593641  
+21595642,http://stackoverflow.com/questions/21595642  
+21597550,http://stackoverflow.com/questions/21597550  
+21598340,http://stackoverflow.com/questions/21598340  
+21619673,http://stackoverflow.com/questions/21619673  
+21621492,http://stackoverflow.com/questions/21621492  
+21621923,http://stackoverflow.com/questions/21621923  
+21624207,http://stackoverflow.com/questions/21624207  
+21635210,http://stackoverflow.com/questions/21635210  
+21635470,http://stackoverflow.com/questions/21635470  
+21645431,http://stackoverflow.com/questions/21645431  
+21645516,http://stackoverflow.com/questions/21645516  
+21649835,http://stackoverflow.com/questions/21649835  
+21653895,http://stackoverflow.com/questions/21653895  
+21657919,http://stackoverflow.com/questions/21657919  
+21660552,http://stackoverflow.com/questions/21660552  
+21662069,http://stackoverflow.com/questions/21662069  
+21662876,http://stackoverflow.com/questions/21662876  
+21665544,http://stackoverflow.com/questions/21665544  
+21673218,http://stackoverflow.com/questions/21673218  
+21673618,http://stackoverflow.com/questions/21673618  
+21680902,http://stackoverflow.com/questions/21680902  
+21682482,http://stackoverflow.com/questions/21682482  
+21687397,http://stackoverflow.com/questions/21687397  
+21692752,http://stackoverflow.com/questions/21692752  
+21693139,http://stackoverflow.com/questions/21693139  
+21695164,http://stackoverflow.com/questions/21695164  
+21696261,http://stackoverflow.com/questions/21696261  
+21704034,http://stackoverflow.com/questions/21704034  
+21706103,http://stackoverflow.com/questions/21706103  
+21706415,http://stackoverflow.com/questions/21706415  
+21709415,http://stackoverflow.com/questions/21709415  
+21712114,http://stackoverflow.com/questions/21712114  
+21717130,http://stackoverflow.com/questions/21717130  
+21718467,http://stackoverflow.com/questions/21718467  
+21726472,http://stackoverflow.com/questions/21726472  
+21726793,http://stackoverflow.com/questions/21726793  
+21730010,http://stackoverflow.com/questions/21730010  
+21739696,http://stackoverflow.com/questions/21739696  
+21751961,http://stackoverflow.com/questions/21751961  
+21752839,http://stackoverflow.com/questions/21752839  
+21753604,http://stackoverflow.com/questions/21753604  
+21754078,http://stackoverflow.com/questions/21754078  
+21757285,http://stackoverflow.com/questions/21757285  
+21757825,http://stackoverflow.com/questions/21757825  
+21763700,http://stackoverflow.com/questions/21763700  
+21771952,http://stackoverflow.com/questions/21771952  
+21778671,http://stackoverflow.com/questions/21778671  
+21780525,http://stackoverflow.com/questions/21780525  
+21788187,http://stackoverflow.com/questions/21788187  
+21793130,http://stackoverflow.com/questions/21793130  
+21795061,http://stackoverflow.com/questions/21795061  
+21795457,http://stackoverflow.com/questions/21795457  
+21795905,http://stackoverflow.com/questions/21795905  
+21796954,http://stackoverflow.com/questions/21796954  
+21798125,http://stackoverflow.com/questions/21798125  
+21803513,http://stackoverflow.com/questions/21803513  
+21804023,http://stackoverflow.com/questions/21804023  
+21808727,http://stackoverflow.com/questions/21808727  
+21811310,http://stackoverflow.com/questions/21811310  
+21814486,http://stackoverflow.com/questions/21814486  
+21815478,http://stackoverflow.com/questions/21815478  
+21816877,http://stackoverflow.com/questions/21816877  
+21817581,http://stackoverflow.com/questions/21817581  
+21817676,http://stackoverflow.com/questions/21817676  
+21818242,http://stackoverflow.com/questions/21818242  
+21821801,http://stackoverflow.com/questions/21821801  
+21823397,http://stackoverflow.com/questions/21823397  
+21833615,http://stackoverflow.com/questions/21833615  
+21836894,http://stackoverflow.com/questions/21836894  
+21837777,http://stackoverflow.com/questions/21837777  
+21840926,http://stackoverflow.com/questions/21840926  
+21843096,http://stackoverflow.com/questions/21843096  
+21851234,http://stackoverflow.com/questions/21851234  
+21852759,http://stackoverflow.com/questions/21852759  
+21855067,http://stackoverflow.com/questions/21855067  
+21859981,http://stackoverflow.com/questions/21859981  
+21861542,http://stackoverflow.com/questions/21861542  
+21861844,http://stackoverflow.com/questions/21861844  
+21864259,http://stackoverflow.com/questions/21864259  
+21867295,http://stackoverflow.com/questions/21867295  
+21872804,http://stackoverflow.com/questions/21872804  
+21877016,http://stackoverflow.com/questions/21877016  
+21879426,http://stackoverflow.com/questions/21879426  
+21880379,http://stackoverflow.com/questions/21880379  
+21882208,http://stackoverflow.com/questions/21882208  
+21886131,http://stackoverflow.com/questions/21886131  
+21887482,http://stackoverflow.com/questions/21887482  
+21888674,http://stackoverflow.com/questions/21888674  
+21889937,http://stackoverflow.com/questions/21889937  
+21893813,http://stackoverflow.com/questions/21893813  
+21898029,http://stackoverflow.com/questions/21898029  
+21905875,http://stackoverflow.com/questions/21905875  
+21911801,http://stackoverflow.com/questions/21911801  
+21911930,http://stackoverflow.com/questions/21911930  
+21915439,http://stackoverflow.com/questions/21915439  
+21915667,http://stackoverflow.com/questions/21915667  
+21919849,http://stackoverflow.com/questions/21919849  
+21920305,http://stackoverflow.com/questions/21920305  
+21929032,http://stackoverflow.com/questions/21929032  
+21930554,http://stackoverflow.com/questions/21930554  
+21931212,http://stackoverflow.com/questions/21931212  
+21932640,http://stackoverflow.com/questions/21932640  
+21936750,http://stackoverflow.com/questions/21936750  
+21937280,http://stackoverflow.com/questions/21937280  
+21940049,http://stackoverflow.com/questions/21940049  
+21941278,http://stackoverflow.com/questions/21941278  
+21942764,http://stackoverflow.com/questions/21942764  
+21944889,http://stackoverflow.com/questions/21944889  
+21946936,http://stackoverflow.com/questions/21946936  
+21947744,http://stackoverflow.com/questions/21947744  
+21951770,http://stackoverflow.com/questions/21951770  
+21955704,http://stackoverflow.com/questions/21955704  
+21957951,http://stackoverflow.com/questions/21957951  
+21959705,http://stackoverflow.com/questions/21959705  
+21962874,http://stackoverflow.com/questions/21962874  
+21969861,http://stackoverflow.com/questions/21969861  
+21970310,http://stackoverflow.com/questions/21970310  
+21974469,http://stackoverflow.com/questions/21974469  
+21979850,http://stackoverflow.com/questions/21979850  
+21984525,http://stackoverflow.com/questions/21984525  
+21988836,http://stackoverflow.com/questions/21988836  
+21997057,http://stackoverflow.com/questions/21997057  
+21997208,http://stackoverflow.com/questions/21997208  
+21998209,http://stackoverflow.com/questions/21998209  
+22000046,http://stackoverflow.com/questions/22000046  
+22001966,http://stackoverflow.com/questions/22001966  
+22003332,http://stackoverflow.com/questions/22003332  
+22011623,http://stackoverflow.com/questions/22011623  
+22011756,http://stackoverflow.com/questions/22011756  
+22012233,http://stackoverflow.com/questions/22012233  
+22012919,http://stackoverflow.com/questions/22012919  
+22022753,http://stackoverflow.com/questions/22022753  
+22023234,http://stackoverflow.com/questions/22023234  
+22023325,http://stackoverflow.com/questions/22023325  
+22024489,http://stackoverflow.com/questions/22024489  
+22024919,http://stackoverflow.com/questions/22024919  
+22026612,http://stackoverflow.com/questions/22026612  
+22028844,http://stackoverflow.com/questions/22028844  
+22029629,http://stackoverflow.com/questions/22029629  
+22029734,http://stackoverflow.com/questions/22029734  
+22030785,http://stackoverflow.com/questions/22030785  
+22036487,http://stackoverflow.com/questions/22036487  
+22038957,http://stackoverflow.com/questions/22038957  
+22040541,http://stackoverflow.com/questions/22040541  
+22041459,http://stackoverflow.com/questions/22041459  
+22043223,http://stackoverflow.com/questions/22043223  
+22043839,http://stackoverflow.com/questions/22043839  
+22046456,http://stackoverflow.com/questions/22046456  
+22052008,http://stackoverflow.com/questions/22052008  
+22055864,http://stackoverflow.com/questions/22055864  
+22061692,http://stackoverflow.com/questions/22061692  
+22068334,http://stackoverflow.com/questions/22068334  
+22079585,http://stackoverflow.com/questions/22079585  
+22079885,http://stackoverflow.com/questions/22079885  
+22082658,http://stackoverflow.com/questions/22082658  
+22086433,http://stackoverflow.com/questions/22086433  
+22090410,http://stackoverflow.com/questions/22090410  
+22096425,http://stackoverflow.com/questions/22096425  
+22103915,http://stackoverflow.com/questions/22103915  
+22106514,http://stackoverflow.com/questions/22106514  
+22115318,http://stackoverflow.com/questions/22115318  
+22116335,http://stackoverflow.com/questions/22116335  
+22119606,http://stackoverflow.com/questions/22119606  
+22119642,http://stackoverflow.com/questions/22119642  
+22125884,http://stackoverflow.com/questions/22125884  
+22127409,http://stackoverflow.com/questions/22127409  
+22130667,http://stackoverflow.com/questions/22130667  
+22135053,http://stackoverflow.com/questions/22135053  
+22142940,http://stackoverflow.com/questions/22142940  
+22146538,http://stackoverflow.com/questions/22146538  
+22148645,http://stackoverflow.com/questions/22148645  
+22149012,http://stackoverflow.com/questions/22149012  
+22149087,http://stackoverflow.com/questions/22149087  
+22162738,http://stackoverflow.com/questions/22162738  
+22165971,http://stackoverflow.com/questions/22165971  
+22169150,http://stackoverflow.com/questions/22169150  
+22170444,http://stackoverflow.com/questions/22170444  
+22178415,http://stackoverflow.com/questions/22178415  
+22187292,http://stackoverflow.com/questions/22187292  
+22189098,http://stackoverflow.com/questions/22189098  
+22189268,http://stackoverflow.com/questions/22189268  
+22195792,http://stackoverflow.com/questions/22195792  
+22198812,http://stackoverflow.com/questions/22198812  
+22201039,http://stackoverflow.com/questions/22201039  
+22211038,http://stackoverflow.com/questions/22211038  
+22214400,http://stackoverflow.com/questions/22214400  
+22221907,http://stackoverflow.com/questions/22221907  
+22222798,http://stackoverflow.com/questions/22222798  
+22224410,http://stackoverflow.com/questions/22224410  
+22225098,http://stackoverflow.com/questions/22225098  
+22225442,http://stackoverflow.com/questions/22225442  
+22230954,http://stackoverflow.com/questions/22230954  
+22231865,http://stackoverflow.com/questions/22231865  
+22234218,http://stackoverflow.com/questions/22234218  
+22246618,http://stackoverflow.com/questions/22246618  
+22250500,http://stackoverflow.com/questions/22250500  
+22252909,http://stackoverflow.com/questions/22252909  
+22256520,http://stackoverflow.com/questions/22256520  
+22257334,http://stackoverflow.com/questions/22257334  
+22261080,http://stackoverflow.com/questions/22261080  
+22263152,http://stackoverflow.com/questions/22263152  
+22265607,http://stackoverflow.com/questions/22265607  
+22267679,http://stackoverflow.com/questions/22267679  
+22275315,http://stackoverflow.com/questions/22275315  
+22283605,http://stackoverflow.com/questions/22283605  
+22283880,http://stackoverflow.com/questions/22283880  
+22284253,http://stackoverflow.com/questions/22284253  
+22284932,http://stackoverflow.com/questions/22284932  
+22296460,http://stackoverflow.com/questions/22296460  
+22299591,http://stackoverflow.com/questions/22299591  
+22301949,http://stackoverflow.com/questions/22301949  
+22302092,http://stackoverflow.com/questions/22302092  
+22306370,http://stackoverflow.com/questions/22306370  
+22306811,http://stackoverflow.com/questions/22306811  
+22311608,http://stackoverflow.com/questions/22311608  
+22317645,http://stackoverflow.com/questions/22317645  
+22322616,http://stackoverflow.com/questions/22322616  
+22326631,http://stackoverflow.com/questions/22326631  
+22332609,http://stackoverflow.com/questions/22332609  
+22336822,http://stackoverflow.com/questions/22336822  
+22338196,http://stackoverflow.com/questions/22338196  
+22345907,http://stackoverflow.com/questions/22345907  
+22346858,http://stackoverflow.com/questions/22346858  
+22347483,http://stackoverflow.com/questions/22347483  
+22360258,http://stackoverflow.com/questions/22360258  
+22363069,http://stackoverflow.com/questions/22363069  
+22363829,http://stackoverflow.com/questions/22363829  
+22367759,http://stackoverflow.com/questions/22367759  
+22368041,http://stackoverflow.com/questions/22368041  
+22370812,http://stackoverflow.com/questions/22370812  
+22373285,http://stackoverflow.com/questions/22373285  
+22373394,http://stackoverflow.com/questions/22373394  
+22384713,http://stackoverflow.com/questions/22384713  
+22384785,http://stackoverflow.com/questions/22384785  
+22389154,http://stackoverflow.com/questions/22389154  
+22394682,http://stackoverflow.com/questions/22394682  
+22417364,http://stackoverflow.com/questions/22417364  
+22418366,http://stackoverflow.com/questions/22418366  
+22429442,http://stackoverflow.com/questions/22429442  
+22431984,http://stackoverflow.com/questions/22431984  
+22441421,http://stackoverflow.com/questions/22441421  
+22447306,http://stackoverflow.com/questions/22447306  
+22448421,http://stackoverflow.com/questions/22448421  
+22448541,http://stackoverflow.com/questions/22448541  
+22450527,http://stackoverflow.com/questions/22450527  
+22451599,http://stackoverflow.com/questions/22451599  
+22459200,http://stackoverflow.com/questions/22459200  
+22459248,http://stackoverflow.com/questions/22459248  
+22464508,http://stackoverflow.com/questions/22464508  
+22466625,http://stackoverflow.com/questions/22466625  
+22467704,http://stackoverflow.com/questions/22467704  
+22469623,http://stackoverflow.com/questions/22469623  
+22470751,http://stackoverflow.com/questions/22470751  
+22476852,http://stackoverflow.com/questions/22476852  
+22478405,http://stackoverflow.com/questions/22478405  
+22480424,http://stackoverflow.com/questions/22480424  
+22480863,http://stackoverflow.com/questions/22480863  
+22481498,http://stackoverflow.com/questions/22481498  
+22483919,http://stackoverflow.com/questions/22483919  
+22487688,http://stackoverflow.com/questions/22487688  
+22488831,http://stackoverflow.com/questions/22488831  
+22488998,http://stackoverflow.com/questions/22488998  
+22490679,http://stackoverflow.com/questions/22490679  
+22492426,http://stackoverflow.com/questions/22492426  
+22493876,http://stackoverflow.com/questions/22493876  
+22497324,http://stackoverflow.com/questions/22497324  
+22499576,http://stackoverflow.com/questions/22499576  
+22502038,http://stackoverflow.com/questions/22502038  
+22505425,http://stackoverflow.com/questions/22505425  
+22506728,http://stackoverflow.com/questions/22506728  
+22508729,http://stackoverflow.com/questions/22508729  
+22510021,http://stackoverflow.com/questions/22510021  
+22511001,http://stackoverflow.com/questions/22511001  
+22511548,http://stackoverflow.com/questions/22511548  
+22514394,http://stackoverflow.com/questions/22514394  
+22515634,http://stackoverflow.com/questions/22515634  
+22519402,http://stackoverflow.com/questions/22519402  
+22520390,http://stackoverflow.com/questions/22520390  
+22523998,http://stackoverflow.com/questions/22523998  
+22525057,http://stackoverflow.com/questions/22525057  
+22534985,http://stackoverflow.com/questions/22534985  
+22538210,http://stackoverflow.com/questions/22538210  
+22539425,http://stackoverflow.com/questions/22539425  
+22541455,http://stackoverflow.com/questions/22541455  
+22542447,http://stackoverflow.com/questions/22542447  
+22548335,http://stackoverflow.com/questions/22548335  
+22549623,http://stackoverflow.com/questions/22549623  
+22559302,http://stackoverflow.com/questions/22559302  
+22563679,http://stackoverflow.com/questions/22563679  
+22565818,http://stackoverflow.com/questions/22565818  
+22571250,http://stackoverflow.com/questions/22571250  
+22576456,http://stackoverflow.com/questions/22576456  
+22582068,http://stackoverflow.com/questions/22582068  
+22592768,http://stackoverflow.com/questions/22592768  
+22595473,http://stackoverflow.com/questions/22595473  
+22605442,http://stackoverflow.com/questions/22605442  
+22606579,http://stackoverflow.com/questions/22606579  
+22612599,http://stackoverflow.com/questions/22612599  
+22615107,http://stackoverflow.com/questions/22615107  
+22616159,http://stackoverflow.com/questions/22616159  
+22620058,http://stackoverflow.com/questions/22620058  
+22620807,http://stackoverflow.com/questions/22620807  
+22621982,http://stackoverflow.com/questions/22621982  
+22622223,http://stackoverflow.com/questions/22622223  
+22625538,http://stackoverflow.com/questions/22625538  
+22626513,http://stackoverflow.com/questions/22626513  
+22631266,http://stackoverflow.com/questions/22631266  
+22632167,http://stackoverflow.com/questions/22632167  
+22634608,http://stackoverflow.com/questions/22634608  
+22636848,http://stackoverflow.com/questions/22636848  
+22637587,http://stackoverflow.com/questions/22637587  
+22641097,http://stackoverflow.com/questions/22641097  
+22642851,http://stackoverflow.com/questions/22642851  
+22645707,http://stackoverflow.com/questions/22645707  
+22648993,http://stackoverflow.com/questions/22648993  
+22657100,http://stackoverflow.com/questions/22657100  
+22660018,http://stackoverflow.com/questions/22660018  
+22662695,http://stackoverflow.com/questions/22662695  
+22669495,http://stackoverflow.com/questions/22669495  
+22669538,http://stackoverflow.com/questions/22669538  
+22670896,http://stackoverflow.com/questions/22670896  
+22672480,http://stackoverflow.com/questions/22672480  
+22676765,http://stackoverflow.com/questions/22676765  
+22687943,http://stackoverflow.com/questions/22687943  
+22688519,http://stackoverflow.com/questions/22688519  
+22690565,http://stackoverflow.com/questions/22690565  
+22691252,http://stackoverflow.com/questions/22691252  
+22694601,http://stackoverflow.com/questions/22694601  
+22695224,http://stackoverflow.com/questions/22695224  
+22697672,http://stackoverflow.com/questions/22697672  
+22705060,http://stackoverflow.com/questions/22705060  
+22706947,http://stackoverflow.com/questions/22706947  
+22707675,http://stackoverflow.com/questions/22707675  
+22715285,http://stackoverflow.com/questions/22715285  
+22726057,http://stackoverflow.com/questions/22726057  
+22727833,http://stackoverflow.com/questions/22727833  
+22728193,http://stackoverflow.com/questions/22728193  
+22729328,http://stackoverflow.com/questions/22729328  
+22731365,http://stackoverflow.com/questions/22731365  
+22735697,http://stackoverflow.com/questions/22735697  
+22740007,http://stackoverflow.com/questions/22740007  
+22740789,http://stackoverflow.com/questions/22740789  
+22742503,http://stackoverflow.com/questions/22742503  
+22743153,http://stackoverflow.com/questions/22743153  
+22744277,http://stackoverflow.com/questions/22744277  
+22748700,http://stackoverflow.com/questions/22748700  
+22754164,http://stackoverflow.com/questions/22754164  
+22762404,http://stackoverflow.com/questions/22762404  
+22764175,http://stackoverflow.com/questions/22764175  
+22768537,http://stackoverflow.com/questions/22768537  
+22769586,http://stackoverflow.com/questions/22769586  
+22771042,http://stackoverflow.com/questions/22771042  
+22779871,http://stackoverflow.com/questions/22779871  
+22780210,http://stackoverflow.com/questions/22780210  
+22782202,http://stackoverflow.com/questions/22782202  
+22782363,http://stackoverflow.com/questions/22782363  
+22783044,http://stackoverflow.com/questions/22783044  
+22791538,http://stackoverflow.com/questions/22791538  
+22804328,http://stackoverflow.com/questions/22804328  
+22804418,http://stackoverflow.com/questions/22804418  
+22807778,http://stackoverflow.com/questions/22807778  
+22807982,http://stackoverflow.com/questions/22807982  
+22811638,http://stackoverflow.com/questions/22811638  
+22815971,http://stackoverflow.com/questions/22815971  
+22816817,http://stackoverflow.com/questions/22816817  
+22818868,http://stackoverflow.com/questions/22818868  
+22826844,http://stackoverflow.com/questions/22826844  
+22830997,http://stackoverflow.com/questions/22830997  
+22836049,http://stackoverflow.com/questions/22836049  
+22836829,http://stackoverflow.com/questions/22836829  
+22841424,http://stackoverflow.com/questions/22841424  
+22842971,http://stackoverflow.com/questions/22842971  
+22843518,http://stackoverflow.com/questions/22843518  
+22855460,http://stackoverflow.com/questions/22855460  
+22855836,http://stackoverflow.com/questions/22855836  
+22858419,http://stackoverflow.com/questions/22858419  
+22865597,http://stackoverflow.com/questions/22865597  
+22867348,http://stackoverflow.com/questions/22867348  
+22869909,http://stackoverflow.com/questions/22869909  
+22875642,http://stackoverflow.com/questions/22875642  
+22878601,http://stackoverflow.com/questions/22878601  
+22881091,http://stackoverflow.com/questions/22881091  
+22881676,http://stackoverflow.com/questions/22881676  
+22882683,http://stackoverflow.com/questions/22882683  
+22883873,http://stackoverflow.com/questions/22883873  
+22887515,http://stackoverflow.com/questions/22887515  
+22887857,http://stackoverflow.com/questions/22887857  
+22891084,http://stackoverflow.com/questions/22891084  
+22891638,http://stackoverflow.com/questions/22891638  
+22894510,http://stackoverflow.com/questions/22894510  
+22894996,http://stackoverflow.com/questions/22894996  
+22897040,http://stackoverflow.com/questions/22897040  
+22900816,http://stackoverflow.com/questions/22900816  
+22901985,http://stackoverflow.com/questions/22901985  
+22902019,http://stackoverflow.com/questions/22902019  
+22902210,http://stackoverflow.com/questions/22902210  
+22906907,http://stackoverflow.com/questions/22906907  
+22910241,http://stackoverflow.com/questions/22910241  
+22912155,http://stackoverflow.com/questions/22912155  
+22914903,http://stackoverflow.com/questions/22914903  
+22920131,http://stackoverflow.com/questions/22920131  
+22923849,http://stackoverflow.com/questions/22923849  
+22927017,http://stackoverflow.com/questions/22927017  
+22927279,http://stackoverflow.com/questions/22927279  
+22933797,http://stackoverflow.com/questions/22933797  
+22937127,http://stackoverflow.com/questions/22937127  
+22942896,http://stackoverflow.com/questions/22942896  
+22947724,http://stackoverflow.com/questions/22947724  
+22954452,http://stackoverflow.com/questions/22954452  
+22955645,http://stackoverflow.com/questions/22955645  
+22962914,http://stackoverflow.com/questions/22962914  
+22963581,http://stackoverflow.com/questions/22963581  
+22966140,http://stackoverflow.com/questions/22966140  
+22966488,http://stackoverflow.com/questions/22966488  
+22970073,http://stackoverflow.com/questions/22970073  
+22971795,http://stackoverflow.com/questions/22971795  
+22977342,http://stackoverflow.com/questions/22977342  
+22978482,http://stackoverflow.com/questions/22978482  
+22981968,http://stackoverflow.com/questions/22981968  
+22982552,http://stackoverflow.com/questions/22982552  
+22986169,http://stackoverflow.com/questions/22986169  
+22987708,http://stackoverflow.com/questions/22987708  
+22993491,http://stackoverflow.com/questions/22993491  
+23004319,http://stackoverflow.com/questions/23004319  
+23007356,http://stackoverflow.com/questions/23007356  
+23015475,http://stackoverflow.com/questions/23015475  
+23016499,http://stackoverflow.com/questions/23016499  
+23017091,http://stackoverflow.com/questions/23017091  
+23017416,http://stackoverflow.com/questions/23017416  
+23018519,http://stackoverflow.com/questions/23018519  
+23033611,http://stackoverflow.com/questions/23033611  
+23035554,http://stackoverflow.com/questions/23035554  
+23038341,http://stackoverflow.com/questions/23038341  
+23041964,http://stackoverflow.com/questions/23041964  
+23045883,http://stackoverflow.com/questions/23045883  
+23048247,http://stackoverflow.com/questions/23048247  
+23055332,http://stackoverflow.com/questions/23055332  
+23056720,http://stackoverflow.com/questions/23056720  
+23061787,http://stackoverflow.com/questions/23061787  
+23062340,http://stackoverflow.com/questions/23062340  
+23072572,http://stackoverflow.com/questions/23072572  
+23083308,http://stackoverflow.com/questions/23083308  
+23083982,http://stackoverflow.com/questions/23083982  
+23093745,http://stackoverflow.com/questions/23093745  
+23102193,http://stackoverflow.com/questions/23102193  
+23112328,http://stackoverflow.com/questions/23112328  
+23116001,http://stackoverflow.com/questions/23116001  
+23119454,http://stackoverflow.com/questions/23119454  
+23126382,http://stackoverflow.com/questions/23126382  
+23129212,http://stackoverflow.com/questions/23129212  
+23135769,http://stackoverflow.com/questions/23135769  
+23153206,http://stackoverflow.com/questions/23153206  
+23155359,http://stackoverflow.com/questions/23155359  
+23155391,http://stackoverflow.com/questions/23155391  
+23156778,http://stackoverflow.com/questions/23156778  
+23158047,http://stackoverflow.com/questions/23158047  
+23158431,http://stackoverflow.com/questions/23158431  
+23163999,http://stackoverflow.com/questions/23163999  
+23164922,http://stackoverflow.com/questions/23164922  
+23165719,http://stackoverflow.com/questions/23165719  
+23169507,http://stackoverflow.com/questions/23169507  
+23177223,http://stackoverflow.com/questions/23177223  
+23177963,http://stackoverflow.com/questions/23177963  
+23178505,http://stackoverflow.com/questions/23178505  
+23181469,http://stackoverflow.com/questions/23181469  
+23188415,http://stackoverflow.com/questions/23188415  
+23188951,http://stackoverflow.com/questions/23188951  
+23189719,http://stackoverflow.com/questions/23189719  
+23191239,http://stackoverflow.com/questions/23191239  
+23196496,http://stackoverflow.com/questions/23196496  
+23201648,http://stackoverflow.com/questions/23201648  
+23203880,http://stackoverflow.com/questions/23203880  
+23204482,http://stackoverflow.com/questions/23204482  
+23205315,http://stackoverflow.com/questions/23205315  
+23212516,http://stackoverflow.com/questions/23212516  
+23220346,http://stackoverflow.com/questions/23220346  
+23221433,http://stackoverflow.com/questions/23221433  
+23222425,http://stackoverflow.com/questions/23222425  
+23222804,http://stackoverflow.com/questions/23222804  
+23226024,http://stackoverflow.com/questions/23226024  
+23229046,http://stackoverflow.com/questions/23229046  
+23235579,http://stackoverflow.com/questions/23235579  
+23242736,http://stackoverflow.com/questions/23242736  
+23242915,http://stackoverflow.com/questions/23242915  
+23245850,http://stackoverflow.com/questions/23245850  
+23246722,http://stackoverflow.com/questions/23246722  
+23256629,http://stackoverflow.com/questions/23256629  
+23261276,http://stackoverflow.com/questions/23261276  
+23261901,http://stackoverflow.com/questions/23261901  
+23263380,http://stackoverflow.com/questions/23263380  
+23266148,http://stackoverflow.com/questions/23266148  
+23269728,http://stackoverflow.com/questions/23269728  
+23272487,http://stackoverflow.com/questions/23272487  
+23276583,http://stackoverflow.com/questions/23276583  
+23282398,http://stackoverflow.com/questions/23282398  
+23284221,http://stackoverflow.com/questions/23284221  
+23285540,http://stackoverflow.com/questions/23285540  
+23293046,http://stackoverflow.com/questions/23293046  
+23295333,http://stackoverflow.com/questions/23295333  
+23296070,http://stackoverflow.com/questions/23296070  
+23302023,http://stackoverflow.com/questions/23302023  
+23302540,http://stackoverflow.com/questions/23302540  
+23303865,http://stackoverflow.com/questions/23303865  
+23306915,http://stackoverflow.com/questions/23306915  
+23309836,http://stackoverflow.com/questions/23309836  
+23316288,http://stackoverflow.com/questions/23316288  
+23317561,http://stackoverflow.com/questions/23317561  
+23318351,http://stackoverflow.com/questions/23318351  
+23318856,http://stackoverflow.com/questions/23318856  
+23323185,http://stackoverflow.com/questions/23323185  
+23340433,http://stackoverflow.com/questions/23340433  
+23340837,http://stackoverflow.com/questions/23340837  
+23341350,http://stackoverflow.com/questions/23341350  
+23342940,http://stackoverflow.com/questions/23342940  
+23345611,http://stackoverflow.com/questions/23345611  
+23346145,http://stackoverflow.com/questions/23346145  
+23351082,http://stackoverflow.com/questions/23351082  
+23353368,http://stackoverflow.com/questions/23353368  
+23353766,http://stackoverflow.com/questions/23353766  
+23357187,http://stackoverflow.com/questions/23357187  
+23358109,http://stackoverflow.com/questions/23358109  
+23363949,http://stackoverflow.com/questions/23363949  
+23367892,http://stackoverflow.com/questions/23367892  
+23368240,http://stackoverflow.com/questions/23368240  
+23375275,http://stackoverflow.com/questions/23375275  
+23382915,http://stackoverflow.com/questions/23382915  
+23383481,http://stackoverflow.com/questions/23383481  
+23384047,http://stackoverflow.com/questions/23384047  
+23390011,http://stackoverflow.com/questions/23390011  
+23398861,http://stackoverflow.com/questions/23398861  
+23402489,http://stackoverflow.com/questions/23402489  
+23405377,http://stackoverflow.com/questions/23405377  
+23418084,http://stackoverflow.com/questions/23418084  
+23420733,http://stackoverflow.com/questions/23420733  
+23427423,http://stackoverflow.com/questions/23427423  
+23428844,http://stackoverflow.com/questions/23428844  
+23435364,http://stackoverflow.com/questions/23435364  
+23436655,http://stackoverflow.com/questions/23436655  
+23442609,http://stackoverflow.com/questions/23442609  
+23448846,http://stackoverflow.com/questions/23448846  
+23449689,http://stackoverflow.com/questions/23449689  
+23451966,http://stackoverflow.com/questions/23451966  
+23458030,http://stackoverflow.com/questions/23458030  
+23462823,http://stackoverflow.com/questions/23462823  
+23465538,http://stackoverflow.com/questions/23465538  
+23467836,http://stackoverflow.com/questions/23467836  
+23471136,http://stackoverflow.com/questions/23471136  
+23472603,http://stackoverflow.com/questions/23472603  
+23473074,http://stackoverflow.com/questions/23473074  
+23478466,http://stackoverflow.com/questions/23478466  
+23482839,http://stackoverflow.com/questions/23482839  
+23485016,http://stackoverflow.com/questions/23485016  
+23485611,http://stackoverflow.com/questions/23485611  
+23492415,http://stackoverflow.com/questions/23492415  
+23494412,http://stackoverflow.com/questions/23494412  
+23498780,http://stackoverflow.com/questions/23498780  
+23504322,http://stackoverflow.com/questions/23504322  
+23506875,http://stackoverflow.com/questions/23506875  
+23509560,http://stackoverflow.com/questions/23509560  
+23510740,http://stackoverflow.com/questions/23510740  
+23512465,http://stackoverflow.com/questions/23512465  
+23513670,http://stackoverflow.com/questions/23513670  
+23514157,http://stackoverflow.com/questions/23514157  
+23517214,http://stackoverflow.com/questions/23517214  
+23522489,http://stackoverflow.com/questions/23522489  
+23523800,http://stackoverflow.com/questions/23523800  
+23523909,http://stackoverflow.com/questions/23523909  
+23524593,http://stackoverflow.com/questions/23524593  
+23526124,http://stackoverflow.com/questions/23526124  
+23526164,http://stackoverflow.com/questions/23526164  
+23528321,http://stackoverflow.com/questions/23528321  
+23535788,http://stackoverflow.com/questions/23535788  
+23540716,http://stackoverflow.com/questions/23540716  
+23544718,http://stackoverflow.com/questions/23544718  
+23545969,http://stackoverflow.com/questions/23545969  
+23547061,http://stackoverflow.com/questions/23547061  
+23548677,http://stackoverflow.com/questions/23548677  
+23549815,http://stackoverflow.com/questions/23549815  
+23554803,http://stackoverflow.com/questions/23554803  
+23555398,http://stackoverflow.com/questions/23555398  
+23559300,http://stackoverflow.com/questions/23559300  
+23564037,http://stackoverflow.com/questions/23564037  
+23565832,http://stackoverflow.com/questions/23565832  
+23568495,http://stackoverflow.com/questions/23568495  
+23570003,http://stackoverflow.com/questions/23570003  
+23572106,http://stackoverflow.com/questions/23572106  
+23576276,http://stackoverflow.com/questions/23576276  
+23577808,http://stackoverflow.com/questions/23577808  
+23577928,http://stackoverflow.com/questions/23577928  
+23579048,http://stackoverflow.com/questions/23579048  
+23579326,http://stackoverflow.com/questions/23579326  
+23580991,http://stackoverflow.com/questions/23580991  
+23584137,http://stackoverflow.com/questions/23584137  
+23584898,http://stackoverflow.com/questions/23584898  
+23586908,http://stackoverflow.com/questions/23586908  
+23591500,http://stackoverflow.com/questions/23591500  
+23593186,http://stackoverflow.com/questions/23593186  
+23603117,http://stackoverflow.com/questions/23603117  
+23604713,http://stackoverflow.com/questions/23604713  
+23606092,http://stackoverflow.com/questions/23606092  
+23613264,http://stackoverflow.com/questions/23613264  
+23617096,http://stackoverflow.com/questions/23617096  
+23617569,http://stackoverflow.com/questions/23617569  
+23619582,http://stackoverflow.com/questions/23619582  
+23620848,http://stackoverflow.com/questions/23620848  
+23622261,http://stackoverflow.com/questions/23622261  
+23630159,http://stackoverflow.com/questions/23630159  
+23635680,http://stackoverflow.com/questions/23635680  
+23637417,http://stackoverflow.com/questions/23637417  
+23639112,http://stackoverflow.com/questions/23639112  
+23649420,http://stackoverflow.com/questions/23649420  
+23650386,http://stackoverflow.com/questions/23650386  
+23661027,http://stackoverflow.com/questions/23661027  
+23670481,http://stackoverflow.com/questions/23670481  
+23673372,http://stackoverflow.com/questions/23673372  
+23686248,http://stackoverflow.com/questions/23686248  
+23691205,http://stackoverflow.com/questions/23691205  
+23692554,http://stackoverflow.com/questions/23692554  
+23695105,http://stackoverflow.com/questions/23695105  
+23696897,http://stackoverflow.com/questions/23696897  
+23699552,http://stackoverflow.com/questions/23699552  
+23706727,http://stackoverflow.com/questions/23706727  
+23708032,http://stackoverflow.com/questions/23708032  
+23708323,http://stackoverflow.com/questions/23708323  
+23708889,http://stackoverflow.com/questions/23708889  
+23712783,http://stackoverflow.com/questions/23712783  
+23713320,http://stackoverflow.com/questions/23713320  
+23724377,http://stackoverflow.com/questions/23724377  
+23724405,http://stackoverflow.com/questions/23724405  
+23727470,http://stackoverflow.com/questions/23727470  
+23727638,http://stackoverflow.com/questions/23727638  
+23730176,http://stackoverflow.com/questions/23730176  
+23736971,http://stackoverflow.com/questions/23736971  
+23737169,http://stackoverflow.com/questions/23737169  
+23746706,http://stackoverflow.com/questions/23746706  
+23748499,http://stackoverflow.com/questions/23748499  
+23750594,http://stackoverflow.com/questions/23750594  
+23758710,http://stackoverflow.com/questions/23758710  
+23761452,http://stackoverflow.com/questions/23761452  
+23762825,http://stackoverflow.com/questions/23762825  
+23767225,http://stackoverflow.com/questions/23767225  
+23770640,http://stackoverflow.com/questions/23770640  
+23771894,http://stackoverflow.com/questions/23771894  
+23773254,http://stackoverflow.com/questions/23773254  
+23775041,http://stackoverflow.com/questions/23775041  
+23777914,http://stackoverflow.com/questions/23777914  
+23779378,http://stackoverflow.com/questions/23779378  
+23779435,http://stackoverflow.com/questions/23779435  
+23779976,http://stackoverflow.com/questions/23779976  
+23783553,http://stackoverflow.com/questions/23783553  
+23784652,http://stackoverflow.com/questions/23784652  
+23789668,http://stackoverflow.com/questions/23789668  
+23791195,http://stackoverflow.com/questions/23791195  
+23791818,http://stackoverflow.com/questions/23791818  
+23791921,http://stackoverflow.com/questions/23791921  
+23795360,http://stackoverflow.com/questions/23795360  
+23800372,http://stackoverflow.com/questions/23800372  
+23802578,http://stackoverflow.com/questions/23802578  
+23804371,http://stackoverflow.com/questions/23804371  
+23809650,http://stackoverflow.com/questions/23809650  
+23809940,http://stackoverflow.com/questions/23809940  
+23810403,http://stackoverflow.com/questions/23810403  
+23820581,http://stackoverflow.com/questions/23820581  
+23823741,http://stackoverflow.com/questions/23823741  
+23834404,http://stackoverflow.com/questions/23834404  
+23842844,http://stackoverflow.com/questions/23842844  
+23844347,http://stackoverflow.com/questions/23844347  
+23845161,http://stackoverflow.com/questions/23845161  
+23849399,http://stackoverflow.com/questions/23849399  
+23849944,http://stackoverflow.com/questions/23849944  
+23850680,http://stackoverflow.com/questions/23850680  
+23854221,http://stackoverflow.com/questions/23854221  
+23855635,http://stackoverflow.com/questions/23855635  
+23856838,http://stackoverflow.com/questions/23856838  
+23858693,http://stackoverflow.com/questions/23858693  
+23864426,http://stackoverflow.com/questions/23864426  
+23866171,http://stackoverflow.com/questions/23866171  
+23867184,http://stackoverflow.com/questions/23867184  
+23870791,http://stackoverflow.com/questions/23870791  
+23874685,http://stackoverflow.com/questions/23874685  
+23884596,http://stackoverflow.com/questions/23884596  
+23889164,http://stackoverflow.com/questions/23889164  
+23889654,http://stackoverflow.com/questions/23889654  
+23906444,http://stackoverflow.com/questions/23906444  
+23910065,http://stackoverflow.com/questions/23910065  
+23910224,http://stackoverflow.com/questions/23910224  
+23912353,http://stackoverflow.com/questions/23912353  
+23912501,http://stackoverflow.com/questions/23912501  
+23912539,http://stackoverflow.com/questions/23912539  
+23916053,http://stackoverflow.com/questions/23916053  
+23917688,http://stackoverflow.com/questions/23917688  
+23925108,http://stackoverflow.com/questions/23925108  
+23928586,http://stackoverflow.com/questions/23928586  
+23928696,http://stackoverflow.com/questions/23928696  
+23933558,http://stackoverflow.com/questions/23933558  
+23934684,http://stackoverflow.com/questions/23934684  
+23935471,http://stackoverflow.com/questions/23935471  
+23936528,http://stackoverflow.com/questions/23936528  
+23937583,http://stackoverflow.com/questions/23937583  
+23955313,http://stackoverflow.com/questions/23955313  
+23962862,http://stackoverflow.com/questions/23962862  
+23966431,http://stackoverflow.com/questions/23966431  
+23967353,http://stackoverflow.com/questions/23967353  
+23976774,http://stackoverflow.com/questions/23976774  
+23977113,http://stackoverflow.com/questions/23977113  
+23978661,http://stackoverflow.com/questions/23978661  
+23984465,http://stackoverflow.com/questions/23984465  
+23987323,http://stackoverflow.com/questions/23987323  
+23990116,http://stackoverflow.com/questions/23990116  
+23990261,http://stackoverflow.com/questions/23990261  
+23993428,http://stackoverflow.com/questions/23993428  
+23998507,http://stackoverflow.com/questions/23998507  
+24013627,http://stackoverflow.com/questions/24013627  
+24016582,http://stackoverflow.com/questions/24016582  
+24020479,http://stackoverflow.com/questions/24020479  
+24022780,http://stackoverflow.com/questions/24022780  
+24027628,http://stackoverflow.com/questions/24027628  
+24029024,http://stackoverflow.com/questions/24029024  
+24029037,http://stackoverflow.com/questions/24029037  
+24030030,http://stackoverflow.com/questions/24030030  
+24038037,http://stackoverflow.com/questions/24038037  
+24044125,http://stackoverflow.com/questions/24044125  
+24046204,http://stackoverflow.com/questions/24046204  
+24049197,http://stackoverflow.com/questions/24049197  
+24053179,http://stackoverflow.com/questions/24053179  
+24058587,http://stackoverflow.com/questions/24058587  
+24059941,http://stackoverflow.com/questions/24059941  
+24064260,http://stackoverflow.com/questions/24064260  
+24065293,http://stackoverflow.com/questions/24065293  
+24065817,http://stackoverflow.com/questions/24065817  
+24066177,http://stackoverflow.com/questions/24066177  
+24066591,http://stackoverflow.com/questions/24066591  
+24068671,http://stackoverflow.com/questions/24068671  
+24070304,http://stackoverflow.com/questions/24070304  
+24070444,http://stackoverflow.com/questions/24070444  
+24073676,http://stackoverflow.com/questions/24073676  
+24074943,http://stackoverflow.com/questions/24074943  
+24078865,http://stackoverflow.com/questions/24078865  
+24085795,http://stackoverflow.com/questions/24085795  
+24087994,http://stackoverflow.com/questions/24087994  
+24088623,http://stackoverflow.com/questions/24088623  
+24093746,http://stackoverflow.com/questions/24093746  
+24095786,http://stackoverflow.com/questions/24095786  
+24096227,http://stackoverflow.com/questions/24096227  
+24096467,http://stackoverflow.com/questions/24096467  
+24096834,http://stackoverflow.com/questions/24096834  
+24097964,http://stackoverflow.com/questions/24097964  
+24101138,http://stackoverflow.com/questions/24101138  
+24101928,http://stackoverflow.com/questions/24101928  
+24105539,http://stackoverflow.com/questions/24105539  
+24107409,http://stackoverflow.com/questions/24107409  
+24114387,http://stackoverflow.com/questions/24114387  
+24115625,http://stackoverflow.com/questions/24115625  
+24117878,http://stackoverflow.com/questions/24117878  
+24118050,http://stackoverflow.com/questions/24118050  
+24118974,http://stackoverflow.com/questions/24118974  
+24124282,http://stackoverflow.com/questions/24124282  
+24126099,http://stackoverflow.com/questions/24126099  
+24128120,http://stackoverflow.com/questions/24128120  
+24132141,http://stackoverflow.com/questions/24132141  
+24150255,http://stackoverflow.com/questions/24150255  
+24152796,http://stackoverflow.com/questions/24152796  
+24154321,http://stackoverflow.com/questions/24154321  
+24154856,http://stackoverflow.com/questions/24154856  
+24157592,http://stackoverflow.com/questions/24157592  
+24159327,http://stackoverflow.com/questions/24159327  
+24162179,http://stackoverflow.com/questions/24162179  
+24167043,http://stackoverflow.com/questions/24167043  
+24169511,http://stackoverflow.com/questions/24169511  
+24170274,http://stackoverflow.com/questions/24170274  
+24172701,http://stackoverflow.com/questions/24172701  
+24174012,http://stackoverflow.com/questions/24174012  
+24174315,http://stackoverflow.com/questions/24174315  
+24174807,http://stackoverflow.com/questions/24174807  
+24179482,http://stackoverflow.com/questions/24179482  
+24182802,http://stackoverflow.com/questions/24182802  
+24183935,http://stackoverflow.com/questions/24183935  
+24184574,http://stackoverflow.com/questions/24184574  
+24187160,http://stackoverflow.com/questions/24187160  
+24188819,http://stackoverflow.com/questions/24188819  
+24189290,http://stackoverflow.com/questions/24189290  
+24189375,http://stackoverflow.com/questions/24189375  
+24191893,http://stackoverflow.com/questions/24191893  
+24194255,http://stackoverflow.com/questions/24194255  
+24194972,http://stackoverflow.com/questions/24194972  
+24201349,http://stackoverflow.com/questions/24201349  
+24206396,http://stackoverflow.com/questions/24206396  
+24207529,http://stackoverflow.com/questions/24207529  
+24208380,http://stackoverflow.com/questions/24208380  
+24211861,http://stackoverflow.com/questions/24211861  
+24212490,http://stackoverflow.com/questions/24212490  
+24214188,http://stackoverflow.com/questions/24214188  
+24214497,http://stackoverflow.com/questions/24214497  
+24214760,http://stackoverflow.com/questions/24214760  
+24215205,http://stackoverflow.com/questions/24215205  
+24217164,http://stackoverflow.com/questions/24217164  
+24218613,http://stackoverflow.com/questions/24218613  
+24222835,http://stackoverflow.com/questions/24222835  
+24223400,http://stackoverflow.com/questions/24223400  
+24235050,http://stackoverflow.com/questions/24235050  
+24235290,http://stackoverflow.com/questions/24235290  
+24235563,http://stackoverflow.com/questions/24235563  
+24237276,http://stackoverflow.com/questions/24237276  
+24239953,http://stackoverflow.com/questions/24239953  
+24241345,http://stackoverflow.com/questions/24241345  
+24242800,http://stackoverflow.com/questions/24242800  
+24243381,http://stackoverflow.com/questions/24243381  
+24252213,http://stackoverflow.com/questions/24252213  
+24254621,http://stackoverflow.com/questions/24254621  
+24256916,http://stackoverflow.com/questions/24256916  
+24260329,http://stackoverflow.com/questions/24260329  
+24265457,http://stackoverflow.com/questions/24265457  
+24266297,http://stackoverflow.com/questions/24266297  
+24275365,http://stackoverflow.com/questions/24275365  
+24275488,http://stackoverflow.com/questions/24275488  
+24288709,http://stackoverflow.com/questions/24288709  
+24290699,http://stackoverflow.com/questions/24290699  
+24296505,http://stackoverflow.com/questions/24296505  
+24297798,http://stackoverflow.com/questions/24297798  
+24303903,http://stackoverflow.com/questions/24303903  
+24305700,http://stackoverflow.com/questions/24305700  
+24308947,http://stackoverflow.com/questions/24308947  
+24310049,http://stackoverflow.com/questions/24310049  
+24315122,http://stackoverflow.com/questions/24315122  
+24316915,http://stackoverflow.com/questions/24316915  
+24317713,http://stackoverflow.com/questions/24317713  
+24323194,http://stackoverflow.com/questions/24323194  
+24323826,http://stackoverflow.com/questions/24323826  
+24323982,http://stackoverflow.com/questions/24323982  
+24325277,http://stackoverflow.com/questions/24325277  
+24327743,http://stackoverflow.com/questions/24327743  
+24331166,http://stackoverflow.com/questions/24331166  
+24335167,http://stackoverflow.com/questions/24335167  
+24339107,http://stackoverflow.com/questions/24339107  
+24339486,http://stackoverflow.com/questions/24339486  
+24346531,http://stackoverflow.com/questions/24346531  
+24351849,http://stackoverflow.com/questions/24351849  
+24352697,http://stackoverflow.com/questions/24352697  
+24353756,http://stackoverflow.com/questions/24353756  
+24354187,http://stackoverflow.com/questions/24354187  
+24355016,http://stackoverflow.com/questions/24355016  
+24358110,http://stackoverflow.com/questions/24358110  
+24364742,http://stackoverflow.com/questions/24364742  
+24371617,http://stackoverflow.com/questions/24371617  
+24373350,http://stackoverflow.com/questions/24373350  
+24373577,http://stackoverflow.com/questions/24373577  
+24377571,http://stackoverflow.com/questions/24377571  
+24379709,http://stackoverflow.com/questions/24379709  
+24382098,http://stackoverflow.com/questions/24382098  
+24386554,http://stackoverflow.com/questions/24386554  
+24394255,http://stackoverflow.com/questions/24394255  
+24397073,http://stackoverflow.com/questions/24397073  
+24398826,http://stackoverflow.com/questions/24398826  
+24400388,http://stackoverflow.com/questions/24400388  
+24410914,http://stackoverflow.com/questions/24410914  
+24412058,http://stackoverflow.com/questions/24412058  
+24416771,http://stackoverflow.com/questions/24416771  
+24417617,http://stackoverflow.com/questions/24417617  
+24418068,http://stackoverflow.com/questions/24418068  
+24422289,http://stackoverflow.com/questions/24422289  
+24427441,http://stackoverflow.com/questions/24427441  
+24428433,http://stackoverflow.com/questions/24428433  
+24428437,http://stackoverflow.com/questions/24428437  
+24429553,http://stackoverflow.com/questions/24429553  
+24433552,http://stackoverflow.com/questions/24433552  
+24434097,http://stackoverflow.com/questions/24434097  
+24437353,http://stackoverflow.com/questions/24437353  
+24453535,http://stackoverflow.com/questions/24453535  
+24455145,http://stackoverflow.com/questions/24455145  
+24459715,http://stackoverflow.com/questions/24459715  
+24464074,http://stackoverflow.com/questions/24464074  
+24469244,http://stackoverflow.com/questions/24469244  
+24469537,http://stackoverflow.com/questions/24469537  
+24470814,http://stackoverflow.com/questions/24470814  
+24473784,http://stackoverflow.com/questions/24473784  
+24480442,http://stackoverflow.com/questions/24480442  
+24480919,http://stackoverflow.com/questions/24480919  
+24488922,http://stackoverflow.com/questions/24488922  
+24495353,http://stackoverflow.com/questions/24495353  
+24498646,http://stackoverflow.com/questions/24498646  
+24505264,http://stackoverflow.com/questions/24505264  
+24509062,http://stackoverflow.com/questions/24509062  
+24509350,http://stackoverflow.com/questions/24509350  
+24510785,http://stackoverflow.com/questions/24510785  
+24514210,http://stackoverflow.com/questions/24514210  
+24515807,http://stackoverflow.com/questions/24515807  
+24516602,http://stackoverflow.com/questions/24516602  
+24520828,http://stackoverflow.com/questions/24520828  
+24527500,http://stackoverflow.com/questions/24527500  
+24533805,http://stackoverflow.com/questions/24533805  
+24538140,http://stackoverflow.com/questions/24538140  
+24540443,http://stackoverflow.com/questions/24540443  
+24542565,http://stackoverflow.com/questions/24542565  
+24545215,http://stackoverflow.com/questions/24545215  
+24546450,http://stackoverflow.com/questions/24546450  
+24548599,http://stackoverflow.com/questions/24548599  
+24553517,http://stackoverflow.com/questions/24553517  
+24558735,http://stackoverflow.com/questions/24558735  
+24564554,http://stackoverflow.com/questions/24564554  
+24570558,http://stackoverflow.com/questions/24570558  
+24571244,http://stackoverflow.com/questions/24571244  
+24575639,http://stackoverflow.com/questions/24575639  
+24579445,http://stackoverflow.com/questions/24579445  
+24582930,http://stackoverflow.com/questions/24582930  
+24585804,http://stackoverflow.com/questions/24585804  
+24589519,http://stackoverflow.com/questions/24589519  
+24595483,http://stackoverflow.com/questions/24595483  
+24600599,http://stackoverflow.com/questions/24600599  
+24601805,http://stackoverflow.com/questions/24601805  
+24609538,http://stackoverflow.com/questions/24609538  
+24613994,http://stackoverflow.com/questions/24613994  
+24616924,http://stackoverflow.com/questions/24616924  
+24617674,http://stackoverflow.com/questions/24617674  
+24632983,http://stackoverflow.com/questions/24632983  
+24634522,http://stackoverflow.com/questions/24634522  
+24639075,http://stackoverflow.com/questions/24639075  
+24639335,http://stackoverflow.com/questions/24639335  
+24642730,http://stackoverflow.com/questions/24642730  
+24644540,http://stackoverflow.com/questions/24644540  
+24646288,http://stackoverflow.com/questions/24646288  
+24650186,http://stackoverflow.com/questions/24650186  
+24663814,http://stackoverflow.com/questions/24663814  
+24668193,http://stackoverflow.com/questions/24668193  
+24678649,http://stackoverflow.com/questions/24678649  
+24680585,http://stackoverflow.com/questions/24680585  
+24684799,http://stackoverflow.com/questions/24684799  
+24685545,http://stackoverflow.com/questions/24685545  
+24685552,http://stackoverflow.com/questions/24685552  
+24686985,http://stackoverflow.com/questions/24686985  
+24686988,http://stackoverflow.com/questions/24686988  
+24689785,http://stackoverflow.com/questions/24689785  
+24695063,http://stackoverflow.com/questions/24695063  
+24702058,http://stackoverflow.com/questions/24702058  
+24704267,http://stackoverflow.com/questions/24704267  
+24706812,http://stackoverflow.com/questions/24706812  
+24720792,http://stackoverflow.com/questions/24720792  
+24722950,http://stackoverflow.com/questions/24722950  
+24723169,http://stackoverflow.com/questions/24723169  
+24723240,http://stackoverflow.com/questions/24723240  
+24723596,http://stackoverflow.com/questions/24723596  
+24724570,http://stackoverflow.com/questions/24724570  
+24727509,http://stackoverflow.com/questions/24727509  
+24728219,http://stackoverflow.com/questions/24728219  
+24733049,http://stackoverflow.com/questions/24733049  
+24738070,http://stackoverflow.com/questions/24738070  
+24738243,http://stackoverflow.com/questions/24738243  
+24740773,http://stackoverflow.com/questions/24740773  
+24744171,http://stackoverflow.com/questions/24744171  
+24745803,http://stackoverflow.com/questions/24745803  
+24746799,http://stackoverflow.com/questions/24746799  
+24754297,http://stackoverflow.com/questions/24754297  
+24759794,http://stackoverflow.com/questions/24759794  
+24761621,http://stackoverflow.com/questions/24761621  
+24762325,http://stackoverflow.com/questions/24762325  
+24763015,http://stackoverflow.com/questions/24763015  
+24765243,http://stackoverflow.com/questions/24765243  
+24767124,http://stackoverflow.com/questions/24767124  
+24769228,http://stackoverflow.com/questions/24769228  
+24771420,http://stackoverflow.com/questions/24771420  
+24772626,http://stackoverflow.com/questions/24772626  
+24779881,http://stackoverflow.com/questions/24779881  
+24785219,http://stackoverflow.com/questions/24785219  
+24787616,http://stackoverflow.com/questions/24787616  
+24788521,http://stackoverflow.com/questions/24788521  
+24789188,http://stackoverflow.com/questions/24789188  
+24793505,http://stackoverflow.com/questions/24793505  
+24795235,http://stackoverflow.com/questions/24795235  
+24798644,http://stackoverflow.com/questions/24798644  
+24799507,http://stackoverflow.com/questions/24799507  
+24800338,http://stackoverflow.com/questions/24800338  
+24803604,http://stackoverflow.com/questions/24803604  
+24808841,http://stackoverflow.com/questions/24808841  
+24808903,http://stackoverflow.com/questions/24808903  
+24815573,http://stackoverflow.com/questions/24815573  
+24819449,http://stackoverflow.com/questions/24819449  
+24819966,http://stackoverflow.com/questions/24819966  
+24820769,http://stackoverflow.com/questions/24820769  
+24822203,http://stackoverflow.com/questions/24822203  
+24825841,http://stackoverflow.com/questions/24825841  
+24826105,http://stackoverflow.com/questions/24826105  
+24830643,http://stackoverflow.com/questions/24830643  
+24830932,http://stackoverflow.com/questions/24830932  
+24836006,http://stackoverflow.com/questions/24836006  
+24836573,http://stackoverflow.com/questions/24836573  
+24837919,http://stackoverflow.com/questions/24837919  
+24838374,http://stackoverflow.com/questions/24838374  
+24838730,http://stackoverflow.com/questions/24838730  
+24840534,http://stackoverflow.com/questions/24840534  
+24843122,http://stackoverflow.com/questions/24843122  
+24844506,http://stackoverflow.com/questions/24844506  
+24847655,http://stackoverflow.com/questions/24847655  
+24848404,http://stackoverflow.com/questions/24848404  
+24852252,http://stackoverflow.com/questions/24852252  
+24854679,http://stackoverflow.com/questions/24854679  
+24854887,http://stackoverflow.com/questions/24854887  
+24861997,http://stackoverflow.com/questions/24861997  
+24868227,http://stackoverflow.com/questions/24868227  
+24868528,http://stackoverflow.com/questions/24868528  
+24869267,http://stackoverflow.com/questions/24869267  
+24869810,http://stackoverflow.com/questions/24869810  
+24873314,http://stackoverflow.com/questions/24873314  
+24875999,http://stackoverflow.com/questions/24875999  
+24884568,http://stackoverflow.com/questions/24884568  
+24888491,http://stackoverflow.com/questions/24888491  
+24894026,http://stackoverflow.com/questions/24894026  
+24895303,http://stackoverflow.com/questions/24895303  
+24896789,http://stackoverflow.com/questions/24896789  
+24899211,http://stackoverflow.com/questions/24899211  
+24902158,http://stackoverflow.com/questions/24902158  
+24909474,http://stackoverflow.com/questions/24909474  
+24915706,http://stackoverflow.com/questions/24915706  
+24916189,http://stackoverflow.com/questions/24916189  
+24916810,http://stackoverflow.com/questions/24916810  
+24922157,http://stackoverflow.com/questions/24922157  
+24925053,http://stackoverflow.com/questions/24925053  
+24926458,http://stackoverflow.com/questions/24926458  
+24926522,http://stackoverflow.com/questions/24926522  
+24930403,http://stackoverflow.com/questions/24930403  
+24935091,http://stackoverflow.com/questions/24935091  
+24943304,http://stackoverflow.com/questions/24943304  
+24944205,http://stackoverflow.com/questions/24944205  
+24946972,http://stackoverflow.com/questions/24946972  
+24947690,http://stackoverflow.com/questions/24947690  
+24955122,http://stackoverflow.com/questions/24955122  
+24955953,http://stackoverflow.com/questions/24955953  
+24957170,http://stackoverflow.com/questions/24957170  
+24957878,http://stackoverflow.com/questions/24957878  
+24958043,http://stackoverflow.com/questions/24958043  
+24961678,http://stackoverflow.com/questions/24961678  
+24964024,http://stackoverflow.com/questions/24964024  
+24965163,http://stackoverflow.com/questions/24965163  
+24968352,http://stackoverflow.com/questions/24968352  
+24969326,http://stackoverflow.com/questions/24969326  
+24977735,http://stackoverflow.com/questions/24977735  
+24982392,http://stackoverflow.com/questions/24982392  
+24983252,http://stackoverflow.com/questions/24983252  
+25001402,http://stackoverflow.com/questions/25001402  
+25003217,http://stackoverflow.com/questions/25003217  
+25011775,http://stackoverflow.com/questions/25011775  
+25015966,http://stackoverflow.com/questions/25015966  
+25020741,http://stackoverflow.com/questions/25020741  
+25023571,http://stackoverflow.com/questions/25023571  
+25027497,http://stackoverflow.com/questions/25027497  
+25040337,http://stackoverflow.com/questions/25040337  
+25042309,http://stackoverflow.com/questions/25042309  
+25047622,http://stackoverflow.com/questions/25047622  
+25051671,http://stackoverflow.com/questions/25051671  
+25066774,http://stackoverflow.com/questions/25066774  
+25073503,http://stackoverflow.com/questions/25073503  
+25074255,http://stackoverflow.com/questions/25074255  
+25075715,http://stackoverflow.com/questions/25075715  
+25076968,http://stackoverflow.com/questions/25076968  
+25076975,http://stackoverflow.com/questions/25076975  
+25079125,http://stackoverflow.com/questions/25079125  
+25079368,http://stackoverflow.com/questions/25079368  
+25083666,http://stackoverflow.com/questions/25083666  
+25089759,http://stackoverflow.com/questions/25089759  
+25090570,http://stackoverflow.com/questions/25090570  
+25092426,http://stackoverflow.com/questions/25092426  
+25093255,http://stackoverflow.com/questions/25093255  
+25098314,http://stackoverflow.com/questions/25098314  
+25100610,http://stackoverflow.com/questions/25100610  
+25100935,http://stackoverflow.com/questions/25100935  
+25114491,http://stackoverflow.com/questions/25114491  
+25120024,http://stackoverflow.com/questions/25120024  
+25123115,http://stackoverflow.com/questions/25123115  
+25130670,http://stackoverflow.com/questions/25130670  
+25135814,http://stackoverflow.com/questions/25135814  
+25135880,http://stackoverflow.com/questions/25135880  
+25136075,http://stackoverflow.com/questions/25136075  
+25136979,http://stackoverflow.com/questions/25136979  
+25139532,http://stackoverflow.com/questions/25139532  
+25152700,http://stackoverflow.com/questions/25152700  
+25158851,http://stackoverflow.com/questions/25158851  
+25159564,http://stackoverflow.com/questions/25159564  
+25161813,http://stackoverflow.com/questions/25161813  
+25165204,http://stackoverflow.com/questions/25165204  
+25172516,http://stackoverflow.com/questions/25172516  
+25173630,http://stackoverflow.com/questions/25173630  
+25177767,http://stackoverflow.com/questions/25177767  
+25180163,http://stackoverflow.com/questions/25180163  
+25183297,http://stackoverflow.com/questions/25183297  
+25189752,http://stackoverflow.com/questions/25189752  
+25190200,http://stackoverflow.com/questions/25190200  
+25191141,http://stackoverflow.com/questions/25191141  
+25193035,http://stackoverflow.com/questions/25193035  
+25193386,http://stackoverflow.com/questions/25193386  
+25194831,http://stackoverflow.com/questions/25194831  
+25198481,http://stackoverflow.com/questions/25198481  
+25202383,http://stackoverflow.com/questions/25202383  
+25204184,http://stackoverflow.com/questions/25204184  
+25208866,http://stackoverflow.com/questions/25208866  
+25210836,http://stackoverflow.com/questions/25210836  
+25210978,http://stackoverflow.com/questions/25210978  
+25211904,http://stackoverflow.com/questions/25211904  
+25218651,http://stackoverflow.com/questions/25218651  
+25218683,http://stackoverflow.com/questions/25218683  
+25220651,http://stackoverflow.com/questions/25220651  
+25220713,http://stackoverflow.com/questions/25220713  
+25221219,http://stackoverflow.com/questions/25221219  
+25223505,http://stackoverflow.com/questions/25223505  
+25224841,http://stackoverflow.com/questions/25224841  
+25236665,http://stackoverflow.com/questions/25236665  
+25241099,http://stackoverflow.com/questions/25241099  
+25251643,http://stackoverflow.com/questions/25251643  
+25256273,http://stackoverflow.com/questions/25256273  
+25258927,http://stackoverflow.com/questions/25258927  
+25265310,http://stackoverflow.com/questions/25265310  
+25268020,http://stackoverflow.com/questions/25268020  
+25273012,http://stackoverflow.com/questions/25273012  
+25276225,http://stackoverflow.com/questions/25276225  
+25278709,http://stackoverflow.com/questions/25278709  
+25283977,http://stackoverflow.com/questions/25283977  
+25286299,http://stackoverflow.com/questions/25286299  
+25293433,http://stackoverflow.com/questions/25293433  
+25296081,http://stackoverflow.com/questions/25296081  
+25299396,http://stackoverflow.com/questions/25299396  
+25311053,http://stackoverflow.com/questions/25311053  
+25313477,http://stackoverflow.com/questions/25313477  
+25315717,http://stackoverflow.com/questions/25315717  
+25319155,http://stackoverflow.com/questions/25319155  
+25321236,http://stackoverflow.com/questions/25321236  
+25324505,http://stackoverflow.com/questions/25324505  
+25332859,http://stackoverflow.com/questions/25332859  
+25336173,http://stackoverflow.com/questions/25336173  
+25339021,http://stackoverflow.com/questions/25339021  
+25339353,http://stackoverflow.com/questions/25339353  
+25339772,http://stackoverflow.com/questions/25339772  
+25341519,http://stackoverflow.com/questions/25341519  
+25343641,http://stackoverflow.com/questions/25343641  
+25346615,http://stackoverflow.com/questions/25346615  
+25347005,http://stackoverflow.com/questions/25347005  
+25349658,http://stackoverflow.com/questions/25349658  
+25360916,http://stackoverflow.com/questions/25360916  
+25364802,http://stackoverflow.com/questions/25364802  
+25367980,http://stackoverflow.com/questions/25367980  
+25381580,http://stackoverflow.com/questions/25381580  
+25387002,http://stackoverflow.com/questions/25387002  
+25387387,http://stackoverflow.com/questions/25387387  
+25394084,http://stackoverflow.com/questions/25394084  
+25395422,http://stackoverflow.com/questions/25395422  
+25403936,http://stackoverflow.com/questions/25403936  
+25408963,http://stackoverflow.com/questions/25408963  
+25412681,http://stackoverflow.com/questions/25412681  
+25416318,http://stackoverflow.com/questions/25416318  
+25418419,http://stackoverflow.com/questions/25418419  
+25418672,http://stackoverflow.com/questions/25418672  
+25418885,http://stackoverflow.com/questions/25418885  
+25419369,http://stackoverflow.com/questions/25419369  
+25426069,http://stackoverflow.com/questions/25426069  
+25431794,http://stackoverflow.com/questions/25431794  
+25439094,http://stackoverflow.com/questions/25439094  
+25440638,http://stackoverflow.com/questions/25440638  
+25440896,http://stackoverflow.com/questions/25440896  
+25450452,http://stackoverflow.com/questions/25450452  
+25453721,http://stackoverflow.com/questions/25453721  
+25459290,http://stackoverflow.com/questions/25459290  
+25461528,http://stackoverflow.com/questions/25461528  
+25462324,http://stackoverflow.com/questions/25462324  
+25468992,http://stackoverflow.com/questions/25468992  
+25474033,http://stackoverflow.com/questions/25474033  
+25475907,http://stackoverflow.com/questions/25475907  
+25481931,http://stackoverflow.com/questions/25481931  
+25483610,http://stackoverflow.com/questions/25483610  
+25485124,http://stackoverflow.com/questions/25485124  
+25485397,http://stackoverflow.com/questions/25485397  
+25487259,http://stackoverflow.com/questions/25487259  
+25489720,http://stackoverflow.com/questions/25489720  
+25492040,http://stackoverflow.com/questions/25492040  
+25492135,http://stackoverflow.com/questions/25492135  
+25492676,http://stackoverflow.com/questions/25492676  
+25499359,http://stackoverflow.com/questions/25499359  
+25503939,http://stackoverflow.com/questions/25503939  
+25508875,http://stackoverflow.com/questions/25508875  
+25515704,http://stackoverflow.com/questions/25515704  
+25521877,http://stackoverflow.com/questions/25521877  
+25530184,http://stackoverflow.com/questions/25530184  
+25536466,http://stackoverflow.com/questions/25536466  
+25537307,http://stackoverflow.com/questions/25537307  
+25540288,http://stackoverflow.com/questions/25540288  
+25546282,http://stackoverflow.com/questions/25546282  
+25550504,http://stackoverflow.com/questions/25550504  
+25552721,http://stackoverflow.com/questions/25552721  
+25553387,http://stackoverflow.com/questions/25553387  
+25558605,http://stackoverflow.com/questions/25558605  
+25559383,http://stackoverflow.com/questions/25559383  
+25560584,http://stackoverflow.com/questions/25560584  
+25560796,http://stackoverflow.com/questions/25560796  
+25565764,http://stackoverflow.com/questions/25565764  
+25571309,http://stackoverflow.com/questions/25571309  
+25571707,http://stackoverflow.com/questions/25571707  
+25572479,http://stackoverflow.com/questions/25572479  
+25573532,http://stackoverflow.com/questions/25573532  
+25576825,http://stackoverflow.com/questions/25576825  
+25578202,http://stackoverflow.com/questions/25578202  
+25580487,http://stackoverflow.com/questions/25580487  
+25582988,http://stackoverflow.com/questions/25582988  
+25584727,http://stackoverflow.com/questions/25584727  
+25587265,http://stackoverflow.com/questions/25587265  
+25589146,http://stackoverflow.com/questions/25589146  
+25593245,http://stackoverflow.com/questions/25593245  
+25595497,http://stackoverflow.com/questions/25595497  
+25601746,http://stackoverflow.com/questions/25601746  
+25602188,http://stackoverflow.com/questions/25602188  
+25602254,http://stackoverflow.com/questions/25602254  
+25606487,http://stackoverflow.com/questions/25606487  
+25612435,http://stackoverflow.com/questions/25612435  
+25625083,http://stackoverflow.com/questions/25625083  
+25625641,http://stackoverflow.com/questions/25625641  
+25629817,http://stackoverflow.com/questions/25629817  
+25630784,http://stackoverflow.com/questions/25630784  
+25630906,http://stackoverflow.com/questions/25630906  
+25633828,http://stackoverflow.com/questions/25633828  
+25642536,http://stackoverflow.com/questions/25642536  
+25649369,http://stackoverflow.com/questions/25649369  
+25653032,http://stackoverflow.com/questions/25653032  
+25653702,http://stackoverflow.com/questions/25653702  
+25657823,http://stackoverflow.com/questions/25657823  
+25661787,http://stackoverflow.com/questions/25661787  
+25664704,http://stackoverflow.com/questions/25664704  
+25666167,http://stackoverflow.com/questions/25666167  
+25667491,http://stackoverflow.com/questions/25667491  
+25668461,http://stackoverflow.com/questions/25668461  
+25669360,http://stackoverflow.com/questions/25669360  
+25670035,http://stackoverflow.com/questions/25670035  
+25671104,http://stackoverflow.com/questions/25671104  
+25679142,http://stackoverflow.com/questions/25679142  
+25684932,http://stackoverflow.com/questions/25684932  
+25685077,http://stackoverflow.com/questions/25685077  
+25689837,http://stackoverflow.com/questions/25689837  
+25693068,http://stackoverflow.com/questions/25693068  
+25693744,http://stackoverflow.com/questions/25693744  
+25695914,http://stackoverflow.com/questions/25695914  
+25696057,http://stackoverflow.com/questions/25696057  
+25702088,http://stackoverflow.com/questions/25702088  
+25704262,http://stackoverflow.com/questions/25704262  
+25705036,http://stackoverflow.com/questions/25705036  
+25705136,http://stackoverflow.com/questions/25705136  
+25705800,http://stackoverflow.com/questions/25705800  
+25706905,http://stackoverflow.com/questions/25706905  
+25706917,http://stackoverflow.com/questions/25706917  
+25707443,http://stackoverflow.com/questions/25707443  
+25709477,http://stackoverflow.com/questions/25709477  
+25710444,http://stackoverflow.com/questions/25710444  
+25710846,http://stackoverflow.com/questions/25710846  
+25713646,http://stackoverflow.com/questions/25713646  
+25726236,http://stackoverflow.com/questions/25726236  
+25728402,http://stackoverflow.com/questions/25728402  
+25729674,http://stackoverflow.com/questions/25729674  
+25730462,http://stackoverflow.com/questions/25730462  
+25731767,http://stackoverflow.com/questions/25731767  
+25737017,http://stackoverflow.com/questions/25737017  
+25740363,http://stackoverflow.com/questions/25740363  
+25741973,http://stackoverflow.com/questions/25741973  
+25744236,http://stackoverflow.com/questions/25744236  
+25752395,http://stackoverflow.com/questions/25752395  
+25753876,http://stackoverflow.com/questions/25753876  
+25755089,http://stackoverflow.com/questions/25755089  
+25755914,http://stackoverflow.com/questions/25755914  
+25763318,http://stackoverflow.com/questions/25763318  
+25764561,http://stackoverflow.com/questions/25764561  
+25769454,http://stackoverflow.com/questions/25769454  
+25769647,http://stackoverflow.com/questions/25769647  
+25770699,http://stackoverflow.com/questions/25770699  
+25770789,http://stackoverflow.com/questions/25770789  
+25770915,http://stackoverflow.com/questions/25770915  
+25770961,http://stackoverflow.com/questions/25770961  
+25776903,http://stackoverflow.com/questions/25776903  
+25779685,http://stackoverflow.com/questions/25779685  
+25785564,http://stackoverflow.com/questions/25785564  
+25792344,http://stackoverflow.com/questions/25792344  
+25798526,http://stackoverflow.com/questions/25798526  
+25800533,http://stackoverflow.com/questions/25800533  
+25807305,http://stackoverflow.com/questions/25807305  
+25815908,http://stackoverflow.com/questions/25815908  
+25818055,http://stackoverflow.com/questions/25818055  
+25823011,http://stackoverflow.com/questions/25823011  
+25827041,http://stackoverflow.com/questions/25827041  
+25829412,http://stackoverflow.com/questions/25829412  
