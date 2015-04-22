@@ -1,0 +1,5 @@
+1. [XML Parsing and editing with Jdom in Java](http://stackoverflow.com/questions/1) (0 upvotes)  
+2. [JDOM + Jaxen + Websphere 7 = java.lang.NoClassDefFoundError: org.jaxen.BaseXPath](http://stackoverflow.com/questions/1) (0 upvotes)  
+3. [Getting java.lang.VerifyError exception while using JDOM](http://stackoverflow.com/questions/1) (0 upvotes)  
+4. [Effect of setTextMode(Format.TextMode.TRIM) in Format class in JDOM2](http://stackoverflow.com/questions/1) (0 upvotes)  
+5. [ClassCastException: org.apache.xerces.parsers.XIncludeAwareParserConfiguration cannot be cast to org.apache.xerces.xni.parser.XMLParserConfiguration](http://stackoverflow.com/questions/1) (0 upvotes)  
