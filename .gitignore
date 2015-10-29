@@ -101,3 +101,8 @@ pydata/stackoverflow/PostLinks.xml
 pydata/stackoverflow/Posts.xml
 pydata/stackoverflow/Users.xml
 pydata/stackoverflow/Votes.xml
+
+
+# videos
+pydata/*.mp[34]
+pydata/*.mkv
